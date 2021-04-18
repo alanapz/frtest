@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>refaire</infinitive>
+	<translation>to redo</translation>
+	<translation>remake</translation>
+	<irregular />
+	<presentParticiple>refaisant</presentParticiple>
+	<pastParticiple>refait</pastParticiple>
+	<present>
+		<je>refais</je>
+		<tu>refais</tu>
+		<il>refait</il>
+		<nous>refaisons</nous>
+		<vous>refaites</vous>
+		<ils>refont</ils>
+	</present>
+	<imperative>
+		<tu>refais</tu>
+		<nous>refaisons</nous>
+		<vous>refaites</vous>
+	</imperative>
+	<imperfect>
+		<je>refaisais</je>
+		<tu>refaisais</tu>
+		<il>refaisait</il>
+		<nous>refaisions</nous>
+		<vous>refaisiez</vous>
+		<ils>refaisaient</ils>
+	</imperfect>
+	<future>
+		<je>referai</je>
+		<tu>referas</tu>
+		<il>refera</il>
+		<nous>referons</nous>
+		<vous>referez</vous>
+		<ils>referont</ils>
+	</future>
+	<subjunctive>
+		<je>refasse</je>
+		<tu>refasses</tu>
+		<il>refasse</il>
+		<nous>refassions</nous>
+		<vous>refassiez</vous>
+		<ils>refassent</ils>
+	</subjunctive>
+	<conditional>
+		<je>referais</je>
+		<tu>referais</tu>
+		<il>referait</il>
+		<nous>referions</nous>
+		<vous>referiez</vous>
+		<ils>referaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

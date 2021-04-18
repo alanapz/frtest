@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>redire</infinitive>
+	<translation>to repeat</translation>
+	<translation>say again</translation>
+	<irregular />
+	<presentParticiple>redisant</presentParticiple>
+	<pastParticiple>redit</pastParticiple>
+	<present>
+		<je>redis</je>
+		<tu>redis</tu>
+		<il>redit</il>
+		<nous>redisons</nous>
+		<vous>redites</vous>
+		<ils>redisent</ils>
+	</present>
+	<imperative>
+		<tu>redis</tu>
+		<nous>redisons</nous>
+		<vous>redites</vous>
+	</imperative>
+	<imperfect>
+		<je>redisais</je>
+		<tu>redisais</tu>
+		<il>redisait</il>
+		<nous>redisions</nous>
+		<vous>redisiez</vous>
+		<ils>redisaient</ils>
+	</imperfect>
+	<future>
+		<je>redirai</je>
+		<tu>rediras</tu>
+		<il>redira</il>
+		<nous>redirons</nous>
+		<vous>redirez</vous>
+		<ils>rediront</ils>
+	</future>
+	<subjunctive>
+		<je>redise</je>
+		<tu>redises</tu>
+		<il>redise</il>
+		<nous>redisions</nous>
+		<vous>redisiez</vous>
+		<ils>redisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>redirais</je>
+		<tu>redirais</tu>
+		<il>redirait</il>
+		<nous>redirions</nous>
+		<vous>rediriez</vous>
+		<ils>rediraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

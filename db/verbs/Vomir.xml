@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>vomir</infinitive>
+	<translation>to vomit</translation>
+	<presentParticiple>vomissant</presentParticiple>
+	<pastParticiple>vomi</pastParticiple>
+	<present>
+		<je>vomis</je>
+		<tu>vomis</tu>
+		<il>vomit</il>
+		<nous>vomissons</nous>
+		<vous>vomissez</vous>
+		<ils>vomissent</ils>
+	</present>
+	<imperative>
+		<tu>vomis</tu>
+		<nous>vomissons</nous>
+		<vous>vomissez</vous>
+	</imperative>
+	<imperfect>
+		<je>vomissais</je>
+		<tu>vomissais</tu>
+		<il>vomissait</il>
+		<nous>vomissions</nous>
+		<vous>vomissiez</vous>
+		<ils>vomissaient</ils>
+	</imperfect>
+	<future>
+		<je>vomirai</je>
+		<tu>vomiras</tu>
+		<il>vomira</il>
+		<nous>vomirons</nous>
+		<vous>vomirez</vous>
+		<ils>vomiront</ils>
+	</future>
+	<subjunctive>
+		<je>vomisse</je>
+		<tu>vomisses</tu>
+		<il>vomisse</il>
+		<nous>vomissions</nous>
+		<vous>vomissiez</vous>
+		<ils>vomissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>vomirais</je>
+		<tu>vomirais</tu>
+		<il>vomirait</il>
+		<nous>vomirions</nous>
+		<vous>vomiriez</vous>
+		<ils>vomiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

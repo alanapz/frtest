@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>paraitre</infinitive>
+            <translation>to seem</translation>
+            <translation>to appear</translation>
+            <presentParticiple>paraissant</presentParticiple>
+            <pastParticiple>paru</pastParticiple>
+            <present>
+                <je>parais</je>
+                <tu>parais</tu>
+                <il>parait</il>
+                <nous>paraissons</nous>
+                <vous>paraissez</vous>
+                <ils>paraissent</ils>
+            </present>
+            <imperative>
+                <tu>parais</tu>
+                <nous>paraissons</nous>
+                <vous>paraissez</vous>
+            </imperative>
+            <imperfect>
+                <je>paraissais</je>
+                <tu>paraissais</tu>
+                <il>paraissait</il>
+                <nous>paraissions</nous>
+                <vous>paraissiez</vous>
+                <ils>paraissaient</ils>
+            </imperfect>
+            <future>
+                <je>paraitrai</je>
+                <tu>paraitras</tu>
+                <il>paraitra</il>
+                <nous>paraitrons</nous>
+                <vous>paraitrez</vous>
+                <ils>paraitront</ils>
+            </future>
+            <subjunctive>
+                <je>paraisse</je>
+                <tu>paraisses</tu>
+                <il>paraisse</il>
+                <nous>paraissions</nous>
+                <vous>paraissiez</vous>
+                <ils>paraissent</ils>
+            </subjunctive>
+            <conditional>
+                <je>paraitrais</je>
+                <tu>paraitrais</tu>
+                <il>paraitrait</il>
+                <nous>paraitrions</nous>
+                <vous>paraitriez</vous>
+                <ils>paraitraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

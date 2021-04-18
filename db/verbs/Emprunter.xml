@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>emprunter</infinitive>
+	<translation>to borrow</translation>
+	<presentParticiple>empruntant</presentParticiple>
+	<pastParticiple>emprunté</pastParticiple>
+	<present>
+		<je>emprunte</je>
+		<tu>empruntes</tu>
+		<il>emprunte</il>
+		<nous>empruntons</nous>
+		<vous>empruntez</vous>
+		<ils>empruntent</ils>
+	</present>
+	<imperative>
+		<tu>emprunte</tu>
+		<nous>empruntons</nous>
+		<vous>empruntez</vous>
+	</imperative>
+	<imperfect>
+		<je>empruntais</je>
+		<tu>empruntais</tu>
+		<il>empruntait</il>
+		<nous>empruntions</nous>
+		<vous>empruntiez</vous>
+		<ils>empruntaient</ils>
+	</imperfect>
+	<future>
+		<je>emprunterai</je>
+		<tu>emprunteras</tu>
+		<il>empruntera</il>
+		<nous>emprunterons</nous>
+		<vous>emprunterez</vous>
+		<ils>emprunteront</ils>
+	</future>
+	<subjunctive>
+		<je>emprunte</je>
+		<tu>empruntes</tu>
+		<il>emprunte</il>
+		<nous>empruntions</nous>
+		<vous>empruntiez</vous>
+		<ils>empruntent</ils>
+	</subjunctive>
+	<conditional>
+		<je>emprunterais</je>
+		<tu>emprunterais</tu>
+		<il>emprunterait</il>
+		<nous>emprunterions</nous>
+		<vous>emprunteriez</vous>
+		<ils>emprunteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

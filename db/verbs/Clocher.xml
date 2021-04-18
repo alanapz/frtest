@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>clocher</infinitive>
+	<translation>to be defective</translation>
+	<translation>have something wrong (informal)</translation>
+	<presentParticiple>clochant</presentParticiple>
+	<pastParticiple>cloché</pastParticiple>
+	<present>
+		<je>cloche</je>
+		<tu>cloches</tu>
+		<il>cloche</il>
+		<nous>clochons</nous>
+		<vous>clochez</vous>
+		<ils>clochent</ils>
+	</present>
+	<imperative>
+		<tu>cloche</tu>
+		<nous>clochons</nous>
+		<vous>clochez</vous>
+	</imperative>
+	<imperfect>
+		<je>clochais</je>
+		<tu>clochais</tu>
+		<il>clochait</il>
+		<nous>clochions</nous>
+		<vous>clochiez</vous>
+		<ils>clochaient</ils>
+	</imperfect>
+	<future>
+		<je>clocherai</je>
+		<tu>clocheras</tu>
+		<il>clochera</il>
+		<nous>clocherons</nous>
+		<vous>clocherez</vous>
+		<ils>clocheront</ils>
+	</future>
+	<subjunctive>
+		<je>cloche</je>
+		<tu>cloches</tu>
+		<il>cloche</il>
+		<nous>clochions</nous>
+		<vous>clochiez</vous>
+		<ils>clochent</ils>
+	</subjunctive>
+	<conditional>
+		<je>clocherais</je>
+		<tu>clocherais</tu>
+		<il>clocherait</il>
+		<nous>clocherions</nous>
+		<vous>clocheriez</vous>
+		<ils>clocheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

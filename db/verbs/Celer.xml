@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>celer</infinitive>
+	<translation>(old-fashioned) to conceal</translation>
+	<stemChange />
+	<presentParticiple>celant</presentParticiple>
+	<pastParticiple>celé</pastParticiple>
+	<present>
+		<je>cèle</je>
+		<tu>cèles</tu>
+		<il>cèle</il>
+		<nous>celons</nous>
+		<vous>celez</vous>
+		<ils>cèlent</ils>
+	</present>
+	<imperative>
+		<tu>cèle</tu>
+		<nous>celons</nous>
+		<vous>celez</vous>
+	</imperative>
+	<imperfect>
+		<je>celais</je>
+		<tu>celais</tu>
+		<il>celait</il>
+		<nous>celions</nous>
+		<vous>celiez</vous>
+		<ils>celaient</ils>
+	</imperfect>
+	<future>
+		<je>cèlerai</je>
+		<tu>cèleras</tu>
+		<il>cèlera</il>
+		<nous>cèlerons</nous>
+		<vous>cèlerez</vous>
+		<ils>cèleront</ils>
+	</future>
+	<subjunctive>
+		<je>cèle</je>
+		<tu>cèles</tu>
+		<il>cèle</il>
+		<nous>celions</nous>
+		<vous>celiez</vous>
+		<ils>cèlent</ils>
+	</subjunctive>
+	<conditional>
+		<je>cèlerais</je>
+		<tu>cèlerais</tu>
+		<il>cèlerait</il>
+		<nous>cèlerions</nous>
+		<vous>cèleriez</vous>
+		<ils>cèleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

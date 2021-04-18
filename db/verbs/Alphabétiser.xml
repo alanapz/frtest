@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>alphabétiser</infinitive>
+	<translation>to alphabetize</translation>
+	<presentParticiple>alphabétisant</presentParticiple>
+	<pastParticiple>alphabétisé</pastParticiple>
+	<present>
+		<je>alphabétise</je>
+		<tu>alphabétises</tu>
+		<il>alphabétise</il>
+		<nous>alphabétisons</nous>
+		<vous>alphabétisez</vous>
+		<ils>alphabétisent</ils>
+	</present>
+	<imperative>
+		<tu>alphabétise</tu>
+		<nous>alphabétisons</nous>
+		<vous>alphabétisez</vous>
+	</imperative>
+	<imperfect>
+		<je>alphabétisais</je>
+		<tu>alphabétisais</tu>
+		<il>alphabétisait</il>
+		<nous>alphabétisions</nous>
+		<vous>alphabétisiez</vous>
+		<ils>alphabétisaient</ils>
+	</imperfect>
+	<future>
+		<je>alphabétiserai</je>
+		<tu>alphabétiseras</tu>
+		<il>alphabétisera</il>
+		<nous>alphabétiserons</nous>
+		<vous>alphabétiserez</vous>
+		<ils>alphabétiseront</ils>
+	</future>
+	<subjunctive>
+		<je>alphabétise</je>
+		<tu>alphabétises</tu>
+		<il>alphabétise</il>
+		<nous>alphabétisions</nous>
+		<vous>alphabétisiez</vous>
+		<ils>alphabétisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>alphabétiserais</je>
+		<tu>alphabétiserais</tu>
+		<il>alphabétiserait</il>
+		<nous>alphabétiserions</nous>
+		<vous>alphabétiseriez</vous>
+		<ils>alphabétiseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

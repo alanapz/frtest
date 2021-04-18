@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>enseigner</infinitive>
+	<translation>to teach</translation>
+	<presentParticiple>enseignant</presentParticiple>
+	<pastParticiple>enseigné</pastParticiple>
+	<present>
+		<je>enseigne</je>
+		<tu>enseignes</tu>
+		<il>enseigne</il>
+		<nous>enseignons</nous>
+		<vous>enseignez</vous>
+		<ils>enseignent</ils>
+	</present>
+	<imperative>
+		<tu>enseigne</tu>
+		<nous>enseignons</nous>
+		<vous>enseignez</vous>
+	</imperative>
+	<imperfect>
+		<je>enseignais</je>
+		<tu>enseignais</tu>
+		<il>enseignait</il>
+		<nous>enseignions</nous>
+		<vous>enseigniez</vous>
+		<ils>enseignaient</ils>
+	</imperfect>
+	<future>
+		<je>enseignerai</je>
+		<tu>enseigneras</tu>
+		<il>enseignera</il>
+		<nous>enseignerons</nous>
+		<vous>enseignerez</vous>
+		<ils>enseigneront</ils>
+	</future>
+	<subjunctive>
+		<je>enseigne</je>
+		<tu>enseignes</tu>
+		<il>enseigne</il>
+		<nous>enseignions</nous>
+		<vous>enseigniez</vous>
+		<ils>enseignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>enseignerais</je>
+		<tu>enseignerais</tu>
+		<il>enseignerait</il>
+		<nous>enseignerions</nous>
+		<vous>enseigneriez</vous>
+		<ils>enseigneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

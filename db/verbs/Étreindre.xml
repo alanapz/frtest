@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>étreindre</infinitive>
+	<translation>to embrace</translation>
+	<translation>to clutch</translation>
+	<irregular />
+	<presentParticiple>étreignant</presentParticiple>
+	<pastParticiple>étreint</pastParticiple>
+	<present>
+		<je>étreins</je>
+		<tu>étreins</tu>
+		<il>étreint</il>
+		<nous>étreignons</nous>
+		<vous>étreignez</vous>
+		<ils>étreignent</ils>
+	</present>
+	<imperative>
+		<tu>étreins</tu>
+		<nous>étreignons</nous>
+		<vous>étreignez</vous>
+	</imperative>
+	<imperfect>
+		<je>étreignais</je>
+		<tu>étreignais</tu>
+		<il>étreignait</il>
+		<nous>étreignions</nous>
+		<vous>étreigniez</vous>
+		<ils>étreignaient</ils>
+	</imperfect>
+	<future>
+		<je>étreindrai</je>
+		<tu>étreindras</tu>
+		<il>étreindra</il>
+		<nous>étreindrons</nous>
+		<vous>étreindrez</vous>
+		<ils>étreindront</ils>
+	</future>
+	<subjunctive>
+		<je>étreigne</je>
+		<tu>étreignes</tu>
+		<il>étreigne</il>
+		<nous>étreignions</nous>
+		<vous>étreigniez</vous>
+		<ils>étreignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>étreindrais</je>
+		<tu>étreindrais</tu>
+		<il>étreindrait</il>
+		<nous>étreindrions</nous>
+		<vous>étreindriez</vous>
+		<ils>étreindraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

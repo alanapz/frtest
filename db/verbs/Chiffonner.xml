@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>chiffonner</infinitive>
+	<translation>to crumple</translation>
+	<translation>to bother</translation>
+	<presentParticiple>chiffonnant</presentParticiple>
+	<pastParticiple>chiffonné</pastParticiple>
+	<present>
+		<je>chiffonne</je>
+		<tu>chiffonnes</tu>
+		<il>chiffonne</il>
+		<nous>chiffonnons</nous>
+		<vous>chiffonnez</vous>
+		<ils>chiffonnent</ils>
+	</present>
+	<imperative>
+		<tu>chiffonne</tu>
+		<nous>chiffonnons</nous>
+		<vous>chiffonnez</vous>
+	</imperative>
+	<imperfect>
+		<je>chiffonnais</je>
+		<tu>chiffonnais</tu>
+		<il>chiffonnait</il>
+		<nous>chiffonnions</nous>
+		<vous>chiffonniez</vous>
+		<ils>chiffonnaient</ils>
+	</imperfect>
+	<future>
+		<je>chiffonnerai</je>
+		<tu>chiffonneras</tu>
+		<il>chiffonnera</il>
+		<nous>chiffonnerons</nous>
+		<vous>chiffonnerez</vous>
+		<ils>chiffonneront</ils>
+	</future>
+	<subjunctive>
+		<je>chiffonne</je>
+		<tu>chiffonnes</tu>
+		<il>chiffonne</il>
+		<nous>chiffonnions</nous>
+		<vous>chiffonniez</vous>
+		<ils>chiffonnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>chiffonnerais</je>
+		<tu>chiffonnerais</tu>
+		<il>chiffonnerait</il>
+		<nous>chiffonnerions</nous>
+		<vous>chiffonneriez</vous>
+		<ils>chiffonneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

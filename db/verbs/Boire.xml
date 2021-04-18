@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>boire</infinitive>
+	<translation>to drink</translation>
+	<irregular />
+	<presentParticiple>buvant</presentParticiple>
+	<pastParticiple>bu</pastParticiple>
+	<present>
+		<je>bois</je>
+		<tu>bois</tu>
+		<il>boit</il>
+		<nous>buvons</nous>
+		<vous>buvez</vous>
+		<ils>boivent</ils>
+	</present>
+	<imperative>
+		<tu>bois</tu>
+		<nous>buvons</nous>
+		<vous>buvez</vous>
+	</imperative>
+	<imperfect>
+		<je>buvais</je>
+		<tu>buvais</tu>
+		<il>buvait</il>
+		<nous>buvions</nous>
+		<vous>buviez</vous>
+		<ils>buvaient</ils>
+	</imperfect>
+	<future>
+		<je>boirai</je>
+		<tu>boiras</tu>
+		<il>boira</il>
+		<nous>boirons</nous>
+		<vous>boirez</vous>
+		<ils>boiront</ils>
+	</future>
+	<subjunctive>
+		<je>boive</je>
+		<tu>boives</tu>
+		<il>boive</il>
+		<nous>buvions</nous>
+		<vous>buviez</vous>
+		<ils>boivent</ils>
+	</subjunctive>
+	<conditional>
+		<je>boirais</je>
+		<tu>boirais</tu>
+		<il>boirait</il>
+		<nous>boirions</nous>
+		<vous>boiriez</vous>
+		<ils>boiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

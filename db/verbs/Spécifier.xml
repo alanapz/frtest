@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>spécifier</infinitive>
+	<translation>to specify</translation>
+	<presentParticiple>spécifiant</presentParticiple>
+	<pastParticiple>spécifié</pastParticiple>
+	<present>
+		<je>spécifie</je>
+		<tu>spécifies</tu>
+		<il>spécifie</il>
+		<nous>spécifions</nous>
+		<vous>spécifiez</vous>
+		<ils>spécifient</ils>
+	</present>
+	<imperative>
+		<tu>spécifie</tu>
+		<nous>spécifions</nous>
+		<vous>spécifiez</vous>
+	</imperative>
+	<imperfect>
+		<je>spécifiais</je>
+		<tu>spécifiais</tu>
+		<il>spécifiait</il>
+		<nous>spécifiions</nous>
+		<vous>spécifiiez</vous>
+		<ils>spécifiaient</ils>
+	</imperfect>
+	<future>
+		<je>spécifierai</je>
+		<tu>spécifieras</tu>
+		<il>spécifiera</il>
+		<nous>spécifierons</nous>
+		<vous>spécifierez</vous>
+		<ils>spécifieront</ils>
+	</future>
+	<subjunctive>
+		<je>spécifie</je>
+		<tu>spécifies</tu>
+		<il>spécifie</il>
+		<nous>spécifiions</nous>
+		<vous>spécifiiez</vous>
+		<ils>spécifient</ils>
+	</subjunctive>
+	<conditional>
+		<je>spécifierais</je>
+		<tu>spécifierais</tu>
+		<il>spécifierait</il>
+		<nous>spécifierions</nous>
+		<vous>spécifieriez</vous>
+		<ils>spécifieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

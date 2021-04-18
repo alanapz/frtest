@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>décider</infinitive>
+	<translation>to decide</translation>
+	<presentParticiple>décidant</presentParticiple>
+	<pastParticiple>décidé</pastParticiple>
+	<present>
+		<je>décide</je>
+		<tu>décides</tu>
+		<il>décide</il>
+		<nous>décidons</nous>
+		<vous>décidez</vous>
+		<ils>décident</ils>
+	</present>
+	<imperative>
+		<tu>décide</tu>
+		<nous>décidons</nous>
+		<vous>décidez</vous>
+	</imperative>
+	<imperfect>
+		<je>décidais</je>
+		<tu>décidais</tu>
+		<il>décidait</il>
+		<nous>décidions</nous>
+		<vous>décidiez</vous>
+		<ils>décidaient</ils>
+	</imperfect>
+	<future>
+		<je>déciderai</je>
+		<tu>décideras</tu>
+		<il>décidera</il>
+		<nous>déciderons</nous>
+		<vous>déciderez</vous>
+		<ils>décideront</ils>
+	</future>
+	<subjunctive>
+		<je>décide</je>
+		<tu>décides</tu>
+		<il>décide</il>
+		<nous>décidions</nous>
+		<vous>décidiez</vous>
+		<ils>décident</ils>
+	</subjunctive>
+	<conditional>
+		<je>déciderais</je>
+		<tu>déciderais</tu>
+		<il>déciderait</il>
+		<nous>déciderions</nous>
+		<vous>décideriez</vous>
+		<ils>décideraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

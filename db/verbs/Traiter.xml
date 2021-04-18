@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>traiter</infinitive>
+	<translation>to treat</translation>
+	<presentParticiple>traitant</presentParticiple>
+	<pastParticiple>traité</pastParticiple>
+	<present>
+		<je>traite</je>
+		<tu>traites</tu>
+		<il>traite</il>
+		<nous>traitons</nous>
+		<vous>traitez</vous>
+		<ils>traitent</ils>
+	</present>
+	<imperative>
+		<tu>traite</tu>
+		<nous>traitons</nous>
+		<vous>traitez</vous>
+	</imperative>
+	<imperfect>
+		<je>traitais</je>
+		<tu>traitais</tu>
+		<il>traitait</il>
+		<nous>traitions</nous>
+		<vous>traitiez</vous>
+		<ils>traitaient</ils>
+	</imperfect>
+	<future>
+		<je>traiterai</je>
+		<tu>traiteras</tu>
+		<il>traitera</il>
+		<nous>traiterons</nous>
+		<vous>traiterez</vous>
+		<ils>traiteront</ils>
+	</future>
+	<subjunctive>
+		<je>traite</je>
+		<tu>traites</tu>
+		<il>traite</il>
+		<nous>traitions</nous>
+		<vous>traitiez</vous>
+		<ils>traitent</ils>
+	</subjunctive>
+	<conditional>
+		<je>traiterais</je>
+		<tu>traiterais</tu>
+		<il>traiterait</il>
+		<nous>traiterions</nous>
+		<vous>traiteriez</vous>
+		<ils>traiteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

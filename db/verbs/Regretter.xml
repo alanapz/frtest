@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>regretter</infinitive>
+            <translation>to regret</translation>
+            <presentParticiple>regrettant</presentParticiple>
+            <pastParticiple>regretté</pastParticiple>
+            <present>
+                <je>regrette</je>
+                <tu>regrettes</tu>
+                <il>regrette</il>
+                <nous>regrettons</nous>
+                <vous>regrettez</vous>
+                <ils>regrettent</ils>
+            </present>
+            <imperative>
+                <tu>regrette</tu>
+                <nous>regrettons</nous>
+                <vous>regrettez</vous>
+            </imperative>
+            <imperfect>
+                <je>regrettais</je>
+                <tu>regrettais</tu>
+                <il>regrettait</il>
+                <nous>regrettions</nous>
+                <vous>regrettiez</vous>
+                <ils>regrettaient</ils>
+            </imperfect>
+            <future>
+                <je>regretterai</je>
+                <tu>regretteras</tu>
+                <il>regrettera</il>
+                <nous>regretterons</nous>
+                <vous>regretterez</vous>
+                <ils>regretteront</ils>
+            </future>
+            <subjunctive>
+                <je>regrette</je>
+                <tu>regrettes</tu>
+                <il>regrette</il>
+                <nous>regrettions</nous>
+                <vous>regrettiez</vous>
+                <ils>regrettent</ils>
+            </subjunctive>
+            <conditional>
+                <je>regretterais</je>
+                <tu>regretterais</tu>
+                <il>regretterait</il>
+                <nous>regretterions</nous>
+                <vous>regretteriez</vous>
+                <ils>regretteraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

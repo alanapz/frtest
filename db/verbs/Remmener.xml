@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>remmener</infinitive>
+            <translation>to take back/again</translation>
+            <stemChange />
+            <presentParticiple>remmenant</presentParticiple>
+            <pastParticiple>remmené</pastParticiple>
+            <present>
+                <je>remmène</je>
+                <tu>remmènes</tu>
+                <il>remmène</il>
+                <nous>remmenons</nous>
+                <vous>remmenez</vous>
+                <ils>remmènent</ils>
+            </present>
+            <imperative>
+                <tu>remmène</tu>
+                <nous>remmenons</nous>
+                <vous>remmenez</vous>
+            </imperative>
+            <imperfect>
+                <je>remmenais</je>
+                <tu>remmenais</tu>
+                <il>remmenait</il>
+                <nous>remmenions</nous>
+                <vous>remmeniez</vous>
+                <ils>remmenaient</ils>
+            </imperfect>
+            <future>
+                <je>remmènerai</je>
+                <tu>remmèneras</tu>
+                <il>remmènera</il>
+                <nous>remmènerons</nous>
+                <vous>remmènerez</vous>
+                <ils>remmèneront</ils>
+            </future>
+            <subjunctive>
+                <je>remmène</je>
+                <tu>remmènes</tu>
+                <il>remmène</il>
+                <nous>remmenions</nous>
+                <vous>remmeniez</vous>
+                <ils>remmènent</ils>
+            </subjunctive>
+            <conditional>
+                <je>remmènerais</je>
+                <tu>remmènerais</tu>
+                <il>remmènerait</il>
+                <nous>remmènerions</nous>
+                <vous>remmèneriez</vous>
+                <ils>remmèneraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

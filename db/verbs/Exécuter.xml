@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>exécuter</infinitive>
+	<translation>to carry out</translation>
+	<translation>execute</translation>
+	<presentParticiple>exécutant</presentParticiple>
+	<pastParticiple>exécuté</pastParticiple>
+	<present>
+		<je>exécute</je>
+		<tu>exécutes</tu>
+		<il>exécute</il>
+		<nous>exécutons</nous>
+		<vous>exécutez</vous>
+		<ils>exécutent</ils>
+	</present>
+	<imperative>
+		<tu>exécute</tu>
+		<nous>exécutons</nous>
+		<vous>exécutez</vous>
+	</imperative>
+	<imperfect>
+		<je>exécutais</je>
+		<tu>exécutais</tu>
+		<il>exécutait</il>
+		<nous>exécutions</nous>
+		<vous>exécutiez</vous>
+		<ils>exécutaient</ils>
+	</imperfect>
+	<future>
+		<je>exécuterai</je>
+		<tu>exécuteras</tu>
+		<il>exécutera</il>
+		<nous>exécuterons</nous>
+		<vous>exécuterez</vous>
+		<ils>exécuteront</ils>
+	</future>
+	<subjunctive>
+		<je>exécute</je>
+		<tu>exécutes</tu>
+		<il>exécute</il>
+		<nous>exécutions</nous>
+		<vous>exécutiez</vous>
+		<ils>exécutent</ils>
+	</subjunctive>
+	<conditional>
+		<je>exécuterais</je>
+		<tu>exécuterais</tu>
+		<il>exécuterait</il>
+		<nous>exécuterions</nous>
+		<vous>exécuteriez</vous>
+		<ils>exécuteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

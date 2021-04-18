@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>ouvrir</infinitive>
+	<translation>to open</translation>
+	<irregular />
+	<presentParticiple>ouvrant</presentParticiple>
+	<pastParticiple>ouvert</pastParticiple>
+	<present>
+		<je>ouvre</je>
+		<tu>ouvres</tu>
+		<il>ouvre</il>
+		<nous>ouvrons</nous>
+		<vous>ouvrez</vous>
+		<ils>ouvrent</ils>
+	</present>
+	<imperative>
+		<tu>ouvre</tu>
+		<nous>ouvrons</nous>
+		<vous>ouvrez</vous>
+	</imperative>
+	<imperfect>
+		<je>ouvrais</je>
+		<tu>ouvrais</tu>
+		<il>ouvrait</il>
+		<nous>ouvrions</nous>
+		<vous>ouvriez</vous>
+		<ils>ouvraient</ils>
+	</imperfect>
+	<future>
+		<je>ouvrirai</je>
+		<tu>ouvriras</tu>
+		<il>ouvrira</il>
+		<nous>ouvrirons</nous>
+		<vous>ouvrirez</vous>
+		<ils>ouvriront</ils>
+	</future>
+	<subjunctive>
+		<je>ouvre</je>
+		<tu>ouvres</tu>
+		<il>ouvre</il>
+		<nous>ouvrions</nous>
+		<vous>ouvriez</vous>
+		<ils>ouvrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>ouvrirais</je>
+		<tu>ouvrirais</tu>
+		<il>ouvrirait</il>
+		<nous>ouvririons</nous>
+		<vous>ouvririez</vous>
+		<ils>ouvriraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>supporter</infinitive>
+	<translation>to support</translation>
+	<translation>endure</translation>
+	<presentParticiple>supportant</presentParticiple>
+	<pastParticiple>supporté</pastParticiple>
+	<present>
+		<je>supporte</je>
+		<tu>supportes</tu>
+		<il>supporte</il>
+		<nous>supportons</nous>
+		<vous>supportez</vous>
+		<ils>supportent</ils>
+	</present>
+	<imperative>
+		<tu>supporte</tu>
+		<nous>supportons</nous>
+		<vous>supportez</vous>
+	</imperative>
+	<imperfect>
+		<je>supportais</je>
+		<tu>supportais</tu>
+		<il>supportait</il>
+		<nous>supportions</nous>
+		<vous>supportiez</vous>
+		<ils>supportaient</ils>
+	</imperfect>
+	<future>
+		<je>supporterai</je>
+		<tu>supporteras</tu>
+		<il>supportera</il>
+		<nous>supporterons</nous>
+		<vous>supporterez</vous>
+		<ils>supporteront</ils>
+	</future>
+	<subjunctive>
+		<je>supporte</je>
+		<tu>supportes</tu>
+		<il>supporte</il>
+		<nous>supportions</nous>
+		<vous>supportiez</vous>
+		<ils>supportent</ils>
+	</subjunctive>
+	<conditional>
+		<je>supporterais</je>
+		<tu>supporterais</tu>
+		<il>supporterait</il>
+		<nous>supporterions</nous>
+		<vous>supporteriez</vous>
+		<ils>supporteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>apporter</infinitive>
+	<translation>to bring</translation>
+	<presentParticiple>apportant</presentParticiple>
+	<pastParticiple>apporté</pastParticiple>
+	<present>
+		<je>apporte</je>
+		<tu>apportes</tu>
+		<il>apporte</il>
+		<nous>apportons</nous>
+		<vous>apportez</vous>
+		<ils>apportent</ils>
+	</present>
+	<imperative>
+		<tu>apporte</tu>
+		<nous>apportons</nous>
+		<vous>apportez</vous>
+	</imperative>
+	<imperfect>
+		<je>apportais</je>
+		<tu>apportais</tu>
+		<il>apportait</il>
+		<nous>apportions</nous>
+		<vous>apportiez</vous>
+		<ils>apportaient</ils>
+	</imperfect>
+	<future>
+		<je>apporterai</je>
+		<tu>apporteras</tu>
+		<il>apportera</il>
+		<nous>apporterons</nous>
+		<vous>apporterez</vous>
+		<ils>apporteront</ils>
+	</future>
+	<subjunctive>
+		<je>apporte</je>
+		<tu>apportes</tu>
+		<il>apporte</il>
+		<nous>apportions</nous>
+		<vous>apportiez</vous>
+		<ils>apportent</ils>
+	</subjunctive>
+	<conditional>
+		<je>apporterais</je>
+		<tu>apporterais</tu>
+		<il>apporterait</il>
+		<nous>apporterions</nous>
+		<vous>apporteriez</vous>
+		<ils>apporteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

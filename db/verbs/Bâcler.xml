@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>bâcler</infinitive>
+	<translation>(inf) to botch</translation>
+	<translation>throw together</translation>
+	<presentParticiple>bâclant</presentParticiple>
+	<pastParticiple>bâclé</pastParticiple>
+	<present>
+		<je>bâcle</je>
+		<tu>bâcles</tu>
+		<il>bâcle</il>
+		<nous>bâclons</nous>
+		<vous>bâclez</vous>
+		<ils>bâclent</ils>
+	</present>
+	<imperative>
+		<tu>bâcle</tu>
+		<nous>bâclons</nous>
+		<vous>bâclez</vous>
+	</imperative>
+	<imperfect>
+		<je>bâclais</je>
+		<tu>bâclais</tu>
+		<il>bâclait</il>
+		<nous>bâclions</nous>
+		<vous>bâcliez</vous>
+		<ils>bâclaient</ils>
+	</imperfect>
+	<future>
+		<je>bâclerai</je>
+		<tu>bâcleras</tu>
+		<il>bâclera</il>
+		<nous>bâclerons</nous>
+		<vous>bâclerez</vous>
+		<ils>bâcleront</ils>
+	</future>
+	<subjunctive>
+		<je>bâcle</je>
+		<tu>bâcles</tu>
+		<il>bâcle</il>
+		<nous>bâclions</nous>
+		<vous>bâcliez</vous>
+		<ils>bâclent</ils>
+	</subjunctive>
+	<conditional>
+		<je>bâclerais</je>
+		<tu>bâclerais</tu>
+		<il>bâclerait</il>
+		<nous>bâclerions</nous>
+		<vous>bâcleriez</vous>
+		<ils>bâcleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

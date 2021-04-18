@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>sauver</infinitive>
+	<translation>to save</translation>
+	<translation>rescue</translation>
+	<presentParticiple>sauvant</presentParticiple>
+	<pastParticiple>sauvé</pastParticiple>
+	<present>
+		<je>sauve</je>
+		<tu>sauves</tu>
+		<il>sauve</il>
+		<nous>sauvons</nous>
+		<vous>sauvez</vous>
+		<ils>sauvent</ils>
+	</present>
+	<imperative>
+		<tu>sauve</tu>
+		<nous>sauvons</nous>
+		<vous>sauvez</vous>
+	</imperative>
+	<imperfect>
+		<je>sauvais</je>
+		<tu>sauvais</tu>
+		<il>sauvait</il>
+		<nous>sauvions</nous>
+		<vous>sauviez</vous>
+		<ils>sauvaient</ils>
+	</imperfect>
+	<future>
+		<je>sauverai</je>
+		<tu>sauveras</tu>
+		<il>sauvera</il>
+		<nous>sauverons</nous>
+		<vous>sauverez</vous>
+		<ils>sauveront</ils>
+	</future>
+	<subjunctive>
+		<je>sauve</je>
+		<tu>sauves</tu>
+		<il>sauve</il>
+		<nous>sauvions</nous>
+		<vous>sauviez</vous>
+		<ils>sauvent</ils>
+	</subjunctive>
+	<conditional>
+		<je>sauverais</je>
+		<tu>sauverais</tu>
+		<il>sauverait</il>
+		<nous>sauverions</nous>
+		<vous>sauveriez</vous>
+		<ils>sauveraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

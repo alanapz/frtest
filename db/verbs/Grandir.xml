@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>grandir</infinitive>
+	<translation>to grow</translation>
+	<presentParticiple>grandissant</presentParticiple>
+	<pastParticiple>grandi</pastParticiple>
+	<present>
+		<je>grandis</je>
+		<tu>grandis</tu>
+		<il>grandit</il>
+		<nous>grandissons</nous>
+		<vous>grandissez</vous>
+		<ils>grandissent</ils>
+	</present>
+	<imperative>
+		<tu>grandis</tu>
+		<nous>grandissons</nous>
+		<vous>grandissez</vous>
+	</imperative>
+	<imperfect>
+		<je>grandissais</je>
+		<tu>grandissais</tu>
+		<il>grandissait</il>
+		<nous>grandissions</nous>
+		<vous>grandissiez</vous>
+		<ils>grandissaient</ils>
+	</imperfect>
+	<future>
+		<je>grandirai</je>
+		<tu>grandiras</tu>
+		<il>grandira</il>
+		<nous>grandirons</nous>
+		<vous>grandirez</vous>
+		<ils>grandiront</ils>
+	</future>
+	<subjunctive>
+		<je>grandisse</je>
+		<tu>grandisses</tu>
+		<il>grandisse</il>
+		<nous>grandissions</nous>
+		<vous>grandissiez</vous>
+		<ils>grandissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>grandirais</je>
+		<tu>grandirais</tu>
+		<il>grandirait</il>
+		<nous>grandirions</nous>
+		<vous>grandiriez</vous>
+		<ils>grandiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

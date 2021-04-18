@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>empêcher</infinitive>
+	<translation>to prevent</translation>
+	<presentParticiple>empêchant</presentParticiple>
+	<pastParticiple>empêché</pastParticiple>
+	<present>
+		<je>empêche</je>
+		<tu>empêches</tu>
+		<il>empêche</il>
+		<nous>empêchons</nous>
+		<vous>empêchez</vous>
+		<ils>empêchent</ils>
+	</present>
+	<imperative>
+		<tu>empêche</tu>
+		<nous>empêchons</nous>
+		<vous>empêchez</vous>
+	</imperative>
+	<imperfect>
+		<je>empêchais</je>
+		<tu>empêchais</tu>
+		<il>empêchait</il>
+		<nous>empêchions</nous>
+		<vous>empêchiez</vous>
+		<ils>empêchaient</ils>
+	</imperfect>
+	<future>
+		<je>empêcherai</je>
+		<tu>empêcheras</tu>
+		<il>empêchera</il>
+		<nous>empêcherons</nous>
+		<vous>empêcherez</vous>
+		<ils>empêcheront</ils>
+	</future>
+	<subjunctive>
+		<je>empêche</je>
+		<tu>empêches</tu>
+		<il>empêche</il>
+		<nous>empêchions</nous>
+		<vous>empêchiez</vous>
+		<ils>empêchent</ils>
+	</subjunctive>
+	<conditional>
+		<je>empêcherais</je>
+		<tu>empêcherais</tu>
+		<il>empêcherait</il>
+		<nous>empêcherions</nous>
+		<vous>empêcheriez</vous>
+		<ils>empêcheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

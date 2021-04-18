@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>sortir</infinitive>
+            <translation>to go out</translation>
+            <irregular />
+            <takesEtreInPerfect />
+            <presentParticiple>sortant</presentParticiple>
+            <pastParticiple>sorti</pastParticiple>
+            <present>
+                <je>sors</je>
+                <tu>sors</tu>
+                <il>sort</il>
+                <nous>sortons</nous>
+                <vous>sortez</vous>
+                <ils>sortent</ils>
+            </present>
+            <imperative>
+                <tu>sors</tu>
+                <nous>sortons</nous>
+                <vous>sortez</vous>
+            </imperative>
+            <imperfect>
+                <je>sortais</je>
+                <tu>sortais</tu>
+                <il>sortait</il>
+                <nous>sortions</nous>
+                <vous>sortiez</vous>
+                <ils>sortaient</ils>
+            </imperfect>
+            <future>
+                <je>sortirai</je>
+                <tu>sortiras</tu>
+                <il>sortira</il>
+                <nous>sortirons</nous>
+                <vous>sortirez</vous>
+                <ils>sortiront</ils>
+            </future>
+            <subjunctive>
+                <je>sorte</je>
+                <tu>sortes</tu>
+                <il>sorte</il>
+                <nous>sortions</nous>
+                <vous>sortiez</vous>
+                <ils>sortent</ils>
+            </subjunctive>
+            <conditional>
+                <je>sortirais</je>
+                <tu>sortirais</tu>
+                <il>sortirait</il>
+                <nous>sortirions</nous>
+                <vous>sortiriez</vous>
+                <ils>sortiraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

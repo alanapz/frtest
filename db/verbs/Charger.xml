@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>charger</infinitive>
+	<translation>to load</translation>
+	<spellingChange />
+	<presentParticiple>chargeant</presentParticiple>
+	<pastParticiple>chargé</pastParticiple>
+	<present>
+		<je>charge</je>
+		<tu>charges</tu>
+		<il>charge</il>
+		<nous>chargeons</nous>
+		<vous>chargez</vous>
+		<ils>chargent</ils>
+	</present>
+	<imperative>
+		<tu>charge</tu>
+		<nous>chargeons</nous>
+		<vous>chargez</vous>
+	</imperative>
+	<imperfect>
+		<je>chargeais</je>
+		<tu>chargeais</tu>
+		<il>chargeait</il>
+		<nous>chargions</nous>
+		<vous>chargiez</vous>
+		<ils>chargeaient</ils>
+	</imperfect>
+	<future>
+		<je>chargerai</je>
+		<tu>chargeras</tu>
+		<il>chargera</il>
+		<nous>chargerons</nous>
+		<vous>chargerez</vous>
+		<ils>chargeront</ils>
+	</future>
+	<subjunctive>
+		<je>charge</je>
+		<tu>charges</tu>
+		<il>charge</il>
+		<nous>chargions</nous>
+		<vous>chargiez</vous>
+		<ils>chargent</ils>
+	</subjunctive>
+	<conditional>
+		<je>chargerais</je>
+		<tu>chargerais</tu>
+		<il>chargerait</il>
+		<nous>chargerions</nous>
+		<vous>chargeriez</vous>
+		<ils>chargeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

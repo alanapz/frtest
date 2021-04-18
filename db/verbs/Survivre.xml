@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>survivre</infinitive>
+	<translation>to survive</translation>
+	<irregular />
+	<presentParticiple>survivant</presentParticiple>
+	<pastParticiple>survécu</pastParticiple>
+	<present>
+		<je>survis</je>
+		<tu>survis</tu>
+		<il>survit</il>
+		<nous>survivons</nous>
+		<vous>survivez</vous>
+		<ils>survivent</ils>
+	</present>
+	<imperative>
+		<tu>survis</tu>
+		<nous>survivons</nous>
+		<vous>survivez</vous>
+	</imperative>
+	<imperfect>
+		<je>survivais</je>
+		<tu>survivais</tu>
+		<il>survivait</il>
+		<nous>survivions</nous>
+		<vous>surviviez</vous>
+		<ils>survivaient</ils>
+	</imperfect>
+	<future>
+		<je>survivrai</je>
+		<tu>survivras</tu>
+		<il>survivra</il>
+		<nous>survivrons</nous>
+		<vous>survivrez</vous>
+		<ils>survivront</ils>
+	</future>
+	<subjunctive>
+		<je>survive</je>
+		<tu>survives</tu>
+		<il>survive</il>
+		<nous>survivions</nous>
+		<vous>surviviez</vous>
+		<ils>survivent</ils>
+	</subjunctive>
+	<conditional>
+		<je>survivrais</je>
+		<tu>survivrais</tu>
+		<il>survivrait</il>
+		<nous>survivrions</nous>
+		<vous>survivriez</vous>
+		<ils>survivraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

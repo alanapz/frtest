@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>adjoindre</infinitive>
+	<translation>to appoint</translation>
+	<irregular />
+	<presentParticiple>adjoignant</presentParticiple>
+	<pastParticiple>adjoint</pastParticiple>
+	<present>
+		<je>adjoins</je>
+		<tu>adjoins</tu>
+		<il>adjoint</il>
+		<nous>adjoignons</nous>
+		<vous>adjoignez</vous>
+		<ils>adjoignent</ils>
+	</present>
+	<imperative>
+		<tu>adjoins</tu>
+		<nous>adjoignons</nous>
+		<vous>adjoignez</vous>
+	</imperative>
+	<imperfect>
+		<je>adjoignais</je>
+		<tu>adjoignais</tu>
+		<il>adjoignait</il>
+		<nous>adjoignions</nous>
+		<vous>adjoigniez</vous>
+		<ils>adjoignaient</ils>
+	</imperfect>
+	<future>
+		<je>adjoindrai</je>
+		<tu>adjoindras</tu>
+		<il>adjoindra</il>
+		<nous>adjoindrons</nous>
+		<vous>adjoindrez</vous>
+		<ils>adjoindront</ils>
+	</future>
+	<subjunctive>
+		<je>adjoigne</je>
+		<tu>adjoignes</tu>
+		<il>adjoigne</il>
+		<nous>adjoignions</nous>
+		<vous>adjoigniez</vous>
+		<ils>adjoignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>adjoindrais</je>
+		<tu>adjoindrais</tu>
+		<il>adjoindrait</il>
+		<nous>adjoindrions</nous>
+		<vous>adjoindriez</vous>
+		<ils>adjoindraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

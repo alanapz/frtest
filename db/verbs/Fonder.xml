@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>fonder</infinitive>
+	<translation>to found</translation>
+	<presentParticiple>fondant</presentParticiple>
+	<pastParticiple>fondé</pastParticiple>
+	<present>
+		<je>fonde</je>
+		<tu>fondes</tu>
+		<il>fonde</il>
+		<nous>fondons</nous>
+		<vous>fondez</vous>
+		<ils>fondent</ils>
+	</present>
+	<imperative>
+		<tu>fonde</tu>
+		<nous>fondons</nous>
+		<vous>fondez</vous>
+	</imperative>
+	<imperfect>
+		<je>fondais</je>
+		<tu>fondais</tu>
+		<il>fondait</il>
+		<nous>fondions</nous>
+		<vous>fondiez</vous>
+		<ils>fondaient</ils>
+	</imperfect>
+	<future>
+		<je>fonderai</je>
+		<tu>fonderas</tu>
+		<il>fondera</il>
+		<nous>fonderons</nous>
+		<vous>fonderez</vous>
+		<ils>fonderont</ils>
+	</future>
+	<subjunctive>
+		<je>fonde</je>
+		<tu>fondes</tu>
+		<il>fonde</il>
+		<nous>fondions</nous>
+		<vous>fondiez</vous>
+		<ils>fondent</ils>
+	</subjunctive>
+	<conditional>
+		<je>fonderais</je>
+		<tu>fonderais</tu>
+		<il>fonderait</il>
+		<nous>fonderions</nous>
+		<vous>fonderiez</vous>
+		<ils>fonderaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

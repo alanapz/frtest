@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>saisir</infinitive>
+	<translation>to seize</translation>
+	<presentParticiple>saisissant</presentParticiple>
+	<pastParticiple>saisi</pastParticiple>
+	<present>
+		<je>saisis</je>
+		<tu>saisis</tu>
+		<il>saisit</il>
+		<nous>saisissons</nous>
+		<vous>saisissez</vous>
+		<ils>saisissent</ils>
+	</present>
+	<imperative>
+		<tu>saisis</tu>
+		<nous>saisissons</nous>
+		<vous>saisissez</vous>
+	</imperative>
+	<imperfect>
+		<je>saisissais</je>
+		<tu>saisissais</tu>
+		<il>saisissait</il>
+		<nous>saisissions</nous>
+		<vous>saisissiez</vous>
+		<ils>saisissaient</ils>
+	</imperfect>
+	<future>
+		<je>saisirai</je>
+		<tu>saisiras</tu>
+		<il>saisira</il>
+		<nous>saisirons</nous>
+		<vous>saisirez</vous>
+		<ils>saisiront</ils>
+	</future>
+	<subjunctive>
+		<je>saisisse</je>
+		<tu>saisisses</tu>
+		<il>saisisse</il>
+		<nous>saisissions</nous>
+		<vous>saisissiez</vous>
+		<ils>saisissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>saisirais</je>
+		<tu>saisirais</tu>
+		<il>saisirait</il>
+		<nous>saisirions</nous>
+		<vous>saisiriez</vous>
+		<ils>saisiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

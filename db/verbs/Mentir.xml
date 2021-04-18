@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>mentir</infinitive>
+	<translation>to lie</translation>
+	<irregular />
+	<presentParticiple>mentant</presentParticiple>
+	<pastParticiple> menti</pastParticiple>
+	<present>
+		<je>mens</je>
+		<tu>mens</tu>
+		<il>ment</il>
+		<nous>mentons</nous>
+		<vous>mentez</vous>
+		<ils>mentent</ils>
+	</present>
+	<imperative>
+		<tu>mens</tu>
+		<nous>mentons</nous>
+		<vous>mentez</vous>
+	</imperative>
+	<imperfect>
+		<je>mentais</je>
+		<tu>mentais</tu>
+		<il>mentait</il>
+		<nous>mentions</nous>
+		<vous>mentiez</vous>
+		<ils>mentaient</ils>
+	</imperfect>
+	<future>
+		<je>mentirai</je>
+		<tu>mentiras</tu>
+		<il>mentira</il>
+		<nous>mentirons</nous>
+		<vous>mentirez</vous>
+		<ils>mentiront</ils>
+	</future>
+	<subjunctive>
+		<je>mente</je>
+		<tu>mentes</tu>
+		<il>mente</il>
+		<nous>mentions</nous>
+		<vous>mentiez</vous>
+		<ils>mentent</ils>
+	</subjunctive>
+	<conditional>
+		<je>mentirais</je>
+		<tu>mentirais</tu>
+		<il>mentirait</il>
+		<nous>mentirions</nous>
+		<vous>mentiriez</vous>
+		<ils>mentiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

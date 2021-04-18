@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>évaluer</infinitive>
+	<translation>to evaluate</translation>
+	<presentParticiple>évaluant</presentParticiple>
+	<pastParticiple>évalué</pastParticiple>
+	<present>
+		<je>évalue</je>
+		<tu>évalues</tu>
+		<il>évalue</il>
+		<nous>évaluons</nous>
+		<vous>évaluez</vous>
+		<ils>évaluent</ils>
+	</present>
+	<imperative>
+		<tu>évalue</tu>
+		<nous>évaluons</nous>
+		<vous>évaluez</vous>
+	</imperative>
+	<imperfect>
+		<je>évaluais</je>
+		<tu>évaluais</tu>
+		<il>évaluait</il>
+		<nous>évaluions</nous>
+		<vous>évaluiez</vous>
+		<ils>évaluaient</ils>
+	</imperfect>
+	<future>
+		<je>évaluerai</je>
+		<tu>évalueras</tu>
+		<il>évaluera</il>
+		<nous>évaluerons</nous>
+		<vous>évaluerez</vous>
+		<ils>évalueront</ils>
+	</future>
+	<subjunctive>
+		<je>évalue</je>
+		<tu>évalues</tu>
+		<il>évalue</il>
+		<nous>évaluions</nous>
+		<vous>évaluiez</vous>
+		<ils>évaluent</ils>
+	</subjunctive>
+	<conditional>
+		<je>évaluerais</je>
+		<tu>évaluerais</tu>
+		<il>évaluerait</il>
+		<nous>évaluerions</nous>
+		<vous>évalueriez</vous>
+		<ils>évalueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

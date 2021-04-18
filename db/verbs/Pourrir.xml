@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>pourrir</infinitive>
+	<translation>to rot</translation>
+	<translation>spoil</translation>
+	<presentParticiple>pourrissant</presentParticiple>
+	<pastParticiple>pourri</pastParticiple>
+	<present>
+		<je>pourris</je>
+		<tu>pourris</tu>
+		<il>pourrit</il>
+		<nous>pourrissons</nous>
+		<vous>pourrissez</vous>
+		<ils>pourrissent</ils>
+	</present>
+	<imperative>
+		<tu>pourris</tu>
+		<nous>pourrissons</nous>
+		<vous>pourrissez</vous>
+	</imperative>
+	<imperfect>
+		<je>pourrissais</je>
+		<tu>pourrissais</tu>
+		<il>pourrissait</il>
+		<nous>pourrissions</nous>
+		<vous>pourrissiez</vous>
+		<ils>pourrissaient</ils>
+	</imperfect>
+	<future>
+		<je>pourrirai</je>
+		<tu>pourriras</tu>
+		<il>pourrira</il>
+		<nous>pourrirons</nous>
+		<vous>pourrirez</vous>
+		<ils>pourriront</ils>
+	</future>
+	<subjunctive>
+		<je>pourrisse</je>
+		<tu>pourrisses</tu>
+		<il>pourrisse</il>
+		<nous>pourrissions</nous>
+		<vous>pourrissiez</vous>
+		<ils>pourrissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>pourrirais</je>
+		<tu>pourrirais</tu>
+		<il>pourrirait</il>
+		<nous>pourririons</nous>
+		<vous>pourririez</vous>
+		<ils>pourriraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>consister</infinitive>
+	<translation>to consist</translation>
+	<presentParticiple>consistant</presentParticiple>
+	<pastParticiple>consisté</pastParticiple>
+	<present>
+		<je>consiste</je>
+		<tu>consistes</tu>
+		<il>consiste</il>
+		<nous>consistons</nous>
+		<vous>consistez</vous>
+		<ils>consistent</ils>
+	</present>
+	<imperative>
+		<tu>consiste</tu>
+		<nous>consistons</nous>
+		<vous>consistez</vous>
+	</imperative>
+	<imperfect>
+		<je>consistais</je>
+		<tu>consistais</tu>
+		<il>consistait</il>
+		<nous>consistions</nous>
+		<vous>consistiez</vous>
+		<ils>consistaient</ils>
+	</imperfect>
+	<future>
+		<je>consisterai</je>
+		<tu>consisteras</tu>
+		<il>consistera</il>
+		<nous>consisterons</nous>
+		<vous>consisterez</vous>
+		<ils>consisteront</ils>
+	</future>
+	<subjunctive>
+		<je>consiste</je>
+		<tu>consistes</tu>
+		<il>consiste</il>
+		<nous>consistions</nous>
+		<vous>consistiez</vous>
+		<ils>consistent</ils>
+	</subjunctive>
+	<conditional>
+		<je>consisterais</je>
+		<tu>consisterais</tu>
+		<il>consisterait</il>
+		<nous>consisterions</nous>
+		<vous>consisteriez</vous>
+		<ils>consisteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

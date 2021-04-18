@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>exposer</infinitive>
+	<translation>to display</translation>
+	<translation>exhibit</translation>
+	<translation>show</translation>
+	<translation>to state</translation>
+	<presentParticiple>exposant</presentParticiple>
+	<pastParticiple>exposé</pastParticiple>
+	<present>
+		<je>expose</je>
+		<tu>exposes</tu>
+		<il>expose</il>
+		<nous>exposons</nous>
+		<vous>exposez</vous>
+		<ils>exposent</ils>
+	</present>
+	<imperative>
+		<tu>expose</tu>
+		<nous>exposons</nous>
+		<vous>exposez</vous>
+	</imperative>
+	<imperfect>
+		<je>exposais</je>
+		<tu>exposais</tu>
+		<il>exposait</il>
+		<nous>exposions</nous>
+		<vous>exposiez</vous>
+		<ils>exposaient</ils>
+	</imperfect>
+	<future>
+		<je>exposerai</je>
+		<tu>exposeras</tu>
+		<il>exposera</il>
+		<nous>exposerons</nous>
+		<vous>exposerez</vous>
+		<ils>exposeront</ils>
+	</future>
+	<subjunctive>
+		<je>expose</je>
+		<tu>exposes</tu>
+		<il>expose</il>
+		<nous>exposions</nous>
+		<vous>exposiez</vous>
+		<ils>exposent</ils>
+	</subjunctive>
+	<conditional>
+		<je>exposerais</je>
+		<tu>exposerais</tu>
+		<il>exposerait</il>
+		<nous>exposerions</nous>
+		<vous>exposeriez</vous>
+		<ils>exposeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

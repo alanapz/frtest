@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>frapper</infinitive>
+            <translation>to knock</translation>
+            <translation>to hit</translation>
+            <presentParticiple>frappant</presentParticiple>
+            <pastParticiple>frappé</pastParticiple>
+            <present>
+                <je>frappe</je>
+                <tu>frappes</tu>
+                <il>frappe</il>
+                <nous>frappons</nous>
+                <vous>frappez</vous>
+                <ils>frappent</ils>
+            </present>
+            <imperative>
+                <tu>frappe</tu>
+                <nous>frappons</nous>
+                <vous>frappez</vous>
+            </imperative>
+            <imperfect>
+                <je>frappais</je>
+                <tu>frappais</tu>
+                <il>frappait</il>
+                <nous>frappions</nous>
+                <vous>frappiez</vous>
+                <ils>frappaient</ils>
+            </imperfect>
+            <future>
+                <je>frapperai</je>
+                <tu>frapperas</tu>
+                <il>frappera</il>
+                <nous>frapperons</nous>
+                <vous>frapperez</vous>
+                <ils>frapperont</ils>
+            </future>
+            <subjunctive>
+                <je>frappe</je>
+                <tu>frappes</tu>
+                <il>frappe</il>
+                <nous>frappions</nous>
+                <vous>frappiez</vous>
+                <ils>frappent</ils>
+            </subjunctive>
+            <conditional>
+                <je>frapperais</je>
+                <tu>frapperais</tu>
+                <il>frapperait</il>
+                <nous>frapperions</nous>
+                <vous>frapperiez</vous>
+                <ils>frapperaient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

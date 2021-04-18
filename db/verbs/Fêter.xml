@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>fêter</infinitive>
+	<translation>to celebrate</translation>
+	<translation>to fête</translation>
+	<presentParticiple>fêtant</presentParticiple>
+	<pastParticiple>fêté</pastParticiple>
+	<present>
+		<je>fête</je>
+		<tu>fêtes</tu>
+		<il>fête</il>
+		<nous>fêtons</nous>
+		<vous>fêtez</vous>
+		<ils>fêtent</ils>
+	</present>
+	<imperative>
+		<tu>fête</tu>
+		<nous>fêtons</nous>
+		<vous>fêtez</vous>
+	</imperative>
+	<imperfect>
+		<je>fêtais</je>
+		<tu>fêtais</tu>
+		<il>fêtait</il>
+		<nous>fêtions</nous>
+		<vous>fêtiez</vous>
+		<ils>fêtaient</ils>
+	</imperfect>
+	<future>
+		<je>fêterai</je>
+		<tu>fêteras</tu>
+		<il>fêtera</il>
+		<nous>fêterons</nous>
+		<vous>fêterez</vous>
+		<ils>fêteront</ils>
+	</future>
+	<subjunctive>
+		<je>fête</je>
+		<tu>fêtes</tu>
+		<il>fête</il>
+		<nous>fêtions</nous>
+		<vous>fêtiez</vous>
+		<ils>fêtent</ils>
+	</subjunctive>
+	<conditional>
+		<je>fêterais</je>
+		<tu>fêterais</tu>
+		<il>fêterait</il>
+		<nous>fêterions</nous>
+		<vous>fêteriez</vous>
+		<ils>fêteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

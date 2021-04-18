@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>entrouvrir</infinitive>
+	<translation>to half-open</translation>
+	<irregular />
+	<presentParticiple>entrouvrant</presentParticiple>
+	<pastParticiple>entrouvert</pastParticiple>
+	<present>
+		<je>entrouvre</je>
+		<tu>entrouvres</tu>
+		<il>entrouvre</il>
+		<nous>entrouvrons</nous>
+		<vous>entrouvrez</vous>
+		<ils>entrouvrent</ils>
+	</present>
+	<imperative>
+		<tu>entrouvre</tu>
+		<nous>entrouvrons</nous>
+		<vous>entrouvrez</vous>
+	</imperative>
+	<imperfect>
+		<je>entrouvrais</je>
+		<tu>entrouvrais</tu>
+		<il>entrouvrait</il>
+		<nous>entrouvrions</nous>
+		<vous>entrouvriez</vous>
+		<ils>entrouvraient</ils>
+	</imperfect>
+	<future>
+		<je>entrouvrirai</je>
+		<tu>entrouvriras</tu>
+		<il>entrouvrira</il>
+		<nous>entrouvrirons</nous>
+		<vous>entrouvrirez</vous>
+		<ils>entrouvriront</ils>
+	</future>
+	<subjunctive>
+		<je>entrouvre</je>
+		<tu>entrouvres</tu>
+		<il>entrouvre</il>
+		<nous>entrouvrions</nous>
+		<vous>entrouvriez</vous>
+		<ils>entrouvrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>entrouvrirais</je>
+		<tu>entrouvrirais</tu>
+		<il>entrouvrirait</il>
+		<nous>entrouvririons</nous>
+		<vous>entrouvririez</vous>
+		<ils>entrouvriraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

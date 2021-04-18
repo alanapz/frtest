@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>illustrer</infinitive>
+	<translation>to illustrate</translation>
+	<presentParticiple>illustrant</presentParticiple>
+	<pastParticiple>illustré</pastParticiple>
+	<present>
+		<je>illustre</je>
+		<tu>illustres</tu>
+		<il>illustre</il>
+		<nous>illustrons</nous>
+		<vous>illustrez</vous>
+		<ils>illustrent</ils>
+	</present>
+	<imperative>
+		<tu>illustre</tu>
+		<nous>illustrons</nous>
+		<vous>illustrez</vous>
+	</imperative>
+	<imperfect>
+		<je>illustrais</je>
+		<tu>illustrais</tu>
+		<il>illustrait</il>
+		<nous>illustrions</nous>
+		<vous>illustriez</vous>
+		<ils>illustraient</ils>
+	</imperfect>
+	<future>
+		<je>illustrerai</je>
+		<tu>illustreras</tu>
+		<il>illustrera</il>
+		<nous>illustrerons</nous>
+		<vous>illustrerez</vous>
+		<ils>illustreront</ils>
+	</future>
+	<subjunctive>
+		<je>illustre</je>
+		<tu>illustres</tu>
+		<il>illustre</il>
+		<nous>illustrions</nous>
+		<vous>illustriez</vous>
+		<ils>illustrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>illustrerais</je>
+		<tu>illustrerais</tu>
+		<il>illustrerait</il>
+		<nous>illustrerions</nous>
+		<vous>illustreriez</vous>
+		<ils>illustreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

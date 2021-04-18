@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>naître</infinitive>
+	<translation>to be born</translation>
+	<irregular />
+	<takesEtreInPerfect />
+	<presentParticiple>naissant</presentParticiple>
+	<pastParticiple>né</pastParticiple>
+	<present>
+		<je>nais</je>
+		<tu>nais</tu>
+		<il>naît</il>
+		<nous>naissons</nous>
+		<vous>naissez</vous>
+		<ils>naissent</ils>
+	</present>
+	<imperative>
+		<tu>nais</tu>
+		<nous>naissons</nous>
+		<vous>naissez</vous>
+	</imperative>
+	<imperfect>
+		<je>naissais</je>
+		<tu>naissais</tu>
+		<il>naissait</il>
+		<nous>naissions</nous>
+		<vous>naissiez</vous>
+		<ils>naissaient</ils>
+	</imperfect>
+	<future>
+		<je>naîtrai</je>
+		<tu>naîtras</tu>
+		<il>naîtra</il>
+		<nous>naîtrons</nous>
+		<vous>naîtrez</vous>
+		<ils>naîtront</ils>
+	</future>
+	<subjunctive>
+		<je>naisse</je>
+		<tu>naisses</tu>
+		<il>naisse</il>
+		<nous>naissions</nous>
+		<vous>naissiez</vous>
+		<ils>naissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>naîtrais</je>
+		<tu>naîtrais</tu>
+		<il>naîtrait</il>
+		<nous>naîtrions</nous>
+		<vous>naîtriez</vous>
+		<ils>naîtraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

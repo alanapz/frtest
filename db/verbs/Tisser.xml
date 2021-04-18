@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>tisser</infinitive>
+	<translation>to weave</translation>
+	<presentParticiple>tissant</presentParticiple>
+	<pastParticiple>tissé</pastParticiple>
+	<present>
+		<je>tisse</je>
+		<tu>tisses</tu>
+		<il>tisse</il>
+		<nous>tissons</nous>
+		<vous>tissez</vous>
+		<ils>tissent</ils>
+	</present>
+	<imperative>
+		<tu>tisse</tu>
+		<nous>tissons</nous>
+		<vous>tissez</vous>
+	</imperative>
+	<imperfect>
+		<je>tissais</je>
+		<tu>tissais</tu>
+		<il>tissait</il>
+		<nous>tissions</nous>
+		<vous>tissiez</vous>
+		<ils>tissaient</ils>
+	</imperfect>
+	<future>
+		<je>tisserai</je>
+		<tu>tisseras</tu>
+		<il>tissera</il>
+		<nous>tisserons</nous>
+		<vous>tisserez</vous>
+		<ils>tisseront</ils>
+	</future>
+	<subjunctive>
+		<je>tisse</je>
+		<tu>tisses</tu>
+		<il>tisse</il>
+		<nous>tissions</nous>
+		<vous>tissiez</vous>
+		<ils>tissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>tisserais</je>
+		<tu>tisserais</tu>
+		<il>tisserait</il>
+		<nous>tisserions</nous>
+		<vous>tisseriez</vous>
+		<ils>tisseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

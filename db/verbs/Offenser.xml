@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>offenser</infinitive>
+	<translation>to offend</translation>
+	<presentParticiple>offensant</presentParticiple>
+	<pastParticiple>offensé</pastParticiple>
+	<present>
+		<je>offense</je>
+		<tu>offenses</tu>
+		<il>offense</il>
+		<nous>offensons</nous>
+		<vous>offensez</vous>
+		<ils>offensent</ils>
+	</present>
+	<imperative>
+		<tu>offense</tu>
+		<nous>offensons</nous>
+		<vous>offensez</vous>
+	</imperative>
+	<imperfect>
+		<je>offensais</je>
+		<tu>offensais</tu>
+		<il>offensait</il>
+		<nous>offensions</nous>
+		<vous>offensiez</vous>
+		<ils>offensaient</ils>
+	</imperfect>
+	<future>
+		<je>offenserai</je>
+		<tu>offenseras</tu>
+		<il>offensera</il>
+		<nous>offenserons</nous>
+		<vous>offenserez</vous>
+		<ils>offenseront</ils>
+	</future>
+	<subjunctive>
+		<je>offense</je>
+		<tu>offenses</tu>
+		<il>offense</il>
+		<nous>offensions</nous>
+		<vous>offensiez</vous>
+		<ils>offensent</ils>
+	</subjunctive>
+	<conditional>
+		<je>offenserais</je>
+		<tu>offenserais</tu>
+		<il>offenserait</il>
+		<nous>offenserions</nous>
+		<vous>offenseriez</vous>
+		<ils>offenseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

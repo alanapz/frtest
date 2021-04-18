@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>déclarer</infinitive>
+	<translation>to declare</translation>
+	<translation>announce</translation>
+	<presentParticiple>déclarant</presentParticiple>
+	<pastParticiple>déclaré</pastParticiple>
+	<present>
+		<je>déclare</je>
+		<tu>déclares</tu>
+		<il>déclare</il>
+		<nous>déclarons</nous>
+		<vous>déclarez</vous>
+		<ils>déclarent</ils>
+	</present>
+	<imperative>
+		<tu>déclare</tu>
+		<nous>déclarons</nous>
+		<vous>déclarez</vous>
+	</imperative>
+	<imperfect>
+		<je>déclarais</je>
+		<tu>déclarais</tu>
+		<il>déclarait</il>
+		<nous>déclarions</nous>
+		<vous>déclariez</vous>
+		<ils>déclaraient</ils>
+	</imperfect>
+	<future>
+		<je>déclarerai</je>
+		<tu>déclareras</tu>
+		<il>déclarera</il>
+		<nous>déclarerons</nous>
+		<vous>déclarerez</vous>
+		<ils>déclareront</ils>
+	</future>
+	<subjunctive>
+		<je>déclare</je>
+		<tu>déclares</tu>
+		<il>déclare</il>
+		<nous>déclarions</nous>
+		<vous>déclariez</vous>
+		<ils>déclarent</ils>
+	</subjunctive>
+	<conditional>
+		<je>déclarerais</je>
+		<tu>déclarerais</tu>
+		<il>déclarerait</il>
+		<nous>déclarerions</nous>
+		<vous>déclareriez</vous>
+		<ils>déclareraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

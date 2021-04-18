@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>condamner</infinitive>
+	<translation>to condemn</translation>
+	<presentParticiple>condamnant</presentParticiple>
+	<pastParticiple>condamné</pastParticiple>
+	<present>
+		<je>condamne</je>
+		<tu>condamnes</tu>
+		<il>condamne</il>
+		<nous>condamnons</nous>
+		<vous>condamnez</vous>
+		<ils>condamnent</ils>
+	</present>
+	<imperative>
+		<tu>condamne</tu>
+		<nous>condamnons</nous>
+		<vous>condamnez</vous>
+	</imperative>
+	<imperfect>
+		<je>condamnais</je>
+		<tu>condamnais</tu>
+		<il>condamnait</il>
+		<nous>condamnions</nous>
+		<vous>condamniez</vous>
+		<ils>condamnaient</ils>
+	</imperfect>
+	<future>
+		<je>condamnerai</je>
+		<tu>condamneras</tu>
+		<il>condamnera</il>
+		<nous>condamnerons</nous>
+		<vous>condamnerez</vous>
+		<ils>condamneront</ils>
+	</future>
+	<subjunctive>
+		<je>condamne</je>
+		<tu>condamnes</tu>
+		<il>condamne</il>
+		<nous>condamnions</nous>
+		<vous>condamniez</vous>
+		<ils>condamnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>condamnerais</je>
+		<tu>condamnerais</tu>
+		<il>condamnerait</il>
+		<nous>condamnerions</nous>
+		<vous>condamneriez</vous>
+		<ils>condamneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

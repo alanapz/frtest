@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>jalonner</infinitive>
+	<translation>to line</translation>
+	<translation>strech along</translation>
+	<presentParticiple>jalonnant</presentParticiple>
+	<pastParticiple>jalonné</pastParticiple>
+	<present>
+		<je>jalonne</je>
+		<tu>jalonnes</tu>
+		<il>jalonne</il>
+		<nous>jalonnons</nous>
+		<vous>jalonnez</vous>
+		<ils>jalonnent</ils>
+	</present>
+	<imperative>
+		<tu>jalonne</tu>
+		<nous>jalonnons</nous>
+		<vous>jalonnez</vous>
+	</imperative>
+	<imperfect>
+		<je>jalonnais</je>
+		<tu>jalonnais</tu>
+		<il>jalonnait</il>
+		<nous>jalonnions</nous>
+		<vous>jalonniez</vous>
+		<ils>jalonnaient</ils>
+	</imperfect>
+	<future>
+		<je>jalonnerai</je>
+		<tu>jalonneras</tu>
+		<il>jalonnera</il>
+		<nous>jalonnerons</nous>
+		<vous>jalonnerez</vous>
+		<ils>jalonneront</ils>
+	</future>
+	<subjunctive>
+		<je>jalonne</je>
+		<tu>jalonnes</tu>
+		<il>jalonne</il>
+		<nous>jalonnions</nous>
+		<vous>jalonniez</vous>
+		<ils>jalonnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>jalonnerais</je>
+		<tu>jalonnerais</tu>
+		<il>jalonnerait</il>
+		<nous>jalonnerions</nous>
+		<vous>jalonneriez</vous>
+		<ils>jalonneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>courir</infinitive>
+	<translation>to run</translation>
+	<irregular />
+	<presentParticiple>courant</presentParticiple>
+	<pastParticiple> couru</pastParticiple>
+	<present>
+		<je>cours</je>
+		<tu>cours</tu>
+		<il>court</il>
+		<nous>courons</nous>
+		<vous>courez</vous>
+		<ils>courent</ils>
+	</present>
+	<imperative>
+		<tu>cours</tu>
+		<nous>courons</nous>
+		<vous>courez</vous>
+	</imperative>
+	<imperfect>
+		<je>courais</je>
+		<tu>courais</tu>
+		<il>courait</il>
+		<nous>courions</nous>
+		<vous>couriez</vous>
+		<ils>couraient</ils>
+	</imperfect>
+	<future>
+		<je>courrai</je>
+		<tu>courras</tu>
+		<il>courra</il>
+		<nous>courrons</nous>
+		<vous>courrez</vous>
+		<ils>courront</ils>
+	</future>
+	<subjunctive>
+		<je>coure</je>
+		<tu>coures</tu>
+		<il>coure</il>
+		<nous>courions</nous>
+		<vous>couriez</vous>
+		<ils>courent</ils>
+	</subjunctive>
+	<conditional>
+		<je>courrais</je>
+		<tu>courrais</tu>
+		<il>courrait</il>
+		<nous>courrions</nous>
+		<vous>courriez</vous>
+		<ils>courraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

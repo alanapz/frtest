@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>figurer</infinitive>
+	<translation>to represent</translation>
+	<translation>appear</translation>
+	<presentParticiple>figurant</presentParticiple>
+	<pastParticiple>figuré</pastParticiple>
+	<present>
+		<je>figure</je>
+		<tu>figures</tu>
+		<il>figure</il>
+		<nous>figurons</nous>
+		<vous>figurez</vous>
+		<ils>figurent</ils>
+	</present>
+	<imperative>
+		<tu>figure</tu>
+		<nous>figurons</nous>
+		<vous>figurez</vous>
+	</imperative>
+	<imperfect>
+		<je>figurais</je>
+		<tu>figurais</tu>
+		<il>figurait</il>
+		<nous>figurions</nous>
+		<vous>figuriez</vous>
+		<ils>figuraient</ils>
+	</imperfect>
+	<future>
+		<je>figurerai</je>
+		<tu>figureras</tu>
+		<il>figurera</il>
+		<nous>figurerons</nous>
+		<vous>figurerez</vous>
+		<ils>figureront</ils>
+	</future>
+	<subjunctive>
+		<je>figure</je>
+		<tu>figures</tu>
+		<il>figure</il>
+		<nous>figurions</nous>
+		<vous>figuriez</vous>
+		<ils>figurent</ils>
+	</subjunctive>
+	<conditional>
+		<je>figurerais</je>
+		<tu>figurerais</tu>
+		<il>figurerait</il>
+		<nous>figurerions</nous>
+		<vous>figureriez</vous>
+		<ils>figureraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

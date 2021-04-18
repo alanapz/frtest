@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>reprimander</infinitive>
+            <translation>to reprimand</translation>
+            <presentParticiple>reprimandant</presentParticiple>
+            <pastParticiple>reprimandé</pastParticiple>
+            <present>
+                <je>reprimande</je>
+                <tu>reprimandes</tu>
+                <il>reprimande</il>
+                <nous>reprimandons</nous>
+                <vous>reprimandez</vous>
+                <ils>reprimandent</ils>
+            </present>
+            <imperative>
+                <tu>reprimande</tu>
+                <nous>reprimandons</nous>
+                <vous>reprimandez</vous>
+            </imperative>
+            <imperfect>
+                <je>reprimandais</je>
+                <tu>reprimandais</tu>
+                <il>reprimandait</il>
+                <nous>reprimandions</nous>
+                <vous>reprimandiez</vous>
+                <ils>reprimandaient</ils>
+            </imperfect>
+            <future>
+                <je>reprimanderai</je>
+                <tu>reprimanderas</tu>
+                <il>reprimandera</il>
+                <nous>reprimanderons</nous>
+                <vous>reprimanderez</vous>
+                <ils>reprimanderont</ils>
+            </future>
+            <subjunctive>
+                <je>reprimande</je>
+                <tu>reprimandes</tu>
+                <il>reprimande</il>
+                <nous>reprimandions</nous>
+                <vous>reprimandiez</vous>
+                <ils>reprimandent</ils>
+            </subjunctive>
+            <conditional>
+                <je>reprimanderais</je>
+                <tu>reprimanderais</tu>
+                <il>reprimanderait</il>
+                <nous>reprimanderions</nous>
+                <vous>reprimanderiez</vous>
+                <ils>reprimanderaient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

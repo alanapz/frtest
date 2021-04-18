@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>surveiller</infinitive>
+	<translation>to watch</translation>
+	<translation>supervise</translation>
+	<presentParticiple>surveillant</presentParticiple>
+	<pastParticiple>surveillé</pastParticiple>
+	<present>
+		<je>surveille</je>
+		<tu>surveilles</tu>
+		<il>surveille</il>
+		<nous>surveillons</nous>
+		<vous>surveillez</vous>
+		<ils>surveillent</ils>
+	</present>
+	<imperative>
+		<tu>surveille</tu>
+		<nous>surveillons</nous>
+		<vous>surveillez</vous>
+	</imperative>
+	<imperfect>
+		<je>surveillais</je>
+		<tu>surveillais</tu>
+		<il>surveillait</il>
+		<nous>surveillions</nous>
+		<vous>surveilliez</vous>
+		<ils>surveillaient</ils>
+	</imperfect>
+	<future>
+		<je>surveillerai</je>
+		<tu>surveilleras</tu>
+		<il>surveillera</il>
+		<nous>surveillerons</nous>
+		<vous>surveillerez</vous>
+		<ils>surveilleront</ils>
+	</future>
+	<subjunctive>
+		<je>surveille</je>
+		<tu>surveilles</tu>
+		<il>surveille</il>
+		<nous>surveillions</nous>
+		<vous>surveilliez</vous>
+		<ils>surveillent</ils>
+	</subjunctive>
+	<conditional>
+		<je>surveillerais</je>
+		<tu>surveillerais</tu>
+		<il>surveillerait</il>
+		<nous>surveillerions</nous>
+		<vous>surveilleriez</vous>
+		<ils>surveilleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

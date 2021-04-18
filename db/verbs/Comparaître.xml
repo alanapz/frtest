@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>comparaître</infinitive>
+	<translation>to appear in court</translation>
+	<irregular />
+	<presentParticiple>comparaissant</presentParticiple>
+	<pastParticiple>comparu</pastParticiple>
+	<present>
+		<je>comparais</je>
+		<tu>comparais</tu>
+		<il>comparaît</il>
+		<nous>comparaissons</nous>
+		<vous>comparaissez</vous>
+		<ils>comparaissent</ils>
+	</present>
+	<imperative>
+		<tu>comparais</tu>
+		<nous>comparaissons</nous>
+		<vous>comparaissez</vous>
+	</imperative>
+	<imperfect>
+		<je>comparaissais</je>
+		<tu>comparaissais</tu>
+		<il>comparaissait</il>
+		<nous>comparaissions</nous>
+		<vous>comparaissiez</vous>
+		<ils>comparaissaient</ils>
+	</imperfect>
+	<future>
+		<je>comparaîtrai</je>
+		<tu>comparaîtras</tu>
+		<il>comparaîtra</il>
+		<nous>comparaîtrons</nous>
+		<vous>comparaîtrez</vous>
+		<ils>comparaîtront</ils>
+	</future>
+	<subjunctive>
+		<je>comparaisse</je>
+		<tu>comparaisses</tu>
+		<il>comparaisse</il>
+		<nous>comparaissions</nous>
+		<vous>comparaissiez</vous>
+		<ils>comparaissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>comparaîtrais</je>
+		<tu>comparaîtrais</tu>
+		<il>comparaîtrait</il>
+		<nous>comparaîtrions</nous>
+		<vous>comparaîtriez</vous>
+		<ils>comparaîtraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

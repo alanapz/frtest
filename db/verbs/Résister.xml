@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>résister</infinitive>
+            <translation>to resist</translation>
+            <presentParticiple>résistant</presentParticiple>
+            <pastParticiple>résisté</pastParticiple>
+            <present>
+                <je>résiste</je>
+                <tu>résistes</tu>
+                <il>résiste</il>
+                <nous>résistons</nous>
+                <vous>résistez</vous>
+                <ils>résistent</ils>
+            </present>
+            <imperative>
+                <tu>résiste</tu>
+                <nous>résistons</nous>
+                <vous>résistez</vous>
+            </imperative>
+            <imperfect>
+                <je>résistais</je>
+                <tu>résistais</tu>
+                <il>résistait</il>
+                <nous>résistions</nous>
+                <vous>résistiez</vous>
+                <ils>résistaient</ils>
+            </imperfect>
+            <future>
+                <je>résisterai</je>
+                <tu>résisteras</tu>
+                <il>résistera</il>
+                <nous>résisterons</nous>
+                <vous>résisterez</vous>
+                <ils>résisteront</ils>
+            </future>
+            <subjunctive>
+                <je>résiste</je>
+                <tu>résistes</tu>
+                <il>résiste</il>
+                <nous>résistions</nous>
+                <vous>résistiez</vous>
+                <ils>résistent</ils>
+            </subjunctive>
+            <conditional>
+                <je>résisterais</je>
+                <tu>résisterais</tu>
+                <il>résisterait</il>
+                <nous>résisterions</nous>
+                <vous>résisteriez</vous>
+                <ils>résisteraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

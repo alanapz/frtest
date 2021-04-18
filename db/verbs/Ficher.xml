@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>ficher</infinitive>
+	<translation>to do</translation>
+	<translation>give</translation>
+	<translation>put</translation>
+	<translation>leave (informal)</translation>
+	<presentParticiple>fichant</presentParticiple>
+	<pastParticiple>fiché</pastParticiple>
+	<present>
+		<je>fiche</je>
+		<tu>fiches</tu>
+		<il>fiche</il>
+		<nous>fichons</nous>
+		<vous>fichez</vous>
+		<ils>fichent</ils>
+	</present>
+	<imperative>
+		<tu>fiche</tu>
+		<nous>fichons</nous>
+		<vous>fichez</vous>
+	</imperative>
+	<imperfect>
+		<je>fichais</je>
+		<tu>fichais</tu>
+		<il>fichait</il>
+		<nous>fichions</nous>
+		<vous>fichiez</vous>
+		<ils>fichaient</ils>
+	</imperfect>
+	<future>
+		<je>ficherai</je>
+		<tu>ficheras</tu>
+		<il>fichera</il>
+		<nous>ficherons</nous>
+		<vous>ficherez</vous>
+		<ils>ficheront</ils>
+	</future>
+	<subjunctive>
+		<je>fiche</je>
+		<tu>fiches</tu>
+		<il>fiche</il>
+		<nous>fichions</nous>
+		<vous>fichiez</vous>
+		<ils>fichent</ils>
+	</subjunctive>
+	<conditional>
+		<je>ficherais</je>
+		<tu>ficherais</tu>
+		<il>ficherait</il>
+		<nous>ficherions</nous>
+		<vous>ficheriez</vous>
+		<ils>ficheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

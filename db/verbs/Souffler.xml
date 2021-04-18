@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>souffler</infinitive>
+	<translation>to blow</translation>
+	<translation>puff</translation>
+	<presentParticiple>soufflant</presentParticiple>
+	<pastParticiple>soufflé</pastParticiple>
+	<present>
+		<je>souffle</je>
+		<tu>souffles</tu>
+		<il>souffle</il>
+		<nous>soufflons</nous>
+		<vous>soufflez</vous>
+		<ils>soufflent</ils>
+	</present>
+	<imperative>
+		<tu>souffle</tu>
+		<nous>soufflons</nous>
+		<vous>soufflez</vous>
+	</imperative>
+	<imperfect>
+		<je>soufflais</je>
+		<tu>soufflais</tu>
+		<il>soufflait</il>
+		<nous>soufflions</nous>
+		<vous>souffliez</vous>
+		<ils>soufflaient</ils>
+	</imperfect>
+	<future>
+		<je>soufflerai</je>
+		<tu>souffleras</tu>
+		<il>soufflera</il>
+		<nous>soufflerons</nous>
+		<vous>soufflerez</vous>
+		<ils>souffleront</ils>
+	</future>
+	<subjunctive>
+		<je>souffle</je>
+		<tu>souffles</tu>
+		<il>souffle</il>
+		<nous>soufflions</nous>
+		<vous>souffliez</vous>
+		<ils>soufflent</ils>
+	</subjunctive>
+	<conditional>
+		<je>soufflerais</je>
+		<tu>soufflerais</tu>
+		<il>soufflerait</il>
+		<nous>soufflerions</nous>
+		<vous>souffleriez</vous>
+		<ils>souffleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

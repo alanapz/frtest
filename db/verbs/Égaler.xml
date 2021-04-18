@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>égaler</infinitive>
+	<translation>to equal</translation>
+	<translation>be equal to</translation>
+	<presentParticiple>égalant</presentParticiple>
+	<pastParticiple>égalé</pastParticiple>
+	<present>
+		<je>égale</je>
+		<tu>égales</tu>
+		<il>égale</il>
+		<nous>égalons</nous>
+		<vous>égalez</vous>
+		<ils>égalent</ils>
+	</present>
+	<imperative>
+		<tu>égale</tu>
+		<nous>égalons</nous>
+		<vous>égalez</vous>
+	</imperative>
+	<imperfect>
+		<je>égalais</je>
+		<tu>égalais</tu>
+		<il>égalait</il>
+		<nous>égalions</nous>
+		<vous>égaliez</vous>
+		<ils>égalaient</ils>
+	</imperfect>
+	<future>
+		<je>égalerai</je>
+		<tu>égaleras</tu>
+		<il>égalera</il>
+		<nous>égalerons</nous>
+		<vous>égalerez</vous>
+		<ils>égaleront</ils>
+	</future>
+	<subjunctive>
+		<je>égale</je>
+		<tu>égales</tu>
+		<il>égale</il>
+		<nous>égalions</nous>
+		<vous>égaliez</vous>
+		<ils>égalent</ils>
+	</subjunctive>
+	<conditional>
+		<je>égalerais</je>
+		<tu>égalerais</tu>
+		<il>égalerait</il>
+		<nous>égalerions</nous>
+		<vous>égaleriez</vous>
+		<ils>égaleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

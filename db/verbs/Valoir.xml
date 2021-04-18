@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>valoir</infinitive>
+	<translation>to be worth</translation>
+	<irregular />
+	<presentParticiple>valant</presentParticiple>
+	<pastParticiple> valu</pastParticiple>
+	<present>
+		<je>vaux</je>
+		<tu>vaux</tu>
+		<il>vaut</il>
+		<nous>valons</nous>
+		<vous>valez</vous>
+		<ils>valent</ils>
+	</present>
+	<imperative>
+		<tu>vaux</tu>
+		<nous>valons</nous>
+		<vous>valez</vous>
+	</imperative>
+	<imperfect>
+		<je>valais</je>
+		<tu>valais</tu>
+		<il>valait</il>
+		<nous>valions</nous>
+		<vous>valiez</vous>
+		<ils>valaient</ils>
+	</imperfect>
+	<future>
+		<je>vaudrai</je>
+		<tu>vaudras</tu>
+		<il>vaudra</il>
+		<nous>vaudrons</nous>
+		<vous>vaudrez</vous>
+		<ils>vaudront</ils>
+	</future>
+	<subjunctive>
+		<je>vaille</je>
+		<tu>vailles</tu>
+		<il>vaille</il>
+		<nous>valions</nous>
+		<vous>valiez</vous>
+		<ils>vaillent</ils>
+	</subjunctive>
+	<conditional>
+		<je>vaudrais</je>
+		<tu>vaudrais</tu>
+		<il>vaudrait</il>
+		<nous>vaudrions</nous>
+		<vous>vaudriez</vous>
+		<ils>vaudraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

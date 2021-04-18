@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>occuper</infinitive>
+            <translation>to occupy</translation>
+            <pronominal>
+                <translation>to keep busy</translation>
+                <translation>to handle</translation>
+                <translation>to deal with</translation>
+            </pronominal>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>étouffer</infinitive>
+            <translation>to suffocate</translation>
+            <translation>to smother</translation>
+            <translation>to choke</translation>
+            <presentParticiple>étouffant</presentParticiple>
+            <pastParticiple>étouffé</pastParticiple>
+            <present>
+                <je>étouffe</je>
+                <tu>étouffes</tu>
+                <il>étouffe</il>
+                <nous>étouffons</nous>
+                <vous>étouffez</vous>
+                <ils>étouffent</ils>
+            </present>
+            <imperative>
+                <tu>étouffe</tu>
+                <nous>étouffons</nous>
+                <vous>étouffez</vous>
+            </imperative>
+            <imperfect>
+                <je>étouffais</je>
+                <tu>étouffais</tu>
+                <il>étouffait</il>
+                <nous>étouffions</nous>
+                <vous>étouffiez</vous>
+                <ils>étouffaient</ils>
+            </imperfect>
+            <future>
+                <je>étoufferai</je>
+                <tu>étoufferas</tu>
+                <il>étouffera</il>
+                <nous>étoufferons</nous>
+                <vous>étoufferez</vous>
+                <ils>étoufferont</ils>
+            </future>
+            <subjunctive>
+                <je>étouffe</je>
+                <tu>étouffes</tu>
+                <il>étouffe</il>
+                <nous>étouffions</nous>
+                <vous>étouffiez</vous>
+                <ils>étouffent</ils>
+            </subjunctive>
+            <conditional>
+                <je>étoufferais</je>
+                <tu>étoufferais</tu>
+                <il>étoufferait</il>
+                <nous>étoufferions</nous>
+                <vous>étoufferiez</vous>
+                <ils>étoufferaient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

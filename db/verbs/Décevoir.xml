@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>décevoir</infinitive>
+	<translation>to disappoint</translation>
+	<irregular />
+	<presentParticiple>décevant</presentParticiple>
+	<pastParticiple> déçu</pastParticiple>
+	<present>
+		<je>déçois</je>
+		<tu>déçois</tu>
+		<il>déçoit</il>
+		<nous>décevons</nous>
+		<vous>décevez</vous>
+		<ils>déçoivent</ils>
+	</present>
+	<imperative>
+		<tu>déçois</tu>
+		<nous>décevons</nous>
+		<vous>décevez</vous>
+	</imperative>
+	<imperfect>
+		<je>décevais</je>
+		<tu>décevais</tu>
+		<il>décevait</il>
+		<nous>décevions</nous>
+		<vous>déceviez</vous>
+		<ils>décevaient</ils>
+	</imperfect>
+	<future>
+		<je>décevrai</je>
+		<tu>décevras</tu>
+		<il>décevra</il>
+		<nous>décevrons</nous>
+		<vous>décevrez</vous>
+		<ils>décevront</ils>
+	</future>
+	<subjunctive>
+		<je>déçoive</je>
+		<tu>déçoives</tu>
+		<il>déçoive</il>
+		<nous>décevions</nous>
+		<vous>déceviez</vous>
+		<ils>déçoivent</ils>
+	</subjunctive>
+	<conditional>
+		<je>décevrais</je>
+		<tu>décevrais</tu>
+		<il>décevrait</il>
+		<nous>décevrions</nous>
+		<vous>décevriez</vous>
+		<ils>décevraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

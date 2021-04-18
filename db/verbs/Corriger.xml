@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>corriger</infinitive>
+	<translation>to correct</translation>
+	<spellingChange />
+	<presentParticiple>corrigeant</presentParticiple>
+	<pastParticiple>corrigé</pastParticiple>
+	<present>
+		<je>corrige</je>
+		<tu>corriges</tu>
+		<il>corrige</il>
+		<nous>corrigeons</nous>
+		<vous>corrigez</vous>
+		<ils>corrigent</ils>
+	</present>
+	<imperative>
+		<tu>corrige</tu>
+		<nous>corrigeons</nous>
+		<vous>corrigez</vous>
+	</imperative>
+	<imperfect>
+		<je>corrigeais</je>
+		<tu>corrigeais</tu>
+		<il>corrigeait</il>
+		<nous>corrigions</nous>
+		<vous>corrigiez</vous>
+		<ils>corrigeaient</ils>
+	</imperfect>
+	<future>
+		<je>corrigerai</je>
+		<tu>corrigeras</tu>
+		<il>corrigera</il>
+		<nous>corrigerons</nous>
+		<vous>corrigerez</vous>
+		<ils>corrigeront</ils>
+	</future>
+	<subjunctive>
+		<je>corrige</je>
+		<tu>corriges</tu>
+		<il>corrige</il>
+		<nous>corrigions</nous>
+		<vous>corrigiez</vous>
+		<ils>corrigent</ils>
+	</subjunctive>
+	<conditional>
+		<je>corrigerais</je>
+		<tu>corrigerais</tu>
+		<il>corrigerait</il>
+		<nous>corrigerions</nous>
+		<vous>corrigeriez</vous>
+		<ils>corrigeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>réparer</infinitive>
+            <translation>to repair</translation>
+            <presentParticiple>réparant</presentParticiple>
+            <pastParticiple>réparé</pastParticiple>
+            <present>
+                <je>répare</je>
+                <tu>répares</tu>
+                <il>répare</il>
+                <nous>réparons</nous>
+                <vous>réparez</vous>
+                <ils>réparent</ils>
+            </present>
+            <imperative>
+                <tu>répare</tu>
+                <nous>réparons</nous>
+                <vous>réparez</vous>
+            </imperative>
+            <imperfect>
+                <je>réparais</je>
+                <tu>réparais</tu>
+                <il>réparait</il>
+                <nous>réparions</nous>
+                <vous>répariez</vous>
+                <ils>réparaient</ils>
+            </imperfect>
+            <future>
+                <je>réparerai</je>
+                <tu>répareras</tu>
+                <il>réparera</il>
+                <nous>réparerons</nous>
+                <vous>réparerez</vous>
+                <ils>répareront</ils>
+            </future>
+            <subjunctive>
+                <je>répare</je>
+                <tu>répares</tu>
+                <il>répare</il>
+                <nous>réparions</nous>
+                <vous>répariez</vous>
+                <ils>réparent</ils>
+            </subjunctive>
+            <conditional>
+                <je>réparerais</je>
+                <tu>réparerais</tu>
+                <il>réparerait</il>
+                <nous>réparerions</nous>
+                <vous>répareriez</vous>
+                <ils>répareraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

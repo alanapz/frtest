@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>accepter</infinitive>
+	<translation>to accept</translation>
+	<translation>take</translation>
+	<presentParticiple>acceptant</presentParticiple>
+	<pastParticiple>accepté</pastParticiple>
+	<present>
+		<je>accepte</je>
+		<tu>acceptes</tu>
+		<il>accepte</il>
+		<nous>acceptons</nous>
+		<vous>acceptez</vous>
+		<ils>acceptent</ils>
+	</present>
+	<imperative>
+		<tu>accepte</tu>
+		<nous>acceptons</nous>
+		<vous>acceptez</vous>
+	</imperative>
+	<imperfect>
+		<je>acceptais</je>
+		<tu>acceptais</tu>
+		<il>acceptait</il>
+		<nous>acceptions</nous>
+		<vous>acceptiez</vous>
+		<ils>acceptaient</ils>
+	</imperfect>
+	<future>
+		<je>accepterai</je>
+		<tu>accepteras</tu>
+		<il>acceptera</il>
+		<nous>accepterons</nous>
+		<vous>accepterez</vous>
+		<ils>accepteront</ils>
+	</future>
+	<subjunctive>
+		<je>accepte</je>
+		<tu>acceptes</tu>
+		<il>accepte</il>
+		<nous>acceptions</nous>
+		<vous>acceptiez</vous>
+		<ils>acceptent</ils>
+	</subjunctive>
+	<conditional>
+		<je>accepterais</je>
+		<tu>accepterais</tu>
+		<il>accepterait</il>
+		<nous>accepterions</nous>
+		<vous>accepteriez</vous>
+		<ils>accepteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

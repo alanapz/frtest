@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>tirer</infinitive>
+	<translation>to pull</translation>
+	<presentParticiple>tirant</presentParticiple>
+	<pastParticiple>tiré</pastParticiple>
+	<present>
+		<je>tire</je>
+		<tu>tires</tu>
+		<il>tire</il>
+		<nous>tirons</nous>
+		<vous>tirez</vous>
+		<ils>tirent</ils>
+	</present>
+	<imperative>
+		<tu>tire</tu>
+		<nous>tirons</nous>
+		<vous>tirez</vous>
+	</imperative>
+	<imperfect>
+		<je>tirais</je>
+		<tu>tirais</tu>
+		<il>tirait</il>
+		<nous>tirions</nous>
+		<vous>tiriez</vous>
+		<ils>tiraient</ils>
+	</imperfect>
+	<future>
+		<je>tirerai</je>
+		<tu>tireras</tu>
+		<il>tirera</il>
+		<nous>tirerons</nous>
+		<vous>tirerez</vous>
+		<ils>tireront</ils>
+	</future>
+	<subjunctive>
+		<je>tire</je>
+		<tu>tires</tu>
+		<il>tire</il>
+		<nous>tirions</nous>
+		<vous>tiriez</vous>
+		<ils>tirent</ils>
+	</subjunctive>
+	<conditional>
+		<je>tirerais</je>
+		<tu>tirerais</tu>
+		<il>tirerait</il>
+		<nous>tirerions</nous>
+		<vous>tireriez</vous>
+		<ils>tireraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

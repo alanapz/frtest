@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>inventer</infinitive>
+	<translation>to invent</translation>
+	<presentParticiple>inventant</presentParticiple>
+	<pastParticiple>inventé</pastParticiple>
+	<present>
+		<je>invente</je>
+		<tu>inventes</tu>
+		<il>invente</il>
+		<nous>inventons</nous>
+		<vous>inventez</vous>
+		<ils>inventent</ils>
+	</present>
+	<imperative>
+		<tu>invente</tu>
+		<nous>inventons</nous>
+		<vous>inventez</vous>
+	</imperative>
+	<imperfect>
+		<je>inventais</je>
+		<tu>inventais</tu>
+		<il>inventait</il>
+		<nous>inventions</nous>
+		<vous>inventiez</vous>
+		<ils>inventaient</ils>
+	</imperfect>
+	<future>
+		<je>inventerai</je>
+		<tu>inventeras</tu>
+		<il>inventera</il>
+		<nous>inventerons</nous>
+		<vous>inventerez</vous>
+		<ils>inventeront</ils>
+	</future>
+	<subjunctive>
+		<je>invente</je>
+		<tu>inventes</tu>
+		<il>invente</il>
+		<nous>inventions</nous>
+		<vous>inventiez</vous>
+		<ils>inventent</ils>
+	</subjunctive>
+	<conditional>
+		<je>inventerais</je>
+		<tu>inventerais</tu>
+		<il>inventerait</il>
+		<nous>inventerions</nous>
+		<vous>inventeriez</vous>
+		<ils>inventeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

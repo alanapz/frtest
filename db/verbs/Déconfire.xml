@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>déconfire</infinitive>
+	<translation>to be beaten</translation>
+	<irregular />
+	<presentParticiple>déconfisant</presentParticiple>
+	<pastParticiple>déconfit</pastParticiple>
+	<present>
+		<je>déconfis</je>
+		<tu>déconfis</tu>
+		<il>déconfit</il>
+		<nous>déconfisons</nous>
+		<vous>déconfisez</vous>
+		<ils>déconfisent</ils>
+	</present>
+	<imperative>
+		<tu>déconfis</tu>
+		<nous>déconfisons</nous>
+		<vous>déconfisez</vous>
+	</imperative>
+	<imperfect>
+		<je>déconfisais</je>
+		<tu>déconfisais</tu>
+		<il>déconfisait</il>
+		<nous>déconfisions</nous>
+		<vous>déconfisiez</vous>
+		<ils>déconfisaient</ils>
+	</imperfect>
+	<future>
+		<je>déconfirai</je>
+		<tu>déconfiras</tu>
+		<il>déconfira</il>
+		<nous>déconfirons</nous>
+		<vous>déconfirez</vous>
+		<ils>déconfiront</ils>
+	</future>
+	<subjunctive>
+		<je>déconfise</je>
+		<tu>déconfises</tu>
+		<il>déconfise</il>
+		<nous>déconfisions</nous>
+		<vous>déconfisiez</vous>
+		<ils>déconfisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>déconfirais</je>
+		<tu>déconfirais</tu>
+		<il>déconfirait</il>
+		<nous>déconfirions</nous>
+		<vous>déconfiriez</vous>
+		<ils>déconfiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>hâter</infinitive>
+	<translation>to hasten</translation>
+	<presentParticiple>hâtant</presentParticiple>
+	<pastParticiple>hâté</pastParticiple>
+	<present>
+		<je>hâte</je>
+		<tu>hâtes</tu>
+		<il>hâte</il>
+		<nous>hâtons</nous>
+		<vous>hâtez</vous>
+		<ils>hâtent</ils>
+	</present>
+	<imperative>
+		<tu>hâte</tu>
+		<nous>hâtons</nous>
+		<vous>hâtez</vous>
+	</imperative>
+	<imperfect>
+		<je>hâtais</je>
+		<tu>hâtais</tu>
+		<il>hâtait</il>
+		<nous>hâtions</nous>
+		<vous>hâtiez</vous>
+		<ils>hâtaient</ils>
+	</imperfect>
+	<future>
+		<je>hâterai</je>
+		<tu>hâteras</tu>
+		<il>hâtera</il>
+		<nous>hâterons</nous>
+		<vous>hâterez</vous>
+		<ils>hâteront</ils>
+	</future>
+	<subjunctive>
+		<je>hâte</je>
+		<tu>hâtes</tu>
+		<il>hâte</il>
+		<nous>hâtions</nous>
+		<vous>hâtiez</vous>
+		<ils>hâtent</ils>
+	</subjunctive>
+	<conditional>
+		<je>hâterais</je>
+		<tu>hâterais</tu>
+		<il>hâterait</il>
+		<nous>hâterions</nous>
+		<vous>hâteriez</vous>
+		<ils>hâteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

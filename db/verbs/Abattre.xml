@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>abattre</infinitive>
+	<translation>to pull</translation>
+	<translation>knock down</translation>
+	<irregular />
+	<presentParticiple>abattant</presentParticiple>
+	<pastParticiple>abattu</pastParticiple>
+	<present>
+		<je>abats</je>
+		<tu>abats</tu>
+		<il>abat</il>
+		<nous>abattons</nous>
+		<vous>abattez</vous>
+		<ils>abattent</ils>
+	</present>
+	<imperative>
+		<tu>abats</tu>
+		<nous>abattons</nous>
+		<vous>abattez</vous>
+	</imperative>
+	<imperfect>
+		<je>abattais</je>
+		<tu>abattais</tu>
+		<il>abattait</il>
+		<nous>abattions</nous>
+		<vous>abattiez</vous>
+		<ils>abattaient</ils>
+	</imperfect>
+	<future>
+		<je>abattrai</je>
+		<tu>abattras</tu>
+		<il>abattra</il>
+		<nous>abattrons</nous>
+		<vous>abattrez</vous>
+		<ils>abattront</ils>
+	</future>
+	<subjunctive>
+		<je>abatte</je>
+		<tu>abattes</tu>
+		<il>abatte</il>
+		<nous>abattions</nous>
+		<vous>abattiez</vous>
+		<ils>abattent</ils>
+	</subjunctive>
+	<conditional>
+		<je>abattrais</je>
+		<tu>abattrais</tu>
+		<il>abattrait</il>
+		<nous>abattrions</nous>
+		<vous>abattriez</vous>
+		<ils>abattraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

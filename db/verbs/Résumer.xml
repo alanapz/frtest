@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>résumer</infinitive>
+            <translation>to summarise</translation>
+            <presentParticiple>résumant</presentParticiple>
+            <pastParticiple>résumé</pastParticiple>
+            <present>
+                <je>résume</je>
+                <tu>résumes</tu>
+                <il>résume</il>
+                <nous>résumons</nous>
+                <vous>résumez</vous>
+                <ils>résument</ils>
+            </present>
+            <imperative>
+                <tu>résume</tu>
+                <nous>résumons</nous>
+                <vous>résumez</vous>
+            </imperative>
+            <imperfect>
+                <je>résumais</je>
+                <tu>résumais</tu>
+                <il>résumait</il>
+                <nous>résumions</nous>
+                <vous>résumiez</vous>
+                <ils>résumaient</ils>
+            </imperfect>
+            <future>
+                <je>résumerai</je>
+                <tu>résumeras</tu>
+                <il>résumera</il>
+                <nous>résumerons</nous>
+                <vous>résumerez</vous>
+                <ils>résumeront</ils>
+            </future>
+            <subjunctive>
+                <je>résume</je>
+                <tu>résumes</tu>
+                <il>résume</il>
+                <nous>résumions</nous>
+                <vous>résumiez</vous>
+                <ils>résument</ils>
+            </subjunctive>
+            <conditional>
+                <je>résumerais</je>
+                <tu>résumerais</tu>
+                <il>résumerait</il>
+                <nous>résumerions</nous>
+                <vous>résumeriez</vous>
+                <ils>résumeraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

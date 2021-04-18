@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>guider</infinitive>
+	<translation>to guide</translation>
+	<presentParticiple>guidant</presentParticiple>
+	<pastParticiple>guidé</pastParticiple>
+	<present>
+		<je>guide</je>
+		<tu>guides</tu>
+		<il>guide</il>
+		<nous>guidons</nous>
+		<vous>guidez</vous>
+		<ils>guident</ils>
+	</present>
+	<imperative>
+		<tu>guide</tu>
+		<nous>guidons</nous>
+		<vous>guidez</vous>
+	</imperative>
+	<imperfect>
+		<je>guidais</je>
+		<tu>guidais</tu>
+		<il>guidait</il>
+		<nous>guidions</nous>
+		<vous>guidiez</vous>
+		<ils>guidaient</ils>
+	</imperfect>
+	<future>
+		<je>guiderai</je>
+		<tu>guideras</tu>
+		<il>guidera</il>
+		<nous>guiderons</nous>
+		<vous>guiderez</vous>
+		<ils>guideront</ils>
+	</future>
+	<subjunctive>
+		<je>guide</je>
+		<tu>guides</tu>
+		<il>guide</il>
+		<nous>guidions</nous>
+		<vous>guidiez</vous>
+		<ils>guident</ils>
+	</subjunctive>
+	<conditional>
+		<je>guiderais</je>
+		<tu>guiderais</tu>
+		<il>guiderait</il>
+		<nous>guiderions</nous>
+		<vous>guideriez</vous>
+		<ils>guideraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

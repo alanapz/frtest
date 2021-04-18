@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>aller</infinitive>
+            <translation>to go</translation>
+            <takesEtreInPerfect />
+            <presentParticiple>allant</presentParticiple>
+            <pastParticiple>allé</pastParticiple>
+            <present>
+                <je>vais</je>
+                <tu>vas</tu>
+                <il>va</il>
+                <nous>allons</nous>
+                <vous>allez</vous>
+                <ils>vont</ils>
+            </present>
+            <imperative>
+                <tu>va</tu>
+                <nous>allons</nous>
+                <vous>allez</vous>
+            </imperative>
+            <imperfect>
+                <je>allais</je>
+                <tu>allais</tu>
+                <il>allait</il>
+                <nous>allions</nous>
+                <vous>alliez</vous>
+                <ils>allaient</ils>
+            </imperfect>
+            <future>
+                <je>irai</je>
+                <tu>iras</tu>
+                <il>ira</il>
+                <nous>irons</nous>
+                <vous>irez</vous>
+                <ils>iront</ils>
+            </future>
+            <subjunctive>
+                <je>aille</je>
+                <tu>ailles</tu>
+                <il>aille</il>
+                <nous>allions</nous>
+                <vous>alliez</vous>
+                <ils>aillent</ils>
+            </subjunctive>
+            <conditional>
+                <je>irais</je>
+                <tu>irais</tu>
+                <il>irait</il>
+                <nous>irions</nous>
+                <vous>iriez</vous>
+                <ils>iraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

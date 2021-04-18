@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>parer</infinitive>
+	<translation>to prepare for</translation>
+	<translation>dress</translation>
+	<translation>to fend off</translation>
+	<presentParticiple>parant</presentParticiple>
+	<pastParticiple>paré</pastParticiple>
+	<present>
+		<je>pare</je>
+		<tu>pares</tu>
+		<il>pare</il>
+		<nous>parons</nous>
+		<vous>parez</vous>
+		<ils>parent</ils>
+	</present>
+	<imperative>
+		<tu>pare</tu>
+		<nous>parons</nous>
+		<vous>parez</vous>
+	</imperative>
+	<imperfect>
+		<je>parais</je>
+		<tu>parais</tu>
+		<il>parait</il>
+		<nous>parions</nous>
+		<vous>pariez</vous>
+		<ils>paraient</ils>
+	</imperfect>
+	<future>
+		<je>parerai</je>
+		<tu>pareras</tu>
+		<il>parera</il>
+		<nous>parerons</nous>
+		<vous>parerez</vous>
+		<ils>pareront</ils>
+	</future>
+	<subjunctive>
+		<je>pare</je>
+		<tu>pares</tu>
+		<il>pare</il>
+		<nous>parions</nous>
+		<vous>pariez</vous>
+		<ils>parent</ils>
+	</subjunctive>
+	<conditional>
+		<je>parerais</je>
+		<tu>parerais</tu>
+		<il>parerait</il>
+		<nous>parerions</nous>
+		<vous>pareriez</vous>
+		<ils>pareraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

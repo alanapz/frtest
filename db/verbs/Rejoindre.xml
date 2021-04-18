@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>rejoindre</infinitive>
+            <translation>to rejoin</translation>
+            <irregular />
+            <presentParticiple>rejoignant</presentParticiple>
+            <pastParticiple>rejoint</pastParticiple>
+            <present>
+                <je>rejoins</je>
+                <tu>rejoins</tu>
+                <il>rejoint</il>
+                <nous>rejoignons</nous>
+                <vous>rejoignez</vous>
+                <ils>rejoignent</ils>
+            </present>
+            <imperative>
+                <tu>rejoins</tu>
+                <nous>rejoignons</nous>
+                <vous>rejoignez</vous>
+            </imperative>
+            <imperfect>
+                <je>rejoignais</je>
+                <tu>rejoignais</tu>
+                <il>rejoignait</il>
+                <nous>rejoignions</nous>
+                <vous>rejoigniez</vous>
+                <ils>rejoignaient</ils>
+            </imperfect>
+            <future>
+                <je>rejoindrai</je>
+                <tu>rejoindras</tu>
+                <il>rejoindra</il>
+                <nous>rejoindrons</nous>
+                <vous>rejoindrez</vous>
+                <ils>rejoindront</ils>
+            </future>
+            <subjunctive>
+                <je>rejoigne</je>
+                <tu>rejoignes</tu>
+                <il>rejoigne</il>
+                <nous>rejoignions</nous>
+                <vous>rejoigniez</vous>
+                <ils>rejoignent</ils>
+            </subjunctive>
+            <conditional>
+                <je>rejoindrais</je>
+                <tu>rejoindrais</tu>
+                <il>rejoindrait</il>
+                <nous>rejoindrions</nous>
+                <vous>rejoindriez</vous>
+                <ils>rejoindraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

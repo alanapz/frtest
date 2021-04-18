@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>maltraiter</infinitive>
+	<translation>to mistreat</translation>
+	<presentParticiple>maltraitant</presentParticiple>
+	<pastParticiple>maltraité</pastParticiple>
+	<present>
+		<je>maltraite</je>
+		<tu>maltraites</tu>
+		<il>maltraite</il>
+		<nous>maltraitons</nous>
+		<vous>maltraitez</vous>
+		<ils>maltraitent</ils>
+	</present>
+	<imperative>
+		<tu>maltraite</tu>
+		<nous>maltraitons</nous>
+		<vous>maltraitez</vous>
+	</imperative>
+	<imperfect>
+		<je>maltraitais</je>
+		<tu>maltraitais</tu>
+		<il>maltraitait</il>
+		<nous>maltraitions</nous>
+		<vous>maltraitiez</vous>
+		<ils>maltraitaient</ils>
+	</imperfect>
+	<future>
+		<je>maltraiterai</je>
+		<tu>maltraiteras</tu>
+		<il>maltraitera</il>
+		<nous>maltraiterons</nous>
+		<vous>maltraiterez</vous>
+		<ils>maltraiteront</ils>
+	</future>
+	<subjunctive>
+		<je>maltraite</je>
+		<tu>maltraites</tu>
+		<il>maltraite</il>
+		<nous>maltraitions</nous>
+		<vous>maltraitiez</vous>
+		<ils>maltraitent</ils>
+	</subjunctive>
+	<conditional>
+		<je>maltraiterais</je>
+		<tu>maltraiterais</tu>
+		<il>maltraiterait</il>
+		<nous>maltraiterions</nous>
+		<vous>maltraiteriez</vous>
+		<ils>maltraiteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

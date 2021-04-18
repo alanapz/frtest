@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>créditer</infinitive>
+	<translation>to credit</translation>
+	<presentParticiple>créditant</presentParticiple>
+	<pastParticiple>crédité</pastParticiple>
+	<present>
+		<je>crédite</je>
+		<tu>crédites</tu>
+		<il>crédite</il>
+		<nous>créditons</nous>
+		<vous>créditez</vous>
+		<ils>créditent</ils>
+	</present>
+	<imperative>
+		<tu>crédite</tu>
+		<nous>créditons</nous>
+		<vous>créditez</vous>
+	</imperative>
+	<imperfect>
+		<je>créditais</je>
+		<tu>créditais</tu>
+		<il>créditait</il>
+		<nous>créditions</nous>
+		<vous>créditiez</vous>
+		<ils>créditaient</ils>
+	</imperfect>
+	<future>
+		<je>créditerai</je>
+		<tu>créditeras</tu>
+		<il>créditera</il>
+		<nous>créditerons</nous>
+		<vous>créditerez</vous>
+		<ils>créditeront</ils>
+	</future>
+	<subjunctive>
+		<je>crédite</je>
+		<tu>crédites</tu>
+		<il>crédite</il>
+		<nous>créditions</nous>
+		<vous>créditiez</vous>
+		<ils>créditent</ils>
+	</subjunctive>
+	<conditional>
+		<je>créditerais</je>
+		<tu>créditerais</tu>
+		<il>créditerait</il>
+		<nous>créditerions</nous>
+		<vous>créditeriez</vous>
+		<ils>créditeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

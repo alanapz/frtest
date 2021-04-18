@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>chasser</infinitive>
+	<translation>to hunt</translation>
+	<translation>chase</translation>
+	<presentParticiple>chassant</presentParticiple>
+	<pastParticiple>chassé</pastParticiple>
+	<present>
+		<je>chasse</je>
+		<tu>chasses</tu>
+		<il>chasse</il>
+		<nous>chassons</nous>
+		<vous>chassez</vous>
+		<ils>chassent</ils>
+	</present>
+	<imperative>
+		<tu>chasse</tu>
+		<nous>chassons</nous>
+		<vous>chassez</vous>
+	</imperative>
+	<imperfect>
+		<je>chassais</je>
+		<tu>chassais</tu>
+		<il>chassait</il>
+		<nous>chassions</nous>
+		<vous>chassiez</vous>
+		<ils>chassaient</ils>
+	</imperfect>
+	<future>
+		<je>chasserai</je>
+		<tu>chasseras</tu>
+		<il>chassera</il>
+		<nous>chasserons</nous>
+		<vous>chasserez</vous>
+		<ils>chasseront</ils>
+	</future>
+	<subjunctive>
+		<je>chasse</je>
+		<tu>chasses</tu>
+		<il>chasse</il>
+		<nous>chassions</nous>
+		<vous>chassiez</vous>
+		<ils>chassent</ils>
+	</subjunctive>
+	<conditional>
+		<je>chasserais</je>
+		<tu>chasserais</tu>
+		<il>chasserait</il>
+		<nous>chasserions</nous>
+		<vous>chasseriez</vous>
+		<ils>chasseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

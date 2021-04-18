@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>couler</infinitive>
+	<translation>to flow</translation>
+	<translation>run</translation>
+	<presentParticiple>coulant</presentParticiple>
+	<pastParticiple>coulé</pastParticiple>
+	<present>
+		<je>coule</je>
+		<tu>coules</tu>
+		<il>coule</il>
+		<nous>coulons</nous>
+		<vous>coulez</vous>
+		<ils>coulent</ils>
+	</present>
+	<imperative>
+		<tu>coule</tu>
+		<nous>coulons</nous>
+		<vous>coulez</vous>
+	</imperative>
+	<imperfect>
+		<je>coulais</je>
+		<tu>coulais</tu>
+		<il>coulait</il>
+		<nous>coulions</nous>
+		<vous>couliez</vous>
+		<ils>coulaient</ils>
+	</imperfect>
+	<future>
+		<je>coulerai</je>
+		<tu>couleras</tu>
+		<il>coulera</il>
+		<nous>coulerons</nous>
+		<vous>coulerez</vous>
+		<ils>couleront</ils>
+	</future>
+	<subjunctive>
+		<je>coule</je>
+		<tu>coules</tu>
+		<il>coule</il>
+		<nous>coulions</nous>
+		<vous>couliez</vous>
+		<ils>coulent</ils>
+	</subjunctive>
+	<conditional>
+		<je>coulerais</je>
+		<tu>coulerais</tu>
+		<il>coulerait</il>
+		<nous>coulerions</nous>
+		<vous>couleriez</vous>
+		<ils>couleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

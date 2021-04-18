@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>filer</infinitive>
+	<translation>to spin (out)</translation>
+	<translation>extend</translation>
+	<translation>to shadow</translation>
+	<presentParticiple>filant</presentParticiple>
+	<pastParticiple>filé</pastParticiple>
+	<present>
+		<je>file</je>
+		<tu>files</tu>
+		<il>file</il>
+		<nous>filons</nous>
+		<vous>filez</vous>
+		<ils>filent</ils>
+	</present>
+	<imperative>
+		<tu>file</tu>
+		<nous>filons</nous>
+		<vous>filez</vous>
+	</imperative>
+	<imperfect>
+		<je>filais</je>
+		<tu>filais</tu>
+		<il>filait</il>
+		<nous>filions</nous>
+		<vous>filiez</vous>
+		<ils>filaient</ils>
+	</imperfect>
+	<future>
+		<je>filerai</je>
+		<tu>fileras</tu>
+		<il>filera</il>
+		<nous>filerons</nous>
+		<vous>filerez</vous>
+		<ils>fileront</ils>
+	</future>
+	<subjunctive>
+		<je>file</je>
+		<tu>files</tu>
+		<il>file</il>
+		<nous>filions</nous>
+		<vous>filiez</vous>
+		<ils>filent</ils>
+	</subjunctive>
+	<conditional>
+		<je>filerais</je>
+		<tu>filerais</tu>
+		<il>filerait</il>
+		<nous>filerions</nous>
+		<vous>fileriez</vous>
+		<ils>fileraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>subir</infinitive>
+	<translation>to undergo</translation>
+	<translation>to be under the influence of</translation>
+	<presentParticiple>subissant</presentParticiple>
+	<pastParticiple>subi</pastParticiple>
+	<present>
+		<je>subis</je>
+		<tu>subis</tu>
+		<il>subit</il>
+		<nous>subissons</nous>
+		<vous>subissez</vous>
+		<ils>subissent</ils>
+	</present>
+	<imperative>
+		<tu>subis</tu>
+		<nous>subissons</nous>
+		<vous>subissez</vous>
+	</imperative>
+	<imperfect>
+		<je>subissais</je>
+		<tu>subissais</tu>
+		<il>subissait</il>
+		<nous>subissions</nous>
+		<vous>subissiez</vous>
+		<ils>subissaient</ils>
+	</imperfect>
+	<future>
+		<je>subirai</je>
+		<tu>subiras</tu>
+		<il>subira</il>
+		<nous>subirons</nous>
+		<vous>subirez</vous>
+		<ils>subiront</ils>
+	</future>
+	<subjunctive>
+		<je>subisse</je>
+		<tu>subisses</tu>
+		<il>subisse</il>
+		<nous>subissions</nous>
+		<vous>subissiez</vous>
+		<ils>subissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>subirais</je>
+		<tu>subirais</tu>
+		<il>subirait</il>
+		<nous>subirions</nous>
+		<vous>subiriez</vous>
+		<ils>subiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

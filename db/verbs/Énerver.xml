@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>énerver</infinitive>
+            <translation>to vex</translation>
+            <translation>to irritate</translation>
+            <translation>to annoy</translation>
+            <transitive />
+            <presentParticiple>énervant</presentParticiple>
+            <pastParticiple>énervé</pastParticiple>
+            <present>
+                <je>énerve</je>
+                <tu>énerves</tu>
+                <il>énerve</il>
+                <nous>énervons</nous>
+                <vous>énervez</vous>
+                <ils>énervent</ils>
+            </present>
+            <imperative>
+                <tu>énerve</tu>
+                <nous>énervons</nous>
+                <vous>énervez</vous>
+            </imperative>
+            <imperfect>
+                <je>énervais</je>
+                <tu>énervais</tu>
+                <il>énervait</il>
+                <nous>énervions</nous>
+                <vous>énerviez</vous>
+                <ils>énervaient</ils>
+            </imperfect>
+            <future>
+                <je>énerverai</je>
+                <tu>énerveras</tu>
+                <il>énervera</il>
+                <nous>énerverons</nous>
+                <vous>énerverez</vous>
+                <ils>énerveront</ils>
+            </future>
+            <subjunctive>
+                <je>énerve</je>
+                <tu>énerves</tu>
+                <il>énerve</il>
+                <nous>énervions</nous>
+                <vous>énerviez</vous>
+                <ils>énervent</ils>
+            </subjunctive>
+            <conditional>
+                <je>énerverais</je>
+                <tu>énerverais</tu>
+                <il>énerverait</il>
+                <nous>énerverions</nous>
+                <vous>énerveriez</vous>
+                <ils>énerveraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

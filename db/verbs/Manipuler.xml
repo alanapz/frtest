@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>manipuler</infinitive>
+	<translation>to manipulate</translation>
+	<presentParticiple>manipulant</presentParticiple>
+	<pastParticiple>manipulé</pastParticiple>
+	<present>
+		<je>manipule</je>
+		<tu>manipules</tu>
+		<il>manipule</il>
+		<nous>manipulons</nous>
+		<vous>manipulez</vous>
+		<ils>manipulent</ils>
+	</present>
+	<imperative>
+		<tu>manipule</tu>
+		<nous>manipulons</nous>
+		<vous>manipulez</vous>
+	</imperative>
+	<imperfect>
+		<je>manipulais</je>
+		<tu>manipulais</tu>
+		<il>manipulait</il>
+		<nous>manipulions</nous>
+		<vous>manipuliez</vous>
+		<ils>manipulaient</ils>
+	</imperfect>
+	<future>
+		<je>manipulerai</je>
+		<tu>manipuleras</tu>
+		<il>manipulera</il>
+		<nous>manipulerons</nous>
+		<vous>manipulerez</vous>
+		<ils>manipuleront</ils>
+	</future>
+	<subjunctive>
+		<je>manipule</je>
+		<tu>manipules</tu>
+		<il>manipule</il>
+		<nous>manipulions</nous>
+		<vous>manipuliez</vous>
+		<ils>manipulent</ils>
+	</subjunctive>
+	<conditional>
+		<je>manipulerais</je>
+		<tu>manipulerais</tu>
+		<il>manipulerait</il>
+		<nous>manipulerions</nous>
+		<vous>manipuleriez</vous>
+		<ils>manipuleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

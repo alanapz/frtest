@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>arracher</infinitive>
+	<translation>to pull up/out</translation>
+	<presentParticiple>arrachant</presentParticiple>
+	<pastParticiple>arraché</pastParticiple>
+	<present>
+		<je>arrache</je>
+		<tu>arraches</tu>
+		<il>arrache</il>
+		<nous>arrachons</nous>
+		<vous>arrachez</vous>
+		<ils>arrachent</ils>
+	</present>
+	<imperative>
+		<tu>arrache</tu>
+		<nous>arrachons</nous>
+		<vous>arrachez</vous>
+	</imperative>
+	<imperfect>
+		<je>arrachais</je>
+		<tu>arrachais</tu>
+		<il>arrachait</il>
+		<nous>arrachions</nous>
+		<vous>arrachiez</vous>
+		<ils>arrachaient</ils>
+	</imperfect>
+	<future>
+		<je>arracherai</je>
+		<tu>arracheras</tu>
+		<il>arrachera</il>
+		<nous>arracherons</nous>
+		<vous>arracherez</vous>
+		<ils>arracheront</ils>
+	</future>
+	<subjunctive>
+		<je>arrache</je>
+		<tu>arraches</tu>
+		<il>arrache</il>
+		<nous>arrachions</nous>
+		<vous>arrachiez</vous>
+		<ils>arrachent</ils>
+	</subjunctive>
+	<conditional>
+		<je>arracherais</je>
+		<tu>arracherais</tu>
+		<il>arracherait</il>
+		<nous>arracherions</nous>
+		<vous>arracheriez</vous>
+		<ils>arracheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

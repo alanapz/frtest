@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>pratiquer</infinitive>
+	<translation>to practice</translation>
+	<presentParticiple>pratiquant</presentParticiple>
+	<pastParticiple>pratiqué</pastParticiple>
+	<present>
+		<je>pratique</je>
+		<tu>pratiques</tu>
+		<il>pratique</il>
+		<nous>pratiquons</nous>
+		<vous>pratiquez</vous>
+		<ils>pratiquent</ils>
+	</present>
+	<imperative>
+		<tu>pratique</tu>
+		<nous>pratiquons</nous>
+		<vous>pratiquez</vous>
+	</imperative>
+	<imperfect>
+		<je>pratiquais</je>
+		<tu>pratiquais</tu>
+		<il>pratiquait</il>
+		<nous>pratiquions</nous>
+		<vous>pratiquiez</vous>
+		<ils>pratiquaient</ils>
+	</imperfect>
+	<future>
+		<je>pratiquerai</je>
+		<tu>pratiqueras</tu>
+		<il>pratiquera</il>
+		<nous>pratiquerons</nous>
+		<vous>pratiquerez</vous>
+		<ils>pratiqueront</ils>
+	</future>
+	<subjunctive>
+		<je>pratique</je>
+		<tu>pratiques</tu>
+		<il>pratique</il>
+		<nous>pratiquions</nous>
+		<vous>pratiquiez</vous>
+		<ils>pratiquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>pratiquerais</je>
+		<tu>pratiquerais</tu>
+		<il>pratiquerait</il>
+		<nous>pratiquerions</nous>
+		<vous>pratiqueriez</vous>
+		<ils>pratiqueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>défaire</infinitive>
+	<translation>to undo</translation>
+	<translation>dismantle</translation>
+	<irregular />
+	<presentParticiple>défaisant</presentParticiple>
+	<pastParticiple>défait</pastParticiple>
+	<present>
+		<je>défais</je>
+		<tu>défais</tu>
+		<il>défait</il>
+		<nous>défaisons</nous>
+		<vous>défaites</vous>
+		<ils>défont</ils>
+	</present>
+	<imperative>
+		<tu>défais</tu>
+		<nous>défaisons</nous>
+		<vous>défaites</vous>
+	</imperative>
+	<imperfect>
+		<je>défaisais</je>
+		<tu>défaisais</tu>
+		<il>défaisait</il>
+		<nous>défaisions</nous>
+		<vous>défaisiez</vous>
+		<ils>défaisaient</ils>
+	</imperfect>
+	<future>
+		<je>déferai</je>
+		<tu>déferas</tu>
+		<il>défera</il>
+		<nous>déferons</nous>
+		<vous>déferez</vous>
+		<ils>déferont</ils>
+	</future>
+	<subjunctive>
+		<je>défasse</je>
+		<tu>défasses</tu>
+		<il>défasse</il>
+		<nous>défassions</nous>
+		<vous>défassiez</vous>
+		<ils>défassent</ils>
+	</subjunctive>
+	<conditional>
+		<je>déferais</je>
+		<tu>déferais</tu>
+		<il>déferait</il>
+		<nous>déferions</nous>
+		<vous>déferiez</vous>
+		<ils>déferaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

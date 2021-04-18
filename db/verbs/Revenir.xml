@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>revenir</infinitive>
+            <translation>to come-back</translation>
+            <irregular />
+            <takesEtreInPerfect />
+            <presentParticiple>revenant</presentParticiple>
+            <pastParticiple>revenu</pastParticiple>
+            <present>
+                <je>reviens</je>
+                <tu>reviens</tu>
+                <il>revient</il>
+                <nous>revenons</nous>
+                <vous>revenez</vous>
+                <ils>reviennent</ils>
+            </present>
+            <imperative>
+                <tu>reviens</tu>
+                <nous>revenons</nous>
+                <vous>revenez</vous>
+            </imperative>
+            <imperfect>
+                <je>revenais</je>
+                <tu>revenais</tu>
+                <il>revenait</il>
+                <nous>revenions</nous>
+                <vous>reveniez</vous>
+                <ils>revenaient</ils>
+            </imperfect>
+            <future>
+                <je>reviendrai</je>
+                <tu>reviendras</tu>
+                <il>reviendra</il>
+                <nous>reviendrons</nous>
+                <vous>reviendrez</vous>
+                <ils>reviendront</ils>
+            </future>
+            <subjunctive>
+                <je>revienne</je>
+                <tu>reviennes</tu>
+                <il>revienne</il>
+                <nous>revenions</nous>
+                <vous>reveniez</vous>
+                <ils>reviennent</ils>
+            </subjunctive>
+            <conditional>
+                <je>reviendrais</je>
+                <tu>reviendrais</tu>
+                <il>reviendrait</il>
+                <nous>reviendrions</nous>
+                <vous>reviendriez</vous>
+                <ils>reviendraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>sentir</infinitive>
+            <translation>to smell</translation>
+            <presentParticiple>sentant</presentParticiple>
+            <pastParticiple>senti</pastParticiple>
+            <pronominal>
+                <translation>to feel</translation>
+            </pronominal>
+            <present>
+                <je>sens</je>
+                <tu>sens</tu>
+                <il>sent</il>
+                <nous>sentons</nous>
+                <vous>sentez</vous>
+                <ils>sentent</ils>
+            </present>
+            <imperative>
+                <tu>sens</tu>
+                <nous>sentons</nous>
+                <vous>sentez</vous>
+            </imperative>
+            <imperfect>
+                <je>sentais</je>
+                <tu>sentais</tu>
+                <il>sentait</il>
+                <nous>sentions</nous>
+                <vous>sentiez</vous>
+                <ils>sentaient</ils>
+            </imperfect>
+            <future>
+                <je>sentirai</je>
+                <tu>sentiras</tu>
+                <il>sentira</il>
+                <nous>sentirons</nous>
+                <vous>sentirez</vous>
+                <ils>sentiront</ils>
+            </future>
+            <subjunctive>
+                <je>sente</je>
+                <tu>sentes</tu>
+                <il>sente</il>
+                <nous>sentions</nous>
+                <vous>sentiez</vous>
+                <ils>sentent</ils>
+            </subjunctive>
+            <conditional>
+                <je>sentirais</je>
+                <tu>sentirais</tu>
+                <il>sentirait</il>
+                <nous>sentirions</nous>
+                <vous>sentiriez</vous>
+                <ils>sentiraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

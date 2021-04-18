@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>mériter</infinitive>
+	<translation>to merit</translation>
+	<translation>be worth</translation>
+	<presentParticiple>méritant</presentParticiple>
+	<pastParticiple>mérité</pastParticiple>
+	<present>
+		<je>mérite</je>
+		<tu>mérites</tu>
+		<il>mérite</il>
+		<nous>méritons</nous>
+		<vous>méritez</vous>
+		<ils>méritent</ils>
+	</present>
+	<imperative>
+		<tu>mérite</tu>
+		<nous>méritons</nous>
+		<vous>méritez</vous>
+	</imperative>
+	<imperfect>
+		<je>méritais</je>
+		<tu>méritais</tu>
+		<il>méritait</il>
+		<nous>méritions</nous>
+		<vous>méritiez</vous>
+		<ils>méritaient</ils>
+	</imperfect>
+	<future>
+		<je>mériterai</je>
+		<tu>mériteras</tu>
+		<il>méritera</il>
+		<nous>mériterons</nous>
+		<vous>mériterez</vous>
+		<ils>mériteront</ils>
+	</future>
+	<subjunctive>
+		<je>mérite</je>
+		<tu>mérites</tu>
+		<il>mérite</il>
+		<nous>méritions</nous>
+		<vous>méritiez</vous>
+		<ils>méritent</ils>
+	</subjunctive>
+	<conditional>
+		<je>mériterais</je>
+		<tu>mériterais</tu>
+		<il>mériterait</il>
+		<nous>mériterions</nous>
+		<vous>mériteriez</vous>
+		<ils>mériteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

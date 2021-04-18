@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>épicer</infinitive>
+	<translation>to spice</translation>
+	<spellingChange />
+	<presentParticiple>épiçant</presentParticiple>
+	<pastParticiple>épicé</pastParticiple>
+	<present>
+		<je>épice</je>
+		<tu>épices</tu>
+		<il>épice</il>
+		<nous>épiçons</nous>
+		<vous>épicez</vous>
+		<ils>épicent</ils>
+	</present>
+	<imperative>
+		<tu>épice</tu>
+		<nous>épiçons</nous>
+		<vous>épicez</vous>
+	</imperative>
+	<imperfect>
+		<je>épiçais</je>
+		<tu>épiçais</tu>
+		<il>épiçait</il>
+		<nous>épicions</nous>
+		<vous>épiciez</vous>
+		<ils>épiçaient</ils>
+	</imperfect>
+	<future>
+		<je>épicerai</je>
+		<tu>épiceras</tu>
+		<il>épicera</il>
+		<nous>épicerons</nous>
+		<vous>épicerez</vous>
+		<ils>épiceront</ils>
+	</future>
+	<subjunctive>
+		<je>épice</je>
+		<tu>épices</tu>
+		<il>épice</il>
+		<nous>épicions</nous>
+		<vous>épiciez</vous>
+		<ils>épicent</ils>
+	</subjunctive>
+	<conditional>
+		<je>épicerais</je>
+		<tu>épicerais</tu>
+		<il>épicerait</il>
+		<nous>épicerions</nous>
+		<vous>épiceriez</vous>
+		<ils>épiceraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

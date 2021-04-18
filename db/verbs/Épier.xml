@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>épier</infinitive>
+	<translation>to spy on</translation>
+	<translation>to watch closely</translation>
+	<presentParticiple>épiant</presentParticiple>
+	<pastParticiple>épié</pastParticiple>
+	<present>
+		<je>épie</je>
+		<tu>épies</tu>
+		<il>épie</il>
+		<nous>épions</nous>
+		<vous>épiez</vous>
+		<ils>épient</ils>
+	</present>
+	<imperative>
+		<tu>épie</tu>
+		<nous>épions</nous>
+		<vous>épiez</vous>
+	</imperative>
+	<imperfect>
+		<je>épiais</je>
+		<tu>épiais</tu>
+		<il>épiait</il>
+		<nous>épiions</nous>
+		<vous>épiiez</vous>
+		<ils>épiaient</ils>
+	</imperfect>
+	<future>
+		<je>épierai</je>
+		<tu>épieras</tu>
+		<il>épiera</il>
+		<nous>épierons</nous>
+		<vous>épierez</vous>
+		<ils>épieront</ils>
+	</future>
+	<subjunctive>
+		<je>épie</je>
+		<tu>épies</tu>
+		<il>épie</il>
+		<nous>épiions</nous>
+		<vous>épiiez</vous>
+		<ils>épient</ils>
+	</subjunctive>
+	<conditional>
+		<je>épierais</je>
+		<tu>épierais</tu>
+		<il>épierait</il>
+		<nous>épierions</nous>
+		<vous>épieriez</vous>
+		<ils>épieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

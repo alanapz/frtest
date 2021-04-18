@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dégager</infinitive>
+	<translation>to free</translation>
+	<spellingChange />
+	<presentParticiple>dégageant</presentParticiple>
+	<pastParticiple>dégagé</pastParticiple>
+	<present>
+		<je>dégage</je>
+		<tu>dégages</tu>
+		<il>dégage</il>
+		<nous>dégageons</nous>
+		<vous>dégagez</vous>
+		<ils>dégagent</ils>
+	</present>
+	<imperative>
+		<tu>dégage</tu>
+		<nous>dégageons</nous>
+		<vous>dégagez</vous>
+	</imperative>
+	<imperfect>
+		<je>dégageais</je>
+		<tu>dégageais</tu>
+		<il>dégageait</il>
+		<nous>dégagions</nous>
+		<vous>dégagiez</vous>
+		<ils>dégageaient</ils>
+	</imperfect>
+	<future>
+		<je>dégagerai</je>
+		<tu>dégageras</tu>
+		<il>dégagera</il>
+		<nous>dégagerons</nous>
+		<vous>dégagerez</vous>
+		<ils>dégageront</ils>
+	</future>
+	<subjunctive>
+		<je>dégage</je>
+		<tu>dégages</tu>
+		<il>dégage</il>
+		<nous>dégagions</nous>
+		<vous>dégagiez</vous>
+		<ils>dégagent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dégagerais</je>
+		<tu>dégagerais</tu>
+		<il>dégagerait</il>
+		<nous>dégagerions</nous>
+		<vous>dégageriez</vous>
+		<ils>dégageraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

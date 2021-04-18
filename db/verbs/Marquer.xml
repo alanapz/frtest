@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>marquer</infinitive>
+	<translation>to mark</translation>
+	<translation>indicate</translation>
+	<presentParticiple>marquant</presentParticiple>
+	<pastParticiple>marqué</pastParticiple>
+	<present>
+		<je>marque</je>
+		<tu>marques</tu>
+		<il>marque</il>
+		<nous>marquons</nous>
+		<vous>marquez</vous>
+		<ils>marquent</ils>
+	</present>
+	<imperative>
+		<tu>marque</tu>
+		<nous>marquons</nous>
+		<vous>marquez</vous>
+	</imperative>
+	<imperfect>
+		<je>marquais</je>
+		<tu>marquais</tu>
+		<il>marquait</il>
+		<nous>marquions</nous>
+		<vous>marquiez</vous>
+		<ils>marquaient</ils>
+	</imperfect>
+	<future>
+		<je>marquerai</je>
+		<tu>marqueras</tu>
+		<il>marquera</il>
+		<nous>marquerons</nous>
+		<vous>marquerez</vous>
+		<ils>marqueront</ils>
+	</future>
+	<subjunctive>
+		<je>marque</je>
+		<tu>marques</tu>
+		<il>marque</il>
+		<nous>marquions</nous>
+		<vous>marquiez</vous>
+		<ils>marquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>marquerais</je>
+		<tu>marquerais</tu>
+		<il>marquerait</il>
+		<nous>marquerions</nous>
+		<vous>marqueriez</vous>
+		<ils>marqueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

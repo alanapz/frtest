@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>rencontrer</infinitive>
+            <translation>to meet</translation>
+            <presentParticiple>rencontrant</presentParticiple>
+            <pastParticiple>rencontré</pastParticiple>
+            <present>
+                <je>rencontre</je>
+                <tu>rencontres</tu>
+                <il>rencontre</il>
+                <nous>rencontrons</nous>
+                <vous>rencontrez</vous>
+                <ils>rencontrent</ils>
+            </present>
+            <imperative>
+                <tu>rencontre</tu>
+                <nous>rencontrons</nous>
+                <vous>rencontrez</vous>
+            </imperative>
+            <imperfect>
+                <je>rencontrais</je>
+                <tu>rencontrais</tu>
+                <il>rencontrait</il>
+                <nous>rencontrions</nous>
+                <vous>rencontriez</vous>
+                <ils>rencontraient</ils>
+            </imperfect>
+            <future>
+                <je>rencontrerai</je>
+                <tu>rencontreras</tu>
+                <il>rencontrera</il>
+                <nous>rencontrerons</nous>
+                <vous>rencontrerez</vous>
+                <ils>rencontreront</ils>
+            </future>
+            <subjunctive>
+                <je>rencontre</je>
+                <tu>rencontres</tu>
+                <il>rencontre</il>
+                <nous>rencontrions</nous>
+                <vous>rencontriez</vous>
+                <ils>rencontrent</ils>
+            </subjunctive>
+            <conditional>
+                <je>rencontrerais</je>
+                <tu>rencontrerais</tu>
+                <il>rencontrerait</il>
+                <nous>rencontrerions</nous>
+                <vous>rencontreriez</vous>
+                <ils>rencontreraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>rêver</infinitive>
+            <translation>to dream</translation>
+            <presentParticiple>rêvant</presentParticiple>
+            <pastParticiple>rêvé</pastParticiple>
+            <present>
+                <je>rêve</je>
+                <tu>rêves</tu>
+                <il>rêve</il>
+                <nous>rêvons</nous>
+                <vous>rêvez</vous>
+                <ils>rêvent</ils>
+            </present>
+            <imperative>
+                <tu>rêve</tu>
+                <nous>rêvons</nous>
+                <vous>rêvez</vous>
+            </imperative>
+            <imperfect>
+                <je>rêvais</je>
+                <tu>rêvais</tu>
+                <il>rêvait</il>
+                <nous>rêvions</nous>
+                <vous>rêviez</vous>
+                <ils>rêvaient</ils>
+            </imperfect>
+            <future>
+                <je>rêverai</je>
+                <tu>rêveras</tu>
+                <il>rêvera</il>
+                <nous>rêverons</nous>
+                <vous>rêverez</vous>
+                <ils>rêveront</ils>
+            </future>
+            <subjunctive>
+                <je>rêve</je>
+                <tu>rêves</tu>
+                <il>rêve</il>
+                <nous>rêvions</nous>
+                <vous>rêviez</vous>
+                <ils>rêvent</ils>
+            </subjunctive>
+            <conditional>
+                <je>rêverais</je>
+                <tu>rêverais</tu>
+                <il>rêverait</il>
+                <nous>rêverions</nous>
+                <vous>rêveriez</vous>
+                <ils>rêveraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

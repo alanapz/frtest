@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>précipiter</infinitive>
+	<translation>to precipitate</translation>
+	<presentParticiple>précipitant</presentParticiple>
+	<pastParticiple>précipité</pastParticiple>
+	<present>
+		<je>précipite</je>
+		<tu>précipites</tu>
+		<il>précipite</il>
+		<nous>précipitons</nous>
+		<vous>précipitez</vous>
+		<ils>précipitent</ils>
+	</present>
+	<imperative>
+		<tu>précipite</tu>
+		<nous>précipitons</nous>
+		<vous>précipitez</vous>
+	</imperative>
+	<imperfect>
+		<je>précipitais</je>
+		<tu>précipitais</tu>
+		<il>précipitait</il>
+		<nous>précipitions</nous>
+		<vous>précipitiez</vous>
+		<ils>précipitaient</ils>
+	</imperfect>
+	<future>
+		<je>précipiterai</je>
+		<tu>précipiteras</tu>
+		<il>précipitera</il>
+		<nous>précipiterons</nous>
+		<vous>précipiterez</vous>
+		<ils>précipiteront</ils>
+	</future>
+	<subjunctive>
+		<je>précipite</je>
+		<tu>précipites</tu>
+		<il>précipite</il>
+		<nous>précipitions</nous>
+		<vous>précipitiez</vous>
+		<ils>précipitent</ils>
+	</subjunctive>
+	<conditional>
+		<je>précipiterais</je>
+		<tu>précipiterais</tu>
+		<il>précipiterait</il>
+		<nous>précipiterions</nous>
+		<vous>précipiteriez</vous>
+		<ils>précipiteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

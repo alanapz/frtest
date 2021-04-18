@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>renfermer</infinitive>
+            <translation>to re-lock</translation>
+            <presentParticiple>renfermant</presentParticiple>
+            <pastParticiple>renfermé</pastParticiple>
+            <present>
+                <je>renferme</je>
+                <tu>renfermes</tu>
+                <il>renferme</il>
+                <nous>renfermons</nous>
+                <vous>renfermez</vous>
+                <ils>renferment</ils>
+            </present>
+            <imperative>
+                <tu>renferme</tu>
+                <nous>renfermons</nous>
+                <vous>renfermez</vous>
+            </imperative>
+            <imperfect>
+                <je>renfermais</je>
+                <tu>renfermais</tu>
+                <il>renfermait</il>
+                <nous>renfermions</nous>
+                <vous>renfermiez</vous>
+                <ils>renfermaient</ils>
+            </imperfect>
+            <future>
+                <je>renfermerai</je>
+                <tu>renfermeras</tu>
+                <il>renfermera</il>
+                <nous>renfermerons</nous>
+                <vous>renfermerez</vous>
+                <ils>renfermeront</ils>
+            </future>
+            <subjunctive>
+                <je>renferme</je>
+                <tu>renfermes</tu>
+                <il>renferme</il>
+                <nous>renfermions</nous>
+                <vous>renfermiez</vous>
+                <ils>renferment</ils>
+            </subjunctive>
+            <conditional>
+                <je>renfermerais</je>
+                <tu>renfermerais</tu>
+                <il>renfermerait</il>
+                <nous>renfermerions</nous>
+                <vous>renfermeriez</vous>
+                <ils>renfermeraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

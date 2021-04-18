@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>habiter</infinitive>
+	<translation>to live</translation>
+	<presentParticiple>habitant</presentParticiple>
+	<pastParticiple>habité</pastParticiple>
+	<present>
+		<je>habite</je>
+		<tu>habites</tu>
+		<il>habite</il>
+		<nous>habitons</nous>
+		<vous>habitez</vous>
+		<ils>habitent</ils>
+	</present>
+	<imperative>
+		<tu>habite</tu>
+		<nous>habitons</nous>
+		<vous>habitez</vous>
+	</imperative>
+	<imperfect>
+		<je>habitais</je>
+		<tu>habitais</tu>
+		<il>habitait</il>
+		<nous>habitions</nous>
+		<vous>habitiez</vous>
+		<ils>habitaient</ils>
+	</imperfect>
+	<future>
+		<je>habiterai</je>
+		<tu>habiteras</tu>
+		<il>habitera</il>
+		<nous>habiterons</nous>
+		<vous>habiterez</vous>
+		<ils>habiteront</ils>
+	</future>
+	<subjunctive>
+		<je>habite</je>
+		<tu>habites</tu>
+		<il>habite</il>
+		<nous>habitions</nous>
+		<vous>habitiez</vous>
+		<ils>habitent</ils>
+	</subjunctive>
+	<conditional>
+		<je>habiterais</je>
+		<tu>habiterais</tu>
+		<il>habiterait</il>
+		<nous>habiterions</nous>
+		<vous>habiteriez</vous>
+		<ils>habiteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

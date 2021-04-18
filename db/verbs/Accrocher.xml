@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>accrocher</infinitive>
+	<translation>to hang (up)</translation>
+	<presentParticiple>accrochant</presentParticiple>
+	<pastParticiple>accroché</pastParticiple>
+	<present>
+		<je>accroche</je>
+		<tu>accroches</tu>
+		<il>accroche</il>
+		<nous>accrochons</nous>
+		<vous>accrochez</vous>
+		<ils>accrochent</ils>
+	</present>
+	<imperative>
+		<tu>accroche</tu>
+		<nous>accrochons</nous>
+		<vous>accrochez</vous>
+	</imperative>
+	<imperfect>
+		<je>accrochais</je>
+		<tu>accrochais</tu>
+		<il>accrochait</il>
+		<nous>accrochions</nous>
+		<vous>accrochiez</vous>
+		<ils>accrochaient</ils>
+	</imperfect>
+	<future>
+		<je>accrocherai</je>
+		<tu>accrocheras</tu>
+		<il>accrochera</il>
+		<nous>accrocherons</nous>
+		<vous>accrocherez</vous>
+		<ils>accrocheront</ils>
+	</future>
+	<subjunctive>
+		<je>accroche</je>
+		<tu>accroches</tu>
+		<il>accroche</il>
+		<nous>accrochions</nous>
+		<vous>accrochiez</vous>
+		<ils>accrochent</ils>
+	</subjunctive>
+	<conditional>
+		<je>accrocherais</je>
+		<tu>accrocherais</tu>
+		<il>accrocherait</il>
+		<nous>accrocherions</nous>
+		<vous>accrocheriez</vous>
+		<ils>accrocheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

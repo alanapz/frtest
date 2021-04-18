@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>démontrer</infinitive>
+	<translation>to demonstrate</translation>
+	<translation>prove</translation>
+	<presentParticiple>démontrant</presentParticiple>
+	<pastParticiple>démontré</pastParticiple>
+	<present>
+		<je>démontre</je>
+		<tu>démontres</tu>
+		<il>démontre</il>
+		<nous>démontrons</nous>
+		<vous>démontrez</vous>
+		<ils>démontrent</ils>
+	</present>
+	<imperative>
+		<tu>démontre</tu>
+		<nous>démontrons</nous>
+		<vous>démontrez</vous>
+	</imperative>
+	<imperfect>
+		<je>démontrais</je>
+		<tu>démontrais</tu>
+		<il>démontrait</il>
+		<nous>démontrions</nous>
+		<vous>démontriez</vous>
+		<ils>démontraient</ils>
+	</imperfect>
+	<future>
+		<je>démontrerai</je>
+		<tu>démontreras</tu>
+		<il>démontrera</il>
+		<nous>démontrerons</nous>
+		<vous>démontrerez</vous>
+		<ils>démontreront</ils>
+	</future>
+	<subjunctive>
+		<je>démontre</je>
+		<tu>démontres</tu>
+		<il>démontre</il>
+		<nous>démontrions</nous>
+		<vous>démontriez</vous>
+		<ils>démontrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>démontrerais</je>
+		<tu>démontrerais</tu>
+		<il>démontrerait</il>
+		<nous>démontrerions</nous>
+		<vous>démontreriez</vous>
+		<ils>démontreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

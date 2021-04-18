@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>vaciller</infinitive>
+	<translation>to sway</translation>
+	<translation>wobble</translation>
+	<translation>waver</translation>
+	<presentParticiple>vacillant</presentParticiple>
+	<pastParticiple>vacillé</pastParticiple>
+	<present>
+		<je>vacille</je>
+		<tu>vacilles</tu>
+		<il>vacille</il>
+		<nous>vacillons</nous>
+		<vous>vacillez</vous>
+		<ils>vacillent</ils>
+	</present>
+	<imperative>
+		<tu>vacille</tu>
+		<nous>vacillons</nous>
+		<vous>vacillez</vous>
+	</imperative>
+	<imperfect>
+		<je>vacillais</je>
+		<tu>vacillais</tu>
+		<il>vacillait</il>
+		<nous>vacillions</nous>
+		<vous>vacilliez</vous>
+		<ils>vacillaient</ils>
+	</imperfect>
+	<future>
+		<je>vacillerai</je>
+		<tu>vacilleras</tu>
+		<il>vacillera</il>
+		<nous>vacillerons</nous>
+		<vous>vacillerez</vous>
+		<ils>vacilleront</ils>
+	</future>
+	<subjunctive>
+		<je>vacille</je>
+		<tu>vacilles</tu>
+		<il>vacille</il>
+		<nous>vacillions</nous>
+		<vous>vacilliez</vous>
+		<ils>vacillent</ils>
+	</subjunctive>
+	<conditional>
+		<je>vacillerais</je>
+		<tu>vacillerais</tu>
+		<il>vacillerait</il>
+		<nous>vacillerions</nous>
+		<vous>vacilleriez</vous>
+		<ils>vacilleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

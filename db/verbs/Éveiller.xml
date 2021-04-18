@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>éveiller</infinitive>
+	<translation>to arouse</translation>
+	<translation>awaken</translation>
+	<translation>kindle</translation>
+	<presentParticiple>éveillant</presentParticiple>
+	<pastParticiple>éveillé</pastParticiple>
+	<present>
+		<je>éveille</je>
+		<tu>éveilles</tu>
+		<il>éveille</il>
+		<nous>éveillons</nous>
+		<vous>éveillez</vous>
+		<ils>éveillent</ils>
+	</present>
+	<imperative>
+		<tu>éveille</tu>
+		<nous>éveillons</nous>
+		<vous>éveillez</vous>
+	</imperative>
+	<imperfect>
+		<je>éveillais</je>
+		<tu>éveillais</tu>
+		<il>éveillait</il>
+		<nous>éveillions</nous>
+		<vous>éveilliez</vous>
+		<ils>éveillaient</ils>
+	</imperfect>
+	<future>
+		<je>éveillerai</je>
+		<tu>éveilleras</tu>
+		<il>éveillera</il>
+		<nous>éveillerons</nous>
+		<vous>éveillerez</vous>
+		<ils>éveilleront</ils>
+	</future>
+	<subjunctive>
+		<je>éveille</je>
+		<tu>éveilles</tu>
+		<il>éveille</il>
+		<nous>éveillions</nous>
+		<vous>éveilliez</vous>
+		<ils>éveillent</ils>
+	</subjunctive>
+	<conditional>
+		<je>éveillerais</je>
+		<tu>éveillerais</tu>
+		<il>éveillerait</il>
+		<nous>éveillerions</nous>
+		<vous>éveilleriez</vous>
+		<ils>éveilleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

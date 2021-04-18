@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>commettre</infinitive>
+	<translation>to commit</translation>
+	<irregular />
+	<presentParticiple>commettant</presentParticiple>
+	<pastParticiple>commis</pastParticiple>
+	<present>
+		<je>commets</je>
+		<tu>commets</tu>
+		<il>commet</il>
+		<nous>commettons</nous>
+		<vous>commettez</vous>
+		<ils>commettent</ils>
+	</present>
+	<imperative>
+		<tu>commets</tu>
+		<nous>commettons</nous>
+		<vous>commettez</vous>
+	</imperative>
+	<imperfect>
+		<je>commettais</je>
+		<tu>commettais</tu>
+		<il>commettait</il>
+		<nous>commettions</nous>
+		<vous>commettiez</vous>
+		<ils>commettaient</ils>
+	</imperfect>
+	<future>
+		<je>commettrai</je>
+		<tu>commettras</tu>
+		<il>commettra</il>
+		<nous>commettrons</nous>
+		<vous>commettrez</vous>
+		<ils>commettront</ils>
+	</future>
+	<subjunctive>
+		<je>commette</je>
+		<tu>commettes</tu>
+		<il>commette</il>
+		<nous>commettions</nous>
+		<vous>commettiez</vous>
+		<ils>commettent</ils>
+	</subjunctive>
+	<conditional>
+		<je>commettrais</je>
+		<tu>commettrais</tu>
+		<il>commettrait</il>
+		<nous>commettrions</nous>
+		<vous>commettriez</vous>
+		<ils>commettraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

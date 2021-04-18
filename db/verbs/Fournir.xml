@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>fournir</infinitive>
+	<translation>to furnish</translation>
+	<translation>provide</translation>
+	<presentParticiple>fournissant</presentParticiple>
+	<pastParticiple>fourni</pastParticiple>
+	<present>
+		<je>fournis</je>
+		<tu>fournis</tu>
+		<il>fournit</il>
+		<nous>fournissons</nous>
+		<vous>fournissez</vous>
+		<ils>fournissent</ils>
+	</present>
+	<imperative>
+		<tu>fournis</tu>
+		<nous>fournissons</nous>
+		<vous>fournissez</vous>
+	</imperative>
+	<imperfect>
+		<je>fournissais</je>
+		<tu>fournissais</tu>
+		<il>fournissait</il>
+		<nous>fournissions</nous>
+		<vous>fournissiez</vous>
+		<ils>fournissaient</ils>
+	</imperfect>
+	<future>
+		<je>fournirai</je>
+		<tu>fourniras</tu>
+		<il>fournira</il>
+		<nous>fournirons</nous>
+		<vous>fournirez</vous>
+		<ils>fourniront</ils>
+	</future>
+	<subjunctive>
+		<je>fournisse</je>
+		<tu>fournisses</tu>
+		<il>fournisse</il>
+		<nous>fournissions</nous>
+		<vous>fournissiez</vous>
+		<ils>fournissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>fournirais</je>
+		<tu>fournirais</tu>
+		<il>fournirait</il>
+		<nous>fournirions</nous>
+		<vous>fourniriez</vous>
+		<ils>fourniraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

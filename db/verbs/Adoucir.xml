@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>adoucir</infinitive>
+	<translation>to make milder</translation>
+	<translation>smoother</translation>
+	<translation>to soften</translation>
+	<presentParticiple>adoucissant</presentParticiple>
+	<pastParticiple>adouci</pastParticiple>
+	<present>
+		<je>adoucis</je>
+		<tu>adoucis</tu>
+		<il>adoucit</il>
+		<nous>adoucissons</nous>
+		<vous>adoucissez</vous>
+		<ils>adoucissent</ils>
+	</present>
+	<imperative>
+		<tu>adoucis</tu>
+		<nous>adoucissons</nous>
+		<vous>adoucissez</vous>
+	</imperative>
+	<imperfect>
+		<je>adoucissais</je>
+		<tu>adoucissais</tu>
+		<il>adoucissait</il>
+		<nous>adoucissions</nous>
+		<vous>adoucissiez</vous>
+		<ils>adoucissaient</ils>
+	</imperfect>
+	<future>
+		<je>adoucirai</je>
+		<tu>adouciras</tu>
+		<il>adoucira</il>
+		<nous>adoucirons</nous>
+		<vous>adoucirez</vous>
+		<ils>adouciront</ils>
+	</future>
+	<subjunctive>
+		<je>adoucisse</je>
+		<tu>adoucisses</tu>
+		<il>adoucisse</il>
+		<nous>adoucissions</nous>
+		<vous>adoucissiez</vous>
+		<ils>adoucissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>adoucirais</je>
+		<tu>adoucirais</tu>
+		<il>adoucirait</il>
+		<nous>adoucirions</nous>
+		<vous>adouciriez</vous>
+		<ils>adouciraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

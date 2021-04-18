@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>conquérir</infinitive>
+	<translation>to conquer</translation>
+	<irregular />
+	<presentParticiple>conquérant</presentParticiple>
+	<pastParticiple> conquis</pastParticiple>
+	<present>
+		<je>conquiers</je>
+		<tu>conquiers</tu>
+		<il>conquiert</il>
+		<nous>conquérons</nous>
+		<vous>conquérez</vous>
+		<ils>conquièrent</ils>
+	</present>
+	<imperative>
+		<tu>conquiers</tu>
+		<nous>conquérons</nous>
+		<vous>conquérez</vous>
+	</imperative>
+	<imperfect>
+		<je>conquérais</je>
+		<tu>conquérais</tu>
+		<il>conquérait</il>
+		<nous>conquérions</nous>
+		<vous>conquériez</vous>
+		<ils>conquéraient</ils>
+	</imperfect>
+	<future>
+		<je>conquerrai</je>
+		<tu>conquerras</tu>
+		<il>conquerra</il>
+		<nous>conquerrons</nous>
+		<vous>conquerrez</vous>
+		<ils>conquerront</ils>
+	</future>
+	<subjunctive>
+		<je>conquière</je>
+		<tu>conquières</tu>
+		<il>conquière</il>
+		<nous>conquérions</nous>
+		<vous>conquériez</vous>
+		<ils>conquièrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>conquerrais</je>
+		<tu>conquerrais</tu>
+		<il>conquerrait</il>
+		<nous>conquerrions</nous>
+		<vous>conquerriez</vous>
+		<ils>conquerraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

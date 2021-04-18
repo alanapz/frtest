@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>opter</infinitive>
+	<translation>to opt</translation>
+	<translation>choose</translation>
+	<presentParticiple>optant</presentParticiple>
+	<pastParticiple>opté</pastParticiple>
+	<present>
+		<je>opte</je>
+		<tu>optes</tu>
+		<il>opte</il>
+		<nous>optons</nous>
+		<vous>optez</vous>
+		<ils>optent</ils>
+	</present>
+	<imperative>
+		<tu>opte</tu>
+		<nous>optons</nous>
+		<vous>optez</vous>
+	</imperative>
+	<imperfect>
+		<je>optais</je>
+		<tu>optais</tu>
+		<il>optait</il>
+		<nous>options</nous>
+		<vous>optiez</vous>
+		<ils>optaient</ils>
+	</imperfect>
+	<future>
+		<je>opterai</je>
+		<tu>opteras</tu>
+		<il>optera</il>
+		<nous>opterons</nous>
+		<vous>opterez</vous>
+		<ils>opteront</ils>
+	</future>
+	<subjunctive>
+		<je>opte</je>
+		<tu>optes</tu>
+		<il>opte</il>
+		<nous>options</nous>
+		<vous>optiez</vous>
+		<ils>optent</ils>
+	</subjunctive>
+	<conditional>
+		<je>opterais</je>
+		<tu>opterais</tu>
+		<il>opterait</il>
+		<nous>opterions</nous>
+		<vous>opteriez</vous>
+		<ils>opteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

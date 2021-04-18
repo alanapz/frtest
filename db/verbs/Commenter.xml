@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>commenter</infinitive>
+	<translation>to comment</translation>
+	<presentParticiple>commentant</presentParticiple>
+	<pastParticiple>commenté</pastParticiple>
+	<present>
+		<je>commente</je>
+		<tu>commentes</tu>
+		<il>commente</il>
+		<nous>commentons</nous>
+		<vous>commentez</vous>
+		<ils>commentent</ils>
+	</present>
+	<imperative>
+		<tu>commente</tu>
+		<nous>commentons</nous>
+		<vous>commentez</vous>
+	</imperative>
+	<imperfect>
+		<je>commentais</je>
+		<tu>commentais</tu>
+		<il>commentait</il>
+		<nous>commentions</nous>
+		<vous>commentiez</vous>
+		<ils>commentaient</ils>
+	</imperfect>
+	<future>
+		<je>commenterai</je>
+		<tu>commenteras</tu>
+		<il>commentera</il>
+		<nous>commenterons</nous>
+		<vous>commenterez</vous>
+		<ils>commenteront</ils>
+	</future>
+	<subjunctive>
+		<je>commente</je>
+		<tu>commentes</tu>
+		<il>commente</il>
+		<nous>commentions</nous>
+		<vous>commentiez</vous>
+		<ils>commentent</ils>
+	</subjunctive>
+	<conditional>
+		<je>commenterais</je>
+		<tu>commenterais</tu>
+		<il>commenterait</il>
+		<nous>commenterions</nous>
+		<vous>commenteriez</vous>
+		<ils>commenteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

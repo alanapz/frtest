@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>adorer</infinitive>
+	<translation>to adore</translation>
+	<presentParticiple>adorant</presentParticiple>
+	<pastParticiple>adoré</pastParticiple>
+	<present>
+		<je>adore</je>
+		<tu>adores</tu>
+		<il>adore</il>
+		<nous>adorons</nous>
+		<vous>adorez</vous>
+		<ils>adorent</ils>
+	</present>
+	<imperative>
+		<tu>adore</tu>
+		<nous>adorons</nous>
+		<vous>adorez</vous>
+	</imperative>
+	<imperfect>
+		<je>adorais</je>
+		<tu>adorais</tu>
+		<il>adorait</il>
+		<nous>adorions</nous>
+		<vous>adoriez</vous>
+		<ils>adoraient</ils>
+	</imperfect>
+	<future>
+		<je>adorerai</je>
+		<tu>adoreras</tu>
+		<il>adorera</il>
+		<nous>adorerons</nous>
+		<vous>adorerez</vous>
+		<ils>adoreront</ils>
+	</future>
+	<subjunctive>
+		<je>adore</je>
+		<tu>adores</tu>
+		<il>adore</il>
+		<nous>adorions</nous>
+		<vous>adoriez</vous>
+		<ils>adorent</ils>
+	</subjunctive>
+	<conditional>
+		<je>adorerais</je>
+		<tu>adorerais</tu>
+		<il>adorerait</il>
+		<nous>adorerions</nous>
+		<vous>adoreriez</vous>
+		<ils>adoreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

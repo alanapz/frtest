@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>coûter</infinitive>
+            <translation>to cost</translation>
+            <presentParticiple>coûtant</presentParticiple>
+            <pastParticiple>coûté</pastParticiple>
+            <present>
+                <je>coûte</je>
+                <tu>coûtes</tu>
+                <il>coûte</il>
+                <nous>coûtons</nous>
+                <vous>coûtez</vous>
+                <ils>coûtent</ils>
+            </present>
+            <imperative>
+                <tu>coûte</tu>
+                <nous>coûtons</nous>
+                <vous>coûtez</vous>
+            </imperative>
+            <imperfect>
+                <je>coûtais</je>
+                <tu>coûtais</tu>
+                <il>coûtait</il>
+                <nous>coûtions</nous>
+                <vous>coûtiez</vous>
+                <ils>coûtaient</ils>
+            </imperfect>
+            <future>
+                <je>coûterai</je>
+                <tu>coûteras</tu>
+                <il>coûtera</il>
+                <nous>coûterons</nous>
+                <vous>coûterez</vous>
+                <ils>coûteront</ils>
+            </future>
+            <subjunctive>
+                <je>coûte</je>
+                <tu>coûtes</tu>
+                <il>coûte</il>
+                <nous>coûtions</nous>
+                <vous>coûtiez</vous>
+                <ils>coûtent</ils>
+            </subjunctive>
+            <conditional>
+                <je>coûterais</je>
+                <tu>coûterais</tu>
+                <il>coûterait</il>
+                <nous>coûterions</nous>
+                <vous>coûteriez</vous>
+                <ils>coûteraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

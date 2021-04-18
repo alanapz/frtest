@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>épouser</infinitive>
+	<translation>to marry</translation>
+	<presentParticiple>épousant</presentParticiple>
+	<pastParticiple>épousé</pastParticiple>
+	<present>
+		<je>épouse</je>
+		<tu>épouses</tu>
+		<il>épouse</il>
+		<nous>épousons</nous>
+		<vous>épousez</vous>
+		<ils>épousent</ils>
+	</present>
+	<imperative>
+		<tu>épouse</tu>
+		<nous>épousons</nous>
+		<vous>épousez</vous>
+	</imperative>
+	<imperfect>
+		<je>épousais</je>
+		<tu>épousais</tu>
+		<il>épousait</il>
+		<nous>épousions</nous>
+		<vous>épousiez</vous>
+		<ils>épousaient</ils>
+	</imperfect>
+	<future>
+		<je>épouserai</je>
+		<tu>épouseras</tu>
+		<il>épousera</il>
+		<nous>épouserons</nous>
+		<vous>épouserez</vous>
+		<ils>épouseront</ils>
+	</future>
+	<subjunctive>
+		<je>épouse</je>
+		<tu>épouses</tu>
+		<il>épouse</il>
+		<nous>épousions</nous>
+		<vous>épousiez</vous>
+		<ils>épousent</ils>
+	</subjunctive>
+	<conditional>
+		<je>épouserais</je>
+		<tu>épouserais</tu>
+		<il>épouserait</il>
+		<nous>épouserions</nous>
+		<vous>épouseriez</vous>
+		<ils>épouseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

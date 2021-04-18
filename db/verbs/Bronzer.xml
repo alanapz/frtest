@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>bronzer</infinitive>
+	<translation>to tan</translation>
+	<presentParticiple>bronzant</presentParticiple>
+	<pastParticiple>bronzé</pastParticiple>
+	<present>
+		<je>bronze</je>
+		<tu>bronzes</tu>
+		<il>bronze</il>
+		<nous>bronzons</nous>
+		<vous>bronzez</vous>
+		<ils>bronzent</ils>
+	</present>
+	<imperative>
+		<tu>bronze</tu>
+		<nous>bronzons</nous>
+		<vous>bronzez</vous>
+	</imperative>
+	<imperfect>
+		<je>bronzais</je>
+		<tu>bronzais</tu>
+		<il>bronzait</il>
+		<nous>bronzions</nous>
+		<vous>bronziez</vous>
+		<ils>bronzaient</ils>
+	</imperfect>
+	<future>
+		<je>bronzerai</je>
+		<tu>bronzeras</tu>
+		<il>bronzera</il>
+		<nous>bronzerons</nous>
+		<vous>bronzerez</vous>
+		<ils>bronzeront</ils>
+	</future>
+	<subjunctive>
+		<je>bronze</je>
+		<tu>bronzes</tu>
+		<il>bronze</il>
+		<nous>bronzions</nous>
+		<vous>bronziez</vous>
+		<ils>bronzent</ils>
+	</subjunctive>
+	<conditional>
+		<je>bronzerais</je>
+		<tu>bronzerais</tu>
+		<il>bronzerait</il>
+		<nous>bronzerions</nous>
+		<vous>bronzeriez</vous>
+		<ils>bronzeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

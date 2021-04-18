@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>varier</infinitive>
+	<translation>to vary</translation>
+	<presentParticiple>variant</presentParticiple>
+	<pastParticiple>varié</pastParticiple>
+	<present>
+		<je>varie</je>
+		<tu>varies</tu>
+		<il>varie</il>
+		<nous>varions</nous>
+		<vous>variez</vous>
+		<ils>varient</ils>
+	</present>
+	<imperative>
+		<tu>varie</tu>
+		<nous>varions</nous>
+		<vous>variez</vous>
+	</imperative>
+	<imperfect>
+		<je>variais</je>
+		<tu>variais</tu>
+		<il>variait</il>
+		<nous>variions</nous>
+		<vous>variiez</vous>
+		<ils>variaient</ils>
+	</imperfect>
+	<future>
+		<je>varierai</je>
+		<tu>varieras</tu>
+		<il>variera</il>
+		<nous>varierons</nous>
+		<vous>varierez</vous>
+		<ils>varieront</ils>
+	</future>
+	<subjunctive>
+		<je>varie</je>
+		<tu>varies</tu>
+		<il>varie</il>
+		<nous>variions</nous>
+		<vous>variiez</vous>
+		<ils>varient</ils>
+	</subjunctive>
+	<conditional>
+		<je>varierais</je>
+		<tu>varierais</tu>
+		<il>varierait</il>
+		<nous>varierions</nous>
+		<vous>varieriez</vous>
+		<ils>varieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

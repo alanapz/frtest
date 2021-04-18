@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>abuser</infinitive>
+	<translation>to abuse</translation>
+	<presentParticiple>abusant</presentParticiple>
+	<pastParticiple>abusé</pastParticiple>
+	<present>
+		<je>abuse</je>
+		<tu>abuses</tu>
+		<il>abuse</il>
+		<nous>abusons</nous>
+		<vous>abusez</vous>
+		<ils>abusent</ils>
+	</present>
+	<imperative>
+		<tu>abuse</tu>
+		<nous>abusons</nous>
+		<vous>abusez</vous>
+	</imperative>
+	<imperfect>
+		<je>abusais</je>
+		<tu>abusais</tu>
+		<il>abusait</il>
+		<nous>abusions</nous>
+		<vous>abusiez</vous>
+		<ils>abusaient</ils>
+	</imperfect>
+	<future>
+		<je>abuserai</je>
+		<tu>abuseras</tu>
+		<il>abusera</il>
+		<nous>abuserons</nous>
+		<vous>abuserez</vous>
+		<ils>abuseront</ils>
+	</future>
+	<subjunctive>
+		<je>abuse</je>
+		<tu>abuses</tu>
+		<il>abuse</il>
+		<nous>abusions</nous>
+		<vous>abusiez</vous>
+		<ils>abusent</ils>
+	</subjunctive>
+	<conditional>
+		<je>abuserais</je>
+		<tu>abuserais</tu>
+		<il>abuserait</il>
+		<nous>abuserions</nous>
+		<vous>abuseriez</vous>
+		<ils>abuseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

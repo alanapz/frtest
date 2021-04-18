@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>oser</infinitive>
+	<translation>to dare</translation>
+	<presentParticiple>osant</presentParticiple>
+	<pastParticiple>osé</pastParticiple>
+	<present>
+		<je>ose</je>
+		<tu>oses</tu>
+		<il>ose</il>
+		<nous>osons</nous>
+		<vous>osez</vous>
+		<ils>osent</ils>
+	</present>
+	<imperative>
+		<tu>ose</tu>
+		<nous>osons</nous>
+		<vous>osez</vous>
+	</imperative>
+	<imperfect>
+		<je>osais</je>
+		<tu>osais</tu>
+		<il>osait</il>
+		<nous>osions</nous>
+		<vous>osiez</vous>
+		<ils>osaient</ils>
+	</imperfect>
+	<future>
+		<je>oserai</je>
+		<tu>oseras</tu>
+		<il>osera</il>
+		<nous>oserons</nous>
+		<vous>oserez</vous>
+		<ils>oseront</ils>
+	</future>
+	<subjunctive>
+		<je>ose</je>
+		<tu>oses</tu>
+		<il>ose</il>
+		<nous>osions</nous>
+		<vous>osiez</vous>
+		<ils>osent</ils>
+	</subjunctive>
+	<conditional>
+		<je>oserais</je>
+		<tu>oserais</tu>
+		<il>oserait</il>
+		<nous>oserions</nous>
+		<vous>oseriez</vous>
+		<ils>oseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

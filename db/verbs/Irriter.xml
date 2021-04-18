@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>irriter</infinitive>
+	<translation>to irritate</translation>
+	<presentParticiple>irritant</presentParticiple>
+	<pastParticiple>irrité</pastParticiple>
+	<present>
+		<je>irrite</je>
+		<tu>irrites</tu>
+		<il>irrite</il>
+		<nous>irritons</nous>
+		<vous>irritez</vous>
+		<ils>irritent</ils>
+	</present>
+	<imperative>
+		<tu>irrite</tu>
+		<nous>irritons</nous>
+		<vous>irritez</vous>
+	</imperative>
+	<imperfect>
+		<je>irritais</je>
+		<tu>irritais</tu>
+		<il>irritait</il>
+		<nous>irritions</nous>
+		<vous>irritiez</vous>
+		<ils>irritaient</ils>
+	</imperfect>
+	<future>
+		<je>irriterai</je>
+		<tu>irriteras</tu>
+		<il>irritera</il>
+		<nous>irriterons</nous>
+		<vous>irriterez</vous>
+		<ils>irriteront</ils>
+	</future>
+	<subjunctive>
+		<je>irrite</je>
+		<tu>irrites</tu>
+		<il>irrite</il>
+		<nous>irritions</nous>
+		<vous>irritiez</vous>
+		<ils>irritent</ils>
+	</subjunctive>
+	<conditional>
+		<je>irriterais</je>
+		<tu>irriterais</tu>
+		<il>irriterait</il>
+		<nous>irriterions</nous>
+		<vous>irriteriez</vous>
+		<ils>irriteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

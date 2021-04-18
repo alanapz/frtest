@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dégo&#251;ter</infinitive>
+	<translation>to disgust</translation>
+	<presentParticiple>dégo&#251;tant</presentParticiple>
+	<pastParticiple>dégo&#251;té</pastParticiple>
+	<present>
+		<je>dégo&#251;te</je>
+		<tu>dégo&#251;tes</tu>
+		<il>dégo&#251;te</il>
+		<nous>dégo&#251;tons</nous>
+		<vous>dégo&#251;tez</vous>
+		<ils>dégo&#251;tent</ils>
+	</present>
+	<imperative>
+		<tu>dégo&#251;te</tu>
+		<nous>dégo&#251;tons</nous>
+		<vous>dégo&#251;tez</vous>
+	</imperative>
+	<imperfect>
+		<je>dégo&#251;tais</je>
+		<tu>dégo&#251;tais</tu>
+		<il>dégo&#251;tait</il>
+		<nous>dégo&#251;tions</nous>
+		<vous>dégo&#251;tiez</vous>
+		<ils>dégo&#251;taient</ils>
+	</imperfect>
+	<future>
+		<je>dégo&#251;terai</je>
+		<tu>dégo&#251;teras</tu>
+		<il>dégo&#251;tera</il>
+		<nous>dégo&#251;terons</nous>
+		<vous>dégo&#251;terez</vous>
+		<ils>dégo&#251;teront</ils>
+	</future>
+	<subjunctive>
+		<je>dégo&#251;te</je>
+		<tu>dégo&#251;tes</tu>
+		<il>dégo&#251;te</il>
+		<nous>dégo&#251;tions</nous>
+		<vous>dégo&#251;tiez</vous>
+		<ils>dégo&#251;tent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dégo&#251;terais</je>
+		<tu>dégo&#251;terais</tu>
+		<il>dégo&#251;terait</il>
+		<nous>dégo&#251;terions</nous>
+		<vous>dégo&#251;teriez</vous>
+		<ils>dégo&#251;teraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

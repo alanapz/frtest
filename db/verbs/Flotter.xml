@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>flotter</infinitive>
+	<translation>to float</translation>
+	<translation>flutter</translation>
+	<presentParticiple>flottant</presentParticiple>
+	<pastParticiple>flotté</pastParticiple>
+	<present>
+		<je>flotte</je>
+		<tu>flottes</tu>
+		<il>flotte</il>
+		<nous>flottons</nous>
+		<vous>flottez</vous>
+		<ils>flottent</ils>
+	</present>
+	<imperative>
+		<tu>flotte</tu>
+		<nous>flottons</nous>
+		<vous>flottez</vous>
+	</imperative>
+	<imperfect>
+		<je>flottais</je>
+		<tu>flottais</tu>
+		<il>flottait</il>
+		<nous>flottions</nous>
+		<vous>flottiez</vous>
+		<ils>flottaient</ils>
+	</imperfect>
+	<future>
+		<je>flotterai</je>
+		<tu>flotteras</tu>
+		<il>flottera</il>
+		<nous>flotterons</nous>
+		<vous>flotterez</vous>
+		<ils>flotteront</ils>
+	</future>
+	<subjunctive>
+		<je>flotte</je>
+		<tu>flottes</tu>
+		<il>flotte</il>
+		<nous>flottions</nous>
+		<vous>flottiez</vous>
+		<ils>flottent</ils>
+	</subjunctive>
+	<conditional>
+		<je>flotterais</je>
+		<tu>flotterais</tu>
+		<il>flotterait</il>
+		<nous>flotterions</nous>
+		<vous>flotteriez</vous>
+		<ils>flotteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

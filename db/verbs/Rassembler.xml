@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>rassembler</infinitive>
+	<translation>to gather</translation>
+	<translation>assemble</translation>
+	<translation>to collect</translation>
+	<presentParticiple>rassemblant</presentParticiple>
+	<pastParticiple>rassemblé</pastParticiple>
+	<present>
+		<je>rassemble</je>
+		<tu>rassembles</tu>
+		<il>rassemble</il>
+		<nous>rassemblons</nous>
+		<vous>rassemblez</vous>
+		<ils>rassemblent</ils>
+	</present>
+	<imperative>
+		<tu>rassemble</tu>
+		<nous>rassemblons</nous>
+		<vous>rassemblez</vous>
+	</imperative>
+	<imperfect>
+		<je>rassemblais</je>
+		<tu>rassemblais</tu>
+		<il>rassemblait</il>
+		<nous>rassemblions</nous>
+		<vous>rassembliez</vous>
+		<ils>rassemblaient</ils>
+	</imperfect>
+	<future>
+		<je>rassemblerai</je>
+		<tu>rassembleras</tu>
+		<il>rassemblera</il>
+		<nous>rassemblerons</nous>
+		<vous>rassemblerez</vous>
+		<ils>rassembleront</ils>
+	</future>
+	<subjunctive>
+		<je>rassemble</je>
+		<tu>rassembles</tu>
+		<il>rassemble</il>
+		<nous>rassemblions</nous>
+		<vous>rassembliez</vous>
+		<ils>rassemblent</ils>
+	</subjunctive>
+	<conditional>
+		<je>rassemblerais</je>
+		<tu>rassemblerais</tu>
+		<il>rassemblerait</il>
+		<nous>rassemblerions</nous>
+		<vous>rassembleriez</vous>
+		<ils>rassembleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

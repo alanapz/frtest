@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>confier</infinitive>
+            <translation>to confide</translation>
+            <translation>to entrust</translation>
+        </verb>
+    </verbs>
+</dictionary>

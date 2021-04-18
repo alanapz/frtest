@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dorer</infinitive>
+	<translation>to gild</translation>
+	<translation>to sweeten (figurative)</translation>
+	<presentParticiple>dorant</presentParticiple>
+	<pastParticiple>doré</pastParticiple>
+	<present>
+		<je>dore</je>
+		<tu>dores</tu>
+		<il>dore</il>
+		<nous>dorons</nous>
+		<vous>dorez</vous>
+		<ils>dorent</ils>
+	</present>
+	<imperative>
+		<tu>dore</tu>
+		<nous>dorons</nous>
+		<vous>dorez</vous>
+	</imperative>
+	<imperfect>
+		<je>dorais</je>
+		<tu>dorais</tu>
+		<il>dorait</il>
+		<nous>dorions</nous>
+		<vous>doriez</vous>
+		<ils>doraient</ils>
+	</imperfect>
+	<future>
+		<je>dorerai</je>
+		<tu>doreras</tu>
+		<il>dorera</il>
+		<nous>dorerons</nous>
+		<vous>dorerez</vous>
+		<ils>doreront</ils>
+	</future>
+	<subjunctive>
+		<je>dore</je>
+		<tu>dores</tu>
+		<il>dore</il>
+		<nous>dorions</nous>
+		<vous>doriez</vous>
+		<ils>dorent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dorerais</je>
+		<tu>dorerais</tu>
+		<il>dorerait</il>
+		<nous>dorerions</nous>
+		<vous>doreriez</vous>
+		<ils>doreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

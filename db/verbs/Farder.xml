@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>farder</infinitive>
+	<translation>to put on make up</translation>
+	<translation>to dress up</translation>
+	<presentParticiple>fardant</presentParticiple>
+	<pastParticiple>fardé</pastParticiple>
+	<present>
+		<je>farde</je>
+		<tu>fardes</tu>
+		<il>farde</il>
+		<nous>fardons</nous>
+		<vous>fardez</vous>
+		<ils>fardent</ils>
+	</present>
+	<imperative>
+		<tu>farde</tu>
+		<nous>fardons</nous>
+		<vous>fardez</vous>
+	</imperative>
+	<imperfect>
+		<je>fardais</je>
+		<tu>fardais</tu>
+		<il>fardait</il>
+		<nous>fardions</nous>
+		<vous>fardiez</vous>
+		<ils>fardaient</ils>
+	</imperfect>
+	<future>
+		<je>farderai</je>
+		<tu>farderas</tu>
+		<il>fardera</il>
+		<nous>farderons</nous>
+		<vous>farderez</vous>
+		<ils>farderont</ils>
+	</future>
+	<subjunctive>
+		<je>farde</je>
+		<tu>fardes</tu>
+		<il>farde</il>
+		<nous>fardions</nous>
+		<vous>fardiez</vous>
+		<ils>fardent</ils>
+	</subjunctive>
+	<conditional>
+		<je>farderais</je>
+		<tu>farderais</tu>
+		<il>farderait</il>
+		<nous>farderions</nous>
+		<vous>farderiez</vous>
+		<ils>farderaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

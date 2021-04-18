@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>redouter</infinitive>
+	<translation>to dread</translation>
+	<translation>fear</translation>
+	<presentParticiple>redoutant</presentParticiple>
+	<pastParticiple>redouté</pastParticiple>
+	<present>
+		<je>redoute</je>
+		<tu>redoutes</tu>
+		<il>redoute</il>
+		<nous>redoutons</nous>
+		<vous>redoutez</vous>
+		<ils>redoutent</ils>
+	</present>
+	<imperative>
+		<tu>redoute</tu>
+		<nous>redoutons</nous>
+		<vous>redoutez</vous>
+	</imperative>
+	<imperfect>
+		<je>redoutais</je>
+		<tu>redoutais</tu>
+		<il>redoutait</il>
+		<nous>redoutions</nous>
+		<vous>redoutiez</vous>
+		<ils>redoutaient</ils>
+	</imperfect>
+	<future>
+		<je>redouterai</je>
+		<tu>redouteras</tu>
+		<il>redoutera</il>
+		<nous>redouterons</nous>
+		<vous>redouterez</vous>
+		<ils>redouteront</ils>
+	</future>
+	<subjunctive>
+		<je>redoute</je>
+		<tu>redoutes</tu>
+		<il>redoute</il>
+		<nous>redoutions</nous>
+		<vous>redoutiez</vous>
+		<ils>redoutent</ils>
+	</subjunctive>
+	<conditional>
+		<je>redouterais</je>
+		<tu>redouterais</tu>
+		<il>redouterait</il>
+		<nous>redouterions</nous>
+		<vous>redouteriez</vous>
+		<ils>redouteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

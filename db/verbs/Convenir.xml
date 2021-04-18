@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>convenir</infinitive>
+	<translation>to suit</translation>
+	<translation>be suitable</translation>
+	<irregular />
+	<takesEtreInPerfect />
+	<presentParticiple>convenant</presentParticiple>
+	<pastParticiple>convenu</pastParticiple>
+	<present>
+		<je>conviens</je>
+		<tu>conviens</tu>
+		<il>convient</il>
+		<nous>convenons</nous>
+		<vous>convenez</vous>
+		<ils>conviennent</ils>
+	</present>
+	<imperative>
+		<tu>conviens</tu>
+		<nous>convenons</nous>
+		<vous>convenez</vous>
+	</imperative>
+	<imperfect>
+		<je>convenais</je>
+		<tu>convenais</tu>
+		<il>convenait</il>
+		<nous>convenions</nous>
+		<vous>conveniez</vous>
+		<ils>convenaient</ils>
+	</imperfect>
+	<future>
+		<je>conviendrai</je>
+		<tu>conviendras</tu>
+		<il>conviendra</il>
+		<nous>conviendrons</nous>
+		<vous>conviendrez</vous>
+		<ils>conviendront</ils>
+	</future>
+	<subjunctive>
+		<je>convienne</je>
+		<tu>conviennes</tu>
+		<il>convienne</il>
+		<nous>convenions</nous>
+		<vous>conveniez</vous>
+		<ils>conviennent</ils>
+	</subjunctive>
+	<conditional>
+		<je>conviendrais</je>
+		<tu>conviendrais</tu>
+		<il>conviendrait</il>
+		<nous>conviendrions</nous>
+		<vous>conviendriez</vous>
+		<ils>conviendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>bousculer</infinitive>
+	<translation>to bump into</translation>
+	<translation>to hurry</translation>
+	<translation>to liven up</translation>
+	<presentParticiple>bousculant</presentParticiple>
+	<pastParticiple>bousculé</pastParticiple>
+	<present>
+		<je>bouscule</je>
+		<tu>bouscules</tu>
+		<il>bouscule</il>
+		<nous>bousculons</nous>
+		<vous>bousculez</vous>
+		<ils>bousculent</ils>
+	</present>
+	<imperative>
+		<tu>bouscule</tu>
+		<nous>bousculons</nous>
+		<vous>bousculez</vous>
+	</imperative>
+	<imperfect>
+		<je>bousculais</je>
+		<tu>bousculais</tu>
+		<il>bousculait</il>
+		<nous>bousculions</nous>
+		<vous>bousculiez</vous>
+		<ils>bousculaient</ils>
+	</imperfect>
+	<future>
+		<je>bousculerai</je>
+		<tu>bousculeras</tu>
+		<il>bousculera</il>
+		<nous>bousculerons</nous>
+		<vous>bousculerez</vous>
+		<ils>bousculeront</ils>
+	</future>
+	<subjunctive>
+		<je>bouscule</je>
+		<tu>bouscules</tu>
+		<il>bouscule</il>
+		<nous>bousculions</nous>
+		<vous>bousculiez</vous>
+		<ils>bousculent</ils>
+	</subjunctive>
+	<conditional>
+		<je>bousculerais</je>
+		<tu>bousculerais</tu>
+		<il>bousculerait</il>
+		<nous>bousculerions</nous>
+		<vous>bousculeriez</vous>
+		<ils>bousculeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

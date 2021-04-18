@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>connaitre</infinitive>
+            <translation>to know of</translation>
+            <translation>be familiar with</translation>
+            <presentParticiple>connaissant</presentParticiple>
+            <pastParticiple>connu</pastParticiple>
+            <present>
+                <je>connais</je>
+                <tu>connais</tu>
+                <il>connait</il>
+                <nous>connaissons</nous>
+                <vous>connaissez</vous>
+                <ils>connaissent</ils>
+            </present>
+            <imperative>
+                <tu>connais</tu>
+                <nous>connaissons</nous>
+                <vous>connaissez</vous>
+            </imperative>
+            <imperfect>
+                <je>connaissais</je>
+                <tu>connaissais</tu>
+                <il>connaissait</il>
+                <nous>connaissions</nous>
+                <vous>connaissiez</vous>
+                <ils>connaissaient</ils>
+            </imperfect>
+            <future>
+                <je>connaitrai</je>
+                <tu>connaitras</tu>
+                <il>connaitra</il>
+                <nous>connaitrons</nous>
+                <vous>connaitrez</vous>
+                <ils>connaitront</ils>
+            </future>
+            <subjunctive>
+                <je>connaisse</je>
+                <tu>connaisses</tu>
+                <il>connaisse</il>
+                <nous>connaissions</nous>
+                <vous>connaissiez</vous>
+                <ils>connaissent</ils>
+            </subjunctive>
+            <conditional>
+                <je>connaitrais</je>
+                <tu>connaitrais</tu>
+                <il>connaitrait</il>
+                <nous>connaitrions</nous>
+                <vous>connaitriez</vous>
+                <ils>connaitraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

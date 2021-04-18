@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>chômer</infinitive>
+	<translation>to be idle</translation>
+	<translation>unemployed</translation>
+	<presentParticiple>chômant</presentParticiple>
+	<pastParticiple>chômé</pastParticiple>
+	<present>
+		<je>chôme</je>
+		<tu>chômes</tu>
+		<il>chôme</il>
+		<nous>chômons</nous>
+		<vous>chômez</vous>
+		<ils>chôment</ils>
+	</present>
+	<imperative>
+		<tu>chôme</tu>
+		<nous>chômons</nous>
+		<vous>chômez</vous>
+	</imperative>
+	<imperfect>
+		<je>chômais</je>
+		<tu>chômais</tu>
+		<il>chômait</il>
+		<nous>chômions</nous>
+		<vous>chômiez</vous>
+		<ils>chômaient</ils>
+	</imperfect>
+	<future>
+		<je>chômerai</je>
+		<tu>chômeras</tu>
+		<il>chômera</il>
+		<nous>chômerons</nous>
+		<vous>chômerez</vous>
+		<ils>chômeront</ils>
+	</future>
+	<subjunctive>
+		<je>chôme</je>
+		<tu>chômes</tu>
+		<il>chôme</il>
+		<nous>chômions</nous>
+		<vous>chômiez</vous>
+		<ils>chôment</ils>
+	</subjunctive>
+	<conditional>
+		<je>chômerais</je>
+		<tu>chômerais</tu>
+		<il>chômerait</il>
+		<nous>chômerions</nous>
+		<vous>chômeriez</vous>
+		<ils>chômeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

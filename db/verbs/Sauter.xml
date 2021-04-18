@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>sauter</infinitive>
+	<translation>to jump</translation>
+	<presentParticiple>sautant</presentParticiple>
+	<pastParticiple>sauté</pastParticiple>
+	<present>
+		<je>saute</je>
+		<tu>sautes</tu>
+		<il>saute</il>
+		<nous>sautons</nous>
+		<vous>sautez</vous>
+		<ils>sautent</ils>
+	</present>
+	<imperative>
+		<tu>saute</tu>
+		<nous>sautons</nous>
+		<vous>sautez</vous>
+	</imperative>
+	<imperfect>
+		<je>sautais</je>
+		<tu>sautais</tu>
+		<il>sautait</il>
+		<nous>sautions</nous>
+		<vous>sautiez</vous>
+		<ils>sautaient</ils>
+	</imperfect>
+	<future>
+		<je>sauterai</je>
+		<tu>sauteras</tu>
+		<il>sautera</il>
+		<nous>sauterons</nous>
+		<vous>sauterez</vous>
+		<ils>sauteront</ils>
+	</future>
+	<subjunctive>
+		<je>saute</je>
+		<tu>sautes</tu>
+		<il>saute</il>
+		<nous>sautions</nous>
+		<vous>sautiez</vous>
+		<ils>sautent</ils>
+	</subjunctive>
+	<conditional>
+		<je>sauterais</je>
+		<tu>sauterais</tu>
+		<il>sauterait</il>
+		<nous>sauterions</nous>
+		<vous>sauteriez</vous>
+		<ils>sauteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

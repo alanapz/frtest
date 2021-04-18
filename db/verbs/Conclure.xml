@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>conclure</infinitive>
+	<translation>to conclude</translation>
+	<irregular />
+	<presentParticiple>concluant</presentParticiple>
+	<pastParticiple>conclu</pastParticiple>
+	<present>
+		<je>conclus</je>
+		<tu>conclus</tu>
+		<il>conclut</il>
+		<nous>concluons</nous>
+		<vous>concluez</vous>
+		<ils>concluent</ils>
+	</present>
+	<imperative>
+		<tu>conclus</tu>
+		<nous>concluons</nous>
+		<vous>concluez</vous>
+	</imperative>
+	<imperfect>
+		<je>concluais</je>
+		<tu>concluais</tu>
+		<il>concluait</il>
+		<nous>concluions</nous>
+		<vous>concluiez</vous>
+		<ils>concluaient</ils>
+	</imperfect>
+	<future>
+		<je>conclurai</je>
+		<tu>concluras</tu>
+		<il>conclura</il>
+		<nous>conclurons</nous>
+		<vous>conclurez</vous>
+		<ils>concluront</ils>
+	</future>
+	<subjunctive>
+		<je>conclue</je>
+		<tu>conclues</tu>
+		<il>conclue</il>
+		<nous>concluions</nous>
+		<vous>concluiez</vous>
+		<ils>concluent</ils>
+	</subjunctive>
+	<conditional>
+		<je>conclurais</je>
+		<tu>conclurais</tu>
+		<il>conclurait</il>
+		<nous>conclurions</nous>
+		<vous>concluriez</vous>
+		<ils>concluraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>éclaircir</infinitive>
+	<translation>to lighten</translation>
+	<translation>brighten</translation>
+	<translation>to thin</translation>
+	<presentParticiple>éclaircissant</presentParticiple>
+	<pastParticiple>éclairci</pastParticiple>
+	<present>
+		<je>éclaircis</je>
+		<tu>éclaircis</tu>
+		<il>éclaircit</il>
+		<nous>éclaircissons</nous>
+		<vous>éclaircissez</vous>
+		<ils>éclaircissent</ils>
+	</present>
+	<imperative>
+		<tu>éclaircis</tu>
+		<nous>éclaircissons</nous>
+		<vous>éclaircissez</vous>
+	</imperative>
+	<imperfect>
+		<je>éclaircissais</je>
+		<tu>éclaircissais</tu>
+		<il>éclaircissait</il>
+		<nous>éclaircissions</nous>
+		<vous>éclaircissiez</vous>
+		<ils>éclaircissaient</ils>
+	</imperfect>
+	<future>
+		<je>éclaircirai</je>
+		<tu>éclairciras</tu>
+		<il>éclaircira</il>
+		<nous>éclaircirons</nous>
+		<vous>éclaircirez</vous>
+		<ils>éclairciront</ils>
+	</future>
+	<subjunctive>
+		<je>éclaircisse</je>
+		<tu>éclaircisses</tu>
+		<il>éclaircisse</il>
+		<nous>éclaircissions</nous>
+		<vous>éclaircissiez</vous>
+		<ils>éclaircissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>éclaircirais</je>
+		<tu>éclaircirais</tu>
+		<il>éclaircirait</il>
+		<nous>éclaircirions</nous>
+		<vous>éclairciriez</vous>
+		<ils>éclairciraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

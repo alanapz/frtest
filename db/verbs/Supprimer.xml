@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>supprimer</infinitive>
+	<translation>to delete</translation>
+	<translation>to suppress</translation>
+	<presentParticiple>supprimant</presentParticiple>
+	<pastParticiple>supprimé</pastParticiple>
+	<present>
+		<je>supprime</je>
+		<tu>supprimes</tu>
+		<il>supprime</il>
+		<nous>supprimons</nous>
+		<vous>supprimez</vous>
+		<ils>suppriment</ils>
+	</present>
+	<imperative>
+		<tu>supprime</tu>
+		<nous>supprimons</nous>
+		<vous>supprimez</vous>
+	</imperative>
+	<imperfect>
+		<je>supprimais</je>
+		<tu>supprimais</tu>
+		<il>supprimait</il>
+		<nous>supprimions</nous>
+		<vous>supprimiez</vous>
+		<ils>supprimaient</ils>
+	</imperfect>
+	<future>
+		<je>supprimerai</je>
+		<tu>supprimeras</tu>
+		<il>supprimera</il>
+		<nous>supprimerons</nous>
+		<vous>supprimerez</vous>
+		<ils>supprimeront</ils>
+	</future>
+	<subjunctive>
+		<je>supprime</je>
+		<tu>supprimes</tu>
+		<il>supprime</il>
+		<nous>supprimions</nous>
+		<vous>supprimiez</vous>
+		<ils>suppriment</ils>
+	</subjunctive>
+	<conditional>
+		<je>supprimerais</je>
+		<tu>supprimerais</tu>
+		<il>supprimerait</il>
+		<nous>supprimerions</nous>
+		<vous>supprimeriez</vous>
+		<ils>supprimeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

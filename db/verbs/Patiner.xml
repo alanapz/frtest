@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>patiner</infinitive>
+	<translation>to skate</translation>
+	<presentParticiple>patinant</presentParticiple>
+	<pastParticiple>patiné</pastParticiple>
+	<present>
+		<je>patine</je>
+		<tu>patines</tu>
+		<il>patine</il>
+		<nous>patinons</nous>
+		<vous>patinez</vous>
+		<ils>patinent</ils>
+	</present>
+	<imperative>
+		<tu>patine</tu>
+		<nous>patinons</nous>
+		<vous>patinez</vous>
+	</imperative>
+	<imperfect>
+		<je>patinais</je>
+		<tu>patinais</tu>
+		<il>patinait</il>
+		<nous>patinions</nous>
+		<vous>patiniez</vous>
+		<ils>patinaient</ils>
+	</imperfect>
+	<future>
+		<je>patinerai</je>
+		<tu>patineras</tu>
+		<il>patinera</il>
+		<nous>patinerons</nous>
+		<vous>patinerez</vous>
+		<ils>patineront</ils>
+	</future>
+	<subjunctive>
+		<je>patine</je>
+		<tu>patines</tu>
+		<il>patine</il>
+		<nous>patinions</nous>
+		<vous>patiniez</vous>
+		<ils>patinent</ils>
+	</subjunctive>
+	<conditional>
+		<je>patinerais</je>
+		<tu>patinerais</tu>
+		<il>patinerait</il>
+		<nous>patinerions</nous>
+		<vous>patineriez</vous>
+		<ils>patineraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

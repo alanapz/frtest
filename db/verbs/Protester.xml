@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>protester</infinitive>
+	<translation>to protest</translation>
+	<presentParticiple>protestant</presentParticiple>
+	<pastParticiple>protesté</pastParticiple>
+	<present>
+		<je>proteste</je>
+		<tu>protestes</tu>
+		<il>proteste</il>
+		<nous>protestons</nous>
+		<vous>protestez</vous>
+		<ils>protestent</ils>
+	</present>
+	<imperative>
+		<tu>proteste</tu>
+		<nous>protestons</nous>
+		<vous>protestez</vous>
+	</imperative>
+	<imperfect>
+		<je>protestais</je>
+		<tu>protestais</tu>
+		<il>protestait</il>
+		<nous>protestions</nous>
+		<vous>protestiez</vous>
+		<ils>protestaient</ils>
+	</imperfect>
+	<future>
+		<je>protesterai</je>
+		<tu>protesteras</tu>
+		<il>protestera</il>
+		<nous>protesterons</nous>
+		<vous>protesterez</vous>
+		<ils>protesteront</ils>
+	</future>
+	<subjunctive>
+		<je>proteste</je>
+		<tu>protestes</tu>
+		<il>proteste</il>
+		<nous>protestions</nous>
+		<vous>protestiez</vous>
+		<ils>protestent</ils>
+	</subjunctive>
+	<conditional>
+		<je>protesterais</je>
+		<tu>protesterais</tu>
+		<il>protesterait</il>
+		<nous>protesterions</nous>
+		<vous>protesteriez</vous>
+		<ils>protesteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

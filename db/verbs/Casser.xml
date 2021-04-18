@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>casser</infinitive>
+            <translation>to break</translation>
+            <transitive />
+            <presentParticiple>cassant</presentParticiple>
+            <pastParticiple>cassé</pastParticiple>
+            <present>
+                <je>casse</je>
+                <tu>casses</tu>
+                <il>casse</il>
+                <nous>cassons</nous>
+                <vous>cassez</vous>
+                <ils>cassent</ils>
+            </present>
+            <imperative>
+                <tu>casse</tu>
+                <nous>cassons</nous>
+                <vous>cassez</vous>
+            </imperative>
+            <imperfect>
+                <je>cassais</je>
+                <tu>cassais</tu>
+                <il>cassait</il>
+                <nous>cassions</nous>
+                <vous>cassiez</vous>
+                <ils>cassaient</ils>
+            </imperfect>
+            <future>
+                <je>casserai</je>
+                <tu>casseras</tu>
+                <il>cassera</il>
+                <nous>casserons</nous>
+                <vous>casserez</vous>
+                <ils>casseront</ils>
+            </future>
+            <subjunctive>
+                <je>casse</je>
+                <tu>casses</tu>
+                <il>casse</il>
+                <nous>cassions</nous>
+                <vous>cassiez</vous>
+                <ils>cassent</ils>
+            </subjunctive>
+            <conditional>
+                <je>casserais</je>
+                <tu>casserais</tu>
+                <il>casserait</il>
+                <nous>casserions</nous>
+                <vous>casseriez</vous>
+                <ils>casseraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>devoir</infinitive>
+            <translation>to have to</translation>
+            <translation>to owe</translation>
+            <irregular />
+            <presentParticiple>devant</presentParticiple>
+            <pastParticiple>dû</pastParticiple>
+            <present>
+                <je>dois</je>
+                <tu>dois</tu>
+                <il>doit</il>
+                <nous>devons</nous>
+                <vous>devez</vous>
+                <ils>doivent</ils>
+            </present>
+            <imperative>
+                <tu>dois</tu>
+                <nous>devons</nous>
+                <vous>devez</vous>
+            </imperative>
+            <imperfect>
+                <je>devais</je>
+                <tu>devais</tu>
+                <il>devait</il>
+                <nous>devions</nous>
+                <vous>deviez</vous>
+                <ils>devaient</ils>
+            </imperfect>
+            <future>
+                <je>devrai</je>
+                <tu>devras</tu>
+                <il>devra</il>
+                <nous>devrons</nous>
+                <vous>devrez</vous>
+                <ils>devront</ils>
+            </future>
+            <subjunctive>
+                <je>doive</je>
+                <tu>doives</tu>
+                <il>doive</il>
+                <nous>devions</nous>
+                <vous>deviez</vous>
+                <ils>doivent</ils>
+            </subjunctive>
+            <conditional>
+                <je>devrais</je>
+                <tu>devrais</tu>
+                <il>devrait</il>
+                <nous>devrions</nous>
+                <vous>devriez</vous>
+                <ils>devraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

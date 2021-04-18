@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>conjuguer</infinitive>
+	<translation>to conjugate</translation>
+	<presentParticiple>conjuguant</presentParticiple>
+	<pastParticiple>conjugué</pastParticiple>
+	<present>
+		<je>conjugue</je>
+		<tu>conjugues</tu>
+		<il>conjugue</il>
+		<nous>conjuguons</nous>
+		<vous>conjuguez</vous>
+		<ils>conjuguent</ils>
+	</present>
+	<imperative>
+		<tu>conjugue</tu>
+		<nous>conjuguons</nous>
+		<vous>conjuguez</vous>
+	</imperative>
+	<imperfect>
+		<je>conjuguais</je>
+		<tu>conjuguais</tu>
+		<il>conjuguait</il>
+		<nous>conjuguions</nous>
+		<vous>conjuguiez</vous>
+		<ils>conjuguaient</ils>
+	</imperfect>
+	<future>
+		<je>conjuguerai</je>
+		<tu>conjugueras</tu>
+		<il>conjuguera</il>
+		<nous>conjuguerons</nous>
+		<vous>conjuguerez</vous>
+		<ils>conjugueront</ils>
+	</future>
+	<subjunctive>
+		<je>conjugue</je>
+		<tu>conjugues</tu>
+		<il>conjugue</il>
+		<nous>conjuguions</nous>
+		<vous>conjuguiez</vous>
+		<ils>conjuguent</ils>
+	</subjunctive>
+	<conditional>
+		<je>conjuguerais</je>
+		<tu>conjuguerais</tu>
+		<il>conjuguerait</il>
+		<nous>conjuguerions</nous>
+		<vous>conjugueriez</vous>
+		<ils>conjugueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

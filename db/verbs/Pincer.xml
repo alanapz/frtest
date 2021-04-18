@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>pincer</infinitive>
+	<translation>to pinch</translation>
+	<translation>to grip</translation>
+	<spellingChange />
+	<presentParticiple>pinçant</presentParticiple>
+	<pastParticiple>pincé</pastParticiple>
+	<present>
+		<je>pince</je>
+		<tu>pinces</tu>
+		<il>pince</il>
+		<nous>pinçons</nous>
+		<vous>pincez</vous>
+		<ils>pincent</ils>
+	</present>
+	<imperative>
+		<tu>pince</tu>
+		<nous>pinçons</nous>
+		<vous>pincez</vous>
+	</imperative>
+	<imperfect>
+		<je>pinçais</je>
+		<tu>pinçais</tu>
+		<il>pinçait</il>
+		<nous>pincions</nous>
+		<vous>pinciez</vous>
+		<ils>pinçaient</ils>
+	</imperfect>
+	<future>
+		<je>pincerai</je>
+		<tu>pinceras</tu>
+		<il>pincera</il>
+		<nous>pincerons</nous>
+		<vous>pincerez</vous>
+		<ils>pinceront</ils>
+	</future>
+	<subjunctive>
+		<je>pince</je>
+		<tu>pinces</tu>
+		<il>pince</il>
+		<nous>pincions</nous>
+		<vous>pinciez</vous>
+		<ils>pincent</ils>
+	</subjunctive>
+	<conditional>
+		<je>pincerais</je>
+		<tu>pincerais</tu>
+		<il>pincerait</il>
+		<nous>pincerions</nous>
+		<vous>pinceriez</vous>
+		<ils>pinceraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>acculturer</infinitive>
+	<translation>to acculturate</translation>
+	<translation>help adapt to</translation>
+	<presentParticiple>acculturant</presentParticiple>
+	<pastParticiple>acculturé</pastParticiple>
+	<present>
+		<je>acculture</je>
+		<tu>accultures</tu>
+		<il>acculture</il>
+		<nous>acculturons</nous>
+		<vous>acculturez</vous>
+		<ils>acculturent</ils>
+	</present>
+	<imperative>
+		<tu>acculture</tu>
+		<nous>acculturons</nous>
+		<vous>acculturez</vous>
+	</imperative>
+	<imperfect>
+		<je>acculturais</je>
+		<tu>acculturais</tu>
+		<il>acculturait</il>
+		<nous>acculturions</nous>
+		<vous>acculturiez</vous>
+		<ils>acculturaient</ils>
+	</imperfect>
+	<future>
+		<je>acculturerai</je>
+		<tu>accultureras</tu>
+		<il>acculturera</il>
+		<nous>acculturerons</nous>
+		<vous>acculturerez</vous>
+		<ils>accultureront</ils>
+	</future>
+	<subjunctive>
+		<je>acculture</je>
+		<tu>accultures</tu>
+		<il>acculture</il>
+		<nous>acculturions</nous>
+		<vous>acculturiez</vous>
+		<ils>acculturent</ils>
+	</subjunctive>
+	<conditional>
+		<je>acculturerais</je>
+		<tu>acculturerais</tu>
+		<il>acculturerait</il>
+		<nous>acculturerions</nous>
+		<vous>accultureriez</vous>
+		<ils>accultureraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

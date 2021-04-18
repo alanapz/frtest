@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>saigner</infinitive>
+	<translation>to bleed</translation>
+	<presentParticiple>saignant</presentParticiple>
+	<pastParticiple>saigné</pastParticiple>
+	<present>
+		<je>saigne</je>
+		<tu>saignes</tu>
+		<il>saigne</il>
+		<nous>saignons</nous>
+		<vous>saignez</vous>
+		<ils>saignent</ils>
+	</present>
+	<imperative>
+		<tu>saigne</tu>
+		<nous>saignons</nous>
+		<vous>saignez</vous>
+	</imperative>
+	<imperfect>
+		<je>saignais</je>
+		<tu>saignais</tu>
+		<il>saignait</il>
+		<nous>saignions</nous>
+		<vous>saigniez</vous>
+		<ils>saignaient</ils>
+	</imperfect>
+	<future>
+		<je>saignerai</je>
+		<tu>saigneras</tu>
+		<il>saignera</il>
+		<nous>saignerons</nous>
+		<vous>saignerez</vous>
+		<ils>saigneront</ils>
+	</future>
+	<subjunctive>
+		<je>saigne</je>
+		<tu>saignes</tu>
+		<il>saigne</il>
+		<nous>saignions</nous>
+		<vous>saigniez</vous>
+		<ils>saignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>saignerais</je>
+		<tu>saignerais</tu>
+		<il>saignerait</il>
+		<nous>saignerions</nous>
+		<vous>saigneriez</vous>
+		<ils>saigneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

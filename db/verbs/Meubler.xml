@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>meubler</infinitive>
+	<translation>to furnish</translation>
+	<presentParticiple>meublant</presentParticiple>
+	<pastParticiple>meublé</pastParticiple>
+	<present>
+		<je>meuble</je>
+		<tu>meubles</tu>
+		<il>meuble</il>
+		<nous>meublons</nous>
+		<vous>meublez</vous>
+		<ils>meublent</ils>
+	</present>
+	<imperative>
+		<tu>meuble</tu>
+		<nous>meublons</nous>
+		<vous>meublez</vous>
+	</imperative>
+	<imperfect>
+		<je>meublais</je>
+		<tu>meublais</tu>
+		<il>meublait</il>
+		<nous>meublions</nous>
+		<vous>meubliez</vous>
+		<ils>meublaient</ils>
+	</imperfect>
+	<future>
+		<je>meublerai</je>
+		<tu>meubleras</tu>
+		<il>meublera</il>
+		<nous>meublerons</nous>
+		<vous>meublerez</vous>
+		<ils>meubleront</ils>
+	</future>
+	<subjunctive>
+		<je>meuble</je>
+		<tu>meubles</tu>
+		<il>meuble</il>
+		<nous>meublions</nous>
+		<vous>meubliez</vous>
+		<ils>meublent</ils>
+	</subjunctive>
+	<conditional>
+		<je>meublerais</je>
+		<tu>meublerais</tu>
+		<il>meublerait</il>
+		<nous>meublerions</nous>
+		<vous>meubleriez</vous>
+		<ils>meubleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

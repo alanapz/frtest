@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>insulter</infinitive>
+	<translation>to insult</translation>
+	<presentParticiple>insultant</presentParticiple>
+	<pastParticiple>insulté</pastParticiple>
+	<present>
+		<je>insulte</je>
+		<tu>insultes</tu>
+		<il>insulte</il>
+		<nous>insultons</nous>
+		<vous>insultez</vous>
+		<ils>insultent</ils>
+	</present>
+	<imperative>
+		<tu>insulte</tu>
+		<nous>insultons</nous>
+		<vous>insultez</vous>
+	</imperative>
+	<imperfect>
+		<je>insultais</je>
+		<tu>insultais</tu>
+		<il>insultait</il>
+		<nous>insultions</nous>
+		<vous>insultiez</vous>
+		<ils>insultaient</ils>
+	</imperfect>
+	<future>
+		<je>insulterai</je>
+		<tu>insulteras</tu>
+		<il>insultera</il>
+		<nous>insulterons</nous>
+		<vous>insulterez</vous>
+		<ils>insulteront</ils>
+	</future>
+	<subjunctive>
+		<je>insulte</je>
+		<tu>insultes</tu>
+		<il>insulte</il>
+		<nous>insultions</nous>
+		<vous>insultiez</vous>
+		<ils>insultent</ils>
+	</subjunctive>
+	<conditional>
+		<je>insulterais</je>
+		<tu>insulterais</tu>
+		<il>insulterait</il>
+		<nous>insulterions</nous>
+		<vous>insulteriez</vous>
+		<ils>insulteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

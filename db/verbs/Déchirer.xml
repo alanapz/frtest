@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>déchirer</infinitive>
+	<translation>to rip</translation>
+	<translation>tear</translation>
+	<presentParticiple>déchirant</presentParticiple>
+	<pastParticiple>déchiré</pastParticiple>
+	<present>
+		<je>déchire</je>
+		<tu>déchires</tu>
+		<il>déchire</il>
+		<nous>déchirons</nous>
+		<vous>déchirez</vous>
+		<ils>déchirent</ils>
+	</present>
+	<imperative>
+		<tu>déchire</tu>
+		<nous>déchirons</nous>
+		<vous>déchirez</vous>
+	</imperative>
+	<imperfect>
+		<je>déchirais</je>
+		<tu>déchirais</tu>
+		<il>déchirait</il>
+		<nous>déchirions</nous>
+		<vous>déchiriez</vous>
+		<ils>déchiraient</ils>
+	</imperfect>
+	<future>
+		<je>déchirerai</je>
+		<tu>déchireras</tu>
+		<il>déchirera</il>
+		<nous>déchirerons</nous>
+		<vous>déchirerez</vous>
+		<ils>déchireront</ils>
+	</future>
+	<subjunctive>
+		<je>déchire</je>
+		<tu>déchires</tu>
+		<il>déchire</il>
+		<nous>déchirions</nous>
+		<vous>déchiriez</vous>
+		<ils>déchirent</ils>
+	</subjunctive>
+	<conditional>
+		<je>déchirerais</je>
+		<tu>déchirerais</tu>
+		<il>déchirerait</il>
+		<nous>déchirerions</nous>
+		<vous>déchireriez</vous>
+		<ils>déchireraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

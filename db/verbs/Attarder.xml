@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>attarder</infinitive>
+	<translation>to make late</translation>
+	<presentParticiple>attardant</presentParticiple>
+	<pastParticiple>attardé</pastParticiple>
+	<present>
+		<je>attarde</je>
+		<tu>attardes</tu>
+		<il>attarde</il>
+		<nous>attardons</nous>
+		<vous>attardez</vous>
+		<ils>attardent</ils>
+	</present>
+	<imperative>
+		<tu>attarde</tu>
+		<nous>attardons</nous>
+		<vous>attardez</vous>
+	</imperative>
+	<imperfect>
+		<je>attardais</je>
+		<tu>attardais</tu>
+		<il>attardait</il>
+		<nous>attardions</nous>
+		<vous>attardiez</vous>
+		<ils>attardaient</ils>
+	</imperfect>
+	<future>
+		<je>attarderai</je>
+		<tu>attarderas</tu>
+		<il>attardera</il>
+		<nous>attarderons</nous>
+		<vous>attarderez</vous>
+		<ils>attarderont</ils>
+	</future>
+	<subjunctive>
+		<je>attarde</je>
+		<tu>attardes</tu>
+		<il>attarde</il>
+		<nous>attardions</nous>
+		<vous>attardiez</vous>
+		<ils>attardent</ils>
+	</subjunctive>
+	<conditional>
+		<je>attarderais</je>
+		<tu>attarderais</tu>
+		<il>attarderait</il>
+		<nous>attarderions</nous>
+		<vous>attarderiez</vous>
+		<ils>attarderaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

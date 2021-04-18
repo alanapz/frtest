@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>cacher</infinitive>
+	<translation>to hide</translation>
+	<presentParticiple>cachant</presentParticiple>
+	<pastParticiple>caché</pastParticiple>
+	<present>
+		<je>cache</je>
+		<tu>caches</tu>
+		<il>cache</il>
+		<nous>cachons</nous>
+		<vous>cachez</vous>
+		<ils>cachent</ils>
+	</present>
+	<imperative>
+		<tu>cache</tu>
+		<nous>cachons</nous>
+		<vous>cachez</vous>
+	</imperative>
+	<imperfect>
+		<je>cachais</je>
+		<tu>cachais</tu>
+		<il>cachait</il>
+		<nous>cachions</nous>
+		<vous>cachiez</vous>
+		<ils>cachaient</ils>
+	</imperfect>
+	<future>
+		<je>cacherai</je>
+		<tu>cacheras</tu>
+		<il>cachera</il>
+		<nous>cacherons</nous>
+		<vous>cacherez</vous>
+		<ils>cacheront</ils>
+	</future>
+	<subjunctive>
+		<je>cache</je>
+		<tu>caches</tu>
+		<il>cache</il>
+		<nous>cachions</nous>
+		<vous>cachiez</vous>
+		<ils>cachent</ils>
+	</subjunctive>
+	<conditional>
+		<je>cacherais</je>
+		<tu>cacherais</tu>
+		<il>cacherait</il>
+		<nous>cacherions</nous>
+		<vous>cacheriez</vous>
+		<ils>cacheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

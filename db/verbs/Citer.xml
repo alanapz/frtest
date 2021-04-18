@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>citer</infinitive>
+	<translation>to quote</translation>
+	<translation>cite</translation>
+	<presentParticiple>citant</presentParticiple>
+	<pastParticiple>cité</pastParticiple>
+	<present>
+		<je>cite</je>
+		<tu>cites</tu>
+		<il>cite</il>
+		<nous>citons</nous>
+		<vous>citez</vous>
+		<ils>citent</ils>
+	</present>
+	<imperative>
+		<tu>cite</tu>
+		<nous>citons</nous>
+		<vous>citez</vous>
+	</imperative>
+	<imperfect>
+		<je>citais</je>
+		<tu>citais</tu>
+		<il>citait</il>
+		<nous>citions</nous>
+		<vous>citiez</vous>
+		<ils>citaient</ils>
+	</imperfect>
+	<future>
+		<je>citerai</je>
+		<tu>citeras</tu>
+		<il>citera</il>
+		<nous>citerons</nous>
+		<vous>citerez</vous>
+		<ils>citeront</ils>
+	</future>
+	<subjunctive>
+		<je>cite</je>
+		<tu>cites</tu>
+		<il>cite</il>
+		<nous>citions</nous>
+		<vous>citiez</vous>
+		<ils>citent</ils>
+	</subjunctive>
+	<conditional>
+		<je>citerais</je>
+		<tu>citerais</tu>
+		<il>citerait</il>
+		<nous>citerions</nous>
+		<vous>citeriez</vous>
+		<ils>citeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

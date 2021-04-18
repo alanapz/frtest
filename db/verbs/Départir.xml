@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>départir</infinitive>
+	<translation>to accord</translation>
+	<irregular />
+	<presentParticiple>départant</presentParticiple>
+	<pastParticiple> départi</pastParticiple>
+	<present>
+		<je>dépars</je>
+		<tu>dépars</tu>
+		<il>départ</il>
+		<nous>départons</nous>
+		<vous>départez</vous>
+		<ils>départent</ils>
+	</present>
+	<imperative>
+		<tu>dépars</tu>
+		<nous>départons</nous>
+		<vous>départez</vous>
+	</imperative>
+	<imperfect>
+		<je>départais</je>
+		<tu>départais</tu>
+		<il>départait</il>
+		<nous>départions</nous>
+		<vous>départiez</vous>
+		<ils>départaient</ils>
+	</imperfect>
+	<future>
+		<je>départirai</je>
+		<tu>départiras</tu>
+		<il>départira</il>
+		<nous>départirons</nous>
+		<vous>départirez</vous>
+		<ils>départiront</ils>
+	</future>
+	<subjunctive>
+		<je>départe</je>
+		<tu>départes</tu>
+		<il>départe</il>
+		<nous>départions</nous>
+		<vous>départiez</vous>
+		<ils>départent</ils>
+	</subjunctive>
+	<conditional>
+		<je>départirais</je>
+		<tu>départirais</tu>
+		<il>départirait</il>
+		<nous>départirions</nous>
+		<vous>départiriez</vous>
+		<ils>départiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>choquer</infinitive>
+	<translation>to shock</translation>
+	<translation>appall</translation>
+	<translation>to shake up</translation>
+	<presentParticiple>choquant</presentParticiple>
+	<pastParticiple>choqué</pastParticiple>
+	<present>
+		<je>choque</je>
+		<tu>choques</tu>
+		<il>choque</il>
+		<nous>choquons</nous>
+		<vous>choquez</vous>
+		<ils>choquent</ils>
+	</present>
+	<imperative>
+		<tu>choque</tu>
+		<nous>choquons</nous>
+		<vous>choquez</vous>
+	</imperative>
+	<imperfect>
+		<je>choquais</je>
+		<tu>choquais</tu>
+		<il>choquait</il>
+		<nous>choquions</nous>
+		<vous>choquiez</vous>
+		<ils>choquaient</ils>
+	</imperfect>
+	<future>
+		<je>choquerai</je>
+		<tu>choqueras</tu>
+		<il>choquera</il>
+		<nous>choquerons</nous>
+		<vous>choquerez</vous>
+		<ils>choqueront</ils>
+	</future>
+	<subjunctive>
+		<je>choque</je>
+		<tu>choques</tu>
+		<il>choque</il>
+		<nous>choquions</nous>
+		<vous>choquiez</vous>
+		<ils>choquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>choquerais</je>
+		<tu>choquerais</tu>
+		<il>choquerait</il>
+		<nous>choquerions</nous>
+		<vous>choqueriez</vous>
+		<ils>choqueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

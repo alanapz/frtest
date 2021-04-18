@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>envahir</infinitive>
+	<translation>to invade</translation>
+	<presentParticiple>envahissant</presentParticiple>
+	<pastParticiple>envahi</pastParticiple>
+	<present>
+		<je>envahis</je>
+		<tu>envahis</tu>
+		<il>envahit</il>
+		<nous>envahissons</nous>
+		<vous>envahissez</vous>
+		<ils>envahissent</ils>
+	</present>
+	<imperative>
+		<tu>envahis</tu>
+		<nous>envahissons</nous>
+		<vous>envahissez</vous>
+	</imperative>
+	<imperfect>
+		<je>envahissais</je>
+		<tu>envahissais</tu>
+		<il>envahissait</il>
+		<nous>envahissions</nous>
+		<vous>envahissiez</vous>
+		<ils>envahissaient</ils>
+	</imperfect>
+	<future>
+		<je>envahirai</je>
+		<tu>envahiras</tu>
+		<il>envahira</il>
+		<nous>envahirons</nous>
+		<vous>envahirez</vous>
+		<ils>envahiront</ils>
+	</future>
+	<subjunctive>
+		<je>envahisse</je>
+		<tu>envahisses</tu>
+		<il>envahisse</il>
+		<nous>envahissions</nous>
+		<vous>envahissiez</vous>
+		<ils>envahissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>envahirais</je>
+		<tu>envahirais</tu>
+		<il>envahirait</il>
+		<nous>envahirions</nous>
+		<vous>envahiriez</vous>
+		<ils>envahiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

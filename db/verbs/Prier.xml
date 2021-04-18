@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>prier</infinitive>
+	<translation>to pray</translation>
+	<translation>beg</translation>
+	<presentParticiple>priant</presentParticiple>
+	<pastParticiple>prié</pastParticiple>
+	<present>
+		<je>prie</je>
+		<tu>pries</tu>
+		<il>prie</il>
+		<nous>prions</nous>
+		<vous>priez</vous>
+		<ils>prient</ils>
+	</present>
+	<imperative>
+		<tu>prie</tu>
+		<nous>prions</nous>
+		<vous>priez</vous>
+	</imperative>
+	<imperfect>
+		<je>priais</je>
+		<tu>priais</tu>
+		<il>priait</il>
+		<nous>priions</nous>
+		<vous>priiez</vous>
+		<ils>priaient</ils>
+	</imperfect>
+	<future>
+		<je>prierai</je>
+		<tu>prieras</tu>
+		<il>priera</il>
+		<nous>prierons</nous>
+		<vous>prierez</vous>
+		<ils>prieront</ils>
+	</future>
+	<subjunctive>
+		<je>prie</je>
+		<tu>pries</tu>
+		<il>prie</il>
+		<nous>priions</nous>
+		<vous>priiez</vous>
+		<ils>prient</ils>
+	</subjunctive>
+	<conditional>
+		<je>prierais</je>
+		<tu>prierais</tu>
+		<il>prierait</il>
+		<nous>prierions</nous>
+		<vous>prieriez</vous>
+		<ils>prieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

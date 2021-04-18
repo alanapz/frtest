@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>veiller</infinitive>
+	<translation>to stay up</translation>
+	<translation>be awake</translation>
+	<translation>to watch over</translation>
+	<presentParticiple>veillant</presentParticiple>
+	<pastParticiple>veillé</pastParticiple>
+	<present>
+		<je>veille</je>
+		<tu>veilles</tu>
+		<il>veille</il>
+		<nous>veillons</nous>
+		<vous>veillez</vous>
+		<ils>veillent</ils>
+	</present>
+	<imperative>
+		<tu>veille</tu>
+		<nous>veillons</nous>
+		<vous>veillez</vous>
+	</imperative>
+	<imperfect>
+		<je>veillais</je>
+		<tu>veillais</tu>
+		<il>veillait</il>
+		<nous>veillions</nous>
+		<vous>veilliez</vous>
+		<ils>veillaient</ils>
+	</imperfect>
+	<future>
+		<je>veillerai</je>
+		<tu>veilleras</tu>
+		<il>veillera</il>
+		<nous>veillerons</nous>
+		<vous>veillerez</vous>
+		<ils>veilleront</ils>
+	</future>
+	<subjunctive>
+		<je>veille</je>
+		<tu>veilles</tu>
+		<il>veille</il>
+		<nous>veillions</nous>
+		<vous>veilliez</vous>
+		<ils>veillent</ils>
+	</subjunctive>
+	<conditional>
+		<je>veillerais</je>
+		<tu>veillerais</tu>
+		<il>veillerait</il>
+		<nous>veillerions</nous>
+		<vous>veilleriez</vous>
+		<ils>veilleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

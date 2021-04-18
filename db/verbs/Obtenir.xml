@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>obtenir</infinitive>
+	<translation>toobtain</translation>
+	<irregular />
+	<presentParticiple>obtenant</presentParticiple>
+	<pastParticiple>obtenu</pastParticiple>
+	<present>
+		<je>obtiens</je>
+		<tu>obtiens</tu>
+		<il>obtient</il>
+		<nous>obtenons</nous>
+		<vous>obtenez</vous>
+		<ils>obtiennent</ils>
+	</present>
+	<imperative>
+		<tu>obtiens</tu>
+		<nous>obtenons</nous>
+		<vous>obtenez</vous>
+	</imperative>
+	<imperfect>
+		<je>obtenais</je>
+		<tu>obtenais</tu>
+		<il>obtenait</il>
+		<nous>obtenions</nous>
+		<vous>obteniez</vous>
+		<ils>obtenaient</ils>
+	</imperfect>
+	<future>
+		<je>obtiendrai</je>
+		<tu>obtiendras</tu>
+		<il>obtiendra</il>
+		<nous>obtiendrons</nous>
+		<vous>obtiendrez</vous>
+		<ils>obtiendront</ils>
+	</future>
+	<subjunctive>
+		<je>obtienne</je>
+		<tu>obtiennes</tu>
+		<il>obtienne</il>
+		<nous>obtenions</nous>
+		<vous>obteniez</vous>
+		<ils>obtiennent</ils>
+	</subjunctive>
+	<conditional>
+		<je>obtiendrais</je>
+		<tu>obtiendrais</tu>
+		<il>obtiendrait</il>
+		<nous>obtiendrions</nous>
+		<vous>obtiendriez</vous>
+		<ils>obtiendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

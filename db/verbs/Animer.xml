@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>animer</infinitive>
+	<translation>to lead</translation>
+	<translation>impel</translation>
+	<translation>encourage</translation>
+	<translation>liven up</translation>
+	<presentParticiple>animant</presentParticiple>
+	<pastParticiple>animé</pastParticiple>
+	<present>
+		<je>anime</je>
+		<tu>animes</tu>
+		<il>anime</il>
+		<nous>animons</nous>
+		<vous>animez</vous>
+		<ils>animent</ils>
+	</present>
+	<imperative>
+		<tu>anime</tu>
+		<nous>animons</nous>
+		<vous>animez</vous>
+	</imperative>
+	<imperfect>
+		<je>animais</je>
+		<tu>animais</tu>
+		<il>animait</il>
+		<nous>animions</nous>
+		<vous>animiez</vous>
+		<ils>animaient</ils>
+	</imperfect>
+	<future>
+		<je>animerai</je>
+		<tu>animeras</tu>
+		<il>animera</il>
+		<nous>animerons</nous>
+		<vous>animerez</vous>
+		<ils>animeront</ils>
+	</future>
+	<subjunctive>
+		<je>anime</je>
+		<tu>animes</tu>
+		<il>anime</il>
+		<nous>animions</nous>
+		<vous>animiez</vous>
+		<ils>animent</ils>
+	</subjunctive>
+	<conditional>
+		<je>animerais</je>
+		<tu>animerais</tu>
+		<il>animerait</il>
+		<nous>animerions</nous>
+		<vous>animeriez</vous>
+		<ils>animeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

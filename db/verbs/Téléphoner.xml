@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>téléphoner</infinitive>
+	<translation>to call</translation>
+	<translation>telephone</translation>
+	<presentParticiple>téléphonant</presentParticiple>
+	<pastParticiple>téléphoné</pastParticiple>
+	<present>
+		<je>téléphone</je>
+		<tu>téléphones</tu>
+		<il>téléphone</il>
+		<nous>téléphonons</nous>
+		<vous>téléphonez</vous>
+		<ils>téléphonent</ils>
+	</present>
+	<imperative>
+		<tu>téléphone</tu>
+		<nous>téléphonons</nous>
+		<vous>téléphonez</vous>
+	</imperative>
+	<imperfect>
+		<je>téléphonais</je>
+		<tu>téléphonais</tu>
+		<il>téléphonait</il>
+		<nous>téléphonions</nous>
+		<vous>téléphoniez</vous>
+		<ils>téléphonaient</ils>
+	</imperfect>
+	<future>
+		<je>téléphonerai</je>
+		<tu>téléphoneras</tu>
+		<il>téléphonera</il>
+		<nous>téléphonerons</nous>
+		<vous>téléphonerez</vous>
+		<ils>téléphoneront</ils>
+	</future>
+	<subjunctive>
+		<je>téléphone</je>
+		<tu>téléphones</tu>
+		<il>téléphone</il>
+		<nous>téléphonions</nous>
+		<vous>téléphoniez</vous>
+		<ils>téléphonent</ils>
+	</subjunctive>
+	<conditional>
+		<je>téléphonerais</je>
+		<tu>téléphonerais</tu>
+		<il>téléphonerait</il>
+		<nous>téléphonerions</nous>
+		<vous>téléphoneriez</vous>
+		<ils>téléphoneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

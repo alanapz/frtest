@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>persuader</infinitive>
+	<translation>to persuade</translation>
+	<presentParticiple>persuadant</presentParticiple>
+	<pastParticiple>persuadé</pastParticiple>
+	<present>
+		<je>persuade</je>
+		<tu>persuades</tu>
+		<il>persuade</il>
+		<nous>persuadons</nous>
+		<vous>persuadez</vous>
+		<ils>persuadent</ils>
+	</present>
+	<imperative>
+		<tu>persuade</tu>
+		<nous>persuadons</nous>
+		<vous>persuadez</vous>
+	</imperative>
+	<imperfect>
+		<je>persuadais</je>
+		<tu>persuadais</tu>
+		<il>persuadait</il>
+		<nous>persuadions</nous>
+		<vous>persuadiez</vous>
+		<ils>persuadaient</ils>
+	</imperfect>
+	<future>
+		<je>persuaderai</je>
+		<tu>persuaderas</tu>
+		<il>persuadera</il>
+		<nous>persuaderons</nous>
+		<vous>persuaderez</vous>
+		<ils>persuaderont</ils>
+	</future>
+	<subjunctive>
+		<je>persuade</je>
+		<tu>persuades</tu>
+		<il>persuade</il>
+		<nous>persuadions</nous>
+		<vous>persuadiez</vous>
+		<ils>persuadent</ils>
+	</subjunctive>
+	<conditional>
+		<je>persuaderais</je>
+		<tu>persuaderais</tu>
+		<il>persuaderait</il>
+		<nous>persuaderions</nous>
+		<vous>persuaderiez</vous>
+		<ils>persuaderaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

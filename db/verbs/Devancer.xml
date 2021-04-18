@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>devancer</infinitive>
+	<translation>to do s.t. ahead of s.o.</translation>
+	<spellingChange />
+	<presentParticiple>devançant</presentParticiple>
+	<pastParticiple>devancé</pastParticiple>
+	<present>
+		<je>devance</je>
+		<tu>devances</tu>
+		<il>devance</il>
+		<nous>devançons</nous>
+		<vous>devancez</vous>
+		<ils>devancent</ils>
+	</present>
+	<imperative>
+		<tu>devance</tu>
+		<nous>devançons</nous>
+		<vous>devancez</vous>
+	</imperative>
+	<imperfect>
+		<je>devançais</je>
+		<tu>devançais</tu>
+		<il>devançait</il>
+		<nous>devancions</nous>
+		<vous>devanciez</vous>
+		<ils>devançaient</ils>
+	</imperfect>
+	<future>
+		<je>devancerai</je>
+		<tu>devanceras</tu>
+		<il>devancera</il>
+		<nous>devancerons</nous>
+		<vous>devancerez</vous>
+		<ils>devanceront</ils>
+	</future>
+	<subjunctive>
+		<je>devance</je>
+		<tu>devances</tu>
+		<il>devance</il>
+		<nous>devancions</nous>
+		<vous>devanciez</vous>
+		<ils>devancent</ils>
+	</subjunctive>
+	<conditional>
+		<je>devancerais</je>
+		<tu>devancerais</tu>
+		<il>devancerait</il>
+		<nous>devancerions</nous>
+		<vous>devanceriez</vous>
+		<ils>devanceraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

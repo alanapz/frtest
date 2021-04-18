@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>accueillir</infinitive>
+	<translation>to welcome</translation>
+	<irregular />
+	<presentParticiple>accueillant</presentParticiple>
+	<pastParticiple>accueilli</pastParticiple>
+	<present>
+		<je>accueille</je>
+		<tu>accueilles</tu>
+		<il>accueille</il>
+		<nous>accueillons</nous>
+		<vous>accueillez</vous>
+		<ils>accueillent</ils>
+	</present>
+	<imperative>
+		<tu>accueille</tu>
+		<nous>accueillons</nous>
+		<vous>accueillez</vous>
+	</imperative>
+	<imperfect>
+		<je>accueillais</je>
+		<tu>accueillais</tu>
+		<il>accueillait</il>
+		<nous>accueillions</nous>
+		<vous>accueilliez</vous>
+		<ils>accueillaient</ils>
+	</imperfect>
+	<future>
+		<je>accueillerai</je>
+		<tu>accueilleras</tu>
+		<il>accueillera</il>
+		<nous>accueillerons</nous>
+		<vous>accueillerez</vous>
+		<ils>accueilleront</ils>
+	</future>
+	<subjunctive>
+		<je>accueille</je>
+		<tu>accueilles</tu>
+		<il>accueille</il>
+		<nous>accueillions</nous>
+		<vous>accueilliez</vous>
+		<ils>accueillent</ils>
+	</subjunctive>
+	<conditional>
+		<je>accueillerais</je>
+		<tu>accueillerais</tu>
+		<il>accueillerait</il>
+		<nous>accueillerions</nous>
+		<vous>accueilleriez</vous>
+		<ils>accueilleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

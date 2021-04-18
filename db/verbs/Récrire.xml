@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>récrire</infinitive>
+	<translation>to rewrite</translation>
+	<irregular />
+	<presentParticiple>récrivant</presentParticiple>
+	<pastParticiple>récrit</pastParticiple>
+	<present>
+		<je>récris</je>
+		<tu>récris</tu>
+		<il>récrit</il>
+		<nous>récrivons</nous>
+		<vous>récrivez</vous>
+		<ils>récrivent</ils>
+	</present>
+	<imperative>
+		<tu>récris</tu>
+		<nous>récrivons</nous>
+		<vous>récrivez</vous>
+	</imperative>
+	<imperfect>
+		<je>récrivais</je>
+		<tu>récrivais</tu>
+		<il>récrivait</il>
+		<nous>récrivions</nous>
+		<vous>récriviez</vous>
+		<ils>récrivaient</ils>
+	</imperfect>
+	<future>
+		<je>récrirai</je>
+		<tu>récriras</tu>
+		<il>récrira</il>
+		<nous>récrirons</nous>
+		<vous>récrirez</vous>
+		<ils>récriront</ils>
+	</future>
+	<subjunctive>
+		<je>récrive</je>
+		<tu>récrives</tu>
+		<il>récrive</il>
+		<nous>récrivions</nous>
+		<vous>récriviez</vous>
+		<ils>récrivent</ils>
+	</subjunctive>
+	<conditional>
+		<je>récrirais</je>
+		<tu>récrirais</tu>
+		<il>récrirait</il>
+		<nous>récririons</nous>
+		<vous>récririez</vous>
+		<ils>récriraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

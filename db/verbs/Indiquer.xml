@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>indiquer</infinitive>
+	<translation>to indicate</translation>
+	<presentParticiple>indiquant</presentParticiple>
+	<pastParticiple>indiqué</pastParticiple>
+	<present>
+		<je>indique</je>
+		<tu>indiques</tu>
+		<il>indique</il>
+		<nous>indiquons</nous>
+		<vous>indiquez</vous>
+		<ils>indiquent</ils>
+	</present>
+	<imperative>
+		<tu>indique</tu>
+		<nous>indiquons</nous>
+		<vous>indiquez</vous>
+	</imperative>
+	<imperfect>
+		<je>indiquais</je>
+		<tu>indiquais</tu>
+		<il>indiquait</il>
+		<nous>indiquions</nous>
+		<vous>indiquiez</vous>
+		<ils>indiquaient</ils>
+	</imperfect>
+	<future>
+		<je>indiquerai</je>
+		<tu>indiqueras</tu>
+		<il>indiquera</il>
+		<nous>indiquerons</nous>
+		<vous>indiquerez</vous>
+		<ils>indiqueront</ils>
+	</future>
+	<subjunctive>
+		<je>indique</je>
+		<tu>indiques</tu>
+		<il>indique</il>
+		<nous>indiquions</nous>
+		<vous>indiquiez</vous>
+		<ils>indiquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>indiquerais</je>
+		<tu>indiquerais</tu>
+		<il>indiquerait</il>
+		<nous>indiquerions</nous>
+		<vous>indiqueriez</vous>
+		<ils>indiqueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

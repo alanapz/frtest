@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>tordre</infinitive>
+	<translation>to wring</translation>
+	<translation>twist</translation>
+	<presentParticiple>tordant</presentParticiple>
+	<pastParticiple>tordu</pastParticiple>
+	<present>
+		<je>tords</je>
+		<tu>tords</tu>
+		<il>tord</il>
+		<nous>tordons</nous>
+		<vous>tordez</vous>
+		<ils>tordent</ils>
+	</present>
+	<imperative>
+		<tu>tords</tu>
+		<nous>tordons</nous>
+		<vous>tordez</vous>
+	</imperative>
+	<imperfect>
+		<je>tordais</je>
+		<tu>tordais</tu>
+		<il>tordait</il>
+		<nous>tordions</nous>
+		<vous>tordiez</vous>
+		<ils>tordaient</ils>
+	</imperfect>
+	<future>
+		<je>tordrai</je>
+		<tu>tordras</tu>
+		<il>tordra</il>
+		<nous>tordrons</nous>
+		<vous>tordrez</vous>
+		<ils>tordront</ils>
+	</future>
+	<subjunctive>
+		<je>torde</je>
+		<tu>tordes</tu>
+		<il>torde</il>
+		<nous>tordions</nous>
+		<vous>tordiez</vous>
+		<ils>tordent</ils>
+	</subjunctive>
+	<conditional>
+		<je>tordrais</je>
+		<tu>tordrais</tu>
+		<il>tordrait</il>
+		<nous>tordrions</nous>
+		<vous>tordriez</vous>
+		<ils>tordraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

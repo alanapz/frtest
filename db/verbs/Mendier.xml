@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>mendier</infinitive>
+	<translation>to beg for</translation>
+	<presentParticiple>mendiant</presentParticiple>
+	<pastParticiple>mendié</pastParticiple>
+	<present>
+		<je>mendie</je>
+		<tu>mendies</tu>
+		<il>mendie</il>
+		<nous>mendions</nous>
+		<vous>mendiez</vous>
+		<ils>mendient</ils>
+	</present>
+	<imperative>
+		<tu>mendie</tu>
+		<nous>mendions</nous>
+		<vous>mendiez</vous>
+	</imperative>
+	<imperfect>
+		<je>mendiais</je>
+		<tu>mendiais</tu>
+		<il>mendiait</il>
+		<nous>mendiions</nous>
+		<vous>mendiiez</vous>
+		<ils>mendiaient</ils>
+	</imperfect>
+	<future>
+		<je>mendierai</je>
+		<tu>mendieras</tu>
+		<il>mendiera</il>
+		<nous>mendierons</nous>
+		<vous>mendierez</vous>
+		<ils>mendieront</ils>
+	</future>
+	<subjunctive>
+		<je>mendie</je>
+		<tu>mendies</tu>
+		<il>mendie</il>
+		<nous>mendiions</nous>
+		<vous>mendiiez</vous>
+		<ils>mendient</ils>
+	</subjunctive>
+	<conditional>
+		<je>mendierais</je>
+		<tu>mendierais</tu>
+		<il>mendierait</il>
+		<nous>mendierions</nous>
+		<vous>mendieriez</vous>
+		<ils>mendieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

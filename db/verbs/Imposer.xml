@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>imposer</infinitive>
+	<translation>to impose</translation>
+	<presentParticiple>imposant</presentParticiple>
+	<pastParticiple>imposé</pastParticiple>
+	<present>
+		<je>impose</je>
+		<tu>imposes</tu>
+		<il>impose</il>
+		<nous>imposons</nous>
+		<vous>imposez</vous>
+		<ils>imposent</ils>
+	</present>
+	<imperative>
+		<tu>impose</tu>
+		<nous>imposons</nous>
+		<vous>imposez</vous>
+	</imperative>
+	<imperfect>
+		<je>imposais</je>
+		<tu>imposais</tu>
+		<il>imposait</il>
+		<nous>imposions</nous>
+		<vous>imposiez</vous>
+		<ils>imposaient</ils>
+	</imperfect>
+	<future>
+		<je>imposerai</je>
+		<tu>imposeras</tu>
+		<il>imposera</il>
+		<nous>imposerons</nous>
+		<vous>imposerez</vous>
+		<ils>imposeront</ils>
+	</future>
+	<subjunctive>
+		<je>impose</je>
+		<tu>imposes</tu>
+		<il>impose</il>
+		<nous>imposions</nous>
+		<vous>imposiez</vous>
+		<ils>imposent</ils>
+	</subjunctive>
+	<conditional>
+		<je>imposerais</je>
+		<tu>imposerais</tu>
+		<il>imposerait</il>
+		<nous>imposerions</nous>
+		<vous>imposeriez</vous>
+		<ils>imposeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

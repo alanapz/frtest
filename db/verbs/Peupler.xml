@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>peupler</infinitive>
+	<translation>to populate</translation>
+	<presentParticiple>peuplant</presentParticiple>
+	<pastParticiple>peuplé</pastParticiple>
+	<present>
+		<je>peuple</je>
+		<tu>peuples</tu>
+		<il>peuple</il>
+		<nous>peuplons</nous>
+		<vous>peuplez</vous>
+		<ils>peuplent</ils>
+	</present>
+	<imperative>
+		<tu>peuple</tu>
+		<nous>peuplons</nous>
+		<vous>peuplez</vous>
+	</imperative>
+	<imperfect>
+		<je>peuplais</je>
+		<tu>peuplais</tu>
+		<il>peuplait</il>
+		<nous>peuplions</nous>
+		<vous>peupliez</vous>
+		<ils>peuplaient</ils>
+	</imperfect>
+	<future>
+		<je>peuplerai</je>
+		<tu>peupleras</tu>
+		<il>peuplera</il>
+		<nous>peuplerons</nous>
+		<vous>peuplerez</vous>
+		<ils>peupleront</ils>
+	</future>
+	<subjunctive>
+		<je>peuple</je>
+		<tu>peuples</tu>
+		<il>peuple</il>
+		<nous>peuplions</nous>
+		<vous>peupliez</vous>
+		<ils>peuplent</ils>
+	</subjunctive>
+	<conditional>
+		<je>peuplerais</je>
+		<tu>peuplerais</tu>
+		<il>peuplerait</il>
+		<nous>peuplerions</nous>
+		<vous>peupleriez</vous>
+		<ils>peupleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>intéresser</infinitive>
+            <translation>to interest</translation>
+            <transitive />
+            <presentParticiple>intéressant</presentParticiple>
+            <pastParticiple>intéressé</pastParticiple>
+            <pronominal>
+                <translation>to be interested</translation>
+            </pronominal>
+            <present>
+                <je>intéresse</je>
+                <tu>intéresses</tu>
+                <il>intéresse</il>
+                <nous>intéressons</nous>
+                <vous>intéressez</vous>
+                <ils>intéressent</ils>
+            </present>
+            <imperative>
+                <tu>intéresse</tu>
+                <nous>intéressons</nous>
+                <vous>intéressez</vous>
+            </imperative>
+            <imperfect>
+                <je>intéressais</je>
+                <tu>intéressais</tu>
+                <il>intéressait</il>
+                <nous>intéressions</nous>
+                <vous>intéressiez</vous>
+                <ils>intéressaient</ils>
+            </imperfect>
+            <future>
+                <je>intéresserai</je>
+                <tu>intéresseras</tu>
+                <il>intéressera</il>
+                <nous>intéresserons</nous>
+                <vous>intéresserez</vous>
+                <ils>intéresseront</ils>
+            </future>
+            <subjunctive>
+                <je>intéresse</je>
+                <tu>intéresses</tu>
+                <il>intéresse</il>
+                <nous>intéressions</nous>
+                <vous>intéressiez</vous>
+                <ils>intéressent</ils>
+            </subjunctive>
+            <conditional>
+                <je>intéresserais</je>
+                <tu>intéresserais</tu>
+                <il>intéresserait</il>
+                <nous>intéresserions</nous>
+                <vous>intéresseriez</vous>
+                <ils>intéresseraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

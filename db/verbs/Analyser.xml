@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>analyser</infinitive>
+	<translation>to analyze</translation>
+	<presentParticiple>analysant</presentParticiple>
+	<pastParticiple>analysé</pastParticiple>
+	<present>
+		<je>analyse</je>
+		<tu>analyses</tu>
+		<il>analyse</il>
+		<nous>analysons</nous>
+		<vous>analysez</vous>
+		<ils>analysent</ils>
+	</present>
+	<imperative>
+		<tu>analyse</tu>
+		<nous>analysons</nous>
+		<vous>analysez</vous>
+	</imperative>
+	<imperfect>
+		<je>analysais</je>
+		<tu>analysais</tu>
+		<il>analysait</il>
+		<nous>analysions</nous>
+		<vous>analysiez</vous>
+		<ils>analysaient</ils>
+	</imperfect>
+	<future>
+		<je>analyserai</je>
+		<tu>analyseras</tu>
+		<il>analysera</il>
+		<nous>analyserons</nous>
+		<vous>analyserez</vous>
+		<ils>analyseront</ils>
+	</future>
+	<subjunctive>
+		<je>analyse</je>
+		<tu>analyses</tu>
+		<il>analyse</il>
+		<nous>analysions</nous>
+		<vous>analysiez</vous>
+		<ils>analysent</ils>
+	</subjunctive>
+	<conditional>
+		<je>analyserais</je>
+		<tu>analyserais</tu>
+		<il>analyserait</il>
+		<nous>analyserions</nous>
+		<vous>analyseriez</vous>
+		<ils>analyseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

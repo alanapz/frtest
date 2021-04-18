@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>féliciter</infinitive>
+	<translation>to congratulate</translation>
+	<presentParticiple>félicitant</presentParticiple>
+	<pastParticiple>félicité</pastParticiple>
+	<present>
+		<je>félicite</je>
+		<tu>félicites</tu>
+		<il>félicite</il>
+		<nous>félicitons</nous>
+		<vous>félicitez</vous>
+		<ils>félicitent</ils>
+	</present>
+	<imperative>
+		<tu>félicite</tu>
+		<nous>félicitons</nous>
+		<vous>félicitez</vous>
+	</imperative>
+	<imperfect>
+		<je>félicitais</je>
+		<tu>félicitais</tu>
+		<il>félicitait</il>
+		<nous>félicitions</nous>
+		<vous>félicitiez</vous>
+		<ils>félicitaient</ils>
+	</imperfect>
+	<future>
+		<je>féliciterai</je>
+		<tu>féliciteras</tu>
+		<il>félicitera</il>
+		<nous>féliciterons</nous>
+		<vous>féliciterez</vous>
+		<ils>féliciteront</ils>
+	</future>
+	<subjunctive>
+		<je>félicite</je>
+		<tu>félicites</tu>
+		<il>félicite</il>
+		<nous>félicitions</nous>
+		<vous>félicitiez</vous>
+		<ils>félicitent</ils>
+	</subjunctive>
+	<conditional>
+		<je>féliciterais</je>
+		<tu>féliciterais</tu>
+		<il>féliciterait</il>
+		<nous>féliciterions</nous>
+		<vous>féliciteriez</vous>
+		<ils>féliciteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

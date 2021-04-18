@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>arroser</infinitive>
+            <translation>to water</translation>
+            <presentParticiple>arrosant</presentParticiple>
+            <pastParticiple>arrosé</pastParticiple>
+            <present>
+                <je>arrose</je>
+                <tu>arroses</tu>
+                <il>arrose</il>
+                <nous>arrosons</nous>
+                <vous>arrosez</vous>
+                <ils>arrosent</ils>
+            </present>
+            <imperative>
+                <tu>arrose</tu>
+                <nous>arrosons</nous>
+                <vous>arrosez</vous>
+            </imperative>
+            <imperfect>
+                <je>arrosais</je>
+                <tu>arrosais</tu>
+                <il>arrosait</il>
+                <nous>arrosions</nous>
+                <vous>arrosiez</vous>
+                <ils>arrosaient</ils>
+            </imperfect>
+            <future>
+                <je>arroserai</je>
+                <tu>arroseras</tu>
+                <il>arrosera</il>
+                <nous>arroserons</nous>
+                <vous>arroserez</vous>
+                <ils>arroseront</ils>
+            </future>
+            <subjunctive>
+                <je>arrose</je>
+                <tu>arroses</tu>
+                <il>arrose</il>
+                <nous>arrosions</nous>
+                <vous>arrosiez</vous>
+                <ils>arrosent</ils>
+            </subjunctive>
+            <conditional>
+                <je>arroserais</je>
+                <tu>arroserais</tu>
+                <il>arroserait</il>
+                <nous>arroserions</nous>
+                <vous>arroseriez</vous>
+                <ils>arroseraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

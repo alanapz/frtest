@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>avorter</infinitive>
+	<translation>to abort</translation>
+	<presentParticiple>avortant</presentParticiple>
+	<pastParticiple>avorté</pastParticiple>
+	<present>
+		<je>avorte</je>
+		<tu>avortes</tu>
+		<il>avorte</il>
+		<nous>avortons</nous>
+		<vous>avortez</vous>
+		<ils>avortent</ils>
+	</present>
+	<imperative>
+		<tu>avorte</tu>
+		<nous>avortons</nous>
+		<vous>avortez</vous>
+	</imperative>
+	<imperfect>
+		<je>avortais</je>
+		<tu>avortais</tu>
+		<il>avortait</il>
+		<nous>avortions</nous>
+		<vous>avortiez</vous>
+		<ils>avortaient</ils>
+	</imperfect>
+	<future>
+		<je>avorterai</je>
+		<tu>avorteras</tu>
+		<il>avortera</il>
+		<nous>avorterons</nous>
+		<vous>avorterez</vous>
+		<ils>avorteront</ils>
+	</future>
+	<subjunctive>
+		<je>avorte</je>
+		<tu>avortes</tu>
+		<il>avorte</il>
+		<nous>avortions</nous>
+		<vous>avortiez</vous>
+		<ils>avortent</ils>
+	</subjunctive>
+	<conditional>
+		<je>avorterais</je>
+		<tu>avorterais</tu>
+		<il>avorterait</il>
+		<nous>avorterions</nous>
+		<vous>avorteriez</vous>
+		<ils>avorteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

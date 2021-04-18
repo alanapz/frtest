@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>vexer</infinitive>
+	<translation>to upset</translation>
+	<translation>anger</translation>
+	<translation>offend</translation>
+	<presentParticiple>vexant</presentParticiple>
+	<pastParticiple>vexé</pastParticiple>
+	<present>
+		<je>vexe</je>
+		<tu>vexes</tu>
+		<il>vexe</il>
+		<nous>vexons</nous>
+		<vous>vexez</vous>
+		<ils>vexent</ils>
+	</present>
+	<imperative>
+		<tu>vexe</tu>
+		<nous>vexons</nous>
+		<vous>vexez</vous>
+	</imperative>
+	<imperfect>
+		<je>vexais</je>
+		<tu>vexais</tu>
+		<il>vexait</il>
+		<nous>vexions</nous>
+		<vous>vexiez</vous>
+		<ils>vexaient</ils>
+	</imperfect>
+	<future>
+		<je>vexerai</je>
+		<tu>vexeras</tu>
+		<il>vexera</il>
+		<nous>vexerons</nous>
+		<vous>vexerez</vous>
+		<ils>vexeront</ils>
+	</future>
+	<subjunctive>
+		<je>vexe</je>
+		<tu>vexes</tu>
+		<il>vexe</il>
+		<nous>vexions</nous>
+		<vous>vexiez</vous>
+		<ils>vexent</ils>
+	</subjunctive>
+	<conditional>
+		<je>vexerais</je>
+		<tu>vexerais</tu>
+		<il>vexerait</il>
+		<nous>vexerions</nous>
+		<vous>vexeriez</vous>
+		<ils>vexeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

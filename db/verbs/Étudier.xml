@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>étudier</infinitive>
+	<translation>to study</translation>
+	<presentParticiple>étudiant</presentParticiple>
+	<pastParticiple>étudié</pastParticiple>
+	<present>
+		<je>étudie</je>
+		<tu>étudies</tu>
+		<il>étudie</il>
+		<nous>étudions</nous>
+		<vous>étudiez</vous>
+		<ils>étudient</ils>
+	</present>
+	<imperative>
+		<tu>étudie</tu>
+		<nous>étudions</nous>
+		<vous>étudiez</vous>
+	</imperative>
+	<imperfect>
+		<je>étudiais</je>
+		<tu>étudiais</tu>
+		<il>étudiait</il>
+		<nous>étudiions</nous>
+		<vous>étudiiez</vous>
+		<ils>étudiaient</ils>
+	</imperfect>
+	<future>
+		<je>étudierai</je>
+		<tu>étudieras</tu>
+		<il>étudiera</il>
+		<nous>étudierons</nous>
+		<vous>étudierez</vous>
+		<ils>étudieront</ils>
+	</future>
+	<subjunctive>
+		<je>étudie</je>
+		<tu>étudies</tu>
+		<il>étudie</il>
+		<nous>étudiions</nous>
+		<vous>étudiiez</vous>
+		<ils>étudient</ils>
+	</subjunctive>
+	<conditional>
+		<je>étudierais</je>
+		<tu>étudierais</tu>
+		<il>étudierait</il>
+		<nous>étudierions</nous>
+		<vous>étudieriez</vous>
+		<ils>étudieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>acquérir</infinitive>
+            <translation>to acquire</translation>
+            <irregular />
+            <presentParticiple>acquérant</presentParticiple>
+            <pastParticiple>acquis</pastParticiple>
+            <present>
+                <je>acquiers</je>
+                <tu>acquiers</tu>
+                <il>acquiert</il>
+                <nous>acquérons</nous>
+                <vous>acquérez</vous>
+                <ils>acquièrent</ils>
+            </present>
+            <imperative>
+                <tu>acquiers</tu>
+                <nous>acquérons</nous>
+                <vous>acquérez</vous>
+            </imperative>
+            <imperfect>
+                <je>acquérais</je>
+                <tu>acquérais</tu>
+                <il>acquérait</il>
+                <nous>acquérions</nous>
+                <vous>acquériez</vous>
+                <ils>acquéraient</ils>
+            </imperfect>
+            <future>
+                <je>acquerrai</je>
+                <tu>acquerras</tu>
+                <il>acquerra</il>
+                <nous>acquerrons</nous>
+                <vous>acquerrez</vous>
+                <ils>acquerront</ils>
+            </future>
+            <subjunctive>
+                <je>acquière</je>
+                <tu>acquières</tu>
+                <il>acquière</il>
+                <nous>acquérions</nous>
+                <vous>acquériez</vous>
+                <ils>acquièrent</ils>
+            </subjunctive>
+            <conditional>
+                <je>acquerrais</je>
+                <tu>acquerrais</tu>
+                <il>acquerrait</il>
+                <nous>acquerrions</nous>
+                <vous>acquerriez</vous>
+                <ils>acquerraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

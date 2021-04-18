@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>repousser</infinitive>
+            <translation>to repel</translation>
+            <translation>to repulse</translation>
+            <presentParticiple>repoussant</presentParticiple>
+            <pastParticiple>repoussé</pastParticiple>
+            <present>
+                <je>repousse</je>
+                <tu>repousses</tu>
+                <il>repousse</il>
+                <nous>repoussons</nous>
+                <vous>repoussez</vous>
+                <ils>repoussent</ils>
+            </present>
+            <imperative>
+                <tu>repousse</tu>
+                <nous>repoussons</nous>
+                <vous>repoussez</vous>
+            </imperative>
+            <imperfect>
+                <je>repoussais</je>
+                <tu>repoussais</tu>
+                <il>repoussait</il>
+                <nous>repoussions</nous>
+                <vous>repoussiez</vous>
+                <ils>repoussaient</ils>
+            </imperfect>
+            <future>
+                <je>repousserai</je>
+                <tu>repousseras</tu>
+                <il>repoussera</il>
+                <nous>repousserons</nous>
+                <vous>repousserez</vous>
+                <ils>repousseront</ils>
+            </future>
+            <subjunctive>
+                <je>repousse</je>
+                <tu>repousses</tu>
+                <il>repousse</il>
+                <nous>repoussions</nous>
+                <vous>repoussiez</vous>
+                <ils>repoussent</ils>
+            </subjunctive>
+            <conditional>
+                <je>repousserais</je>
+                <tu>repousserais</tu>
+                <il>repousserait</il>
+                <nous>repousserions</nous>
+                <vous>repousseriez</vous>
+                <ils>repousseraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>méfier</infinitive>
+            <presentParticiple>méfiant</presentParticiple>
+            <pastParticiple>méfié</pastParticiple>
+            <pronominal>
+                <translation>to mistrust</translation>
+            </pronominal>
+            <present>
+                <je>méfie</je>
+                <tu>méfies</tu>
+                <il>méfie</il>
+                <nous>méfions</nous>
+                <vous>méfiez</vous>
+                <ils>méfient</ils>
+            </present>
+            <imperative>
+                <tu>méfie</tu>
+                <nous>méfions</nous>
+                <vous>méfiez</vous>
+            </imperative>
+            <imperfect>
+                <je>méfiais</je>
+                <tu>méfiais</tu>
+                <il>méfiait</il>
+                <nous>méfiions</nous>
+                <vous>méfiiez</vous>
+                <ils>méfiaient</ils>
+            </imperfect>
+            <future>
+                <je>méfierai</je>
+                <tu>méfieras</tu>
+                <il>méfiera</il>
+                <nous>méfierons</nous>
+                <vous>méfierez</vous>
+                <ils>méfieront</ils>
+            </future>
+            <subjunctive>
+                <je>méfie</je>
+                <tu>méfies</tu>
+                <il>méfie</il>
+                <nous>méfiions</nous>
+                <vous>méfiiez</vous>
+                <ils>méfient</ils>
+            </subjunctive>
+            <conditional>
+                <je>méfierais</je>
+                <tu>méfierais</tu>
+                <il>méfierait</il>
+                <nous>méfierions</nous>
+                <vous>méfieriez</vous>
+                <ils>méfieraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

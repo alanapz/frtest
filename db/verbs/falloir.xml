@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>fallir</infinitive>
+            <translation>to have to</translation>
+            <presentParticiple />
+            <pastParticiple>fallu</pastParticiple>
+            <present>
+                <je />
+                <tu />
+                <il>faut</il>
+                <nous />
+                <vous />
+                <ils />
+            </present>
+            <imperative>
+                <tu />
+                <nous />
+                <vous />
+            </imperative>
+            <imperfect>
+                <je />
+                <tu />
+                <il>fallait</il>
+                <nous />
+                <vous />
+                <ils />
+            </imperfect>
+            <future>
+                <je />
+                <tu />
+                <il>faudra</il>
+                <nous />
+                <vous />
+                <ils />
+            </future>
+            <subjunctive>
+                <je />
+                <tu />
+                <il>faille</il>
+                <nous />
+                <vous />
+                <ils />
+            </subjunctive>
+            <conditional>
+                <je />
+                <tu />
+                <il>faudrait</il>
+                <nous />
+                <vous />
+                <ils />
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

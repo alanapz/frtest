@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dormir</infinitive>
+	<translation>to sleep</translation>
+	<irregular />
+	<presentParticiple>dormant</presentParticiple>
+	<pastParticiple>dormi</pastParticiple>
+	<present>
+		<je>dors</je>
+		<tu>dors</tu>
+		<il>dort</il>
+		<nous>dormons</nous>
+		<vous>dormez</vous>
+		<ils>dorment</ils>
+	</present>
+	<imperative>
+		<tu>dors</tu>
+		<nous>dormons</nous>
+		<vous>dormez</vous>
+	</imperative>
+	<imperfect>
+		<je>dormais</je>
+		<tu>dormais</tu>
+		<il>dormait</il>
+		<nous>dormions</nous>
+		<vous>dormiez</vous>
+		<ils>dormaient</ils>
+	</imperfect>
+	<future>
+		<je>dormirai</je>
+		<tu>dormiras</tu>
+		<il>dormira</il>
+		<nous>dormirons</nous>
+		<vous>dormirez</vous>
+		<ils>dormiront</ils>
+	</future>
+	<subjunctive>
+		<je>dorme</je>
+		<tu>dormes</tu>
+		<il>dorme</il>
+		<nous>dormions</nous>
+		<vous>dormiez</vous>
+		<ils>dorment</ils>
+	</subjunctive>
+	<conditional>
+		<je>dormirais</je>
+		<tu>dormirais</tu>
+		<il>dormirait</il>
+		<nous>dormirions</nous>
+		<vous>dormiriez</vous>
+		<ils>dormiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

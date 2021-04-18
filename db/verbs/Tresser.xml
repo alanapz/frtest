@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>tresser</infinitive>
+	<translation>to braid</translation>
+	<translation>plait</translation>
+	<translation>to twist</translation>
+	<presentParticiple>tressant</presentParticiple>
+	<pastParticiple>tressé</pastParticiple>
+	<present>
+		<je>tresse</je>
+		<tu>tresses</tu>
+		<il>tresse</il>
+		<nous>tressons</nous>
+		<vous>tressez</vous>
+		<ils>tressent</ils>
+	</present>
+	<imperative>
+		<tu>tresse</tu>
+		<nous>tressons</nous>
+		<vous>tressez</vous>
+	</imperative>
+	<imperfect>
+		<je>tressais</je>
+		<tu>tressais</tu>
+		<il>tressait</il>
+		<nous>tressions</nous>
+		<vous>tressiez</vous>
+		<ils>tressaient</ils>
+	</imperfect>
+	<future>
+		<je>tresserai</je>
+		<tu>tresseras</tu>
+		<il>tressera</il>
+		<nous>tresserons</nous>
+		<vous>tresserez</vous>
+		<ils>tresseront</ils>
+	</future>
+	<subjunctive>
+		<je>tresse</je>
+		<tu>tresses</tu>
+		<il>tresse</il>
+		<nous>tressions</nous>
+		<vous>tressiez</vous>
+		<ils>tressent</ils>
+	</subjunctive>
+	<conditional>
+		<je>tresserais</je>
+		<tu>tresserais</tu>
+		<il>tresserait</il>
+		<nous>tresserions</nous>
+		<vous>tresseriez</vous>
+		<ils>tresseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

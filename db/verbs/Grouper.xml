@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>grouper</infinitive>
+	<translation>to group</translation>
+	<translation>pool</translation>
+	<presentParticiple>groupant</presentParticiple>
+	<pastParticiple>groupé</pastParticiple>
+	<present>
+		<je>groupe</je>
+		<tu>groupes</tu>
+		<il>groupe</il>
+		<nous>groupons</nous>
+		<vous>groupez</vous>
+		<ils>groupent</ils>
+	</present>
+	<imperative>
+		<tu>groupe</tu>
+		<nous>groupons</nous>
+		<vous>groupez</vous>
+	</imperative>
+	<imperfect>
+		<je>groupais</je>
+		<tu>groupais</tu>
+		<il>groupait</il>
+		<nous>groupions</nous>
+		<vous>groupiez</vous>
+		<ils>groupaient</ils>
+	</imperfect>
+	<future>
+		<je>grouperai</je>
+		<tu>grouperas</tu>
+		<il>groupera</il>
+		<nous>grouperons</nous>
+		<vous>grouperez</vous>
+		<ils>grouperont</ils>
+	</future>
+	<subjunctive>
+		<je>groupe</je>
+		<tu>groupes</tu>
+		<il>groupe</il>
+		<nous>groupions</nous>
+		<vous>groupiez</vous>
+		<ils>groupent</ils>
+	</subjunctive>
+	<conditional>
+		<je>grouperais</je>
+		<tu>grouperais</tu>
+		<il>grouperait</il>
+		<nous>grouperions</nous>
+		<vous>grouperiez</vous>
+		<ils>grouperaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

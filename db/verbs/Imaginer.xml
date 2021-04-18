@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>imaginer</infinitive>
+            <presentParticiple>imaginant</presentParticiple>
+            <pastParticiple>imaginé</pastParticiple>
+            <pronominal>
+                <translation>to imagine</translation>
+            </pronominal>
+            <present>
+                <je>imagine</je>
+                <tu>imagines</tu>
+                <il>imagine</il>
+                <nous>imaginons</nous>
+                <vous>imaginez</vous>
+                <ils>imaginent</ils>
+            </present>
+            <imperative>
+                <tu>imagine</tu>
+                <nous>imaginons</nous>
+                <vous>imaginez</vous>
+            </imperative>
+            <imperfect>
+                <je>imaginais</je>
+                <tu>imaginais</tu>
+                <il>imaginait</il>
+                <nous>imaginions</nous>
+                <vous>imaginiez</vous>
+                <ils>imaginaient</ils>
+            </imperfect>
+            <future>
+                <je>imaginerai</je>
+                <tu>imagineras</tu>
+                <il>imaginera</il>
+                <nous>imaginerons</nous>
+                <vous>imaginerez</vous>
+                <ils>imagineront</ils>
+            </future>
+            <subjunctive>
+                <je>imagine</je>
+                <tu>imagines</tu>
+                <il>imagine</il>
+                <nous>imaginions</nous>
+                <vous>imaginiez</vous>
+                <ils>imaginent</ils>
+            </subjunctive>
+            <conditional>
+                <je>imaginerais</je>
+                <tu>imaginerais</tu>
+                <il>imaginerait</il>
+                <nous>imaginerions</nous>
+                <vous>imagineriez</vous>
+                <ils>imagineraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

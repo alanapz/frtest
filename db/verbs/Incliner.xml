@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>incliner</infinitive>
+	<translation>to tilt</translation>
+	<translation>to tend towards</translation>
+	<translation>be inclined to</translation>
+	<presentParticiple>inclinant</presentParticiple>
+	<pastParticiple>incliné</pastParticiple>
+	<present>
+		<je>incline</je>
+		<tu>inclines</tu>
+		<il>incline</il>
+		<nous>inclinons</nous>
+		<vous>inclinez</vous>
+		<ils>inclinent</ils>
+	</present>
+	<imperative>
+		<tu>incline</tu>
+		<nous>inclinons</nous>
+		<vous>inclinez</vous>
+	</imperative>
+	<imperfect>
+		<je>inclinais</je>
+		<tu>inclinais</tu>
+		<il>inclinait</il>
+		<nous>inclinions</nous>
+		<vous>incliniez</vous>
+		<ils>inclinaient</ils>
+	</imperfect>
+	<future>
+		<je>inclinerai</je>
+		<tu>inclineras</tu>
+		<il>inclinera</il>
+		<nous>inclinerons</nous>
+		<vous>inclinerez</vous>
+		<ils>inclineront</ils>
+	</future>
+	<subjunctive>
+		<je>incline</je>
+		<tu>inclines</tu>
+		<il>incline</il>
+		<nous>inclinions</nous>
+		<vous>incliniez</vous>
+		<ils>inclinent</ils>
+	</subjunctive>
+	<conditional>
+		<je>inclinerais</je>
+		<tu>inclinerais</tu>
+		<il>inclinerait</il>
+		<nous>inclinerions</nous>
+		<vous>inclineriez</vous>
+		<ils>inclineraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

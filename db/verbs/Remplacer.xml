@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>remplacer</infinitive>
+            <translation>to replace</translation>
+            <spellingChange />
+            <presentParticiple>remplaçant</presentParticiple>
+            <pastParticiple>remplacé</pastParticiple>
+            <present>
+                <je>remplace</je>
+                <tu>remplaces</tu>
+                <il>remplace</il>
+                <nous>remplaçons</nous>
+                <vous>remplacez</vous>
+                <ils>remplacent</ils>
+            </present>
+            <imperative>
+                <tu>remplace</tu>
+                <nous>remplaçons</nous>
+                <vous>remplacez</vous>
+            </imperative>
+            <imperfect>
+                <je>remplaçais</je>
+                <tu>remplaçais</tu>
+                <il>remplaçait</il>
+                <nous>remplacions</nous>
+                <vous>remplaciez</vous>
+                <ils>remplaçaient</ils>
+            </imperfect>
+            <future>
+                <je>remplacerai</je>
+                <tu>remplaceras</tu>
+                <il>remplacera</il>
+                <nous>remplacerons</nous>
+                <vous>remplacerez</vous>
+                <ils>remplaceront</ils>
+            </future>
+            <subjunctive>
+                <je>remplace</je>
+                <tu>remplaces</tu>
+                <il>remplace</il>
+                <nous>remplacions</nous>
+                <vous>remplaciez</vous>
+                <ils>remplacent</ils>
+            </subjunctive>
+            <conditional>
+                <je>remplacerais</je>
+                <tu>remplacerais</tu>
+                <il>remplacerait</il>
+                <nous>remplacerions</nous>
+                <vous>remplaceriez</vous>
+                <ils>remplaceraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>ha&#239;r</infinitive>
+	<translation>to hate</translation>
+	<irregular />
+	<presentParticiple>ha&#239;ssant</presentParticiple>
+	<pastParticiple>ha&#239;</pastParticiple>
+	<present>
+		<je>hais</je>
+		<tu>hais</tu>
+		<il>hait</il>
+		<nous>ha&#239;ssons</nous>
+		<vous>ha&#239;ssez</vous>
+		<ils>ha&#239;ssent</ils>
+	</present>
+	<imperative>
+		<tu>hais</tu>
+		<nous>ha&#239;ssons</nous>
+		<vous>ha&#239;ssez</vous>
+	</imperative>
+	<imperfect>
+		<je>ha&#239;ssais</je>
+		<tu>ha&#239;ssais</tu>
+		<il>ha&#239;ssait</il>
+		<nous>ha&#239;ssions</nous>
+		<vous>ha&#239;ssiez</vous>
+		<ils>ha&#239;ssaient</ils>
+	</imperfect>
+	<future>
+		<je>ha&#239;rai</je>
+		<tu>ha&#239;ras</tu>
+		<il>ha&#239;ra</il>
+		<nous>ha&#239;rons</nous>
+		<vous>ha&#239;rez</vous>
+		<ils>ha&#239;ront</ils>
+	</future>
+	<subjunctive>
+		<je>ha&#239;sse</je>
+		<tu>ha&#239;sses</tu>
+		<il>ha&#239;sse</il>
+		<nous>ha&#239;ssions</nous>
+		<vous>ha&#239;ssiez</vous>
+		<ils>ha&#239;ssent</ils>
+	</subjunctive>
+	<conditional>
+		<je>ha&#239;rais</je>
+		<tu>ha&#239;rais</tu>
+		<il>ha&#239;rait</il>
+		<nous>ha&#239;rions</nous>
+		<vous>ha&#239;riez</vous>
+		<ils>ha&#239;raient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

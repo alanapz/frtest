@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>amuser</infinitive>
+	<translation>to amuse</translation>
+	<presentParticiple>amusant</presentParticiple>
+	<pastParticiple>amusé</pastParticiple>
+	<present>
+		<je>amuse</je>
+		<tu>amuses</tu>
+		<il>amuse</il>
+		<nous>amusons</nous>
+		<vous>amusez</vous>
+		<ils>amusent</ils>
+	</present>
+	<imperative>
+		<tu>amuse</tu>
+		<nous>amusons</nous>
+		<vous>amusez</vous>
+	</imperative>
+	<imperfect>
+		<je>amusais</je>
+		<tu>amusais</tu>
+		<il>amusait</il>
+		<nous>amusions</nous>
+		<vous>amusiez</vous>
+		<ils>amusaient</ils>
+	</imperfect>
+	<future>
+		<je>amuserai</je>
+		<tu>amuseras</tu>
+		<il>amusera</il>
+		<nous>amuserons</nous>
+		<vous>amuserez</vous>
+		<ils>amuseront</ils>
+	</future>
+	<subjunctive>
+		<je>amuse</je>
+		<tu>amuses</tu>
+		<il>amuse</il>
+		<nous>amusions</nous>
+		<vous>amusiez</vous>
+		<ils>amusent</ils>
+	</subjunctive>
+	<conditional>
+		<je>amuserais</je>
+		<tu>amuserais</tu>
+		<il>amuserait</il>
+		<nous>amuserions</nous>
+		<vous>amuseriez</vous>
+		<ils>amuseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

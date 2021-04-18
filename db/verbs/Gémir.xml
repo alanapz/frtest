@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>gémir</infinitive>
+	<translation>to moan</translation>
+	<translation>groan</translation>
+	<translation>creak</translation>
+	<presentParticiple>gémissant</presentParticiple>
+	<pastParticiple>gémi</pastParticiple>
+	<present>
+		<je>gémis</je>
+		<tu>gémis</tu>
+		<il>gémit</il>
+		<nous>gémissons</nous>
+		<vous>gémissez</vous>
+		<ils>gémissent</ils>
+	</present>
+	<imperative>
+		<tu>gémis</tu>
+		<nous>gémissons</nous>
+		<vous>gémissez</vous>
+	</imperative>
+	<imperfect>
+		<je>gémissais</je>
+		<tu>gémissais</tu>
+		<il>gémissait</il>
+		<nous>gémissions</nous>
+		<vous>gémissiez</vous>
+		<ils>gémissaient</ils>
+	</imperfect>
+	<future>
+		<je>gémirai</je>
+		<tu>gémiras</tu>
+		<il>gémira</il>
+		<nous>gémirons</nous>
+		<vous>gémirez</vous>
+		<ils>gémiront</ils>
+	</future>
+	<subjunctive>
+		<je>gémisse</je>
+		<tu>gémisses</tu>
+		<il>gémisse</il>
+		<nous>gémissions</nous>
+		<vous>gémissiez</vous>
+		<ils>gémissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>gémirais</je>
+		<tu>gémirais</tu>
+		<il>gémirait</il>
+		<nous>gémirions</nous>
+		<vous>gémiriez</vous>
+		<ils>gémiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

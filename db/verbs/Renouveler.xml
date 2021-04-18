@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>renouveler</infinitive>
+            <translation>to renew</translation>
+            <stemChange />
+            <presentParticiple>renouvelant</presentParticiple>
+            <pastParticiple>renouvelé</pastParticiple>
+            <present>
+                <je>renouvelle</je>
+                <tu>renouvelles</tu>
+                <il>renouvelle</il>
+                <nous>renouvelons</nous>
+                <vous>renouvelez</vous>
+                <ils>renouvellent</ils>
+            </present>
+            <imperative>
+                <tu>renouvelle</tu>
+                <nous>renouvelons</nous>
+                <vous>renouvelez</vous>
+            </imperative>
+            <imperfect>
+                <je>renouvelais</je>
+                <tu>renouvelais</tu>
+                <il>renouvelait</il>
+                <nous>renouvelions</nous>
+                <vous>renouveliez</vous>
+                <ils>renouvelaient</ils>
+            </imperfect>
+            <future>
+                <je>renouvellerai</je>
+                <tu>renouvelleras</tu>
+                <il>renouvellera</il>
+                <nous>renouvellerons</nous>
+                <vous>renouvellerez</vous>
+                <ils>renouvelleront</ils>
+            </future>
+            <subjunctive>
+                <je>renouvelle</je>
+                <tu>renouvelles</tu>
+                <il>renouvelle</il>
+                <nous>renouvelions</nous>
+                <vous>renouveliez</vous>
+                <ils>renouvellent</ils>
+            </subjunctive>
+            <conditional>
+                <je>renouvellerais</je>
+                <tu>renouvellerais</tu>
+                <il>renouvellerait</il>
+                <nous>renouvellerions</nous>
+                <vous>renouvelleriez</vous>
+                <ils>renouvelleraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

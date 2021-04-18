@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>fouiner</infinitive>
+	<translation>to snoop</translation>
+	<presentParticiple>fouinant</presentParticiple>
+	<pastParticiple>fouiné</pastParticiple>
+	<present>
+		<je>fouine</je>
+		<tu>fouines</tu>
+		<il>fouine</il>
+		<nous>fouinons</nous>
+		<vous>fouinez</vous>
+		<ils>fouinent</ils>
+	</present>
+	<imperative>
+		<tu>fouine</tu>
+		<nous>fouinons</nous>
+		<vous>fouinez</vous>
+	</imperative>
+	<imperfect>
+		<je>fouinais</je>
+		<tu>fouinais</tu>
+		<il>fouinait</il>
+		<nous>fouinions</nous>
+		<vous>fouiniez</vous>
+		<ils>fouinaient</ils>
+	</imperfect>
+	<future>
+		<je>fouinerai</je>
+		<tu>fouineras</tu>
+		<il>fouinera</il>
+		<nous>fouinerons</nous>
+		<vous>fouinerez</vous>
+		<ils>fouineront</ils>
+	</future>
+	<subjunctive>
+		<je>fouine</je>
+		<tu>fouines</tu>
+		<il>fouine</il>
+		<nous>fouinions</nous>
+		<vous>fouiniez</vous>
+		<ils>fouinent</ils>
+	</subjunctive>
+	<conditional>
+		<je>fouinerais</je>
+		<tu>fouinerais</tu>
+		<il>fouinerait</il>
+		<nous>fouinerions</nous>
+		<vous>fouineriez</vous>
+		<ils>fouineraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>profiter</infinitive>
+            <translation>to make-the-most-of</translation>
+            <presentParticiple>profitant</presentParticiple>
+            <pastParticiple>profité</pastParticiple>
+            <present>
+                <je>profite</je>
+                <tu>profites</tu>
+                <il>profite</il>
+                <nous>profitons</nous>
+                <vous>profitez</vous>
+                <ils>profitent</ils>
+            </present>
+            <imperative>
+                <tu>profite</tu>
+                <nous>profitons</nous>
+                <vous>profitez</vous>
+            </imperative>
+            <imperfect>
+                <je>profitais</je>
+                <tu>profitais</tu>
+                <il>profitait</il>
+                <nous>profitions</nous>
+                <vous>profitiez</vous>
+                <ils>profitaient</ils>
+            </imperfect>
+            <future>
+                <je>profiterai</je>
+                <tu>profiteras</tu>
+                <il>profitera</il>
+                <nous>profiterons</nous>
+                <vous>profiterez</vous>
+                <ils>profiteront</ils>
+            </future>
+            <subjunctive>
+                <je>profite</je>
+                <tu>profites</tu>
+                <il>profite</il>
+                <nous>profitions</nous>
+                <vous>profitiez</vous>
+                <ils>profitent</ils>
+            </subjunctive>
+            <conditional>
+                <je>profiterais</je>
+                <tu>profiterais</tu>
+                <il>profiterait</il>
+                <nous>profiterions</nous>
+                <vous>profiteriez</vous>
+                <ils>profiteraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>sonner</infinitive>
+            <translation>to ring</translation>
+            <presentParticiple>sonnant</presentParticiple>
+            <pastParticiple>sonné</pastParticiple>
+            <present>
+                <je>sonne</je>
+                <tu>sonnes</tu>
+                <il>sonne</il>
+                <nous>sonnons</nous>
+                <vous>sonnez</vous>
+                <ils>sonnent</ils>
+            </present>
+            <imperative>
+                <tu>sonne</tu>
+                <nous>sonnons</nous>
+                <vous>sonnez</vous>
+            </imperative>
+            <imperfect>
+                <je>sonnais</je>
+                <tu>sonnais</tu>
+                <il>sonnait</il>
+                <nous>sonnions</nous>
+                <vous>sonniez</vous>
+                <ils>sonnaient</ils>
+            </imperfect>
+            <future>
+                <je>sonnerai</je>
+                <tu>sonneras</tu>
+                <il>sonnera</il>
+                <nous>sonnerons</nous>
+                <vous>sonnerez</vous>
+                <ils>sonneront</ils>
+            </future>
+            <subjunctive>
+                <je>sonne</je>
+                <tu>sonnes</tu>
+                <il>sonne</il>
+                <nous>sonnions</nous>
+                <vous>sonniez</vous>
+                <ils>sonnent</ils>
+            </subjunctive>
+            <conditional>
+                <je>sonnerais</je>
+                <tu>sonnerais</tu>
+                <il>sonnerait</il>
+                <nous>sonnerions</nous>
+                <vous>sonneriez</vous>
+                <ils>sonneraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

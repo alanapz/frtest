@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>abimer</infinitive>
+            <translation>to damage</translation>
+            <translation>to ruin</translation>
+            <pronominal>
+                <translation>to deteriorate</translation>
+            </pronominal>
+        </verb>
+    </verbs>
+</dictionary>

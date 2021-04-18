@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>agréer</infinitive>
+	<translation>to agree</translation>
+	<presentParticiple>agréant</presentParticiple>
+	<pastParticiple>agréé</pastParticiple>
+	<present>
+		<je>agrée</je>
+		<tu>agrées</tu>
+		<il>agrée</il>
+		<nous>agréons</nous>
+		<vous>agréez</vous>
+		<ils>agréent</ils>
+	</present>
+	<imperative>
+		<tu>agrée</tu>
+		<nous>agréons</nous>
+		<vous>agréez</vous>
+	</imperative>
+	<imperfect>
+		<je>agréais</je>
+		<tu>agréais</tu>
+		<il>agréait</il>
+		<nous>agréions</nous>
+		<vous>agréiez</vous>
+		<ils>agréaient</ils>
+	</imperfect>
+	<future>
+		<je>agréerai</je>
+		<tu>agréeras</tu>
+		<il>agréera</il>
+		<nous>agréerons</nous>
+		<vous>agréerez</vous>
+		<ils>agréeront</ils>
+	</future>
+	<subjunctive>
+		<je>agrée</je>
+		<tu>agrées</tu>
+		<il>agrée</il>
+		<nous>agréions</nous>
+		<vous>agréiez</vous>
+		<ils>agréent</ils>
+	</subjunctive>
+	<conditional>
+		<je>agréerais</je>
+		<tu>agréerais</tu>
+		<il>agréerait</il>
+		<nous>agréerions</nous>
+		<vous>agréeriez</vous>
+		<ils>agréeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

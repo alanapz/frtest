@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>danser</infinitive>
+	<translation>to dance</translation>
+	<presentParticiple>dansant</presentParticiple>
+	<pastParticiple>dansé</pastParticiple>
+	<present>
+		<je>danse</je>
+		<tu>danses</tu>
+		<il>danse</il>
+		<nous>dansons</nous>
+		<vous>dansez</vous>
+		<ils>dansent</ils>
+	</present>
+	<imperative>
+		<tu>danse</tu>
+		<nous>dansons</nous>
+		<vous>dansez</vous>
+	</imperative>
+	<imperfect>
+		<je>dansais</je>
+		<tu>dansais</tu>
+		<il>dansait</il>
+		<nous>dansions</nous>
+		<vous>dansiez</vous>
+		<ils>dansaient</ils>
+	</imperfect>
+	<future>
+		<je>danserai</je>
+		<tu>danseras</tu>
+		<il>dansera</il>
+		<nous>danserons</nous>
+		<vous>danserez</vous>
+		<ils>danseront</ils>
+	</future>
+	<subjunctive>
+		<je>danse</je>
+		<tu>danses</tu>
+		<il>danse</il>
+		<nous>dansions</nous>
+		<vous>dansiez</vous>
+		<ils>dansent</ils>
+	</subjunctive>
+	<conditional>
+		<je>danserais</je>
+		<tu>danserais</tu>
+		<il>danserait</il>
+		<nous>danserions</nous>
+		<vous>danseriez</vous>
+		<ils>danseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

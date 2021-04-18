@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>déplaire</infinitive>
+	<translation>todisplease</translation>
+	<irregular />
+	<presentParticiple>déplaisant</presentParticiple>
+	<pastParticiple>déplu</pastParticiple>
+	<present>
+		<je>déplais</je>
+		<tu>déplais</tu>
+		<il>déplaît</il>
+		<nous>déplaisons</nous>
+		<vous>déplaisez</vous>
+		<ils>déplaisent</ils>
+	</present>
+	<imperative>
+		<tu>déplais</tu>
+		<nous>déplaisons</nous>
+		<vous>déplaisez</vous>
+	</imperative>
+	<imperfect>
+		<je>déplaisais</je>
+		<tu>déplaisais</tu>
+		<il>déplaisait</il>
+		<nous>déplaisions</nous>
+		<vous>déplaisiez</vous>
+		<ils>déplaisaient</ils>
+	</imperfect>
+	<future>
+		<je>déplairai</je>
+		<tu>déplairas</tu>
+		<il>déplaira</il>
+		<nous>déplairons</nous>
+		<vous>déplairez</vous>
+		<ils>déplairont</ils>
+	</future>
+	<subjunctive>
+		<je>déplaise</je>
+		<tu>déplaises</tu>
+		<il>déplaise</il>
+		<nous>déplaisions</nous>
+		<vous>déplaisiez</vous>
+		<ils>déplaisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>déplairais</je>
+		<tu>déplairais</tu>
+		<il>déplairait</il>
+		<nous>déplairions</nous>
+		<vous>déplairiez</vous>
+		<ils>déplairaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

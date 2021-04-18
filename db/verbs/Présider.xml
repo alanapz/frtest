@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>présider</infinitive>
+	<translation>to preside</translation>
+	<presentParticiple>présidant</presentParticiple>
+	<pastParticiple>présidé</pastParticiple>
+	<present>
+		<je>préside</je>
+		<tu>présides</tu>
+		<il>préside</il>
+		<nous>présidons</nous>
+		<vous>présidez</vous>
+		<ils>président</ils>
+	</present>
+	<imperative>
+		<tu>préside</tu>
+		<nous>présidons</nous>
+		<vous>présidez</vous>
+	</imperative>
+	<imperfect>
+		<je>présidais</je>
+		<tu>présidais</tu>
+		<il>présidait</il>
+		<nous>présidions</nous>
+		<vous>présidiez</vous>
+		<ils>présidaient</ils>
+	</imperfect>
+	<future>
+		<je>présiderai</je>
+		<tu>présideras</tu>
+		<il>présidera</il>
+		<nous>présiderons</nous>
+		<vous>présiderez</vous>
+		<ils>présideront</ils>
+	</future>
+	<subjunctive>
+		<je>préside</je>
+		<tu>présides</tu>
+		<il>préside</il>
+		<nous>présidions</nous>
+		<vous>présidiez</vous>
+		<ils>président</ils>
+	</subjunctive>
+	<conditional>
+		<je>présiderais</je>
+		<tu>présiderais</tu>
+		<il>présiderait</il>
+		<nous>présiderions</nous>
+		<vous>présideriez</vous>
+		<ils>présideraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

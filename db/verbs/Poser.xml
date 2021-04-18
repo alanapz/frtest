@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>poser</infinitive>
+	<translation>to put</translation>
+	<presentParticiple>posant</presentParticiple>
+	<pastParticiple>posé</pastParticiple>
+	<present>
+		<je>pose</je>
+		<tu>poses</tu>
+		<il>pose</il>
+		<nous>posons</nous>
+		<vous>posez</vous>
+		<ils>posent</ils>
+	</present>
+	<imperative>
+		<tu>pose</tu>
+		<nous>posons</nous>
+		<vous>posez</vous>
+	</imperative>
+	<imperfect>
+		<je>posais</je>
+		<tu>posais</tu>
+		<il>posait</il>
+		<nous>posions</nous>
+		<vous>posiez</vous>
+		<ils>posaient</ils>
+	</imperfect>
+	<future>
+		<je>poserai</je>
+		<tu>poseras</tu>
+		<il>posera</il>
+		<nous>poserons</nous>
+		<vous>poserez</vous>
+		<ils>poseront</ils>
+	</future>
+	<subjunctive>
+		<je>pose</je>
+		<tu>poses</tu>
+		<il>pose</il>
+		<nous>posions</nous>
+		<vous>posiez</vous>
+		<ils>posent</ils>
+	</subjunctive>
+	<conditional>
+		<je>poserais</je>
+		<tu>poserais</tu>
+		<il>poserait</il>
+		<nous>poserions</nous>
+		<vous>poseriez</vous>
+		<ils>poseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

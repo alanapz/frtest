@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>pressentir</infinitive>
+	<translation>to have a premonition</translation>
+	<irregular />
+	<presentParticiple>pressentant</presentParticiple>
+	<pastParticiple> pressenti</pastParticiple>
+	<present>
+		<je>pressens</je>
+		<tu>pressens</tu>
+		<il>pressent</il>
+		<nous>pressentons</nous>
+		<vous>pressentez</vous>
+		<ils>pressentent</ils>
+	</present>
+	<imperative>
+		<tu>pressens</tu>
+		<nous>pressentons</nous>
+		<vous>pressentez</vous>
+	</imperative>
+	<imperfect>
+		<je>pressentais</je>
+		<tu>pressentais</tu>
+		<il>pressentait</il>
+		<nous>pressentions</nous>
+		<vous>pressentiez</vous>
+		<ils>pressentaient</ils>
+	</imperfect>
+	<future>
+		<je>pressentirai</je>
+		<tu>pressentiras</tu>
+		<il>pressentira</il>
+		<nous>pressentirons</nous>
+		<vous>pressentirez</vous>
+		<ils>pressentiront</ils>
+	</future>
+	<subjunctive>
+		<je>pressente</je>
+		<tu>pressentes</tu>
+		<il>pressente</il>
+		<nous>pressentions</nous>
+		<vous>pressentiez</vous>
+		<ils>pressentent</ils>
+	</subjunctive>
+	<conditional>
+		<je>pressentirais</je>
+		<tu>pressentirais</tu>
+		<il>pressentirait</il>
+		<nous>pressentirions</nous>
+		<vous>pressentiriez</vous>
+		<ils>pressentiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

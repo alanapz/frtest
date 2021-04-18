@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>habituer</infinitive>
+	<translation>to accustom s.o.</translation>
+	<translation>get s.o. used to</translation>
+	<presentParticiple>habituant</presentParticiple>
+	<pastParticiple>habitué</pastParticiple>
+	<present>
+		<je>habitue</je>
+		<tu>habitues</tu>
+		<il>habitue</il>
+		<nous>habituons</nous>
+		<vous>habituez</vous>
+		<ils>habituent</ils>
+	</present>
+	<imperative>
+		<tu>habitue</tu>
+		<nous>habituons</nous>
+		<vous>habituez</vous>
+	</imperative>
+	<imperfect>
+		<je>habituais</je>
+		<tu>habituais</tu>
+		<il>habituait</il>
+		<nous>habituions</nous>
+		<vous>habituiez</vous>
+		<ils>habituaient</ils>
+	</imperfect>
+	<future>
+		<je>habituerai</je>
+		<tu>habitueras</tu>
+		<il>habituera</il>
+		<nous>habituerons</nous>
+		<vous>habituerez</vous>
+		<ils>habitueront</ils>
+	</future>
+	<subjunctive>
+		<je>habitue</je>
+		<tu>habitues</tu>
+		<il>habitue</il>
+		<nous>habituions</nous>
+		<vous>habituiez</vous>
+		<ils>habituent</ils>
+	</subjunctive>
+	<conditional>
+		<je>habituerais</je>
+		<tu>habituerais</tu>
+		<il>habituerait</il>
+		<nous>habituerions</nous>
+		<vous>habitueriez</vous>
+		<ils>habitueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

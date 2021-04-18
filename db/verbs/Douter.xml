@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>douter</infinitive>
+	<translation>to doubt</translation>
+	<presentParticiple>doutant</presentParticiple>
+	<pastParticiple>douté</pastParticiple>
+	<present>
+		<je>doute</je>
+		<tu>doutes</tu>
+		<il>doute</il>
+		<nous>doutons</nous>
+		<vous>doutez</vous>
+		<ils>doutent</ils>
+	</present>
+	<imperative>
+		<tu>doute</tu>
+		<nous>doutons</nous>
+		<vous>doutez</vous>
+	</imperative>
+	<imperfect>
+		<je>doutais</je>
+		<tu>doutais</tu>
+		<il>doutait</il>
+		<nous>doutions</nous>
+		<vous>doutiez</vous>
+		<ils>doutaient</ils>
+	</imperfect>
+	<future>
+		<je>douterai</je>
+		<tu>douteras</tu>
+		<il>doutera</il>
+		<nous>douterons</nous>
+		<vous>douterez</vous>
+		<ils>douteront</ils>
+	</future>
+	<subjunctive>
+		<je>doute</je>
+		<tu>doutes</tu>
+		<il>doute</il>
+		<nous>doutions</nous>
+		<vous>doutiez</vous>
+		<ils>doutent</ils>
+	</subjunctive>
+	<conditional>
+		<je>douterais</je>
+		<tu>douterais</tu>
+		<il>douterait</il>
+		<nous>douterions</nous>
+		<vous>douteriez</vous>
+		<ils>douteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

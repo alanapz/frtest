@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>prétendre</infinitive>
+	<translation>to claim</translation>
+	<presentParticiple>prétendant</presentParticiple>
+	<pastParticiple>prétendu</pastParticiple>
+	<present>
+		<je>prétends</je>
+		<tu>prétends</tu>
+		<il>prétend</il>
+		<nous>prétendons</nous>
+		<vous>prétendez</vous>
+		<ils>prétendent</ils>
+	</present>
+	<imperative>
+		<tu>prétends</tu>
+		<nous>prétendons</nous>
+		<vous>prétendez</vous>
+	</imperative>
+	<imperfect>
+		<je>prétendais</je>
+		<tu>prétendais</tu>
+		<il>prétendait</il>
+		<nous>prétendions</nous>
+		<vous>prétendiez</vous>
+		<ils>prétendaient</ils>
+	</imperfect>
+	<future>
+		<je>prétendrai</je>
+		<tu>prétendras</tu>
+		<il>prétendra</il>
+		<nous>prétendrons</nous>
+		<vous>prétendrez</vous>
+		<ils>prétendront</ils>
+	</future>
+	<subjunctive>
+		<je>prétende</je>
+		<tu>prétendes</tu>
+		<il>prétende</il>
+		<nous>prétendions</nous>
+		<vous>prétendiez</vous>
+		<ils>prétendent</ils>
+	</subjunctive>
+	<conditional>
+		<je>prétendrais</je>
+		<tu>prétendrais</tu>
+		<il>prétendrait</il>
+		<nous>prétendrions</nous>
+		<vous>prétendriez</vous>
+		<ils>prétendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

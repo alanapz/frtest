@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>piloter</infinitive>
+	<translation>to pilot</translation>
+	<translation>fly</translation>
+	<translation>to run</translation>
+	<translation>manage</translation>
+	<presentParticiple>pilotant</presentParticiple>
+	<pastParticiple>piloté</pastParticiple>
+	<present>
+		<je>pilote</je>
+		<tu>pilotes</tu>
+		<il>pilote</il>
+		<nous>pilotons</nous>
+		<vous>pilotez</vous>
+		<ils>pilotent</ils>
+	</present>
+	<imperative>
+		<tu>pilote</tu>
+		<nous>pilotons</nous>
+		<vous>pilotez</vous>
+	</imperative>
+	<imperfect>
+		<je>pilotais</je>
+		<tu>pilotais</tu>
+		<il>pilotait</il>
+		<nous>pilotions</nous>
+		<vous>pilotiez</vous>
+		<ils>pilotaient</ils>
+	</imperfect>
+	<future>
+		<je>piloterai</je>
+		<tu>piloteras</tu>
+		<il>pilotera</il>
+		<nous>piloterons</nous>
+		<vous>piloterez</vous>
+		<ils>piloteront</ils>
+	</future>
+	<subjunctive>
+		<je>pilote</je>
+		<tu>pilotes</tu>
+		<il>pilote</il>
+		<nous>pilotions</nous>
+		<vous>pilotiez</vous>
+		<ils>pilotent</ils>
+	</subjunctive>
+	<conditional>
+		<je>piloterais</je>
+		<tu>piloterais</tu>
+		<il>piloterait</il>
+		<nous>piloterions</nous>
+		<vous>piloteriez</vous>
+		<ils>piloteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

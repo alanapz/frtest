@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>délivrer</infinitive>
+	<translation>to set free</translation>
+	<translation>to rid</translation>
+	<translation>to issue</translation>
+	<translation>deliver</translation>
+	<translation>grant</translation>
+	<presentParticiple>délivrant</presentParticiple>
+	<pastParticiple>délivré</pastParticiple>
+	<present>
+		<je>délivre</je>
+		<tu>délivres</tu>
+		<il>délivre</il>
+		<nous>délivrons</nous>
+		<vous>délivrez</vous>
+		<ils>délivrent</ils>
+	</present>
+	<imperative>
+		<tu>délivre</tu>
+		<nous>délivrons</nous>
+		<vous>délivrez</vous>
+	</imperative>
+	<imperfect>
+		<je>délivrais</je>
+		<tu>délivrais</tu>
+		<il>délivrait</il>
+		<nous>délivrions</nous>
+		<vous>délivriez</vous>
+		<ils>délivraient</ils>
+	</imperfect>
+	<future>
+		<je>délivrerai</je>
+		<tu>délivreras</tu>
+		<il>délivrera</il>
+		<nous>délivrerons</nous>
+		<vous>délivrerez</vous>
+		<ils>délivreront</ils>
+	</future>
+	<subjunctive>
+		<je>délivre</je>
+		<tu>délivres</tu>
+		<il>délivre</il>
+		<nous>délivrions</nous>
+		<vous>délivriez</vous>
+		<ils>délivrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>délivrerais</je>
+		<tu>délivrerais</tu>
+		<il>délivrerait</il>
+		<nous>délivrerions</nous>
+		<vous>délivreriez</vous>
+		<ils>délivreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

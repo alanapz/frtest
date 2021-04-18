@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>ébranler</infinitive>
+	<translation>to shake</translation>
+	<translation>to weaken</translation>
+	<translation>compromise</translation>
+	<presentParticiple>ébranlant</presentParticiple>
+	<pastParticiple>ébranlé</pastParticiple>
+	<present>
+		<je>ébranle</je>
+		<tu>ébranles</tu>
+		<il>ébranle</il>
+		<nous>ébranlons</nous>
+		<vous>ébranlez</vous>
+		<ils>ébranlent</ils>
+	</present>
+	<imperative>
+		<tu>ébranle</tu>
+		<nous>ébranlons</nous>
+		<vous>ébranlez</vous>
+	</imperative>
+	<imperfect>
+		<je>ébranlais</je>
+		<tu>ébranlais</tu>
+		<il>ébranlait</il>
+		<nous>ébranlions</nous>
+		<vous>ébranliez</vous>
+		<ils>ébranlaient</ils>
+	</imperfect>
+	<future>
+		<je>ébranlerai</je>
+		<tu>ébranleras</tu>
+		<il>ébranlera</il>
+		<nous>ébranlerons</nous>
+		<vous>ébranlerez</vous>
+		<ils>ébranleront</ils>
+	</future>
+	<subjunctive>
+		<je>ébranle</je>
+		<tu>ébranles</tu>
+		<il>ébranle</il>
+		<nous>ébranlions</nous>
+		<vous>ébranliez</vous>
+		<ils>ébranlent</ils>
+	</subjunctive>
+	<conditional>
+		<je>ébranlerais</je>
+		<tu>ébranlerais</tu>
+		<il>ébranlerait</il>
+		<nous>ébranlerions</nous>
+		<vous>ébranleriez</vous>
+		<ils>ébranleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

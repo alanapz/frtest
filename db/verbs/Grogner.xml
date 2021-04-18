@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>grogner</infinitive>
+	<translation>to grumble</translation>
+	<translation>moan</translation>
+	<presentParticiple>grognant</presentParticiple>
+	<pastParticiple>grogné</pastParticiple>
+	<present>
+		<je>grogne</je>
+		<tu>grognes</tu>
+		<il>grogne</il>
+		<nous>grognons</nous>
+		<vous>grognez</vous>
+		<ils>grognent</ils>
+	</present>
+	<imperative>
+		<tu>grogne</tu>
+		<nous>grognons</nous>
+		<vous>grognez</vous>
+	</imperative>
+	<imperfect>
+		<je>grognais</je>
+		<tu>grognais</tu>
+		<il>grognait</il>
+		<nous>grognions</nous>
+		<vous>grogniez</vous>
+		<ils>grognaient</ils>
+	</imperfect>
+	<future>
+		<je>grognerai</je>
+		<tu>grogneras</tu>
+		<il>grognera</il>
+		<nous>grognerons</nous>
+		<vous>grognerez</vous>
+		<ils>grogneront</ils>
+	</future>
+	<subjunctive>
+		<je>grogne</je>
+		<tu>grognes</tu>
+		<il>grogne</il>
+		<nous>grognions</nous>
+		<vous>grogniez</vous>
+		<ils>grognent</ils>
+	</subjunctive>
+	<conditional>
+		<je>grognerais</je>
+		<tu>grognerais</tu>
+		<il>grognerait</il>
+		<nous>grognerions</nous>
+		<vous>grogneriez</vous>
+		<ils>grogneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>prolonger</infinitive>
+	<translation>to prolong</translation>
+	<translation>extend</translation>
+	<spellingChange />
+	<presentParticiple>prolongeant</presentParticiple>
+	<pastParticiple>prolongé</pastParticiple>
+	<present>
+		<je>prolonge</je>
+		<tu>prolonges</tu>
+		<il>prolonge</il>
+		<nous>prolongeons</nous>
+		<vous>prolongez</vous>
+		<ils>prolongent</ils>
+	</present>
+	<imperative>
+		<tu>prolonge</tu>
+		<nous>prolongeons</nous>
+		<vous>prolongez</vous>
+	</imperative>
+	<imperfect>
+		<je>prolongeais</je>
+		<tu>prolongeais</tu>
+		<il>prolongeait</il>
+		<nous>prolongions</nous>
+		<vous>prolongiez</vous>
+		<ils>prolongeaient</ils>
+	</imperfect>
+	<future>
+		<je>prolongerai</je>
+		<tu>prolongeras</tu>
+		<il>prolongera</il>
+		<nous>prolongerons</nous>
+		<vous>prolongerez</vous>
+		<ils>prolongeront</ils>
+	</future>
+	<subjunctive>
+		<je>prolonge</je>
+		<tu>prolonges</tu>
+		<il>prolonge</il>
+		<nous>prolongions</nous>
+		<vous>prolongiez</vous>
+		<ils>prolongent</ils>
+	</subjunctive>
+	<conditional>
+		<je>prolongerais</je>
+		<tu>prolongerais</tu>
+		<il>prolongerait</il>
+		<nous>prolongerions</nous>
+		<vous>prolongeriez</vous>
+		<ils>prolongeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

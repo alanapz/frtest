@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>briller</infinitive>
+	<translation>to shine</translation>
+	<presentParticiple>brillant</presentParticiple>
+	<pastParticiple>brillé</pastParticiple>
+	<present>
+		<je>brille</je>
+		<tu>brilles</tu>
+		<il>brille</il>
+		<nous>brillons</nous>
+		<vous>brillez</vous>
+		<ils>brillent</ils>
+	</present>
+	<imperative>
+		<tu>brille</tu>
+		<nous>brillons</nous>
+		<vous>brillez</vous>
+	</imperative>
+	<imperfect>
+		<je>brillais</je>
+		<tu>brillais</tu>
+		<il>brillait</il>
+		<nous>brillions</nous>
+		<vous>brilliez</vous>
+		<ils>brillaient</ils>
+	</imperfect>
+	<future>
+		<je>brillerai</je>
+		<tu>brilleras</tu>
+		<il>brillera</il>
+		<nous>brillerons</nous>
+		<vous>brillerez</vous>
+		<ils>brilleront</ils>
+	</future>
+	<subjunctive>
+		<je>brille</je>
+		<tu>brilles</tu>
+		<il>brille</il>
+		<nous>brillions</nous>
+		<vous>brilliez</vous>
+		<ils>brillent</ils>
+	</subjunctive>
+	<conditional>
+		<je>brillerais</je>
+		<tu>brillerais</tu>
+		<il>brillerait</il>
+		<nous>brillerions</nous>
+		<vous>brilleriez</vous>
+		<ils>brilleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

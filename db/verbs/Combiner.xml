@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>combiner</infinitive>
+	<translation>to combine</translation>
+	<presentParticiple>combinant</presentParticiple>
+	<pastParticiple>combiné</pastParticiple>
+	<present>
+		<je>combine</je>
+		<tu>combines</tu>
+		<il>combine</il>
+		<nous>combinons</nous>
+		<vous>combinez</vous>
+		<ils>combinent</ils>
+	</present>
+	<imperative>
+		<tu>combine</tu>
+		<nous>combinons</nous>
+		<vous>combinez</vous>
+	</imperative>
+	<imperfect>
+		<je>combinais</je>
+		<tu>combinais</tu>
+		<il>combinait</il>
+		<nous>combinions</nous>
+		<vous>combiniez</vous>
+		<ils>combinaient</ils>
+	</imperfect>
+	<future>
+		<je>combinerai</je>
+		<tu>combineras</tu>
+		<il>combinera</il>
+		<nous>combinerons</nous>
+		<vous>combinerez</vous>
+		<ils>combineront</ils>
+	</future>
+	<subjunctive>
+		<je>combine</je>
+		<tu>combines</tu>
+		<il>combine</il>
+		<nous>combinions</nous>
+		<vous>combiniez</vous>
+		<ils>combinent</ils>
+	</subjunctive>
+	<conditional>
+		<je>combinerais</je>
+		<tu>combinerais</tu>
+		<il>combinerait</il>
+		<nous>combinerions</nous>
+		<vous>combineriez</vous>
+		<ils>combineraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

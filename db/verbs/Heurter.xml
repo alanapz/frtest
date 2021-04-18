@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>heurter</infinitive>
+	<translation>to hit</translation>
+	<translation>strike</translation>
+	<translation>to offend</translation>
+	<presentParticiple>heurtant</presentParticiple>
+	<pastParticiple>heurté</pastParticiple>
+	<present>
+		<je>heurte</je>
+		<tu>heurtes</tu>
+		<il>heurte</il>
+		<nous>heurtons</nous>
+		<vous>heurtez</vous>
+		<ils>heurtent</ils>
+	</present>
+	<imperative>
+		<tu>heurte</tu>
+		<nous>heurtons</nous>
+		<vous>heurtez</vous>
+	</imperative>
+	<imperfect>
+		<je>heurtais</je>
+		<tu>heurtais</tu>
+		<il>heurtait</il>
+		<nous>heurtions</nous>
+		<vous>heurtiez</vous>
+		<ils>heurtaient</ils>
+	</imperfect>
+	<future>
+		<je>heurterai</je>
+		<tu>heurteras</tu>
+		<il>heurtera</il>
+		<nous>heurterons</nous>
+		<vous>heurterez</vous>
+		<ils>heurteront</ils>
+	</future>
+	<subjunctive>
+		<je>heurte</je>
+		<tu>heurtes</tu>
+		<il>heurte</il>
+		<nous>heurtions</nous>
+		<vous>heurtiez</vous>
+		<ils>heurtent</ils>
+	</subjunctive>
+	<conditional>
+		<je>heurterais</je>
+		<tu>heurterais</tu>
+		<il>heurterait</il>
+		<nous>heurterions</nous>
+		<vous>heurteriez</vous>
+		<ils>heurteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>publier</infinitive>
+	<translation>to publish</translation>
+	<presentParticiple>publiant</presentParticiple>
+	<pastParticiple>publié</pastParticiple>
+	<present>
+		<je>publie</je>
+		<tu>publies</tu>
+		<il>publie</il>
+		<nous>publions</nous>
+		<vous>publiez</vous>
+		<ils>publient</ils>
+	</present>
+	<imperative>
+		<tu>publie</tu>
+		<nous>publions</nous>
+		<vous>publiez</vous>
+	</imperative>
+	<imperfect>
+		<je>publiais</je>
+		<tu>publiais</tu>
+		<il>publiait</il>
+		<nous>publiions</nous>
+		<vous>publiiez</vous>
+		<ils>publiaient</ils>
+	</imperfect>
+	<future>
+		<je>publierai</je>
+		<tu>publieras</tu>
+		<il>publiera</il>
+		<nous>publierons</nous>
+		<vous>publierez</vous>
+		<ils>publieront</ils>
+	</future>
+	<subjunctive>
+		<je>publie</je>
+		<tu>publies</tu>
+		<il>publie</il>
+		<nous>publiions</nous>
+		<vous>publiiez</vous>
+		<ils>publient</ils>
+	</subjunctive>
+	<conditional>
+		<je>publierais</je>
+		<tu>publierais</tu>
+		<il>publierait</il>
+		<nous>publierions</nous>
+		<vous>publieriez</vous>
+		<ils>publieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

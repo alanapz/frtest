@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>brûler</infinitive>
+	<translation>to burn</translation>
+	<presentParticiple>brûlant</presentParticiple>
+	<pastParticiple>brûlé</pastParticiple>
+	<present>
+		<je>brûle</je>
+		<tu>brûles</tu>
+		<il>brûle</il>
+		<nous>brûlons</nous>
+		<vous>brûlez</vous>
+		<ils>brûlent</ils>
+	</present>
+	<imperative>
+		<tu>brûle</tu>
+		<nous>brûlons</nous>
+		<vous>brûlez</vous>
+	</imperative>
+	<imperfect>
+		<je>brûlais</je>
+		<tu>brûlais</tu>
+		<il>brûlait</il>
+		<nous>brûlions</nous>
+		<vous>brûliez</vous>
+		<ils>brûlaient</ils>
+	</imperfect>
+	<future>
+		<je>brûlerai</je>
+		<tu>brûleras</tu>
+		<il>brûlera</il>
+		<nous>brûlerons</nous>
+		<vous>brûlerez</vous>
+		<ils>brûleront</ils>
+	</future>
+	<subjunctive>
+		<je>brûle</je>
+		<tu>brûles</tu>
+		<il>brûle</il>
+		<nous>brûlions</nous>
+		<vous>brûliez</vous>
+		<ils>brûlent</ils>
+	</subjunctive>
+	<conditional>
+		<je>brûlerais</je>
+		<tu>brûlerais</tu>
+		<il>brûlerait</il>
+		<nous>brûlerions</nous>
+		<vous>brûleriez</vous>
+		<ils>brûleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>traverser</infinitive>
+	<translation>to cross</translation>
+	<presentParticiple>traversant</presentParticiple>
+	<pastParticiple>traversé</pastParticiple>
+	<present>
+		<je>traverse</je>
+		<tu>traverses</tu>
+		<il>traverse</il>
+		<nous>traversons</nous>
+		<vous>traversez</vous>
+		<ils>traversent</ils>
+	</present>
+	<imperative>
+		<tu>traverse</tu>
+		<nous>traversons</nous>
+		<vous>traversez</vous>
+	</imperative>
+	<imperfect>
+		<je>traversais</je>
+		<tu>traversais</tu>
+		<il>traversait</il>
+		<nous>traversions</nous>
+		<vous>traversiez</vous>
+		<ils>traversaient</ils>
+	</imperfect>
+	<future>
+		<je>traverserai</je>
+		<tu>traverseras</tu>
+		<il>traversera</il>
+		<nous>traverserons</nous>
+		<vous>traverserez</vous>
+		<ils>traverseront</ils>
+	</future>
+	<subjunctive>
+		<je>traverse</je>
+		<tu>traverses</tu>
+		<il>traverse</il>
+		<nous>traversions</nous>
+		<vous>traversiez</vous>
+		<ils>traversent</ils>
+	</subjunctive>
+	<conditional>
+		<je>traverserais</je>
+		<tu>traverserais</tu>
+		<il>traverserait</il>
+		<nous>traverserions</nous>
+		<vous>traverseriez</vous>
+		<ils>traverseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

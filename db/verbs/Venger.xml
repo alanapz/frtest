@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>venger</infinitive>
+            <translation>to avenge</translation>
+            <spellingChange />
+            <presentParticiple>vengeant</presentParticiple>
+            <pastParticiple>vengé</pastParticiple>
+            <present>
+                <je>venge</je>
+                <tu>venges</tu>
+                <il>venge</il>
+                <nous>vengeons</nous>
+                <vous>vengez</vous>
+                <ils>vengent</ils>
+            </present>
+            <imperative>
+                <tu>venge</tu>
+                <nous>vengeons</nous>
+                <vous>vengez</vous>
+            </imperative>
+            <imperfect>
+                <je>vengeais</je>
+                <tu>vengeais</tu>
+                <il>vengeait</il>
+                <nous>vengions</nous>
+                <vous>vengiez</vous>
+                <ils>vengeaient</ils>
+            </imperfect>
+            <future>
+                <je>vengerai</je>
+                <tu>vengeras</tu>
+                <il>vengera</il>
+                <nous>vengerons</nous>
+                <vous>vengerez</vous>
+                <ils>vengeront</ils>
+            </future>
+            <subjunctive>
+                <je>venge</je>
+                <tu>venges</tu>
+                <il>venge</il>
+                <nous>vengions</nous>
+                <vous>vengiez</vous>
+                <ils>vengent</ils>
+            </subjunctive>
+            <conditional>
+                <je>vengerais</je>
+                <tu>vengerais</tu>
+                <il>vengerait</il>
+                <nous>vengerions</nous>
+                <vous>vengeriez</vous>
+                <ils>vengeraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

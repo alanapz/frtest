@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>gouverner</infinitive>
+	<translation>to govern</translation>
+	<presentParticiple>gouvernant</presentParticiple>
+	<pastParticiple>gouverné</pastParticiple>
+	<present>
+		<je>gouverne</je>
+		<tu>gouvernes</tu>
+		<il>gouverne</il>
+		<nous>gouvernons</nous>
+		<vous>gouvernez</vous>
+		<ils>gouvernent</ils>
+	</present>
+	<imperative>
+		<tu>gouverne</tu>
+		<nous>gouvernons</nous>
+		<vous>gouvernez</vous>
+	</imperative>
+	<imperfect>
+		<je>gouvernais</je>
+		<tu>gouvernais</tu>
+		<il>gouvernait</il>
+		<nous>gouvernions</nous>
+		<vous>gouverniez</vous>
+		<ils>gouvernaient</ils>
+	</imperfect>
+	<future>
+		<je>gouvernerai</je>
+		<tu>gouverneras</tu>
+		<il>gouvernera</il>
+		<nous>gouvernerons</nous>
+		<vous>gouvernerez</vous>
+		<ils>gouverneront</ils>
+	</future>
+	<subjunctive>
+		<je>gouverne</je>
+		<tu>gouvernes</tu>
+		<il>gouverne</il>
+		<nous>gouvernions</nous>
+		<vous>gouverniez</vous>
+		<ils>gouvernent</ils>
+	</subjunctive>
+	<conditional>
+		<je>gouvernerais</je>
+		<tu>gouvernerais</tu>
+		<il>gouvernerait</il>
+		<nous>gouvernerions</nous>
+		<vous>gouverneriez</vous>
+		<ils>gouverneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

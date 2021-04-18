@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dompter</infinitive>
+	<translation>to tame</translation>
+	<translation>subdue</translation>
+	<presentParticiple>domptant</presentParticiple>
+	<pastParticiple>dompté</pastParticiple>
+	<present>
+		<je>dompte</je>
+		<tu>domptes</tu>
+		<il>dompte</il>
+		<nous>domptons</nous>
+		<vous>domptez</vous>
+		<ils>domptent</ils>
+	</present>
+	<imperative>
+		<tu>dompte</tu>
+		<nous>domptons</nous>
+		<vous>domptez</vous>
+	</imperative>
+	<imperfect>
+		<je>domptais</je>
+		<tu>domptais</tu>
+		<il>domptait</il>
+		<nous>domptions</nous>
+		<vous>domptiez</vous>
+		<ils>domptaient</ils>
+	</imperfect>
+	<future>
+		<je>dompterai</je>
+		<tu>dompteras</tu>
+		<il>domptera</il>
+		<nous>dompterons</nous>
+		<vous>dompterez</vous>
+		<ils>dompteront</ils>
+	</future>
+	<subjunctive>
+		<je>dompte</je>
+		<tu>domptes</tu>
+		<il>dompte</il>
+		<nous>domptions</nous>
+		<vous>domptiez</vous>
+		<ils>domptent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dompterais</je>
+		<tu>dompterais</tu>
+		<il>dompterait</il>
+		<nous>dompterions</nous>
+		<vous>dompteriez</vous>
+		<ils>dompteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

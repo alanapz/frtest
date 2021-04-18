@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>soupçonner</infinitive>
+	<translation>to suspect</translation>
+	<presentParticiple>soupçonnant</presentParticiple>
+	<pastParticiple>soupçonné</pastParticiple>
+	<present>
+		<je>soupçonne</je>
+		<tu>soupçonnes</tu>
+		<il>soupçonne</il>
+		<nous>soupçonnons</nous>
+		<vous>soupçonnez</vous>
+		<ils>soupçonnent</ils>
+	</present>
+	<imperative>
+		<tu>soupçonne</tu>
+		<nous>soupçonnons</nous>
+		<vous>soupçonnez</vous>
+	</imperative>
+	<imperfect>
+		<je>soupçonnais</je>
+		<tu>soupçonnais</tu>
+		<il>soupçonnait</il>
+		<nous>soupçonnions</nous>
+		<vous>soupçonniez</vous>
+		<ils>soupçonnaient</ils>
+	</imperfect>
+	<future>
+		<je>soupçonnerai</je>
+		<tu>soupçonneras</tu>
+		<il>soupçonnera</il>
+		<nous>soupçonnerons</nous>
+		<vous>soupçonnerez</vous>
+		<ils>soupçonneront</ils>
+	</future>
+	<subjunctive>
+		<je>soupçonne</je>
+		<tu>soupçonnes</tu>
+		<il>soupçonne</il>
+		<nous>soupçonnions</nous>
+		<vous>soupçonniez</vous>
+		<ils>soupçonnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>soupçonnerais</je>
+		<tu>soupçonnerais</tu>
+		<il>soupçonnerait</il>
+		<nous>soupçonnerions</nous>
+		<vous>soupçonneriez</vous>
+		<ils>soupçonneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>abriter</infinitive>
+	<translation>to shelter</translation>
+	<presentParticiple>abritant</presentParticiple>
+	<pastParticiple>abrité</pastParticiple>
+	<present>
+		<je>abrite</je>
+		<tu>abrites</tu>
+		<il>abrite</il>
+		<nous>abritons</nous>
+		<vous>abritez</vous>
+		<ils>abritent</ils>
+	</present>
+	<imperative>
+		<tu>abrite</tu>
+		<nous>abritons</nous>
+		<vous>abritez</vous>
+	</imperative>
+	<imperfect>
+		<je>abritais</je>
+		<tu>abritais</tu>
+		<il>abritait</il>
+		<nous>abritions</nous>
+		<vous>abritiez</vous>
+		<ils>abritaient</ils>
+	</imperfect>
+	<future>
+		<je>abriterai</je>
+		<tu>abriteras</tu>
+		<il>abritera</il>
+		<nous>abriterons</nous>
+		<vous>abriterez</vous>
+		<ils>abriteront</ils>
+	</future>
+	<subjunctive>
+		<je>abrite</je>
+		<tu>abrites</tu>
+		<il>abrite</il>
+		<nous>abritions</nous>
+		<vous>abritiez</vous>
+		<ils>abritent</ils>
+	</subjunctive>
+	<conditional>
+		<je>abriterais</je>
+		<tu>abriterais</tu>
+		<il>abriterait</il>
+		<nous>abriterions</nous>
+		<vous>abriteriez</vous>
+		<ils>abriteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

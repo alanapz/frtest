@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>ruiner</infinitive>
+            <translation>to ruin</translation>
+            <presentParticiple>ruinant</presentParticiple>
+            <pastParticiple>ruiné</pastParticiple>
+            <present>
+                <je>ruine</je>
+                <tu>ruines</tu>
+                <il>ruine</il>
+                <nous>ruinons</nous>
+                <vous>ruinez</vous>
+                <ils>ruinent</ils>
+            </present>
+            <imperative>
+                <tu>ruine</tu>
+                <nous>ruinons</nous>
+                <vous>ruinez</vous>
+            </imperative>
+            <imperfect>
+                <je>ruinais</je>
+                <tu>ruinais</tu>
+                <il>ruinait</il>
+                <nous>ruinions</nous>
+                <vous>ruiniez</vous>
+                <ils>ruinaient</ils>
+            </imperfect>
+            <future>
+                <je>ruinerai</je>
+                <tu>ruineras</tu>
+                <il>ruinera</il>
+                <nous>ruinerons</nous>
+                <vous>ruinerez</vous>
+                <ils>ruineront</ils>
+            </future>
+            <subjunctive>
+                <je>ruine</je>
+                <tu>ruines</tu>
+                <il>ruine</il>
+                <nous>ruinions</nous>
+                <vous>ruiniez</vous>
+                <ils>ruinent</ils>
+            </subjunctive>
+            <conditional>
+                <je>ruinerais</je>
+                <tu>ruinerais</tu>
+                <il>ruinerait</il>
+                <nous>ruinerions</nous>
+                <vous>ruineriez</vous>
+                <ils>ruineraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

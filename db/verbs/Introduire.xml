@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>introduire</infinitive>
+	<translation>to introduce</translation>
+	<translation>insert</translation>
+	<irregular />
+	<presentParticiple>introduisant</presentParticiple>
+	<pastParticiple>introduit</pastParticiple>
+	<present>
+		<je>introduis</je>
+		<tu>introduis</tu>
+		<il>introduit</il>
+		<nous>introduisons</nous>
+		<vous>introduisez</vous>
+		<ils>introduisent</ils>
+	</present>
+	<imperative>
+		<tu>introduis</tu>
+		<nous>introduisons</nous>
+		<vous>introduisez</vous>
+	</imperative>
+	<imperfect>
+		<je>introduisais</je>
+		<tu>introduisais</tu>
+		<il>introduisait</il>
+		<nous>introduisions</nous>
+		<vous>introduisiez</vous>
+		<ils>introduisaient</ils>
+	</imperfect>
+	<future>
+		<je>introduirai</je>
+		<tu>introduiras</tu>
+		<il>introduira</il>
+		<nous>introduirons</nous>
+		<vous>introduirez</vous>
+		<ils>introduiront</ils>
+	</future>
+	<subjunctive>
+		<je>introduise</je>
+		<tu>introduises</tu>
+		<il>introduise</il>
+		<nous>introduisions</nous>
+		<vous>introduisiez</vous>
+		<ils>introduisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>introduirais</je>
+		<tu>introduirais</tu>
+		<il>introduirait</il>
+		<nous>introduirions</nous>
+		<vous>introduiriez</vous>
+		<ils>introduiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

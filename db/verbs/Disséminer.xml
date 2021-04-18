@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>disséminer</infinitive>
+	<translation>to disseminate</translation>
+	<presentParticiple>disséminant</presentParticiple>
+	<pastParticiple>disséminé</pastParticiple>
+	<present>
+		<je>dissémine</je>
+		<tu>dissémines</tu>
+		<il>dissémine</il>
+		<nous>disséminons</nous>
+		<vous>disséminez</vous>
+		<ils>disséminent</ils>
+	</present>
+	<imperative>
+		<tu>dissémine</tu>
+		<nous>disséminons</nous>
+		<vous>disséminez</vous>
+	</imperative>
+	<imperfect>
+		<je>disséminais</je>
+		<tu>disséminais</tu>
+		<il>disséminait</il>
+		<nous>disséminions</nous>
+		<vous>disséminiez</vous>
+		<ils>disséminaient</ils>
+	</imperfect>
+	<future>
+		<je>disséminerai</je>
+		<tu>dissémineras</tu>
+		<il>disséminera</il>
+		<nous>disséminerons</nous>
+		<vous>disséminerez</vous>
+		<ils>dissémineront</ils>
+	</future>
+	<subjunctive>
+		<je>dissémine</je>
+		<tu>dissémines</tu>
+		<il>dissémine</il>
+		<nous>disséminions</nous>
+		<vous>disséminiez</vous>
+		<ils>disséminent</ils>
+	</subjunctive>
+	<conditional>
+		<je>disséminerais</je>
+		<tu>disséminerais</tu>
+		<il>disséminerait</il>
+		<nous>disséminerions</nous>
+		<vous>dissémineriez</vous>
+		<ils>dissémineraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

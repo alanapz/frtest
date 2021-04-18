@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>flirter</infinitive>
+	<translation>to flirt</translation>
+	<translation>to date</translation>
+	<presentParticiple>flirtant</presentParticiple>
+	<pastParticiple>flirté</pastParticiple>
+	<present>
+		<je>flirte</je>
+		<tu>flirtes</tu>
+		<il>flirte</il>
+		<nous>flirtons</nous>
+		<vous>flirtez</vous>
+		<ils>flirtent</ils>
+	</present>
+	<imperative>
+		<tu>flirte</tu>
+		<nous>flirtons</nous>
+		<vous>flirtez</vous>
+	</imperative>
+	<imperfect>
+		<je>flirtais</je>
+		<tu>flirtais</tu>
+		<il>flirtait</il>
+		<nous>flirtions</nous>
+		<vous>flirtiez</vous>
+		<ils>flirtaient</ils>
+	</imperfect>
+	<future>
+		<je>flirterai</je>
+		<tu>flirteras</tu>
+		<il>flirtera</il>
+		<nous>flirterons</nous>
+		<vous>flirterez</vous>
+		<ils>flirteront</ils>
+	</future>
+	<subjunctive>
+		<je>flirte</je>
+		<tu>flirtes</tu>
+		<il>flirte</il>
+		<nous>flirtions</nous>
+		<vous>flirtiez</vous>
+		<ils>flirtent</ils>
+	</subjunctive>
+	<conditional>
+		<je>flirterais</je>
+		<tu>flirterais</tu>
+		<il>flirterait</il>
+		<nous>flirterions</nous>
+		<vous>flirteriez</vous>
+		<ils>flirteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

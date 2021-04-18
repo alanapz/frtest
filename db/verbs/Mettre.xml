@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>mettre</infinitive>
+	<translation>to put</translation>
+	<irregular />
+	<presentParticiple>mettant</presentParticiple>
+	<pastParticiple>mis</pastParticiple>
+	<present>
+		<je>mets</je>
+		<tu>mets</tu>
+		<il>met</il>
+		<nous>mettons</nous>
+		<vous>mettez</vous>
+		<ils>mettent</ils>
+	</present>
+	<imperative>
+		<tu>mets</tu>
+		<nous>mettons</nous>
+		<vous>mettez</vous>
+	</imperative>
+	<imperfect>
+		<je>mettais</je>
+		<tu>mettais</tu>
+		<il>mettait</il>
+		<nous>mettions</nous>
+		<vous>mettiez</vous>
+		<ils>mettaient</ils>
+	</imperfect>
+	<future>
+		<je>mettrai</je>
+		<tu>mettras</tu>
+		<il>mettra</il>
+		<nous>mettrons</nous>
+		<vous>mettrez</vous>
+		<ils>mettront</ils>
+	</future>
+	<subjunctive>
+		<je>mette</je>
+		<tu>mettes</tu>
+		<il>mette</il>
+		<nous>mettions</nous>
+		<vous>mettiez</vous>
+		<ils>mettent</ils>
+	</subjunctive>
+	<conditional>
+		<je>mettrais</je>
+		<tu>mettrais</tu>
+		<il>mettrait</il>
+		<nous>mettrions</nous>
+		<vous>mettriez</vous>
+		<ils>mettraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

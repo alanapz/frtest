@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>claquer</infinitive>
+	<translation>to bang</translation>
+	<translation>ring out</translation>
+	<translation>to snap</translation>
+	<presentParticiple>claquant</presentParticiple>
+	<pastParticiple>claqué</pastParticiple>
+	<present>
+		<je>claque</je>
+		<tu>claques</tu>
+		<il>claque</il>
+		<nous>claquons</nous>
+		<vous>claquez</vous>
+		<ils>claquent</ils>
+	</present>
+	<imperative>
+		<tu>claque</tu>
+		<nous>claquons</nous>
+		<vous>claquez</vous>
+	</imperative>
+	<imperfect>
+		<je>claquais</je>
+		<tu>claquais</tu>
+		<il>claquait</il>
+		<nous>claquions</nous>
+		<vous>claquiez</vous>
+		<ils>claquaient</ils>
+	</imperfect>
+	<future>
+		<je>claquerai</je>
+		<tu>claqueras</tu>
+		<il>claquera</il>
+		<nous>claquerons</nous>
+		<vous>claquerez</vous>
+		<ils>claqueront</ils>
+	</future>
+	<subjunctive>
+		<je>claque</je>
+		<tu>claques</tu>
+		<il>claque</il>
+		<nous>claquions</nous>
+		<vous>claquiez</vous>
+		<ils>claquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>claquerais</je>
+		<tu>claquerais</tu>
+		<il>claquerait</il>
+		<nous>claquerions</nous>
+		<vous>claqueriez</vous>
+		<ils>claqueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

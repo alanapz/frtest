@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>pédaler</infinitive>
+	<translation>to pedal</translation>
+	<translation>(inf) to hurry</translation>
+	<presentParticiple>pédalant</presentParticiple>
+	<pastParticiple>pédalé</pastParticiple>
+	<present>
+		<je>pédale</je>
+		<tu>pédales</tu>
+		<il>pédale</il>
+		<nous>pédalons</nous>
+		<vous>pédalez</vous>
+		<ils>pédalent</ils>
+	</present>
+	<imperative>
+		<tu>pédale</tu>
+		<nous>pédalons</nous>
+		<vous>pédalez</vous>
+	</imperative>
+	<imperfect>
+		<je>pédalais</je>
+		<tu>pédalais</tu>
+		<il>pédalait</il>
+		<nous>pédalions</nous>
+		<vous>pédaliez</vous>
+		<ils>pédalaient</ils>
+	</imperfect>
+	<future>
+		<je>pédalerai</je>
+		<tu>pédaleras</tu>
+		<il>pédalera</il>
+		<nous>pédalerons</nous>
+		<vous>pédalerez</vous>
+		<ils>pédaleront</ils>
+	</future>
+	<subjunctive>
+		<je>pédale</je>
+		<tu>pédales</tu>
+		<il>pédale</il>
+		<nous>pédalions</nous>
+		<vous>pédaliez</vous>
+		<ils>pédalent</ils>
+	</subjunctive>
+	<conditional>
+		<je>pédalerais</je>
+		<tu>pédalerais</tu>
+		<il>pédalerait</il>
+		<nous>pédalerions</nous>
+		<vous>pédaleriez</vous>
+		<ils>pédaleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

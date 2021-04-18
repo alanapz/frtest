@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>visiter</infinitive>
+	<translation>to visit</translation>
+	<presentParticiple>visitant</presentParticiple>
+	<pastParticiple>visité</pastParticiple>
+	<present>
+		<je>visite</je>
+		<tu>visites</tu>
+		<il>visite</il>
+		<nous>visitons</nous>
+		<vous>visitez</vous>
+		<ils>visitent</ils>
+	</present>
+	<imperative>
+		<tu>visite</tu>
+		<nous>visitons</nous>
+		<vous>visitez</vous>
+	</imperative>
+	<imperfect>
+		<je>visitais</je>
+		<tu>visitais</tu>
+		<il>visitait</il>
+		<nous>visitions</nous>
+		<vous>visitiez</vous>
+		<ils>visitaient</ils>
+	</imperfect>
+	<future>
+		<je>visiterai</je>
+		<tu>visiteras</tu>
+		<il>visitera</il>
+		<nous>visiterons</nous>
+		<vous>visiterez</vous>
+		<ils>visiteront</ils>
+	</future>
+	<subjunctive>
+		<je>visite</je>
+		<tu>visites</tu>
+		<il>visite</il>
+		<nous>visitions</nous>
+		<vous>visitiez</vous>
+		<ils>visitent</ils>
+	</subjunctive>
+	<conditional>
+		<je>visiterais</je>
+		<tu>visiterais</tu>
+		<il>visiterait</il>
+		<nous>visiterions</nous>
+		<vous>visiteriez</vous>
+		<ils>visiteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

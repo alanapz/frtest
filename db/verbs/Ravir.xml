@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>ravir</infinitive>
+	<translation>to delight</translation>
+	<presentParticiple>ravissant</presentParticiple>
+	<pastParticiple>ravi</pastParticiple>
+	<present>
+		<je>ravis</je>
+		<tu>ravis</tu>
+		<il>ravit</il>
+		<nous>ravissons</nous>
+		<vous>ravissez</vous>
+		<ils>ravissent</ils>
+	</present>
+	<imperative>
+		<tu>ravis</tu>
+		<nous>ravissons</nous>
+		<vous>ravissez</vous>
+	</imperative>
+	<imperfect>
+		<je>ravissais</je>
+		<tu>ravissais</tu>
+		<il>ravissait</il>
+		<nous>ravissions</nous>
+		<vous>ravissiez</vous>
+		<ils>ravissaient</ils>
+	</imperfect>
+	<future>
+		<je>ravirai</je>
+		<tu>raviras</tu>
+		<il>ravira</il>
+		<nous>ravirons</nous>
+		<vous>ravirez</vous>
+		<ils>raviront</ils>
+	</future>
+	<subjunctive>
+		<je>ravisse</je>
+		<tu>ravisses</tu>
+		<il>ravisse</il>
+		<nous>ravissions</nous>
+		<vous>ravissiez</vous>
+		<ils>ravissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>ravirais</je>
+		<tu>ravirais</tu>
+		<il>ravirait</il>
+		<nous>ravirions</nous>
+		<vous>raviriez</vous>
+		<ils>raviraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

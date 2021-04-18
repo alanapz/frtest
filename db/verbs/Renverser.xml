@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>renverser</infinitive>
+            <translation>to knock-over</translation>
+            <presentParticiple>renversant</presentParticiple>
+            <pastParticiple>renversé</pastParticiple>
+            <present>
+                <je>renverse</je>
+                <tu>renverses</tu>
+                <il>renverse</il>
+                <nous>renversons</nous>
+                <vous>renversez</vous>
+                <ils>renversent</ils>
+            </present>
+            <imperative>
+                <tu>renverse</tu>
+                <nous>renversons</nous>
+                <vous>renversez</vous>
+            </imperative>
+            <imperfect>
+                <je>renversais</je>
+                <tu>renversais</tu>
+                <il>renversait</il>
+                <nous>renversions</nous>
+                <vous>renversiez</vous>
+                <ils>renversaient</ils>
+            </imperfect>
+            <future>
+                <je>renverserai</je>
+                <tu>renverseras</tu>
+                <il>renversera</il>
+                <nous>renverserons</nous>
+                <vous>renverserez</vous>
+                <ils>renverseront</ils>
+            </future>
+            <subjunctive>
+                <je>renverse</je>
+                <tu>renverses</tu>
+                <il>renverse</il>
+                <nous>renversions</nous>
+                <vous>renversiez</vous>
+                <ils>renversent</ils>
+            </subjunctive>
+            <conditional>
+                <je>renverserais</je>
+                <tu>renverserais</tu>
+                <il>renverserait</il>
+                <nous>renverserions</nous>
+                <vous>renverseriez</vous>
+                <ils>renverseraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>attacher</infinitive>
+	<translation>to tie up</translation>
+	<translation>fasten</translation>
+	<translation>bind</translation>
+	<translation>attach</translation>
+	<presentParticiple>attachant</presentParticiple>
+	<pastParticiple>attaché</pastParticiple>
+	<present>
+		<je>attache</je>
+		<tu>attaches</tu>
+		<il>attache</il>
+		<nous>attachons</nous>
+		<vous>attachez</vous>
+		<ils>attachent</ils>
+	</present>
+	<imperative>
+		<tu>attache</tu>
+		<nous>attachons</nous>
+		<vous>attachez</vous>
+	</imperative>
+	<imperfect>
+		<je>attachais</je>
+		<tu>attachais</tu>
+		<il>attachait</il>
+		<nous>attachions</nous>
+		<vous>attachiez</vous>
+		<ils>attachaient</ils>
+	</imperfect>
+	<future>
+		<je>attacherai</je>
+		<tu>attacheras</tu>
+		<il>attachera</il>
+		<nous>attacherons</nous>
+		<vous>attacherez</vous>
+		<ils>attacheront</ils>
+	</future>
+	<subjunctive>
+		<je>attache</je>
+		<tu>attaches</tu>
+		<il>attache</il>
+		<nous>attachions</nous>
+		<vous>attachiez</vous>
+		<ils>attachent</ils>
+	</subjunctive>
+	<conditional>
+		<je>attacherais</je>
+		<tu>attacherais</tu>
+		<il>attacherait</il>
+		<nous>attacherions</nous>
+		<vous>attacheriez</vous>
+		<ils>attacheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

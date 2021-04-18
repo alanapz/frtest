@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>sangloter</infinitive>
+	<translation>to sob</translation>
+	<presentParticiple>sanglotant</presentParticiple>
+	<pastParticiple>sangloté</pastParticiple>
+	<present>
+		<je>sanglote</je>
+		<tu>sanglotes</tu>
+		<il>sanglote</il>
+		<nous>sanglotons</nous>
+		<vous>sanglotez</vous>
+		<ils>sanglotent</ils>
+	</present>
+	<imperative>
+		<tu>sanglote</tu>
+		<nous>sanglotons</nous>
+		<vous>sanglotez</vous>
+	</imperative>
+	<imperfect>
+		<je>sanglotais</je>
+		<tu>sanglotais</tu>
+		<il>sanglotait</il>
+		<nous>sanglotions</nous>
+		<vous>sanglotiez</vous>
+		<ils>sanglotaient</ils>
+	</imperfect>
+	<future>
+		<je>sangloterai</je>
+		<tu>sangloteras</tu>
+		<il>sanglotera</il>
+		<nous>sangloterons</nous>
+		<vous>sangloterez</vous>
+		<ils>sangloteront</ils>
+	</future>
+	<subjunctive>
+		<je>sanglote</je>
+		<tu>sanglotes</tu>
+		<il>sanglote</il>
+		<nous>sanglotions</nous>
+		<vous>sanglotiez</vous>
+		<ils>sanglotent</ils>
+	</subjunctive>
+	<conditional>
+		<je>sangloterais</je>
+		<tu>sangloterais</tu>
+		<il>sangloterait</il>
+		<nous>sangloterions</nous>
+		<vous>sangloteriez</vous>
+		<ils>sangloteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

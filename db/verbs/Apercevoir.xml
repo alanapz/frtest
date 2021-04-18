@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>apercevoir</infinitive>
+	<translation>to catch site of</translation>
+	<translation>to foresee</translation>
+	<irregular />
+	<presentParticiple>apercevant</presentParticiple>
+	<pastParticiple> aperçu</pastParticiple>
+	<present>
+		<je>aperçois</je>
+		<tu>aperçois</tu>
+		<il>aperçoit</il>
+		<nous>apercevons</nous>
+		<vous>apercevez</vous>
+		<ils>aperçoivent</ils>
+	</present>
+	<imperative>
+		<tu>aperçois</tu>
+		<nous>apercevons</nous>
+		<vous>apercevez</vous>
+	</imperative>
+	<imperfect>
+		<je>apercevais</je>
+		<tu>apercevais</tu>
+		<il>apercevait</il>
+		<nous>apercevions</nous>
+		<vous>aperceviez</vous>
+		<ils>apercevaient</ils>
+	</imperfect>
+	<future>
+		<je>apercevrai</je>
+		<tu>apercevras</tu>
+		<il>apercevra</il>
+		<nous>apercevrons</nous>
+		<vous>apercevrez</vous>
+		<ils>apercevront</ils>
+	</future>
+	<subjunctive>
+		<je>aperçoive</je>
+		<tu>aperçoives</tu>
+		<il>aperçoive</il>
+		<nous>apercevions</nous>
+		<vous>aperceviez</vous>
+		<ils>aperçoivent</ils>
+	</subjunctive>
+	<conditional>
+		<je>apercevrais</je>
+		<tu>apercevrais</tu>
+		<il>apercevrait</il>
+		<nous>apercevrions</nous>
+		<vous>apercevriez</vous>
+		<ils>apercevraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

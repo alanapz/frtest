@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>vider</infinitive>
+	<translation>to empty</translation>
+	<translation>drain</translation>
+	<presentParticiple>vidant</presentParticiple>
+	<pastParticiple>vidé</pastParticiple>
+	<present>
+		<je>vide</je>
+		<tu>vides</tu>
+		<il>vide</il>
+		<nous>vidons</nous>
+		<vous>videz</vous>
+		<ils>vident</ils>
+	</present>
+	<imperative>
+		<tu>vide</tu>
+		<nous>vidons</nous>
+		<vous>videz</vous>
+	</imperative>
+	<imperfect>
+		<je>vidais</je>
+		<tu>vidais</tu>
+		<il>vidait</il>
+		<nous>vidions</nous>
+		<vous>vidiez</vous>
+		<ils>vidaient</ils>
+	</imperfect>
+	<future>
+		<je>viderai</je>
+		<tu>videras</tu>
+		<il>videra</il>
+		<nous>viderons</nous>
+		<vous>viderez</vous>
+		<ils>videront</ils>
+	</future>
+	<subjunctive>
+		<je>vide</je>
+		<tu>vides</tu>
+		<il>vide</il>
+		<nous>vidions</nous>
+		<vous>vidiez</vous>
+		<ils>vident</ils>
+	</subjunctive>
+	<conditional>
+		<je>viderais</je>
+		<tu>viderais</tu>
+		<il>viderait</il>
+		<nous>viderions</nous>
+		<vous>videriez</vous>
+		<ils>videraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

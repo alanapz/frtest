@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>échouer</infinitive>
+	<translation>to fail</translation>
+	<presentParticiple>échouant</presentParticiple>
+	<pastParticiple>échoué</pastParticiple>
+	<present>
+		<je>échoue</je>
+		<tu>échoues</tu>
+		<il>échoue</il>
+		<nous>échouons</nous>
+		<vous>échouez</vous>
+		<ils>échouent</ils>
+	</present>
+	<imperative>
+		<tu>échoue</tu>
+		<nous>échouons</nous>
+		<vous>échouez</vous>
+	</imperative>
+	<imperfect>
+		<je>échouais</je>
+		<tu>échouais</tu>
+		<il>échouait</il>
+		<nous>échouions</nous>
+		<vous>échouiez</vous>
+		<ils>échouaient</ils>
+	</imperfect>
+	<future>
+		<je>échouerai</je>
+		<tu>échoueras</tu>
+		<il>échouera</il>
+		<nous>échouerons</nous>
+		<vous>échouerez</vous>
+		<ils>échoueront</ils>
+	</future>
+	<subjunctive>
+		<je>échoue</je>
+		<tu>échoues</tu>
+		<il>échoue</il>
+		<nous>échouions</nous>
+		<vous>échouiez</vous>
+		<ils>échouent</ils>
+	</subjunctive>
+	<conditional>
+		<je>échouerais</je>
+		<tu>échouerais</tu>
+		<il>échouerait</il>
+		<nous>échouerions</nous>
+		<vous>échoueriez</vous>
+		<ils>échoueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>maigrir</infinitive>
+	<translation>to lose weight</translation>
+	<translation>become thin</translation>
+	<presentParticiple>maigrissant</presentParticiple>
+	<pastParticiple>maigri</pastParticiple>
+	<present>
+		<je>maigris</je>
+		<tu>maigris</tu>
+		<il>maigrit</il>
+		<nous>maigrissons</nous>
+		<vous>maigrissez</vous>
+		<ils>maigrissent</ils>
+	</present>
+	<imperative>
+		<tu>maigris</tu>
+		<nous>maigrissons</nous>
+		<vous>maigrissez</vous>
+	</imperative>
+	<imperfect>
+		<je>maigrissais</je>
+		<tu>maigrissais</tu>
+		<il>maigrissait</il>
+		<nous>maigrissions</nous>
+		<vous>maigrissiez</vous>
+		<ils>maigrissaient</ils>
+	</imperfect>
+	<future>
+		<je>maigrirai</je>
+		<tu>maigriras</tu>
+		<il>maigrira</il>
+		<nous>maigrirons</nous>
+		<vous>maigrirez</vous>
+		<ils>maigriront</ils>
+	</future>
+	<subjunctive>
+		<je>maigrisse</je>
+		<tu>maigrisses</tu>
+		<il>maigrisse</il>
+		<nous>maigrissions</nous>
+		<vous>maigrissiez</vous>
+		<ils>maigrissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>maigrirais</je>
+		<tu>maigrirais</tu>
+		<il>maigrirait</il>
+		<nous>maigririons</nous>
+		<vous>maigririez</vous>
+		<ils>maigriraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

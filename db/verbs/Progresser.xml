@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>progresser</infinitive>
+	<translation>to progresser</translation>
+	<presentParticiple>progressant</presentParticiple>
+	<pastParticiple>progressé</pastParticiple>
+	<present>
+		<je>progresse</je>
+		<tu>progresses</tu>
+		<il>progresse</il>
+		<nous>progressons</nous>
+		<vous>progressez</vous>
+		<ils>progressent</ils>
+	</present>
+	<imperative>
+		<tu>progresse</tu>
+		<nous>progressons</nous>
+		<vous>progressez</vous>
+	</imperative>
+	<imperfect>
+		<je>progressais</je>
+		<tu>progressais</tu>
+		<il>progressait</il>
+		<nous>progressions</nous>
+		<vous>progressiez</vous>
+		<ils>progressaient</ils>
+	</imperfect>
+	<future>
+		<je>progresserai</je>
+		<tu>progresseras</tu>
+		<il>progressera</il>
+		<nous>progresserons</nous>
+		<vous>progresserez</vous>
+		<ils>progresseront</ils>
+	</future>
+	<subjunctive>
+		<je>progresse</je>
+		<tu>progresses</tu>
+		<il>progresse</il>
+		<nous>progressions</nous>
+		<vous>progressiez</vous>
+		<ils>progressent</ils>
+	</subjunctive>
+	<conditional>
+		<je>progresserais</je>
+		<tu>progresserais</tu>
+		<il>progresserait</il>
+		<nous>progresserions</nous>
+		<vous>progresseriez</vous>
+		<ils>progresseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

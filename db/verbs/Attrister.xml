@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>attrister</infinitive>
+	<translation>to sadden</translation>
+	<presentParticiple>attristant</presentParticiple>
+	<pastParticiple>attristé</pastParticiple>
+	<present>
+		<je>attriste</je>
+		<tu>attristes</tu>
+		<il>attriste</il>
+		<nous>attristons</nous>
+		<vous>attristez</vous>
+		<ils>attristent</ils>
+	</present>
+	<imperative>
+		<tu>attriste</tu>
+		<nous>attristons</nous>
+		<vous>attristez</vous>
+	</imperative>
+	<imperfect>
+		<je>attristais</je>
+		<tu>attristais</tu>
+		<il>attristait</il>
+		<nous>attristions</nous>
+		<vous>attristiez</vous>
+		<ils>attristaient</ils>
+	</imperfect>
+	<future>
+		<je>attristerai</je>
+		<tu>attristeras</tu>
+		<il>attristera</il>
+		<nous>attristerons</nous>
+		<vous>attristerez</vous>
+		<ils>attristeront</ils>
+	</future>
+	<subjunctive>
+		<je>attriste</je>
+		<tu>attristes</tu>
+		<il>attriste</il>
+		<nous>attristions</nous>
+		<vous>attristiez</vous>
+		<ils>attristent</ils>
+	</subjunctive>
+	<conditional>
+		<je>attristerais</je>
+		<tu>attristerais</tu>
+		<il>attristerait</il>
+		<nous>attristerions</nous>
+		<vous>attristeriez</vous>
+		<ils>attristeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

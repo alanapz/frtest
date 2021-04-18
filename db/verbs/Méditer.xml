@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>méditer</infinitive>
+	<translation>to meditate</translation>
+	<presentParticiple>méditant</presentParticiple>
+	<pastParticiple>médité</pastParticiple>
+	<present>
+		<je>médite</je>
+		<tu>médites</tu>
+		<il>médite</il>
+		<nous>méditons</nous>
+		<vous>méditez</vous>
+		<ils>méditent</ils>
+	</present>
+	<imperative>
+		<tu>médite</tu>
+		<nous>méditons</nous>
+		<vous>méditez</vous>
+	</imperative>
+	<imperfect>
+		<je>méditais</je>
+		<tu>méditais</tu>
+		<il>méditait</il>
+		<nous>méditions</nous>
+		<vous>méditiez</vous>
+		<ils>méditaient</ils>
+	</imperfect>
+	<future>
+		<je>méditerai</je>
+		<tu>méditeras</tu>
+		<il>méditera</il>
+		<nous>méditerons</nous>
+		<vous>méditerez</vous>
+		<ils>méditeront</ils>
+	</future>
+	<subjunctive>
+		<je>médite</je>
+		<tu>médites</tu>
+		<il>médite</il>
+		<nous>méditions</nous>
+		<vous>méditiez</vous>
+		<ils>méditent</ils>
+	</subjunctive>
+	<conditional>
+		<je>méditerais</je>
+		<tu>méditerais</tu>
+		<il>méditerait</il>
+		<nous>méditerions</nous>
+		<vous>méditeriez</vous>
+		<ils>méditeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

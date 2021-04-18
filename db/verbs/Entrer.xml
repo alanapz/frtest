@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>entrer</infinitive>
+	<translation>to enter</translation>
+	<takesEtreInPerfect />
+	<presentParticiple>entrant</presentParticiple>
+	<pastParticiple>entré</pastParticiple>
+	<present>
+		<je>entre</je>
+		<tu>entres</tu>
+		<il>entre</il>
+		<nous>entrons</nous>
+		<vous>entrez</vous>
+		<ils>entrent</ils>
+	</present>
+	<imperative>
+		<tu>entre</tu>
+		<nous>entrons</nous>
+		<vous>entrez</vous>
+	</imperative>
+	<imperfect>
+		<je>entrais</je>
+		<tu>entrais</tu>
+		<il>entrait</il>
+		<nous>entrions</nous>
+		<vous>entriez</vous>
+		<ils>entraient</ils>
+	</imperfect>
+	<future>
+		<je>entrerai</je>
+		<tu>entreras</tu>
+		<il>entrera</il>
+		<nous>entrerons</nous>
+		<vous>entrerez</vous>
+		<ils>entreront</ils>
+	</future>
+	<subjunctive>
+		<je>entre</je>
+		<tu>entres</tu>
+		<il>entre</il>
+		<nous>entrions</nous>
+		<vous>entriez</vous>
+		<ils>entrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>entrerais</je>
+		<tu>entrerais</tu>
+		<il>entrerait</il>
+		<nous>entrerions</nous>
+		<vous>entreriez</vous>
+		<ils>entreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

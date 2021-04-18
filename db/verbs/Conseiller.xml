@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>conseiller</infinitive>
+	<translation>to advise</translation>
+	<translation>recommend</translation>
+	<presentParticiple>conseillant</presentParticiple>
+	<pastParticiple>conseillé</pastParticiple>
+	<present>
+		<je>conseille</je>
+		<tu>conseilles</tu>
+		<il>conseille</il>
+		<nous>conseillons</nous>
+		<vous>conseillez</vous>
+		<ils>conseillent</ils>
+	</present>
+	<imperative>
+		<tu>conseille</tu>
+		<nous>conseillons</nous>
+		<vous>conseillez</vous>
+	</imperative>
+	<imperfect>
+		<je>conseillais</je>
+		<tu>conseillais</tu>
+		<il>conseillait</il>
+		<nous>conseillions</nous>
+		<vous>conseilliez</vous>
+		<ils>conseillaient</ils>
+	</imperfect>
+	<future>
+		<je>conseillerai</je>
+		<tu>conseilleras</tu>
+		<il>conseillera</il>
+		<nous>conseillerons</nous>
+		<vous>conseillerez</vous>
+		<ils>conseilleront</ils>
+	</future>
+	<subjunctive>
+		<je>conseille</je>
+		<tu>conseilles</tu>
+		<il>conseille</il>
+		<nous>conseillions</nous>
+		<vous>conseilliez</vous>
+		<ils>conseillent</ils>
+	</subjunctive>
+	<conditional>
+		<je>conseillerais</je>
+		<tu>conseillerais</tu>
+		<il>conseillerait</il>
+		<nous>conseillerions</nous>
+		<vous>conseilleriez</vous>
+		<ils>conseilleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

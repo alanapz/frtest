@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>commencer</infinitive>
+	<translation>to begin</translation>
+	<translation>start</translation>
+	<translation>commence</translation>
+	<spellingChange />
+	<presentParticiple>commençant</presentParticiple>
+	<pastParticiple>commencé</pastParticiple>
+	<present>
+		<je>commence</je>
+		<tu>commences</tu>
+		<il>commence</il>
+		<nous>commençons</nous>
+		<vous>commencez</vous>
+		<ils>commencent</ils>
+	</present>
+	<imperative>
+		<tu>commence</tu>
+		<nous>commençons</nous>
+		<vous>commencez</vous>
+	</imperative>
+	<imperfect>
+		<je>commençais</je>
+		<tu>commençais</tu>
+		<il>commençait</il>
+		<nous>commencions</nous>
+		<vous>commenciez</vous>
+		<ils>commençaient</ils>
+	</imperfect>
+	<future>
+		<je>commencerai</je>
+		<tu>commenceras</tu>
+		<il>commencera</il>
+		<nous>commencerons</nous>
+		<vous>commencerez</vous>
+		<ils>commenceront</ils>
+	</future>
+	<subjunctive>
+		<je>commence</je>
+		<tu>commences</tu>
+		<il>commence</il>
+		<nous>commencions</nous>
+		<vous>commenciez</vous>
+		<ils>commencent</ils>
+	</subjunctive>
+	<conditional>
+		<je>commencerais</je>
+		<tu>commencerais</tu>
+		<il>commencerait</il>
+		<nous>commencerions</nous>
+		<vous>commenceriez</vous>
+		<ils>commenceraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

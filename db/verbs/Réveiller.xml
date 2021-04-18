@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>réveiller</infinitive>
+            <translation>to wake up</translation>
+            <transitive />
+            <presentParticiple>réveillant</presentParticiple>
+            <pastParticiple>réveillé</pastParticiple>
+            <present>
+                <je>réveille</je>
+                <tu>réveilles</tu>
+                <il>réveille</il>
+                <nous>réveillons</nous>
+                <vous>réveillez</vous>
+                <ils>réveillent</ils>
+            </present>
+            <imperative>
+                <tu>réveille</tu>
+                <nous>réveillons</nous>
+                <vous>réveillez</vous>
+            </imperative>
+            <imperfect>
+                <je>réveillais</je>
+                <tu>réveillais</tu>
+                <il>réveillait</il>
+                <nous>réveillions</nous>
+                <vous>réveilliez</vous>
+                <ils>réveillaient</ils>
+            </imperfect>
+            <future>
+                <je>réveillerai</je>
+                <tu>réveilleras</tu>
+                <il>réveillera</il>
+                <nous>réveillerons</nous>
+                <vous>réveillerez</vous>
+                <ils>réveilleront</ils>
+            </future>
+            <subjunctive>
+                <je>réveille</je>
+                <tu>réveilles</tu>
+                <il>réveille</il>
+                <nous>réveillions</nous>
+                <vous>réveilliez</vous>
+                <ils>réveillent</ils>
+            </subjunctive>
+            <conditional>
+                <je>réveillerais</je>
+                <tu>réveillerais</tu>
+                <il>réveillerait</il>
+                <nous>réveillerions</nous>
+                <vous>réveilleriez</vous>
+                <ils>réveilleraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

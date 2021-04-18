@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>sembler</infinitive>
+	<translation>to seem</translation>
+	<presentParticiple>semblant</presentParticiple>
+	<pastParticiple>semblé</pastParticiple>
+	<present>
+		<je>semble</je>
+		<tu>sembles</tu>
+		<il>semble</il>
+		<nous>semblons</nous>
+		<vous>semblez</vous>
+		<ils>semblent</ils>
+	</present>
+	<imperative>
+		<tu>semble</tu>
+		<nous>semblons</nous>
+		<vous>semblez</vous>
+	</imperative>
+	<imperfect>
+		<je>semblais</je>
+		<tu>semblais</tu>
+		<il>semblait</il>
+		<nous>semblions</nous>
+		<vous>sembliez</vous>
+		<ils>semblaient</ils>
+	</imperfect>
+	<future>
+		<je>semblerai</je>
+		<tu>sembleras</tu>
+		<il>semblera</il>
+		<nous>semblerons</nous>
+		<vous>semblerez</vous>
+		<ils>sembleront</ils>
+	</future>
+	<subjunctive>
+		<je>semble</je>
+		<tu>sembles</tu>
+		<il>semble</il>
+		<nous>semblions</nous>
+		<vous>sembliez</vous>
+		<ils>semblent</ils>
+	</subjunctive>
+	<conditional>
+		<je>semblerais</je>
+		<tu>semblerais</tu>
+		<il>semblerait</il>
+		<nous>semblerions</nous>
+		<vous>sembleriez</vous>
+		<ils>sembleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

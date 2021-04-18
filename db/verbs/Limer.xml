@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>limer</infinitive>
+	<translation>to file (nails)</translation>
+	<presentParticiple>limant</presentParticiple>
+	<pastParticiple>limé</pastParticiple>
+	<present>
+		<je>lime</je>
+		<tu>limes</tu>
+		<il>lime</il>
+		<nous>limons</nous>
+		<vous>limez</vous>
+		<ils>liment</ils>
+	</present>
+	<imperative>
+		<tu>lime</tu>
+		<nous>limons</nous>
+		<vous>limez</vous>
+	</imperative>
+	<imperfect>
+		<je>limais</je>
+		<tu>limais</tu>
+		<il>limait</il>
+		<nous>limions</nous>
+		<vous>limiez</vous>
+		<ils>limaient</ils>
+	</imperfect>
+	<future>
+		<je>limerai</je>
+		<tu>limeras</tu>
+		<il>limera</il>
+		<nous>limerons</nous>
+		<vous>limerez</vous>
+		<ils>limeront</ils>
+	</future>
+	<subjunctive>
+		<je>lime</je>
+		<tu>limes</tu>
+		<il>lime</il>
+		<nous>limions</nous>
+		<vous>limiez</vous>
+		<ils>liment</ils>
+	</subjunctive>
+	<conditional>
+		<je>limerais</je>
+		<tu>limerais</tu>
+		<il>limerait</il>
+		<nous>limerions</nous>
+		<vous>limeriez</vous>
+		<ils>limeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

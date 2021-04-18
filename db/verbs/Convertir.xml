@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>convertir</infinitive>
+	<translation>to convert</translation>
+	<presentParticiple>convertissant</presentParticiple>
+	<pastParticiple>converti</pastParticiple>
+	<present>
+		<je>convertis</je>
+		<tu>convertis</tu>
+		<il>convertit</il>
+		<nous>convertissons</nous>
+		<vous>convertissez</vous>
+		<ils>convertissent</ils>
+	</present>
+	<imperative>
+		<tu>convertis</tu>
+		<nous>convertissons</nous>
+		<vous>convertissez</vous>
+	</imperative>
+	<imperfect>
+		<je>convertissais</je>
+		<tu>convertissais</tu>
+		<il>convertissait</il>
+		<nous>convertissions</nous>
+		<vous>convertissiez</vous>
+		<ils>convertissaient</ils>
+	</imperfect>
+	<future>
+		<je>convertirai</je>
+		<tu>convertiras</tu>
+		<il>convertira</il>
+		<nous>convertirons</nous>
+		<vous>convertirez</vous>
+		<ils>convertiront</ils>
+	</future>
+	<subjunctive>
+		<je>convertisse</je>
+		<tu>convertisses</tu>
+		<il>convertisse</il>
+		<nous>convertissions</nous>
+		<vous>convertissiez</vous>
+		<ils>convertissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>convertirais</je>
+		<tu>convertirais</tu>
+		<il>convertirait</il>
+		<nous>convertirions</nous>
+		<vous>convertiriez</vous>
+		<ils>convertiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

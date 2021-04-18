@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>priver</infinitive>
+	<translation>to deprive</translation>
+	<presentParticiple>privant</presentParticiple>
+	<pastParticiple>privé</pastParticiple>
+	<present>
+		<je>prive</je>
+		<tu>prives</tu>
+		<il>prive</il>
+		<nous>privons</nous>
+		<vous>privez</vous>
+		<ils>privent</ils>
+	</present>
+	<imperative>
+		<tu>prive</tu>
+		<nous>privons</nous>
+		<vous>privez</vous>
+	</imperative>
+	<imperfect>
+		<je>privais</je>
+		<tu>privais</tu>
+		<il>privait</il>
+		<nous>privions</nous>
+		<vous>priviez</vous>
+		<ils>privaient</ils>
+	</imperfect>
+	<future>
+		<je>priverai</je>
+		<tu>priveras</tu>
+		<il>privera</il>
+		<nous>priverons</nous>
+		<vous>priverez</vous>
+		<ils>priveront</ils>
+	</future>
+	<subjunctive>
+		<je>prive</je>
+		<tu>prives</tu>
+		<il>prive</il>
+		<nous>privions</nous>
+		<vous>priviez</vous>
+		<ils>privent</ils>
+	</subjunctive>
+	<conditional>
+		<je>priverais</je>
+		<tu>priverais</tu>
+		<il>priverait</il>
+		<nous>priverions</nous>
+		<vous>priveriez</vous>
+		<ils>priveraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

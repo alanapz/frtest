@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>reconduire</infinitive>
+	<translation>to renew</translation>
+	<irregular />
+	<presentParticiple>reconduisant</presentParticiple>
+	<pastParticiple>reconduit</pastParticiple>
+	<present>
+		<je>reconduis</je>
+		<tu>reconduis</tu>
+		<il>reconduit</il>
+		<nous>reconduisons</nous>
+		<vous>reconduisez</vous>
+		<ils>reconduisent</ils>
+	</present>
+	<imperative>
+		<tu>reconduis</tu>
+		<nous>reconduisons</nous>
+		<vous>reconduisez</vous>
+	</imperative>
+	<imperfect>
+		<je>reconduisais</je>
+		<tu>reconduisais</tu>
+		<il>reconduisait</il>
+		<nous>reconduisions</nous>
+		<vous>reconduisiez</vous>
+		<ils>reconduisaient</ils>
+	</imperfect>
+	<future>
+		<je>reconduirai</je>
+		<tu>reconduiras</tu>
+		<il>reconduira</il>
+		<nous>reconduirons</nous>
+		<vous>reconduirez</vous>
+		<ils>reconduiront</ils>
+	</future>
+	<subjunctive>
+		<je>reconduise</je>
+		<tu>reconduises</tu>
+		<il>reconduise</il>
+		<nous>reconduisions</nous>
+		<vous>reconduisiez</vous>
+		<ils>reconduisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>reconduirais</je>
+		<tu>reconduirais</tu>
+		<il>reconduirait</il>
+		<nous>reconduirions</nous>
+		<vous>reconduiriez</vous>
+		<ils>reconduiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

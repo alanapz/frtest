@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>encourager</infinitive>
+	<translation>to encourage</translation>
+	<spellingChange />
+	<presentParticiple>encourageant</presentParticiple>
+	<pastParticiple>encouragé</pastParticiple>
+	<present>
+		<je>encourage</je>
+		<tu>encourages</tu>
+		<il>encourage</il>
+		<nous>encourageons</nous>
+		<vous>encouragez</vous>
+		<ils>encouragent</ils>
+	</present>
+	<imperative>
+		<tu>encourage</tu>
+		<nous>encourageons</nous>
+		<vous>encouragez</vous>
+	</imperative>
+	<imperfect>
+		<je>encourageais</je>
+		<tu>encourageais</tu>
+		<il>encourageait</il>
+		<nous>encouragions</nous>
+		<vous>encouragiez</vous>
+		<ils>encourageaient</ils>
+	</imperfect>
+	<future>
+		<je>encouragerai</je>
+		<tu>encourageras</tu>
+		<il>encouragera</il>
+		<nous>encouragerons</nous>
+		<vous>encouragerez</vous>
+		<ils>encourageront</ils>
+	</future>
+	<subjunctive>
+		<je>encourage</je>
+		<tu>encourages</tu>
+		<il>encourage</il>
+		<nous>encouragions</nous>
+		<vous>encouragiez</vous>
+		<ils>encouragent</ils>
+	</subjunctive>
+	<conditional>
+		<je>encouragerais</je>
+		<tu>encouragerais</tu>
+		<il>encouragerait</il>
+		<nous>encouragerions</nous>
+		<vous>encourageriez</vous>
+		<ils>encourageraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

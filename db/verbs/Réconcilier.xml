@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>réconcilier</infinitive>
+	<translation>to reconcile</translation>
+	<presentParticiple>réconciliant</presentParticiple>
+	<pastParticiple>réconcilié</pastParticiple>
+	<present>
+		<je>réconcilie</je>
+		<tu>réconcilies</tu>
+		<il>réconcilie</il>
+		<nous>réconcilions</nous>
+		<vous>réconciliez</vous>
+		<ils>réconcilient</ils>
+	</present>
+	<imperative>
+		<tu>réconcilie</tu>
+		<nous>réconcilions</nous>
+		<vous>réconciliez</vous>
+	</imperative>
+	<imperfect>
+		<je>réconciliais</je>
+		<tu>réconciliais</tu>
+		<il>réconciliait</il>
+		<nous>réconciliions</nous>
+		<vous>réconciliiez</vous>
+		<ils>réconciliaient</ils>
+	</imperfect>
+	<future>
+		<je>réconcilierai</je>
+		<tu>réconcilieras</tu>
+		<il>réconciliera</il>
+		<nous>réconcilierons</nous>
+		<vous>réconcilierez</vous>
+		<ils>réconcilieront</ils>
+	</future>
+	<subjunctive>
+		<je>réconcilie</je>
+		<tu>réconcilies</tu>
+		<il>réconcilie</il>
+		<nous>réconciliions</nous>
+		<vous>réconciliiez</vous>
+		<ils>réconcilient</ils>
+	</subjunctive>
+	<conditional>
+		<je>réconcilierais</je>
+		<tu>réconcilierais</tu>
+		<il>réconcilierait</il>
+		<nous>réconcilierions</nous>
+		<vous>réconcilieriez</vous>
+		<ils>réconcilieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

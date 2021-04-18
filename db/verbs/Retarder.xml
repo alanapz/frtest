@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>retarder</infinitive>
+            <translation>to delay</translation>
+            <presentParticiple>retardant</presentParticiple>
+            <pastParticiple>retardé</pastParticiple>
+            <present>
+                <je>retarde</je>
+                <tu>retardes</tu>
+                <il>retarde</il>
+                <nous>retardons</nous>
+                <vous>retardez</vous>
+                <ils>retardent</ils>
+            </present>
+            <imperative>
+                <tu>retarde</tu>
+                <nous>retardons</nous>
+                <vous>retardez</vous>
+            </imperative>
+            <imperfect>
+                <je>retardais</je>
+                <tu>retardais</tu>
+                <il>retardait</il>
+                <nous>retardions</nous>
+                <vous>retardiez</vous>
+                <ils>retardaient</ils>
+            </imperfect>
+            <future>
+                <je>retarderai</je>
+                <tu>retarderas</tu>
+                <il>retardera</il>
+                <nous>retarderons</nous>
+                <vous>retarderez</vous>
+                <ils>retarderont</ils>
+            </future>
+            <subjunctive>
+                <je>retarde</je>
+                <tu>retardes</tu>
+                <il>retarde</il>
+                <nous>retardions</nous>
+                <vous>retardiez</vous>
+                <ils>retardent</ils>
+            </subjunctive>
+            <conditional>
+                <je>retarderais</je>
+                <tu>retarderais</tu>
+                <il>retarderait</il>
+                <nous>retarderions</nous>
+                <vous>retarderiez</vous>
+                <ils>retarderaient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

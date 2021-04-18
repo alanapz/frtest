@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>reparaître</infinitive>
+            <translation>to reappear</translation>
+            <irregular />
+            <presentParticiple>reparaissant</presentParticiple>
+            <pastParticiple>reparu</pastParticiple>
+            <present>
+                <je>reparais</je>
+                <tu>reparais</tu>
+                <il>reparaît</il>
+                <nous>reparaissons</nous>
+                <vous>reparaissez</vous>
+                <ils>reparaissent</ils>
+            </present>
+            <imperative>
+                <tu>reparais</tu>
+                <nous>reparaissons</nous>
+                <vous>reparaissez</vous>
+            </imperative>
+            <imperfect>
+                <je>reparaissais</je>
+                <tu>reparaissais</tu>
+                <il>reparaissait</il>
+                <nous>reparaissions</nous>
+                <vous>reparaissiez</vous>
+                <ils>reparaissaient</ils>
+            </imperfect>
+            <future>
+                <je>reparaîtrai</je>
+                <tu>reparaîtras</tu>
+                <il>reparaîtra</il>
+                <nous>reparaîtrons</nous>
+                <vous>reparaîtrez</vous>
+                <ils>reparaîtront</ils>
+            </future>
+            <subjunctive>
+                <je>reparaisse</je>
+                <tu>reparaisses</tu>
+                <il>reparaisse</il>
+                <nous>reparaissions</nous>
+                <vous>reparaissiez</vous>
+                <ils>reparaissent</ils>
+            </subjunctive>
+            <conditional>
+                <je>reparaîtrais</je>
+                <tu>reparaîtrais</tu>
+                <il>reparaîtrait</il>
+                <nous>reparaîtrions</nous>
+                <vous>reparaîtriez</vous>
+                <ils>reparaîtraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

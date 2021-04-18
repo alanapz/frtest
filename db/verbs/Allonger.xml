@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>allonger</infinitive>
+            <translation>to lengthen</translation>
+            <translation>to extend</translation>
+            <translation>to stretch-out</translation>
+            <spellingChange />
+            <presentParticiple>allongeant</presentParticiple>
+            <pastParticiple>allongé</pastParticiple>
+            <present>
+                <je>allonge</je>
+                <tu>allonges</tu>
+                <il>allonge</il>
+                <nous>allongeons</nous>
+                <vous>allongez</vous>
+                <ils>allongent</ils>
+            </present>
+            <imperative>
+                <tu>allonge</tu>
+                <nous>allongeons</nous>
+                <vous>allongez</vous>
+            </imperative>
+            <imperfect>
+                <je>allongeais</je>
+                <tu>allongeais</tu>
+                <il>allongeait</il>
+                <nous>allongions</nous>
+                <vous>allongiez</vous>
+                <ils>allongeaient</ils>
+            </imperfect>
+            <future>
+                <je>allongerai</je>
+                <tu>allongeras</tu>
+                <il>allongera</il>
+                <nous>allongerons</nous>
+                <vous>allongerez</vous>
+                <ils>allongeront</ils>
+            </future>
+            <subjunctive>
+                <je>allonge</je>
+                <tu>allonges</tu>
+                <il>allonge</il>
+                <nous>allongions</nous>
+                <vous>allongiez</vous>
+                <ils>allongent</ils>
+            </subjunctive>
+            <conditional>
+                <je>allongerais</je>
+                <tu>allongerais</tu>
+                <il>allongerait</il>
+                <nous>allongerions</nous>
+                <vous>allongeriez</vous>
+                <ils>allongeraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

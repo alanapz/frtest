@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>substituer</infinitive>
+	<translation>to substitute</translation>
+	<presentParticiple>substituant</presentParticiple>
+	<pastParticiple>substitué</pastParticiple>
+	<present>
+		<je>substitue</je>
+		<tu>substitues</tu>
+		<il>substitue</il>
+		<nous>substituons</nous>
+		<vous>substituez</vous>
+		<ils>substituent</ils>
+	</present>
+	<imperative>
+		<tu>substitue</tu>
+		<nous>substituons</nous>
+		<vous>substituez</vous>
+	</imperative>
+	<imperfect>
+		<je>substituais</je>
+		<tu>substituais</tu>
+		<il>substituait</il>
+		<nous>substituions</nous>
+		<vous>substituiez</vous>
+		<ils>substituaient</ils>
+	</imperfect>
+	<future>
+		<je>substituerai</je>
+		<tu>substitueras</tu>
+		<il>substituera</il>
+		<nous>substituerons</nous>
+		<vous>substituerez</vous>
+		<ils>substitueront</ils>
+	</future>
+	<subjunctive>
+		<je>substitue</je>
+		<tu>substitues</tu>
+		<il>substitue</il>
+		<nous>substituions</nous>
+		<vous>substituiez</vous>
+		<ils>substituent</ils>
+	</subjunctive>
+	<conditional>
+		<je>substituerais</je>
+		<tu>substituerais</tu>
+		<il>substituerait</il>
+		<nous>substituerions</nous>
+		<vous>substitueriez</vous>
+		<ils>substitueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

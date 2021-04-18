@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>proscrire</infinitive>
+	<translation>to ban</translation>
+	<translation>prohibit</translation>
+	<irregular />
+	<presentParticiple>proscrivant</presentParticiple>
+	<pastParticiple>proscrit</pastParticiple>
+	<present>
+		<je>proscris</je>
+		<tu>proscris</tu>
+		<il>proscrit</il>
+		<nous>proscrivons</nous>
+		<vous>proscrivez</vous>
+		<ils>proscrivent</ils>
+	</present>
+	<imperative>
+		<tu>proscris</tu>
+		<nous>proscrivons</nous>
+		<vous>proscrivez</vous>
+	</imperative>
+	<imperfect>
+		<je>proscrivais</je>
+		<tu>proscrivais</tu>
+		<il>proscrivait</il>
+		<nous>proscrivions</nous>
+		<vous>proscriviez</vous>
+		<ils>proscrivaient</ils>
+	</imperfect>
+	<future>
+		<je>proscrirai</je>
+		<tu>proscriras</tu>
+		<il>proscrira</il>
+		<nous>proscrirons</nous>
+		<vous>proscrirez</vous>
+		<ils>proscriront</ils>
+	</future>
+	<subjunctive>
+		<je>proscrive</je>
+		<tu>proscrives</tu>
+		<il>proscrive</il>
+		<nous>proscrivions</nous>
+		<vous>proscriviez</vous>
+		<ils>proscrivent</ils>
+	</subjunctive>
+	<conditional>
+		<je>proscrirais</je>
+		<tu>proscrirais</tu>
+		<il>proscrirait</il>
+		<nous>proscririons</nous>
+		<vous>proscririez</vous>
+		<ils>proscriraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

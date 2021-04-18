@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>perforer</infinitive>
+	<translation>to perforate</translation>
+	<presentParticiple>perforant</presentParticiple>
+	<pastParticiple>perforé</pastParticiple>
+	<present>
+		<je>perfore</je>
+		<tu>perfores</tu>
+		<il>perfore</il>
+		<nous>perforons</nous>
+		<vous>perforez</vous>
+		<ils>perforent</ils>
+	</present>
+	<imperative>
+		<tu>perfore</tu>
+		<nous>perforons</nous>
+		<vous>perforez</vous>
+	</imperative>
+	<imperfect>
+		<je>perforais</je>
+		<tu>perforais</tu>
+		<il>perforait</il>
+		<nous>perforions</nous>
+		<vous>perforiez</vous>
+		<ils>perforaient</ils>
+	</imperfect>
+	<future>
+		<je>perforerai</je>
+		<tu>perforeras</tu>
+		<il>perforera</il>
+		<nous>perforerons</nous>
+		<vous>perforerez</vous>
+		<ils>perforeront</ils>
+	</future>
+	<subjunctive>
+		<je>perfore</je>
+		<tu>perfores</tu>
+		<il>perfore</il>
+		<nous>perforions</nous>
+		<vous>perforiez</vous>
+		<ils>perforent</ils>
+	</subjunctive>
+	<conditional>
+		<je>perforerais</je>
+		<tu>perforerais</tu>
+		<il>perforerait</il>
+		<nous>perforerions</nous>
+		<vous>perforeriez</vous>
+		<ils>perforeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

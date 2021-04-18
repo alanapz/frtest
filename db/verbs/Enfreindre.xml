@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>enfreindre</infinitive>
+	<translation>to infringe</translation>
+	<translation>to break</translation>
+	<irregular />
+	<presentParticiple>enfreignant</presentParticiple>
+	<pastParticiple>enfreint</pastParticiple>
+	<present>
+		<je>enfreins</je>
+		<tu>enfreins</tu>
+		<il>enfreint</il>
+		<nous>enfreignons</nous>
+		<vous>enfreignez</vous>
+		<ils>enfreignent</ils>
+	</present>
+	<imperative>
+		<tu>enfreins</tu>
+		<nous>enfreignons</nous>
+		<vous>enfreignez</vous>
+	</imperative>
+	<imperfect>
+		<je>enfreignais</je>
+		<tu>enfreignais</tu>
+		<il>enfreignait</il>
+		<nous>enfreignions</nous>
+		<vous>enfreigniez</vous>
+		<ils>enfreignaient</ils>
+	</imperfect>
+	<future>
+		<je>enfreindrai</je>
+		<tu>enfreindras</tu>
+		<il>enfreindra</il>
+		<nous>enfreindrons</nous>
+		<vous>enfreindrez</vous>
+		<ils>enfreindront</ils>
+	</future>
+	<subjunctive>
+		<je>enfreigne</je>
+		<tu>enfreignes</tu>
+		<il>enfreigne</il>
+		<nous>enfreignions</nous>
+		<vous>enfreigniez</vous>
+		<ils>enfreignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>enfreindrais</je>
+		<tu>enfreindrais</tu>
+		<il>enfreindrait</il>
+		<nous>enfreindrions</nous>
+		<vous>enfreindriez</vous>
+		<ils>enfreindraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

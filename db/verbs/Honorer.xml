@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>honorer</infinitive>
+	<translation>to honor</translation>
+	<translation>to be a credit to</translation>
+	<presentParticiple>honorant</presentParticiple>
+	<pastParticiple>honoré</pastParticiple>
+	<present>
+		<je>honore</je>
+		<tu>honores</tu>
+		<il>honore</il>
+		<nous>honorons</nous>
+		<vous>honorez</vous>
+		<ils>honorent</ils>
+	</present>
+	<imperative>
+		<tu>honore</tu>
+		<nous>honorons</nous>
+		<vous>honorez</vous>
+	</imperative>
+	<imperfect>
+		<je>honorais</je>
+		<tu>honorais</tu>
+		<il>honorait</il>
+		<nous>honorions</nous>
+		<vous>honoriez</vous>
+		<ils>honoraient</ils>
+	</imperfect>
+	<future>
+		<je>honorerai</je>
+		<tu>honoreras</tu>
+		<il>honorera</il>
+		<nous>honorerons</nous>
+		<vous>honorerez</vous>
+		<ils>honoreront</ils>
+	</future>
+	<subjunctive>
+		<je>honore</je>
+		<tu>honores</tu>
+		<il>honore</il>
+		<nous>honorions</nous>
+		<vous>honoriez</vous>
+		<ils>honorent</ils>
+	</subjunctive>
+	<conditional>
+		<je>honorerais</je>
+		<tu>honorerais</tu>
+		<il>honorerait</il>
+		<nous>honorerions</nous>
+		<vous>honoreriez</vous>
+		<ils>honoreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

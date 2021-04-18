@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>éternuer</infinitive>
+            <translation>to sneeze</translation>
+            <presentParticiple>éternuant</presentParticiple>
+            <pastParticiple>éternué</pastParticiple>
+            <present>
+                <je>éternue</je>
+                <tu>éternues</tu>
+                <il>éternue</il>
+                <nous>éternuons</nous>
+                <vous>éternuez</vous>
+                <ils>éternuent</ils>
+            </present>
+            <imperative>
+                <tu>éternue</tu>
+                <nous>éternuons</nous>
+                <vous>éternuez</vous>
+            </imperative>
+            <imperfect>
+                <je>éternuais</je>
+                <tu>éternuais</tu>
+                <il>éternuait</il>
+                <nous>éternuions</nous>
+                <vous>éternuiez</vous>
+                <ils>éternuaient</ils>
+            </imperfect>
+            <future>
+                <je>éternuerai</je>
+                <tu>éternueras</tu>
+                <il>éternuera</il>
+                <nous>éternuerons</nous>
+                <vous>éternuerez</vous>
+                <ils>éternueront</ils>
+            </future>
+            <subjunctive>
+                <je>éternue</je>
+                <tu>éternues</tu>
+                <il>éternue</il>
+                <nous>éternuions</nous>
+                <vous>éternuiez</vous>
+                <ils>éternuent</ils>
+            </subjunctive>
+            <conditional>
+                <je>éternuerais</je>
+                <tu>éternuerais</tu>
+                <il>éternuerait</il>
+                <nous>éternuerions</nous>
+                <vous>éternueriez</vous>
+                <ils>éternueraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

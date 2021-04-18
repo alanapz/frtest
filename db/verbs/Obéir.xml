@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>obéir</infinitive>
+            <translation>to obey</translation>
+            <presentParticiple>obéissant</presentParticiple>
+            <pastParticiple>obéi</pastParticiple>
+            <present>
+                <je>obéis</je>
+                <tu>obéis</tu>
+                <il>obéit</il>
+                <nous>obéissons</nous>
+                <vous>obéissez</vous>
+                <ils>obéissent</ils>
+            </present>
+            <imperative>
+                <tu>obéis</tu>
+                <nous>obéissons</nous>
+                <vous>obéissez</vous>
+            </imperative>
+            <imperfect>
+                <je>obéissais</je>
+                <tu>obéissais</tu>
+                <il>obéissait</il>
+                <nous>obéissions</nous>
+                <vous>obéissiez</vous>
+                <ils>obéissaient</ils>
+            </imperfect>
+            <future>
+                <je>obéirai</je>
+                <tu>obéiras</tu>
+                <il>obéira</il>
+                <nous>obéirons</nous>
+                <vous>obéirez</vous>
+                <ils>obéiront</ils>
+            </future>
+            <subjunctive>
+                <je>obéisse</je>
+                <tu>obéisses</tu>
+                <il>obéisse</il>
+                <nous>obéissions</nous>
+                <vous>obéissiez</vous>
+                <ils>obéissent</ils>
+            </subjunctive>
+            <conditional>
+                <je>obéirais</je>
+                <tu>obéirais</tu>
+                <il>obéirait</il>
+                <nous>obéirions</nous>
+                <vous>obéiriez</vous>
+                <ils>obéiraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

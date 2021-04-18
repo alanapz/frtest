@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>instruire</infinitive>
+	<translation>to instruct</translation>
+	<irregular />
+	<presentParticiple>instruisant</presentParticiple>
+	<pastParticiple>instruit</pastParticiple>
+	<present>
+		<je>instruis</je>
+		<tu>instruis</tu>
+		<il>instruit</il>
+		<nous>instruisons</nous>
+		<vous>instruisez</vous>
+		<ils>instruisent</ils>
+	</present>
+	<imperative>
+		<tu>instruis</tu>
+		<nous>instruisons</nous>
+		<vous>instruisez</vous>
+	</imperative>
+	<imperfect>
+		<je>instruisais</je>
+		<tu>instruisais</tu>
+		<il>instruisait</il>
+		<nous>instruisions</nous>
+		<vous>instruisiez</vous>
+		<ils>instruisaient</ils>
+	</imperfect>
+	<future>
+		<je>instruirai</je>
+		<tu>instruiras</tu>
+		<il>instruira</il>
+		<nous>instruirons</nous>
+		<vous>instruirez</vous>
+		<ils>instruiront</ils>
+	</future>
+	<subjunctive>
+		<je>instruise</je>
+		<tu>instruises</tu>
+		<il>instruise</il>
+		<nous>instruisions</nous>
+		<vous>instruisiez</vous>
+		<ils>instruisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>instruirais</je>
+		<tu>instruirais</tu>
+		<il>instruirait</il>
+		<nous>instruirions</nous>
+		<vous>instruiriez</vous>
+		<ils>instruiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

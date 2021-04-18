@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>discuter</infinitive>
+	<translation>to discuss</translation>
+	<presentParticiple>discutant</presentParticiple>
+	<pastParticiple>discuté</pastParticiple>
+	<present>
+		<je>discute</je>
+		<tu>discutes</tu>
+		<il>discute</il>
+		<nous>discutons</nous>
+		<vous>discutez</vous>
+		<ils>discutent</ils>
+	</present>
+	<imperative>
+		<tu>discute</tu>
+		<nous>discutons</nous>
+		<vous>discutez</vous>
+	</imperative>
+	<imperfect>
+		<je>discutais</je>
+		<tu>discutais</tu>
+		<il>discutait</il>
+		<nous>discutions</nous>
+		<vous>discutiez</vous>
+		<ils>discutaient</ils>
+	</imperfect>
+	<future>
+		<je>discuterai</je>
+		<tu>discuteras</tu>
+		<il>discutera</il>
+		<nous>discuterons</nous>
+		<vous>discuterez</vous>
+		<ils>discuteront</ils>
+	</future>
+	<subjunctive>
+		<je>discute</je>
+		<tu>discutes</tu>
+		<il>discute</il>
+		<nous>discutions</nous>
+		<vous>discutiez</vous>
+		<ils>discutent</ils>
+	</subjunctive>
+	<conditional>
+		<je>discuterais</je>
+		<tu>discuterais</tu>
+		<il>discuterait</il>
+		<nous>discuterions</nous>
+		<vous>discuteriez</vous>
+		<ils>discuteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

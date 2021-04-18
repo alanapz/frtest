@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>risquer</infinitive>
+            <translation>to risk</translation>
+            <presentParticiple>risquant</presentParticiple>
+            <pastParticiple>risqué</pastParticiple>
+            <present>
+                <je>risque</je>
+                <tu>risques</tu>
+                <il>risque</il>
+                <nous>risquons</nous>
+                <vous>risquez</vous>
+                <ils>risquent</ils>
+            </present>
+            <imperative>
+                <tu>risque</tu>
+                <nous>risquons</nous>
+                <vous>risquez</vous>
+            </imperative>
+            <imperfect>
+                <je>risquais</je>
+                <tu>risquais</tu>
+                <il>risquait</il>
+                <nous>risquions</nous>
+                <vous>risquiez</vous>
+                <ils>risquaient</ils>
+            </imperfect>
+            <future>
+                <je>risquerai</je>
+                <tu>risqueras</tu>
+                <il>risquera</il>
+                <nous>risquerons</nous>
+                <vous>risquerez</vous>
+                <ils>risqueront</ils>
+            </future>
+            <subjunctive>
+                <je>risque</je>
+                <tu>risques</tu>
+                <il>risque</il>
+                <nous>risquions</nous>
+                <vous>risquiez</vous>
+                <ils>risquent</ils>
+            </subjunctive>
+            <conditional>
+                <je>risquerais</je>
+                <tu>risquerais</tu>
+                <il>risquerait</il>
+                <nous>risquerions</nous>
+                <vous>risqueriez</vous>
+                <ils>risqueraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

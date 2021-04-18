@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>apprendre</infinitive>
+	<translation>to learn</translation>
+	<irregular />
+	<presentParticiple>apprenant</presentParticiple>
+	<pastParticiple>appris</pastParticiple>
+	<present>
+		<je>apprends</je>
+		<tu>apprends</tu>
+		<il>apprend</il>
+		<nous>apprenons</nous>
+		<vous>apprenez</vous>
+		<ils>apprennent</ils>
+	</present>
+	<imperative>
+		<tu>apprends</tu>
+		<nous>apprenons</nous>
+		<vous>apprenez</vous>
+	</imperative>
+	<imperfect>
+		<je>apprenais</je>
+		<tu>apprenais</tu>
+		<il>apprenait</il>
+		<nous>apprenions</nous>
+		<vous>appreniez</vous>
+		<ils>apprenaient</ils>
+	</imperfect>
+	<future>
+		<je>apprendrai</je>
+		<tu>apprendras</tu>
+		<il>apprendra</il>
+		<nous>apprendrons</nous>
+		<vous>apprendrez</vous>
+		<ils>apprendront</ils>
+	</future>
+	<subjunctive>
+		<je>apprenne</je>
+		<tu>apprennes</tu>
+		<il>apprenne</il>
+		<nous>apprenions</nous>
+		<vous>appreniez</vous>
+		<ils>apprennent</ils>
+	</subjunctive>
+	<conditional>
+		<je>apprendrais</je>
+		<tu>apprendrais</tu>
+		<il>apprendrait</il>
+		<nous>apprendrions</nous>
+		<vous>apprendriez</vous>
+		<ils>apprendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

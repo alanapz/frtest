@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>distribuer</infinitive>
+	<translation>to distribute</translation>
+	<presentParticiple>distribuant</presentParticiple>
+	<pastParticiple>distribué</pastParticiple>
+	<present>
+		<je>distribue</je>
+		<tu>distribues</tu>
+		<il>distribue</il>
+		<nous>distribuons</nous>
+		<vous>distribuez</vous>
+		<ils>distribuent</ils>
+	</present>
+	<imperative>
+		<tu>distribue</tu>
+		<nous>distribuons</nous>
+		<vous>distribuez</vous>
+	</imperative>
+	<imperfect>
+		<je>distribuais</je>
+		<tu>distribuais</tu>
+		<il>distribuait</il>
+		<nous>distribuions</nous>
+		<vous>distribuiez</vous>
+		<ils>distribuaient</ils>
+	</imperfect>
+	<future>
+		<je>distribuerai</je>
+		<tu>distribueras</tu>
+		<il>distribuera</il>
+		<nous>distribuerons</nous>
+		<vous>distribuerez</vous>
+		<ils>distribueront</ils>
+	</future>
+	<subjunctive>
+		<je>distribue</je>
+		<tu>distribues</tu>
+		<il>distribue</il>
+		<nous>distribuions</nous>
+		<vous>distribuiez</vous>
+		<ils>distribuent</ils>
+	</subjunctive>
+	<conditional>
+		<je>distribuerais</je>
+		<tu>distribuerais</tu>
+		<il>distribuerait</il>
+		<nous>distribuerions</nous>
+		<vous>distribueriez</vous>
+		<ils>distribueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

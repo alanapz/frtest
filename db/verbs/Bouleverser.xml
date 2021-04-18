@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>bouleverser</infinitive>
+	<translation>to move deeply</translation>
+	<translation>distress</translation>
+	<translation>to disrupt</translation>
+	<presentParticiple>bouleversant</presentParticiple>
+	<pastParticiple>bouleversé</pastParticiple>
+	<present>
+		<je>bouleverse</je>
+		<tu>bouleverses</tu>
+		<il>bouleverse</il>
+		<nous>bouleversons</nous>
+		<vous>bouleversez</vous>
+		<ils>bouleversent</ils>
+	</present>
+	<imperative>
+		<tu>bouleverse</tu>
+		<nous>bouleversons</nous>
+		<vous>bouleversez</vous>
+	</imperative>
+	<imperfect>
+		<je>bouleversais</je>
+		<tu>bouleversais</tu>
+		<il>bouleversait</il>
+		<nous>bouleversions</nous>
+		<vous>bouleversiez</vous>
+		<ils>bouleversaient</ils>
+	</imperfect>
+	<future>
+		<je>bouleverserai</je>
+		<tu>bouleverseras</tu>
+		<il>bouleversera</il>
+		<nous>bouleverserons</nous>
+		<vous>bouleverserez</vous>
+		<ils>bouleverseront</ils>
+	</future>
+	<subjunctive>
+		<je>bouleverse</je>
+		<tu>bouleverses</tu>
+		<il>bouleverse</il>
+		<nous>bouleversions</nous>
+		<vous>bouleversiez</vous>
+		<ils>bouleversent</ils>
+	</subjunctive>
+	<conditional>
+		<je>bouleverserais</je>
+		<tu>bouleverserais</tu>
+		<il>bouleverserait</il>
+		<nous>bouleverserions</nous>
+		<vous>bouleverseriez</vous>
+		<ils>bouleverseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

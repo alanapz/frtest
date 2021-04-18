@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>discourir</infinitive>
+	<translation>to discourse</translation>
+	<irregular />
+	<presentParticiple>discourant</presentParticiple>
+	<pastParticiple> discouru</pastParticiple>
+	<present>
+		<je>discours</je>
+		<tu>discours</tu>
+		<il>discourt</il>
+		<nous>discourons</nous>
+		<vous>discourez</vous>
+		<ils>discourent</ils>
+	</present>
+	<imperative>
+		<tu>discours</tu>
+		<nous>discourons</nous>
+		<vous>discourez</vous>
+	</imperative>
+	<imperfect>
+		<je>discourais</je>
+		<tu>discourais</tu>
+		<il>discourait</il>
+		<nous>discourions</nous>
+		<vous>discouriez</vous>
+		<ils>discouraient</ils>
+	</imperfect>
+	<future>
+		<je>discourrai</je>
+		<tu>discourras</tu>
+		<il>discourra</il>
+		<nous>discourrons</nous>
+		<vous>discourrez</vous>
+		<ils>discourront</ils>
+	</future>
+	<subjunctive>
+		<je>discoure</je>
+		<tu>discoures</tu>
+		<il>discoure</il>
+		<nous>discourions</nous>
+		<vous>discouriez</vous>
+		<ils>discourent</ils>
+	</subjunctive>
+	<conditional>
+		<je>discourrais</je>
+		<tu>discourrais</tu>
+		<il>discourrait</il>
+		<nous>discourrions</nous>
+		<vous>discourriez</vous>
+		<ils>discourraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

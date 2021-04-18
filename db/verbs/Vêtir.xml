@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>vêtir</infinitive>
+	<translation>to dress</translation>
+	<irregular />
+	<presentParticiple>vêtant</presentParticiple>
+	<pastParticiple> vêtu</pastParticiple>
+	<present>
+		<je>vêts</je>
+		<tu>vêts</tu>
+		<il>vêt</il>
+		<nous>vêtons</nous>
+		<vous>vêtez</vous>
+		<ils>vêtent</ils>
+	</present>
+	<imperative>
+		<tu>vêts</tu>
+		<nous>vêtons</nous>
+		<vous>vêtez</vous>
+	</imperative>
+	<imperfect>
+		<je>vêtais</je>
+		<tu>vêtais</tu>
+		<il>vêtait</il>
+		<nous>vêtions</nous>
+		<vous>vêtiez</vous>
+		<ils>vêtaient</ils>
+	</imperfect>
+	<future>
+		<je>vêtirai</je>
+		<tu>vêtiras</tu>
+		<il>vêtira</il>
+		<nous>vêtirons</nous>
+		<vous>vêtirez</vous>
+		<ils>vêtiront</ils>
+	</future>
+	<subjunctive>
+		<je>vête</je>
+		<tu>vêtes</tu>
+		<il>vête</il>
+		<nous>vêtions</nous>
+		<vous>vêtiez</vous>
+		<ils>vêtent</ils>
+	</subjunctive>
+	<conditional>
+		<je>vêtirais</je>
+		<tu>vêtirais</tu>
+		<il>vêtirait</il>
+		<nous>vêtirions</nous>
+		<vous>vêtiriez</vous>
+		<ils>vêtiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

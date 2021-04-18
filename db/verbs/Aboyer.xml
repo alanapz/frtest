@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>aboyer</infinitive>
+	<translation>to bark</translation>
+	<stemChange />
+	<presentParticiple>aboyant</presentParticiple>
+	<pastParticiple>aboyé</pastParticiple>
+	<present>
+		<je>aboie</je>
+		<tu>aboies</tu>
+		<il>aboie</il>
+		<nous>aboyons</nous>
+		<vous>aboyez</vous>
+		<ils>aboient</ils>
+	</present>
+	<imperative>
+		<tu>aboie</tu>
+		<nous>aboyons</nous>
+		<vous>aboyez</vous>
+	</imperative>
+	<imperfect>
+		<je>aboyais</je>
+		<tu>aboyais</tu>
+		<il>aboyait</il>
+		<nous>aboyions</nous>
+		<vous>aboyiez</vous>
+		<ils>aboyaient</ils>
+	</imperfect>
+	<future>
+		<je>aboierai</je>
+		<tu>aboieras</tu>
+		<il>aboiera</il>
+		<nous>aboierons</nous>
+		<vous>aboierez</vous>
+		<ils>aboieront</ils>
+	</future>
+	<subjunctive>
+		<je>aboie</je>
+		<tu>aboies</tu>
+		<il>aboie</il>
+		<nous>aboyions</nous>
+		<vous>aboyiez</vous>
+		<ils>aboient</ils>
+	</subjunctive>
+	<conditional>
+		<je>aboierais</je>
+		<tu>aboierais</tu>
+		<il>aboierait</il>
+		<nous>aboierions</nous>
+		<vous>aboieriez</vous>
+		<ils>aboieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

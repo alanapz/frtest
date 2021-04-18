@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>surprendre</infinitive>
+	<translation>to surprise</translation>
+	<irregular />
+	<presentParticiple>surprenant</presentParticiple>
+	<pastParticiple>surpris</pastParticiple>
+	<present>
+		<je>surprends</je>
+		<tu>surprends</tu>
+		<il>surprend</il>
+		<nous>surprenons</nous>
+		<vous>surprenez</vous>
+		<ils>surprennent</ils>
+	</present>
+	<imperative>
+		<tu>surprends</tu>
+		<nous>surprenons</nous>
+		<vous>surprenez</vous>
+	</imperative>
+	<imperfect>
+		<je>surprenais</je>
+		<tu>surprenais</tu>
+		<il>surprenait</il>
+		<nous>surprenions</nous>
+		<vous>surpreniez</vous>
+		<ils>surprenaient</ils>
+	</imperfect>
+	<future>
+		<je>surprendrai</je>
+		<tu>surprendras</tu>
+		<il>surprendra</il>
+		<nous>surprendrons</nous>
+		<vous>surprendrez</vous>
+		<ils>surprendront</ils>
+	</future>
+	<subjunctive>
+		<je>surprenne</je>
+		<tu>surprennes</tu>
+		<il>surprenne</il>
+		<nous>surprenions</nous>
+		<vous>surpreniez</vous>
+		<ils>surprennent</ils>
+	</subjunctive>
+	<conditional>
+		<je>surprendrais</je>
+		<tu>surprendrais</tu>
+		<il>surprendrait</il>
+		<nous>surprendrions</nous>
+		<vous>surprendriez</vous>
+		<ils>surprendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

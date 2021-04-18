@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>épeler</infinitive>
+	<translation>to spell</translation>
+	<stemChange />
+	<presentParticiple>épelant</presentParticiple>
+	<pastParticiple>épelé</pastParticiple>
+	<present>
+		<je>épelle</je>
+		<tu>épelles</tu>
+		<il>épelle</il>
+		<nous>épelons</nous>
+		<vous>épelez</vous>
+		<ils>épellent</ils>
+	</present>
+	<imperative>
+		<tu>épelle</tu>
+		<nous>épelons</nous>
+		<vous>épelez</vous>
+	</imperative>
+	<imperfect>
+		<je>épelais</je>
+		<tu>épelais</tu>
+		<il>épelait</il>
+		<nous>épelions</nous>
+		<vous>épeliez</vous>
+		<ils>épelaient</ils>
+	</imperfect>
+	<future>
+		<je>épellerai</je>
+		<tu>épelleras</tu>
+		<il>épellera</il>
+		<nous>épellerons</nous>
+		<vous>épellerez</vous>
+		<ils>épelleront</ils>
+	</future>
+	<subjunctive>
+		<je>épelle</je>
+		<tu>épelles</tu>
+		<il>épelle</il>
+		<nous>épelions</nous>
+		<vous>épeliez</vous>
+		<ils>épellent</ils>
+	</subjunctive>
+	<conditional>
+		<je>épellerais</je>
+		<tu>épellerais</tu>
+		<il>épellerait</il>
+		<nous>épellerions</nous>
+		<vous>épelleriez</vous>
+		<ils>épelleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

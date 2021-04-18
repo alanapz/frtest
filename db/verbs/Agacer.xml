@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>agacer</infinitive>
+            <translation>to irritate</translation>
+            <spellingChange />
+            <presentParticiple>agaçant</presentParticiple>
+            <pastParticiple>agacé</pastParticiple>
+            <present>
+                <je>agace</je>
+                <tu>agaces</tu>
+                <il>agace</il>
+                <nous>agaçons</nous>
+                <vous>agacez</vous>
+                <ils>agacent</ils>
+            </present>
+            <imperative>
+                <tu>agace</tu>
+                <nous>agaçons</nous>
+                <vous>agacez</vous>
+            </imperative>
+            <imperfect>
+                <je>agaçais</je>
+                <tu>agaçais</tu>
+                <il>agaçait</il>
+                <nous>agacions</nous>
+                <vous>agaciez</vous>
+                <ils>agaçaient</ils>
+            </imperfect>
+            <future>
+                <je>agacerai</je>
+                <tu>agaceras</tu>
+                <il>agacera</il>
+                <nous>agacerons</nous>
+                <vous>agacerez</vous>
+                <ils>agaceront</ils>
+            </future>
+            <subjunctive>
+                <je>agace</je>
+                <tu>agaces</tu>
+                <il>agace</il>
+                <nous>agacions</nous>
+                <vous>agaciez</vous>
+                <ils>agacent</ils>
+            </subjunctive>
+            <conditional>
+                <je>agacerais</je>
+                <tu>agacerais</tu>
+                <il>agacerait</il>
+                <nous>agacerions</nous>
+                <vous>agaceriez</vous>
+                <ils>agaceraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

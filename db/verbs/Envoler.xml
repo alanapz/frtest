@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>envoler</infinitive>
+	<translation>to take flight</translation>
+	<presentParticiple>envolant</presentParticiple>
+	<pastParticiple>envolé</pastParticiple>
+	<present>
+		<je>envole</je>
+		<tu>envoles</tu>
+		<il>envole</il>
+		<nous>envolons</nous>
+		<vous>envolez</vous>
+		<ils>envolent</ils>
+	</present>
+	<imperative>
+		<tu>envole</tu>
+		<nous>envolons</nous>
+		<vous>envolez</vous>
+	</imperative>
+	<imperfect>
+		<je>envolais</je>
+		<tu>envolais</tu>
+		<il>envolait</il>
+		<nous>envolions</nous>
+		<vous>envoliez</vous>
+		<ils>envolaient</ils>
+	</imperfect>
+	<future>
+		<je>envolerai</je>
+		<tu>envoleras</tu>
+		<il>envolera</il>
+		<nous>envolerons</nous>
+		<vous>envolerez</vous>
+		<ils>envoleront</ils>
+	</future>
+	<subjunctive>
+		<je>envole</je>
+		<tu>envoles</tu>
+		<il>envole</il>
+		<nous>envolions</nous>
+		<vous>envoliez</vous>
+		<ils>envolent</ils>
+	</subjunctive>
+	<conditional>
+		<je>envolerais</je>
+		<tu>envolerais</tu>
+		<il>envolerait</il>
+		<nous>envolerions</nous>
+		<vous>envoleriez</vous>
+		<ils>envoleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

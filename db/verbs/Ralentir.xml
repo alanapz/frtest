@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>ralentir</infinitive>
+            <translation>to slow-down</translation>
+            <translation>to slacken</translation>
+            <presentParticiple>ralentissant</presentParticiple>
+            <pastParticiple>ralenti</pastParticiple>
+            <present>
+                <je>ralentis</je>
+                <tu>ralentis</tu>
+                <il>ralentit</il>
+                <nous>ralentissons</nous>
+                <vous>ralentissez</vous>
+                <ils>ralentissent</ils>
+            </present>
+            <imperative>
+                <tu>ralentis</tu>
+                <nous>ralentissons</nous>
+                <vous>ralentissez</vous>
+            </imperative>
+            <imperfect>
+                <je>ralentissais</je>
+                <tu>ralentissais</tu>
+                <il>ralentissait</il>
+                <nous>ralentissions</nous>
+                <vous>ralentissiez</vous>
+                <ils>ralentissaient</ils>
+            </imperfect>
+            <future>
+                <je>ralentirai</je>
+                <tu>ralentiras</tu>
+                <il>ralentira</il>
+                <nous>ralentirons</nous>
+                <vous>ralentirez</vous>
+                <ils>ralentiront</ils>
+            </future>
+            <subjunctive>
+                <je>ralentisse</je>
+                <tu>ralentisses</tu>
+                <il>ralentisse</il>
+                <nous>ralentissions</nous>
+                <vous>ralentissiez</vous>
+                <ils>ralentissent</ils>
+            </subjunctive>
+            <conditional>
+                <je>ralentirais</je>
+                <tu>ralentirais</tu>
+                <il>ralentirait</il>
+                <nous>ralentirions</nous>
+                <vous>ralentiriez</vous>
+                <ils>ralentiraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

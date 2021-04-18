@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>permettre</infinitive>
+	<translation>to permit</translation>
+	<irregular />
+	<presentParticiple>permettant</presentParticiple>
+	<pastParticiple>permis</pastParticiple>
+	<present>
+		<je>permets</je>
+		<tu>permets</tu>
+		<il>permet</il>
+		<nous>permettons</nous>
+		<vous>permettez</vous>
+		<ils>permettent</ils>
+	</present>
+	<imperative>
+		<tu>permets</tu>
+		<nous>permettons</nous>
+		<vous>permettez</vous>
+	</imperative>
+	<imperfect>
+		<je>permettais</je>
+		<tu>permettais</tu>
+		<il>permettait</il>
+		<nous>permettions</nous>
+		<vous>permettiez</vous>
+		<ils>permettaient</ils>
+	</imperfect>
+	<future>
+		<je>permettrai</je>
+		<tu>permettras</tu>
+		<il>permettra</il>
+		<nous>permettrons</nous>
+		<vous>permettrez</vous>
+		<ils>permettront</ils>
+	</future>
+	<subjunctive>
+		<je>permette</je>
+		<tu>permettes</tu>
+		<il>permette</il>
+		<nous>permettions</nous>
+		<vous>permettiez</vous>
+		<ils>permettent</ils>
+	</subjunctive>
+	<conditional>
+		<je>permettrais</je>
+		<tu>permettrais</tu>
+		<il>permettrait</il>
+		<nous>permettrions</nous>
+		<vous>permettriez</vous>
+		<ils>permettraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

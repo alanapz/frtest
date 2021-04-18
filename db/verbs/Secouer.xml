@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>secouer</infinitive>
+	<translation>to shake</translation>
+	<presentParticiple>secouant</presentParticiple>
+	<pastParticiple>secoué</pastParticiple>
+	<present>
+		<je>secoue</je>
+		<tu>secoues</tu>
+		<il>secoue</il>
+		<nous>secouons</nous>
+		<vous>secouez</vous>
+		<ils>secouent</ils>
+	</present>
+	<imperative>
+		<tu>secoue</tu>
+		<nous>secouons</nous>
+		<vous>secouez</vous>
+	</imperative>
+	<imperfect>
+		<je>secouais</je>
+		<tu>secouais</tu>
+		<il>secouait</il>
+		<nous>secouions</nous>
+		<vous>secouiez</vous>
+		<ils>secouaient</ils>
+	</imperfect>
+	<future>
+		<je>secouerai</je>
+		<tu>secoueras</tu>
+		<il>secouera</il>
+		<nous>secouerons</nous>
+		<vous>secouerez</vous>
+		<ils>secoueront</ils>
+	</future>
+	<subjunctive>
+		<je>secoue</je>
+		<tu>secoues</tu>
+		<il>secoue</il>
+		<nous>secouions</nous>
+		<vous>secouiez</vous>
+		<ils>secouent</ils>
+	</subjunctive>
+	<conditional>
+		<je>secouerais</je>
+		<tu>secouerais</tu>
+		<il>secouerait</il>
+		<nous>secouerions</nous>
+		<vous>secoueriez</vous>
+		<ils>secoueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

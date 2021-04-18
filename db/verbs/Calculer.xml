@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>calculer</infinitive>
+	<translation>to calculate</translation>
+	<presentParticiple>calculant</presentParticiple>
+	<pastParticiple>calculé</pastParticiple>
+	<present>
+		<je>calcule</je>
+		<tu>calcules</tu>
+		<il>calcule</il>
+		<nous>calculons</nous>
+		<vous>calculez</vous>
+		<ils>calculent</ils>
+	</present>
+	<imperative>
+		<tu>calcule</tu>
+		<nous>calculons</nous>
+		<vous>calculez</vous>
+	</imperative>
+	<imperfect>
+		<je>calculais</je>
+		<tu>calculais</tu>
+		<il>calculait</il>
+		<nous>calculions</nous>
+		<vous>calculiez</vous>
+		<ils>calculaient</ils>
+	</imperfect>
+	<future>
+		<je>calculerai</je>
+		<tu>calculeras</tu>
+		<il>calculera</il>
+		<nous>calculerons</nous>
+		<vous>calculerez</vous>
+		<ils>calculeront</ils>
+	</future>
+	<subjunctive>
+		<je>calcule</je>
+		<tu>calcules</tu>
+		<il>calcule</il>
+		<nous>calculions</nous>
+		<vous>calculiez</vous>
+		<ils>calculent</ils>
+	</subjunctive>
+	<conditional>
+		<je>calculerais</je>
+		<tu>calculerais</tu>
+		<il>calculerait</il>
+		<nous>calculerions</nous>
+		<vous>calculeriez</vous>
+		<ils>calculeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

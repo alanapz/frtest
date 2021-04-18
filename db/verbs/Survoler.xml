@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>survoler</infinitive>
+	<translation>to fly over</translation>
+	<translation>to skim through/over</translation>
+	<presentParticiple>survolant</presentParticiple>
+	<pastParticiple>survolé</pastParticiple>
+	<present>
+		<je>survole</je>
+		<tu>survoles</tu>
+		<il>survole</il>
+		<nous>survolons</nous>
+		<vous>survolez</vous>
+		<ils>survolent</ils>
+	</present>
+	<imperative>
+		<tu>survole</tu>
+		<nous>survolons</nous>
+		<vous>survolez</vous>
+	</imperative>
+	<imperfect>
+		<je>survolais</je>
+		<tu>survolais</tu>
+		<il>survolait</il>
+		<nous>survolions</nous>
+		<vous>survoliez</vous>
+		<ils>survolaient</ils>
+	</imperfect>
+	<future>
+		<je>survolerai</je>
+		<tu>survoleras</tu>
+		<il>survolera</il>
+		<nous>survolerons</nous>
+		<vous>survolerez</vous>
+		<ils>survoleront</ils>
+	</future>
+	<subjunctive>
+		<je>survole</je>
+		<tu>survoles</tu>
+		<il>survole</il>
+		<nous>survolions</nous>
+		<vous>survoliez</vous>
+		<ils>survolent</ils>
+	</subjunctive>
+	<conditional>
+		<je>survolerais</je>
+		<tu>survolerais</tu>
+		<il>survolerait</il>
+		<nous>survolerions</nous>
+		<vous>survoleriez</vous>
+		<ils>survoleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

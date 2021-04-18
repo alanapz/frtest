@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>couper</infinitive>
+            <translation>to cut</translation>
+            <transitive />
+            <presentParticiple>coupant</presentParticiple>
+            <pastParticiple>coupé</pastParticiple>
+            <present>
+                <je>coupe</je>
+                <tu>coupes</tu>
+                <il>coupe</il>
+                <nous>coupons</nous>
+                <vous>coupez</vous>
+                <ils>coupent</ils>
+            </present>
+            <imperative>
+                <tu>coupe</tu>
+                <nous>coupons</nous>
+                <vous>coupez</vous>
+            </imperative>
+            <imperfect>
+                <je>coupais</je>
+                <tu>coupais</tu>
+                <il>coupait</il>
+                <nous>coupions</nous>
+                <vous>coupiez</vous>
+                <ils>coupaient</ils>
+            </imperfect>
+            <future>
+                <je>couperai</je>
+                <tu>couperas</tu>
+                <il>coupera</il>
+                <nous>couperons</nous>
+                <vous>couperez</vous>
+                <ils>couperont</ils>
+            </future>
+            <subjunctive>
+                <je>coupe</je>
+                <tu>coupes</tu>
+                <il>coupe</il>
+                <nous>coupions</nous>
+                <vous>coupiez</vous>
+                <ils>coupent</ils>
+            </subjunctive>
+            <conditional>
+                <je>couperais</je>
+                <tu>couperais</tu>
+                <il>couperait</il>
+                <nous>couperions</nous>
+                <vous>couperiez</vous>
+                <ils>couperaient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

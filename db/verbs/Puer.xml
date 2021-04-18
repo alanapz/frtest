@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>puer</infinitive>
+	<translation>to stink</translation>
+	<presentParticiple>puant</presentParticiple>
+	<pastParticiple>pué</pastParticiple>
+	<present>
+		<je>pue</je>
+		<tu>pues</tu>
+		<il>pue</il>
+		<nous>puons</nous>
+		<vous>puez</vous>
+		<ils>puent</ils>
+	</present>
+	<imperative>
+		<tu>pue</tu>
+		<nous>puons</nous>
+		<vous>puez</vous>
+	</imperative>
+	<imperfect>
+		<je>puais</je>
+		<tu>puais</tu>
+		<il>puait</il>
+		<nous>puions</nous>
+		<vous>puiez</vous>
+		<ils>puaient</ils>
+	</imperfect>
+	<future>
+		<je>puerai</je>
+		<tu>pueras</tu>
+		<il>puera</il>
+		<nous>puerons</nous>
+		<vous>puerez</vous>
+		<ils>pueront</ils>
+	</future>
+	<subjunctive>
+		<je>pue</je>
+		<tu>pues</tu>
+		<il>pue</il>
+		<nous>puions</nous>
+		<vous>puiez</vous>
+		<ils>puent</ils>
+	</subjunctive>
+	<conditional>
+		<je>puerais</je>
+		<tu>puerais</tu>
+		<il>puerait</il>
+		<nous>puerions</nous>
+		<vous>pueriez</vous>
+		<ils>pueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

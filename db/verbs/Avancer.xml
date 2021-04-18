@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>avancer</infinitive>
+	<translation>to advance</translation>
+	<spellingChange />
+	<presentParticiple>avançant</presentParticiple>
+	<pastParticiple>avancé</pastParticiple>
+	<present>
+		<je>avance</je>
+		<tu>avances</tu>
+		<il>avance</il>
+		<nous>avançons</nous>
+		<vous>avancez</vous>
+		<ils>avancent</ils>
+	</present>
+	<imperative>
+		<tu>avance</tu>
+		<nous>avançons</nous>
+		<vous>avancez</vous>
+	</imperative>
+	<imperfect>
+		<je>avançais</je>
+		<tu>avançais</tu>
+		<il>avançait</il>
+		<nous>avancions</nous>
+		<vous>avanciez</vous>
+		<ils>avançaient</ils>
+	</imperfect>
+	<future>
+		<je>avancerai</je>
+		<tu>avanceras</tu>
+		<il>avancera</il>
+		<nous>avancerons</nous>
+		<vous>avancerez</vous>
+		<ils>avanceront</ils>
+	</future>
+	<subjunctive>
+		<je>avance</je>
+		<tu>avances</tu>
+		<il>avance</il>
+		<nous>avancions</nous>
+		<vous>avanciez</vous>
+		<ils>avancent</ils>
+	</subjunctive>
+	<conditional>
+		<je>avancerais</je>
+		<tu>avancerais</tu>
+		<il>avancerait</il>
+		<nous>avancerions</nous>
+		<vous>avanceriez</vous>
+		<ils>avanceraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

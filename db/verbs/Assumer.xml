@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>assumer</infinitive>
+	<translation>to assume (responsibility)</translation>
+	<translation>to accept (consequences)</translation>
+	<presentParticiple>assumant</presentParticiple>
+	<pastParticiple>assumé</pastParticiple>
+	<present>
+		<je>assume</je>
+		<tu>assumes</tu>
+		<il>assume</il>
+		<nous>assumons</nous>
+		<vous>assumez</vous>
+		<ils>assument</ils>
+	</present>
+	<imperative>
+		<tu>assume</tu>
+		<nous>assumons</nous>
+		<vous>assumez</vous>
+	</imperative>
+	<imperfect>
+		<je>assumais</je>
+		<tu>assumais</tu>
+		<il>assumait</il>
+		<nous>assumions</nous>
+		<vous>assumiez</vous>
+		<ils>assumaient</ils>
+	</imperfect>
+	<future>
+		<je>assumerai</je>
+		<tu>assumeras</tu>
+		<il>assumera</il>
+		<nous>assumerons</nous>
+		<vous>assumerez</vous>
+		<ils>assumeront</ils>
+	</future>
+	<subjunctive>
+		<je>assume</je>
+		<tu>assumes</tu>
+		<il>assume</il>
+		<nous>assumions</nous>
+		<vous>assumiez</vous>
+		<ils>assument</ils>
+	</subjunctive>
+	<conditional>
+		<je>assumerais</je>
+		<tu>assumerais</tu>
+		<il>assumerait</il>
+		<nous>assumerions</nous>
+		<vous>assumeriez</vous>
+		<ils>assumeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

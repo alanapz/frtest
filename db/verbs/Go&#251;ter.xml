@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>go&#251;ter</infinitive>
+	<translation>to taste</translation>
+	<presentParticiple>go&#251;tant</presentParticiple>
+	<pastParticiple>go&#251;té</pastParticiple>
+	<present>
+		<je>go&#251;te</je>
+		<tu>go&#251;tes</tu>
+		<il>go&#251;te</il>
+		<nous>go&#251;tons</nous>
+		<vous>go&#251;tez</vous>
+		<ils>go&#251;tent</ils>
+	</present>
+	<imperative>
+		<tu>go&#251;te</tu>
+		<nous>go&#251;tons</nous>
+		<vous>go&#251;tez</vous>
+	</imperative>
+	<imperfect>
+		<je>go&#251;tais</je>
+		<tu>go&#251;tais</tu>
+		<il>go&#251;tait</il>
+		<nous>go&#251;tions</nous>
+		<vous>go&#251;tiez</vous>
+		<ils>go&#251;taient</ils>
+	</imperfect>
+	<future>
+		<je>go&#251;terai</je>
+		<tu>go&#251;teras</tu>
+		<il>go&#251;tera</il>
+		<nous>go&#251;terons</nous>
+		<vous>go&#251;terez</vous>
+		<ils>go&#251;teront</ils>
+	</future>
+	<subjunctive>
+		<je>go&#251;te</je>
+		<tu>go&#251;tes</tu>
+		<il>go&#251;te</il>
+		<nous>go&#251;tions</nous>
+		<vous>go&#251;tiez</vous>
+		<ils>go&#251;tent</ils>
+	</subjunctive>
+	<conditional>
+		<je>go&#251;terais</je>
+		<tu>go&#251;terais</tu>
+		<il>go&#251;terait</il>
+		<nous>go&#251;terions</nous>
+		<vous>go&#251;teriez</vous>
+		<ils>go&#251;teraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

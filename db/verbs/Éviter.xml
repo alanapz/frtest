@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>éviter</infinitive>
+	<translation>to avoid</translation>
+	<presentParticiple>évitant</presentParticiple>
+	<pastParticiple>évité</pastParticiple>
+	<present>
+		<je>évite</je>
+		<tu>évites</tu>
+		<il>évite</il>
+		<nous>évitons</nous>
+		<vous>évitez</vous>
+		<ils>évitent</ils>
+	</present>
+	<imperative>
+		<tu>évite</tu>
+		<nous>évitons</nous>
+		<vous>évitez</vous>
+	</imperative>
+	<imperfect>
+		<je>évitais</je>
+		<tu>évitais</tu>
+		<il>évitait</il>
+		<nous>évitions</nous>
+		<vous>évitiez</vous>
+		<ils>évitaient</ils>
+	</imperfect>
+	<future>
+		<je>éviterai</je>
+		<tu>éviteras</tu>
+		<il>évitera</il>
+		<nous>éviterons</nous>
+		<vous>éviterez</vous>
+		<ils>éviteront</ils>
+	</future>
+	<subjunctive>
+		<je>évite</je>
+		<tu>évites</tu>
+		<il>évite</il>
+		<nous>évitions</nous>
+		<vous>évitiez</vous>
+		<ils>évitent</ils>
+	</subjunctive>
+	<conditional>
+		<je>éviterais</je>
+		<tu>éviterais</tu>
+		<il>éviterait</il>
+		<nous>éviterions</nous>
+		<vous>éviteriez</vous>
+		<ils>éviteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

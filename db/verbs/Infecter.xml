@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>infecter</infinitive>
+	<translation>to infect</translation>
+	<presentParticiple>infectant</presentParticiple>
+	<pastParticiple>infecté</pastParticiple>
+	<present>
+		<je>infecte</je>
+		<tu>infectes</tu>
+		<il>infecte</il>
+		<nous>infectons</nous>
+		<vous>infectez</vous>
+		<ils>infectent</ils>
+	</present>
+	<imperative>
+		<tu>infecte</tu>
+		<nous>infectons</nous>
+		<vous>infectez</vous>
+	</imperative>
+	<imperfect>
+		<je>infectais</je>
+		<tu>infectais</tu>
+		<il>infectait</il>
+		<nous>infections</nous>
+		<vous>infectiez</vous>
+		<ils>infectaient</ils>
+	</imperfect>
+	<future>
+		<je>infecterai</je>
+		<tu>infecteras</tu>
+		<il>infectera</il>
+		<nous>infecterons</nous>
+		<vous>infecterez</vous>
+		<ils>infecteront</ils>
+	</future>
+	<subjunctive>
+		<je>infecte</je>
+		<tu>infectes</tu>
+		<il>infecte</il>
+		<nous>infections</nous>
+		<vous>infectiez</vous>
+		<ils>infectent</ils>
+	</subjunctive>
+	<conditional>
+		<je>infecterais</je>
+		<tu>infecterais</tu>
+		<il>infecterait</il>
+		<nous>infecterions</nous>
+		<vous>infecteriez</vous>
+		<ils>infecteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

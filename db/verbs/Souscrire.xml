@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>souscrire</infinitive>
+	<translation>to subscribe</translation>
+	<irregular />
+	<presentParticiple>souscrivant</presentParticiple>
+	<pastParticiple>souscrit</pastParticiple>
+	<present>
+		<je>souscris</je>
+		<tu>souscris</tu>
+		<il>souscrit</il>
+		<nous>souscrivons</nous>
+		<vous>souscrivez</vous>
+		<ils>souscrivent</ils>
+	</present>
+	<imperative>
+		<tu>souscris</tu>
+		<nous>souscrivons</nous>
+		<vous>souscrivez</vous>
+	</imperative>
+	<imperfect>
+		<je>souscrivais</je>
+		<tu>souscrivais</tu>
+		<il>souscrivait</il>
+		<nous>souscrivions</nous>
+		<vous>souscriviez</vous>
+		<ils>souscrivaient</ils>
+	</imperfect>
+	<future>
+		<je>souscrirai</je>
+		<tu>souscriras</tu>
+		<il>souscrira</il>
+		<nous>souscrirons</nous>
+		<vous>souscrirez</vous>
+		<ils>souscriront</ils>
+	</future>
+	<subjunctive>
+		<je>souscrive</je>
+		<tu>souscrives</tu>
+		<il>souscrive</il>
+		<nous>souscrivions</nous>
+		<vous>souscriviez</vous>
+		<ils>souscrivent</ils>
+	</subjunctive>
+	<conditional>
+		<je>souscrirais</je>
+		<tu>souscrirais</tu>
+		<il>souscrirait</il>
+		<nous>souscririons</nous>
+		<vous>souscririez</vous>
+		<ils>souscriraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>viser</infinitive>
+	<translation>to aim</translation>
+	<presentParticiple>visant</presentParticiple>
+	<pastParticiple>visé</pastParticiple>
+	<present>
+		<je>vise</je>
+		<tu>vises</tu>
+		<il>vise</il>
+		<nous>visons</nous>
+		<vous>visez</vous>
+		<ils>visent</ils>
+	</present>
+	<imperative>
+		<tu>vise</tu>
+		<nous>visons</nous>
+		<vous>visez</vous>
+	</imperative>
+	<imperfect>
+		<je>visais</je>
+		<tu>visais</tu>
+		<il>visait</il>
+		<nous>visions</nous>
+		<vous>visiez</vous>
+		<ils>visaient</ils>
+	</imperfect>
+	<future>
+		<je>viserai</je>
+		<tu>viseras</tu>
+		<il>visera</il>
+		<nous>viserons</nous>
+		<vous>viserez</vous>
+		<ils>viseront</ils>
+	</future>
+	<subjunctive>
+		<je>vise</je>
+		<tu>vises</tu>
+		<il>vise</il>
+		<nous>visions</nous>
+		<vous>visiez</vous>
+		<ils>visent</ils>
+	</subjunctive>
+	<conditional>
+		<je>viserais</je>
+		<tu>viserais</tu>
+		<il>viserait</il>
+		<nous>viserions</nous>
+		<vous>viseriez</vous>
+		<ils>viseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

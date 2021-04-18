@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>quitter</infinitive>
+	<translation>to leave</translation>
+	<presentParticiple>quittant</presentParticiple>
+	<pastParticiple>quitté</pastParticiple>
+	<present>
+		<je>quitte</je>
+		<tu>quittes</tu>
+		<il>quitte</il>
+		<nous>quittons</nous>
+		<vous>quittez</vous>
+		<ils>quittent</ils>
+	</present>
+	<imperative>
+		<tu>quitte</tu>
+		<nous>quittons</nous>
+		<vous>quittez</vous>
+	</imperative>
+	<imperfect>
+		<je>quittais</je>
+		<tu>quittais</tu>
+		<il>quittait</il>
+		<nous>quittions</nous>
+		<vous>quittiez</vous>
+		<ils>quittaient</ils>
+	</imperfect>
+	<future>
+		<je>quitterai</je>
+		<tu>quitteras</tu>
+		<il>quittera</il>
+		<nous>quitterons</nous>
+		<vous>quitterez</vous>
+		<ils>quitteront</ils>
+	</future>
+	<subjunctive>
+		<je>quitte</je>
+		<tu>quittes</tu>
+		<il>quitte</il>
+		<nous>quittions</nous>
+		<vous>quittiez</vous>
+		<ils>quittent</ils>
+	</subjunctive>
+	<conditional>
+		<je>quitterais</je>
+		<tu>quitterais</tu>
+		<il>quitterait</il>
+		<nous>quitterions</nous>
+		<vous>quitteriez</vous>
+		<ils>quitteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

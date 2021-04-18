@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>kidnapper</infinitive>
+	<translation>to kidnap</translation>
+	<presentParticiple>kidnappant</presentParticiple>
+	<pastParticiple>kidnappé</pastParticiple>
+	<present>
+		<je>kidnappe</je>
+		<tu>kidnappes</tu>
+		<il>kidnappe</il>
+		<nous>kidnappons</nous>
+		<vous>kidnappez</vous>
+		<ils>kidnappent</ils>
+	</present>
+	<imperative>
+		<tu>kidnappe</tu>
+		<nous>kidnappons</nous>
+		<vous>kidnappez</vous>
+	</imperative>
+	<imperfect>
+		<je>kidnappais</je>
+		<tu>kidnappais</tu>
+		<il>kidnappait</il>
+		<nous>kidnappions</nous>
+		<vous>kidnappiez</vous>
+		<ils>kidnappaient</ils>
+	</imperfect>
+	<future>
+		<je>kidnapperai</je>
+		<tu>kidnapperas</tu>
+		<il>kidnappera</il>
+		<nous>kidnapperons</nous>
+		<vous>kidnapperez</vous>
+		<ils>kidnapperont</ils>
+	</future>
+	<subjunctive>
+		<je>kidnappe</je>
+		<tu>kidnappes</tu>
+		<il>kidnappe</il>
+		<nous>kidnappions</nous>
+		<vous>kidnappiez</vous>
+		<ils>kidnappent</ils>
+	</subjunctive>
+	<conditional>
+		<je>kidnapperais</je>
+		<tu>kidnapperais</tu>
+		<il>kidnapperait</il>
+		<nous>kidnapperions</nous>
+		<vous>kidnapperiez</vous>
+		<ils>kidnapperaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

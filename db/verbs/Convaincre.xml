@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>convaincre</infinitive>
+	<translation>to convince</translation>
+	<irregular />
+	<presentParticiple>convainquant</presentParticiple>
+	<pastParticiple>convaincu</pastParticiple>
+	<present>
+		<je>convaincs</je>
+		<tu>convaincs</tu>
+		<il>convainc</il>
+		<nous>convainquons</nous>
+		<vous>convainquez</vous>
+		<ils>convainquent</ils>
+	</present>
+	<imperative>
+		<tu>convaincs</tu>
+		<nous>convainquons</nous>
+		<vous>convainquez</vous>
+	</imperative>
+	<imperfect>
+		<je>convainquais</je>
+		<tu>convainquais</tu>
+		<il>convainquait</il>
+		<nous>convainquions</nous>
+		<vous>convainquiez</vous>
+		<ils>convainquaient</ils>
+	</imperfect>
+	<future>
+		<je>convaincrai</je>
+		<tu>convaincras</tu>
+		<il>convaincra</il>
+		<nous>convaincrons</nous>
+		<vous>convaincrez</vous>
+		<ils>convaincront</ils>
+	</future>
+	<subjunctive>
+		<je>convainque</je>
+		<tu>convainques</tu>
+		<il>convainque</il>
+		<nous>convainquions</nous>
+		<vous>convainquiez</vous>
+		<ils>convainquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>convaincrais</je>
+		<tu>convaincrais</tu>
+		<il>convaincrait</il>
+		<nous>convaincrions</nous>
+		<vous>convaincriez</vous>
+		<ils>convaincraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

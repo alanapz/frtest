@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>définir</infinitive>
+	<translation>to define</translation>
+	<presentParticiple>définissant</presentParticiple>
+	<pastParticiple>défini</pastParticiple>
+	<present>
+		<je>définis</je>
+		<tu>définis</tu>
+		<il>définit</il>
+		<nous>définissons</nous>
+		<vous>définissez</vous>
+		<ils>définissent</ils>
+	</present>
+	<imperative>
+		<tu>définis</tu>
+		<nous>définissons</nous>
+		<vous>définissez</vous>
+	</imperative>
+	<imperfect>
+		<je>définissais</je>
+		<tu>définissais</tu>
+		<il>définissait</il>
+		<nous>définissions</nous>
+		<vous>définissiez</vous>
+		<ils>définissaient</ils>
+	</imperfect>
+	<future>
+		<je>définirai</je>
+		<tu>définiras</tu>
+		<il>définira</il>
+		<nous>définirons</nous>
+		<vous>définirez</vous>
+		<ils>définiront</ils>
+	</future>
+	<subjunctive>
+		<je>définisse</je>
+		<tu>définisses</tu>
+		<il>définisse</il>
+		<nous>définissions</nous>
+		<vous>définissiez</vous>
+		<ils>définissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>définirais</je>
+		<tu>définirais</tu>
+		<il>définirait</il>
+		<nous>définirions</nous>
+		<vous>définiriez</vous>
+		<ils>définiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>accroître</infinitive>
+	<translation>to increase</translation>
+	<irregular />
+	<presentParticiple>accroissant</presentParticiple>
+	<pastParticiple>accru</pastParticiple>
+	<present>
+		<je>accrois</je>
+		<tu>accrois</tu>
+		<il>accroît</il>
+		<nous>accroissons</nous>
+		<vous>accroissez</vous>
+		<ils>accroissent</ils>
+	</present>
+	<imperative>
+		<tu>accrois</tu>
+		<nous>accroissons</nous>
+		<vous>accroissez</vous>
+	</imperative>
+	<imperfect>
+		<je>accroissais</je>
+		<tu>accroissais</tu>
+		<il>accroissait</il>
+		<nous>accroissions</nous>
+		<vous>accroissiez</vous>
+		<ils>accroissaient</ils>
+	</imperfect>
+	<future>
+		<je>accroîtrai</je>
+		<tu>accroîtras</tu>
+		<il>accroîtra</il>
+		<nous>accroîtrons</nous>
+		<vous>accroîtrez</vous>
+		<ils>accroîtront</ils>
+	</future>
+	<subjunctive>
+		<je>accroisse</je>
+		<tu>accroisses</tu>
+		<il>accroisse</il>
+		<nous>accroissions</nous>
+		<vous>accroissiez</vous>
+		<ils>accroissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>accroîtrais</je>
+		<tu>accroîtrais</tu>
+		<il>accroîtrait</il>
+		<nous>accroîtrions</nous>
+		<vous>accroîtriez</vous>
+		<ils>accroîtraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

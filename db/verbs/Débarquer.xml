@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>débarquer</infinitive>
+	<translation>to unload</translation>
+	<translation>to land</translation>
+	<translation>to fire</translation>
+	<presentParticiple>débarquant</presentParticiple>
+	<pastParticiple>débarqué</pastParticiple>
+	<present>
+		<je>débarque</je>
+		<tu>débarques</tu>
+		<il>débarque</il>
+		<nous>débarquons</nous>
+		<vous>débarquez</vous>
+		<ils>débarquent</ils>
+	</present>
+	<imperative>
+		<tu>débarque</tu>
+		<nous>débarquons</nous>
+		<vous>débarquez</vous>
+	</imperative>
+	<imperfect>
+		<je>débarquais</je>
+		<tu>débarquais</tu>
+		<il>débarquait</il>
+		<nous>débarquions</nous>
+		<vous>débarquiez</vous>
+		<ils>débarquaient</ils>
+	</imperfect>
+	<future>
+		<je>débarquerai</je>
+		<tu>débarqueras</tu>
+		<il>débarquera</il>
+		<nous>débarquerons</nous>
+		<vous>débarquerez</vous>
+		<ils>débarqueront</ils>
+	</future>
+	<subjunctive>
+		<je>débarque</je>
+		<tu>débarques</tu>
+		<il>débarque</il>
+		<nous>débarquions</nous>
+		<vous>débarquiez</vous>
+		<ils>débarquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>débarquerais</je>
+		<tu>débarquerais</tu>
+		<il>débarquerait</il>
+		<nous>débarquerions</nous>
+		<vous>débarqueriez</vous>
+		<ils>débarqueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

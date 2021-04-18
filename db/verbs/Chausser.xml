@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>chausser</infinitive>
+	<translation>to put shoes on</translation>
+	<translation>to fit</translation>
+	<presentParticiple>chaussant</presentParticiple>
+	<pastParticiple>chaussé</pastParticiple>
+	<present>
+		<je>chausse</je>
+		<tu>chausses</tu>
+		<il>chausse</il>
+		<nous>chaussons</nous>
+		<vous>chaussez</vous>
+		<ils>chaussent</ils>
+	</present>
+	<imperative>
+		<tu>chausse</tu>
+		<nous>chaussons</nous>
+		<vous>chaussez</vous>
+	</imperative>
+	<imperfect>
+		<je>chaussais</je>
+		<tu>chaussais</tu>
+		<il>chaussait</il>
+		<nous>chaussions</nous>
+		<vous>chaussiez</vous>
+		<ils>chaussaient</ils>
+	</imperfect>
+	<future>
+		<je>chausserai</je>
+		<tu>chausseras</tu>
+		<il>chaussera</il>
+		<nous>chausserons</nous>
+		<vous>chausserez</vous>
+		<ils>chausseront</ils>
+	</future>
+	<subjunctive>
+		<je>chausse</je>
+		<tu>chausses</tu>
+		<il>chausse</il>
+		<nous>chaussions</nous>
+		<vous>chaussiez</vous>
+		<ils>chaussent</ils>
+	</subjunctive>
+	<conditional>
+		<je>chausserais</je>
+		<tu>chausserais</tu>
+		<il>chausserait</il>
+		<nous>chausserions</nous>
+		<vous>chausseriez</vous>
+		<ils>chausseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

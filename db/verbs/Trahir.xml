@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>trahir</infinitive>
+	<translation>to betray</translation>
+	<presentParticiple>trahissant</presentParticiple>
+	<pastParticiple>trahi</pastParticiple>
+	<present>
+		<je>trahis</je>
+		<tu>trahis</tu>
+		<il>trahit</il>
+		<nous>trahissons</nous>
+		<vous>trahissez</vous>
+		<ils>trahissent</ils>
+	</present>
+	<imperative>
+		<tu>trahis</tu>
+		<nous>trahissons</nous>
+		<vous>trahissez</vous>
+	</imperative>
+	<imperfect>
+		<je>trahissais</je>
+		<tu>trahissais</tu>
+		<il>trahissait</il>
+		<nous>trahissions</nous>
+		<vous>trahissiez</vous>
+		<ils>trahissaient</ils>
+	</imperfect>
+	<future>
+		<je>trahirai</je>
+		<tu>trahiras</tu>
+		<il>trahira</il>
+		<nous>trahirons</nous>
+		<vous>trahirez</vous>
+		<ils>trahiront</ils>
+	</future>
+	<subjunctive>
+		<je>trahisse</je>
+		<tu>trahisses</tu>
+		<il>trahisse</il>
+		<nous>trahissions</nous>
+		<vous>trahissiez</vous>
+		<ils>trahissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>trahirais</je>
+		<tu>trahirais</tu>
+		<il>trahirait</il>
+		<nous>trahirions</nous>
+		<vous>trahiriez</vous>
+		<ils>trahiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

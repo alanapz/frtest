@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>fa&#231;onner</infinitive>
+	<translation>to fashion</translation>
+	<translation>shape</translation>
+	<presentParticiple>fa&#231;onnant</presentParticiple>
+	<pastParticiple>fa&#231;onné</pastParticiple>
+	<present>
+		<je>fa&#231;onne</je>
+		<tu>fa&#231;onnes</tu>
+		<il>fa&#231;onne</il>
+		<nous>fa&#231;onnons</nous>
+		<vous>fa&#231;onnez</vous>
+		<ils>fa&#231;onnent</ils>
+	</present>
+	<imperative>
+		<tu>fa&#231;onne</tu>
+		<nous>fa&#231;onnons</nous>
+		<vous>fa&#231;onnez</vous>
+	</imperative>
+	<imperfect>
+		<je>fa&#231;onnais</je>
+		<tu>fa&#231;onnais</tu>
+		<il>fa&#231;onnait</il>
+		<nous>fa&#231;onnions</nous>
+		<vous>fa&#231;onniez</vous>
+		<ils>fa&#231;onnaient</ils>
+	</imperfect>
+	<future>
+		<je>fa&#231;onnerai</je>
+		<tu>fa&#231;onneras</tu>
+		<il>fa&#231;onnera</il>
+		<nous>fa&#231;onnerons</nous>
+		<vous>fa&#231;onnerez</vous>
+		<ils>fa&#231;onneront</ils>
+	</future>
+	<subjunctive>
+		<je>fa&#231;onne</je>
+		<tu>fa&#231;onnes</tu>
+		<il>fa&#231;onne</il>
+		<nous>fa&#231;onnions</nous>
+		<vous>fa&#231;onniez</vous>
+		<ils>fa&#231;onnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>fa&#231;onnerais</je>
+		<tu>fa&#231;onnerais</tu>
+		<il>fa&#231;onnerait</il>
+		<nous>fa&#231;onnerions</nous>
+		<vous>fa&#231;onneriez</vous>
+		<ils>fa&#231;onneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

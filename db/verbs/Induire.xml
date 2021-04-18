@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>induire</infinitive>
+	<translation>to mislead</translation>
+	<irregular />
+	<presentParticiple>induisant</presentParticiple>
+	<pastParticiple>induit</pastParticiple>
+	<present>
+		<je>induis</je>
+		<tu>induis</tu>
+		<il>induit</il>
+		<nous>induisons</nous>
+		<vous>induisez</vous>
+		<ils>induisent</ils>
+	</present>
+	<imperative>
+		<tu>induis</tu>
+		<nous>induisons</nous>
+		<vous>induisez</vous>
+	</imperative>
+	<imperfect>
+		<je>induisais</je>
+		<tu>induisais</tu>
+		<il>induisait</il>
+		<nous>induisions</nous>
+		<vous>induisiez</vous>
+		<ils>induisaient</ils>
+	</imperfect>
+	<future>
+		<je>induirai</je>
+		<tu>induiras</tu>
+		<il>induira</il>
+		<nous>induirons</nous>
+		<vous>induirez</vous>
+		<ils>induiront</ils>
+	</future>
+	<subjunctive>
+		<je>induise</je>
+		<tu>induises</tu>
+		<il>induise</il>
+		<nous>induisions</nous>
+		<vous>induisiez</vous>
+		<ils>induisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>induirais</je>
+		<tu>induirais</tu>
+		<il>induirait</il>
+		<nous>induirions</nous>
+		<vous>induiriez</vous>
+		<ils>induiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

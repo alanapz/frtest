@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>revoir</infinitive>
+            <translation>to see again</translation>
+            <irregular />
+            <presentParticiple>revoyant</presentParticiple>
+            <pastParticiple>revu</pastParticiple>
+            <present>
+                <je>revois</je>
+                <tu>revois</tu>
+                <il>revoit</il>
+                <nous>revoyons</nous>
+                <vous>revoyez</vous>
+                <ils>revoient</ils>
+            </present>
+            <imperative>
+                <tu>revois</tu>
+                <nous>revoyons</nous>
+                <vous>revoyez</vous>
+            </imperative>
+            <imperfect>
+                <je>revoyais</je>
+                <tu>revoyais</tu>
+                <il>revoyait</il>
+                <nous>revoyions</nous>
+                <vous>revoyiez</vous>
+                <ils>revoyaient</ils>
+            </imperfect>
+            <future>
+                <je>reverrai</je>
+                <tu>reverras</tu>
+                <il>reverra</il>
+                <nous>reverrons</nous>
+                <vous>reverrez</vous>
+                <ils>reverront</ils>
+            </future>
+            <subjunctive>
+                <je>revoie</je>
+                <tu>revoies</tu>
+                <il>revoie</il>
+                <nous>revoyions</nous>
+                <vous>revoyiez</vous>
+                <ils>revoient</ils>
+            </subjunctive>
+            <conditional>
+                <je>reverrais</je>
+                <tu>reverrais</tu>
+                <il>reverrait</il>
+                <nous>reverrions</nous>
+                <vous>reverriez</vous>
+                <ils>reverraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

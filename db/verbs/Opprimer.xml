@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>opprimer</infinitive>
+	<translation>to oppress</translation>
+	<presentParticiple>opprimant</presentParticiple>
+	<pastParticiple>opprimé</pastParticiple>
+	<present>
+		<je>opprime</je>
+		<tu>opprimes</tu>
+		<il>opprime</il>
+		<nous>opprimons</nous>
+		<vous>opprimez</vous>
+		<ils>oppriment</ils>
+	</present>
+	<imperative>
+		<tu>opprime</tu>
+		<nous>opprimons</nous>
+		<vous>opprimez</vous>
+	</imperative>
+	<imperfect>
+		<je>opprimais</je>
+		<tu>opprimais</tu>
+		<il>opprimait</il>
+		<nous>opprimions</nous>
+		<vous>opprimiez</vous>
+		<ils>opprimaient</ils>
+	</imperfect>
+	<future>
+		<je>opprimerai</je>
+		<tu>opprimeras</tu>
+		<il>opprimera</il>
+		<nous>opprimerons</nous>
+		<vous>opprimerez</vous>
+		<ils>opprimeront</ils>
+	</future>
+	<subjunctive>
+		<je>opprime</je>
+		<tu>opprimes</tu>
+		<il>opprime</il>
+		<nous>opprimions</nous>
+		<vous>opprimiez</vous>
+		<ils>oppriment</ils>
+	</subjunctive>
+	<conditional>
+		<je>opprimerais</je>
+		<tu>opprimerais</tu>
+		<il>opprimerait</il>
+		<nous>opprimerions</nous>
+		<vous>opprimeriez</vous>
+		<ils>opprimeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

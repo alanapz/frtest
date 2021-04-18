@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>consoler</infinitive>
+	<translation>to console</translation>
+	<translation>soothe</translation>
+	<presentParticiple>consolant</presentParticiple>
+	<pastParticiple>consolé</pastParticiple>
+	<present>
+		<je>console</je>
+		<tu>consoles</tu>
+		<il>console</il>
+		<nous>consolons</nous>
+		<vous>consolez</vous>
+		<ils>consolent</ils>
+	</present>
+	<imperative>
+		<tu>console</tu>
+		<nous>consolons</nous>
+		<vous>consolez</vous>
+	</imperative>
+	<imperfect>
+		<je>consolais</je>
+		<tu>consolais</tu>
+		<il>consolait</il>
+		<nous>consolions</nous>
+		<vous>consoliez</vous>
+		<ils>consolaient</ils>
+	</imperfect>
+	<future>
+		<je>consolerai</je>
+		<tu>consoleras</tu>
+		<il>consolera</il>
+		<nous>consolerons</nous>
+		<vous>consolerez</vous>
+		<ils>consoleront</ils>
+	</future>
+	<subjunctive>
+		<je>console</je>
+		<tu>consoles</tu>
+		<il>console</il>
+		<nous>consolions</nous>
+		<vous>consoliez</vous>
+		<ils>consolent</ils>
+	</subjunctive>
+	<conditional>
+		<je>consolerais</je>
+		<tu>consolerais</tu>
+		<il>consolerait</il>
+		<nous>consolerions</nous>
+		<vous>consoleriez</vous>
+		<ils>consoleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

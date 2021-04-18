@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>transformer</infinitive>
+	<translation>to transform</translation>
+	<presentParticiple>transformant</presentParticiple>
+	<pastParticiple>transformé</pastParticiple>
+	<present>
+		<je>transforme</je>
+		<tu>transformes</tu>
+		<il>transforme</il>
+		<nous>transformons</nous>
+		<vous>transformez</vous>
+		<ils>transforment</ils>
+	</present>
+	<imperative>
+		<tu>transforme</tu>
+		<nous>transformons</nous>
+		<vous>transformez</vous>
+	</imperative>
+	<imperfect>
+		<je>transformais</je>
+		<tu>transformais</tu>
+		<il>transformait</il>
+		<nous>transformions</nous>
+		<vous>transformiez</vous>
+		<ils>transformaient</ils>
+	</imperfect>
+	<future>
+		<je>transformerai</je>
+		<tu>transformeras</tu>
+		<il>transformera</il>
+		<nous>transformerons</nous>
+		<vous>transformerez</vous>
+		<ils>transformeront</ils>
+	</future>
+	<subjunctive>
+		<je>transforme</je>
+		<tu>transformes</tu>
+		<il>transforme</il>
+		<nous>transformions</nous>
+		<vous>transformiez</vous>
+		<ils>transforment</ils>
+	</subjunctive>
+	<conditional>
+		<je>transformerais</je>
+		<tu>transformerais</tu>
+		<il>transformerait</il>
+		<nous>transformerions</nous>
+		<vous>transformeriez</vous>
+		<ils>transformeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

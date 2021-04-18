@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>piquer</infinitive>
+	<translation>to sting</translation>
+	<translation>bite</translation>
+	<translation>to give a shot</translation>
+	<presentParticiple>piquant</presentParticiple>
+	<pastParticiple>piqué</pastParticiple>
+	<present>
+		<je>pique</je>
+		<tu>piques</tu>
+		<il>pique</il>
+		<nous>piquons</nous>
+		<vous>piquez</vous>
+		<ils>piquent</ils>
+	</present>
+	<imperative>
+		<tu>pique</tu>
+		<nous>piquons</nous>
+		<vous>piquez</vous>
+	</imperative>
+	<imperfect>
+		<je>piquais</je>
+		<tu>piquais</tu>
+		<il>piquait</il>
+		<nous>piquions</nous>
+		<vous>piquiez</vous>
+		<ils>piquaient</ils>
+	</imperfect>
+	<future>
+		<je>piquerai</je>
+		<tu>piqueras</tu>
+		<il>piquera</il>
+		<nous>piquerons</nous>
+		<vous>piquerez</vous>
+		<ils>piqueront</ils>
+	</future>
+	<subjunctive>
+		<je>pique</je>
+		<tu>piques</tu>
+		<il>pique</il>
+		<nous>piquions</nous>
+		<vous>piquiez</vous>
+		<ils>piquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>piquerais</je>
+		<tu>piquerais</tu>
+		<il>piquerait</il>
+		<nous>piquerions</nous>
+		<vous>piqueriez</vous>
+		<ils>piqueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

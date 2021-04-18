@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>percher</infinitive>
+	<translation>to perch</translation>
+	<translation>(fam) to live</translation>
+	<translation>hang out</translation>
+	<presentParticiple>perchant</presentParticiple>
+	<pastParticiple>perché</pastParticiple>
+	<present>
+		<je>perche</je>
+		<tu>perches</tu>
+		<il>perche</il>
+		<nous>perchons</nous>
+		<vous>perchez</vous>
+		<ils>perchent</ils>
+	</present>
+	<imperative>
+		<tu>perche</tu>
+		<nous>perchons</nous>
+		<vous>perchez</vous>
+	</imperative>
+	<imperfect>
+		<je>perchais</je>
+		<tu>perchais</tu>
+		<il>perchait</il>
+		<nous>perchions</nous>
+		<vous>perchiez</vous>
+		<ils>perchaient</ils>
+	</imperfect>
+	<future>
+		<je>percherai</je>
+		<tu>percheras</tu>
+		<il>perchera</il>
+		<nous>percherons</nous>
+		<vous>percherez</vous>
+		<ils>percheront</ils>
+	</future>
+	<subjunctive>
+		<je>perche</je>
+		<tu>perches</tu>
+		<il>perche</il>
+		<nous>perchions</nous>
+		<vous>perchiez</vous>
+		<ils>perchent</ils>
+	</subjunctive>
+	<conditional>
+		<je>percherais</je>
+		<tu>percherais</tu>
+		<il>percherait</il>
+		<nous>percherions</nous>
+		<vous>percheriez</vous>
+		<ils>percheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

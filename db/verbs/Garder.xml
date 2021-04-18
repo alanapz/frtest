@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>garder</infinitive>
+	<translation>to keep</translation>
+	<presentParticiple>gardant</presentParticiple>
+	<pastParticiple>gardé</pastParticiple>
+	<present>
+		<je>garde</je>
+		<tu>gardes</tu>
+		<il>garde</il>
+		<nous>gardons</nous>
+		<vous>gardez</vous>
+		<ils>gardent</ils>
+	</present>
+	<imperative>
+		<tu>garde</tu>
+		<nous>gardons</nous>
+		<vous>gardez</vous>
+	</imperative>
+	<imperfect>
+		<je>gardais</je>
+		<tu>gardais</tu>
+		<il>gardait</il>
+		<nous>gardions</nous>
+		<vous>gardiez</vous>
+		<ils>gardaient</ils>
+	</imperfect>
+	<future>
+		<je>garderai</je>
+		<tu>garderas</tu>
+		<il>gardera</il>
+		<nous>garderons</nous>
+		<vous>garderez</vous>
+		<ils>garderont</ils>
+	</future>
+	<subjunctive>
+		<je>garde</je>
+		<tu>gardes</tu>
+		<il>garde</il>
+		<nous>gardions</nous>
+		<vous>gardiez</vous>
+		<ils>gardent</ils>
+	</subjunctive>
+	<conditional>
+		<je>garderais</je>
+		<tu>garderais</tu>
+		<il>garderait</il>
+		<nous>garderions</nous>
+		<vous>garderiez</vous>
+		<ils>garderaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

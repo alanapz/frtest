@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>amener</infinitive>
+	<translation>to take</translation>
+	<translation>bring</translation>
+	<stemChange />
+	<presentParticiple>amenant</presentParticiple>
+	<pastParticiple>amené</pastParticiple>
+	<present>
+		<je>amène</je>
+		<tu>amènes</tu>
+		<il>amène</il>
+		<nous>amenons</nous>
+		<vous>amenez</vous>
+		<ils>amènent</ils>
+	</present>
+	<imperative>
+		<tu>amène</tu>
+		<nous>amenons</nous>
+		<vous>amenez</vous>
+	</imperative>
+	<imperfect>
+		<je>amenais</je>
+		<tu>amenais</tu>
+		<il>amenait</il>
+		<nous>amenions</nous>
+		<vous>ameniez</vous>
+		<ils>amenaient</ils>
+	</imperfect>
+	<future>
+		<je>amènerai</je>
+		<tu>amèneras</tu>
+		<il>amènera</il>
+		<nous>amènerons</nous>
+		<vous>amènerez</vous>
+		<ils>amèneront</ils>
+	</future>
+	<subjunctive>
+		<je>amène</je>
+		<tu>amènes</tu>
+		<il>amène</il>
+		<nous>amenions</nous>
+		<vous>ameniez</vous>
+		<ils>amènent</ils>
+	</subjunctive>
+	<conditional>
+		<je>amènerais</je>
+		<tu>amènerais</tu>
+		<il>amènerait</il>
+		<nous>amènerions</nous>
+		<vous>amèneriez</vous>
+		<ils>amèneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

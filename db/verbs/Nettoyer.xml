@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>nettoyer</infinitive>
+	<translation>to clean</translation>
+	<stemChange />
+	<presentParticiple>nettoyant</presentParticiple>
+	<pastParticiple>nettoyé</pastParticiple>
+	<present>
+		<je>nettoie</je>
+		<tu>nettoies</tu>
+		<il>nettoie</il>
+		<nous>nettoyons</nous>
+		<vous>nettoyez</vous>
+		<ils>nettoient</ils>
+	</present>
+	<imperative>
+		<tu>nettoie</tu>
+		<nous>nettoyons</nous>
+		<vous>nettoyez</vous>
+	</imperative>
+	<imperfect>
+		<je>nettoyais</je>
+		<tu>nettoyais</tu>
+		<il>nettoyait</il>
+		<nous>nettoyions</nous>
+		<vous>nettoyiez</vous>
+		<ils>nettoyaient</ils>
+	</imperfect>
+	<future>
+		<je>nettoierai</je>
+		<tu>nettoieras</tu>
+		<il>nettoiera</il>
+		<nous>nettoierons</nous>
+		<vous>nettoierez</vous>
+		<ils>nettoieront</ils>
+	</future>
+	<subjunctive>
+		<je>nettoie</je>
+		<tu>nettoies</tu>
+		<il>nettoie</il>
+		<nous>nettoyions</nous>
+		<vous>nettoyiez</vous>
+		<ils>nettoient</ils>
+	</subjunctive>
+	<conditional>
+		<je>nettoierais</je>
+		<tu>nettoierais</tu>
+		<il>nettoierait</il>
+		<nous>nettoierions</nous>
+		<vous>nettoieriez</vous>
+		<ils>nettoieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

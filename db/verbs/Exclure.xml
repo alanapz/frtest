@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>exclure</infinitive>
+	<translation>to exclude</translation>
+	<irregular />
+	<presentParticiple>excluant</presentParticiple>
+	<pastParticiple>exclu</pastParticiple>
+	<present>
+		<je>exclus</je>
+		<tu>exclus</tu>
+		<il>exclut</il>
+		<nous>excluons</nous>
+		<vous>excluez</vous>
+		<ils>excluent</ils>
+	</present>
+	<imperative>
+		<tu>exclus</tu>
+		<nous>excluons</nous>
+		<vous>excluez</vous>
+	</imperative>
+	<imperfect>
+		<je>excluais</je>
+		<tu>excluais</tu>
+		<il>excluait</il>
+		<nous>excluions</nous>
+		<vous>excluiez</vous>
+		<ils>excluaient</ils>
+	</imperfect>
+	<future>
+		<je>exclurai</je>
+		<tu>excluras</tu>
+		<il>exclura</il>
+		<nous>exclurons</nous>
+		<vous>exclurez</vous>
+		<ils>excluront</ils>
+	</future>
+	<subjunctive>
+		<je>exclue</je>
+		<tu>exclues</tu>
+		<il>exclue</il>
+		<nous>excluions</nous>
+		<vous>excluiez</vous>
+		<ils>excluent</ils>
+	</subjunctive>
+	<conditional>
+		<je>exclurais</je>
+		<tu>exclurais</tu>
+		<il>exclurait</il>
+		<nous>exclurions</nous>
+		<vous>excluriez</vous>
+		<ils>excluraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

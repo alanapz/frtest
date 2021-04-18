@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>suicider</infinitive>
+            <pronominal>
+                <translation>to commit suicide</translation>
+            </pronominal>
+        </verb>
+    </verbs>
+</dictionary>

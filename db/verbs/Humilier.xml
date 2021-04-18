@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>humilier</infinitive>
+	<translation>to humiliate</translation>
+	<presentParticiple>humiliant</presentParticiple>
+	<pastParticiple>humilié</pastParticiple>
+	<present>
+		<je>humilie</je>
+		<tu>humilies</tu>
+		<il>humilie</il>
+		<nous>humilions</nous>
+		<vous>humiliez</vous>
+		<ils>humilient</ils>
+	</present>
+	<imperative>
+		<tu>humilie</tu>
+		<nous>humilions</nous>
+		<vous>humiliez</vous>
+	</imperative>
+	<imperfect>
+		<je>humiliais</je>
+		<tu>humiliais</tu>
+		<il>humiliait</il>
+		<nous>humiliions</nous>
+		<vous>humiliiez</vous>
+		<ils>humiliaient</ils>
+	</imperfect>
+	<future>
+		<je>humilierai</je>
+		<tu>humilieras</tu>
+		<il>humiliera</il>
+		<nous>humilierons</nous>
+		<vous>humilierez</vous>
+		<ils>humilieront</ils>
+	</future>
+	<subjunctive>
+		<je>humilie</je>
+		<tu>humilies</tu>
+		<il>humilie</il>
+		<nous>humiliions</nous>
+		<vous>humiliiez</vous>
+		<ils>humilient</ils>
+	</subjunctive>
+	<conditional>
+		<je>humilierais</je>
+		<tu>humilierais</tu>
+		<il>humilierait</il>
+		<nous>humilierions</nous>
+		<vous>humilieriez</vous>
+		<ils>humilieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

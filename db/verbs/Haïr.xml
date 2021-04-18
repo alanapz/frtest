@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>haïr</infinitive>
+	<translation>to hate</translation>
+	<irregular />
+	<presentParticiple>haïssant</presentParticiple>
+	<pastParticiple>haï</pastParticiple>
+	<present>
+		<je>hais</je>
+		<tu>hais</tu>
+		<il>hait</il>
+		<nous>haïssons</nous>
+		<vous>haïssez</vous>
+		<ils>haïssent</ils>
+	</present>
+	<imperative>
+		<tu>hais</tu>
+		<nous>haïssons</nous>
+		<vous>haïssez</vous>
+	</imperative>
+	<imperfect>
+		<je>haïssais</je>
+		<tu>haïssais</tu>
+		<il>haïssait</il>
+		<nous>haïssions</nous>
+		<vous>haïssiez</vous>
+		<ils>haïssaient</ils>
+	</imperfect>
+	<future>
+		<je>haïrai</je>
+		<tu>haïras</tu>
+		<il>haïra</il>
+		<nous>haïrons</nous>
+		<vous>haïrez</vous>
+		<ils>haïront</ils>
+	</future>
+	<subjunctive>
+		<je>haïsse</je>
+		<tu>haïsses</tu>
+		<il>haïsse</il>
+		<nous>haïssions</nous>
+		<vous>haïssiez</vous>
+		<ils>haïssent</ils>
+	</subjunctive>
+	<conditional>
+		<je>haïrais</je>
+		<tu>haïrais</tu>
+		<il>haïrait</il>
+		<nous>haïrions</nous>
+		<vous>haïriez</vous>
+		<ils>haïraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

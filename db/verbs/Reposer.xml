@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>reposer</infinitive>
+            <presentParticiple>reposant</presentParticiple>
+            <pastParticiple>reposé</pastParticiple>
+            <pronominal>
+                <translation>to rest</translation>
+            </pronominal>
+            <present>
+                <je>repose</je>
+                <tu>reposes</tu>
+                <il>repose</il>
+                <nous>reposons</nous>
+                <vous>reposez</vous>
+                <ils>reposent</ils>
+            </present>
+            <imperative>
+                <tu>repose</tu>
+                <nous>reposons</nous>
+                <vous>reposez</vous>
+            </imperative>
+            <imperfect>
+                <je>reposais</je>
+                <tu>reposais</tu>
+                <il>reposait</il>
+                <nous>reposions</nous>
+                <vous>reposiez</vous>
+                <ils>reposaient</ils>
+            </imperfect>
+            <future>
+                <je>reposerai</je>
+                <tu>reposeras</tu>
+                <il>reposera</il>
+                <nous>reposerons</nous>
+                <vous>reposerez</vous>
+                <ils>reposeront</ils>
+            </future>
+            <subjunctive>
+                <je>repose</je>
+                <tu>reposes</tu>
+                <il>repose</il>
+                <nous>reposions</nous>
+                <vous>reposiez</vous>
+                <ils>reposent</ils>
+            </subjunctive>
+            <conditional>
+                <je>reposerais</je>
+                <tu>reposerais</tu>
+                <il>reposerait</il>
+                <nous>reposerions</nous>
+                <vous>reposeriez</vous>
+                <ils>reposeraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

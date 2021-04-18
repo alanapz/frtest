@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>disputer</infinitive>
+            <translation>to dispute</translation>
+            <transitive />
+            <presentParticiple>disputant</presentParticiple>
+            <pastParticiple>disputé</pastParticiple>
+            <present>
+                <je>dispute</je>
+                <tu>disputes</tu>
+                <il>dispute</il>
+                <nous>disputons</nous>
+                <vous>disputez</vous>
+                <ils>disputent</ils>
+            </present>
+            <imperative>
+                <tu>dispute</tu>
+                <nous>disputons</nous>
+                <vous>disputez</vous>
+            </imperative>
+            <imperfect>
+                <je>disputais</je>
+                <tu>disputais</tu>
+                <il>disputait</il>
+                <nous>disputions</nous>
+                <vous>disputiez</vous>
+                <ils>disputaient</ils>
+            </imperfect>
+            <future>
+                <je>disputerai</je>
+                <tu>disputeras</tu>
+                <il>disputera</il>
+                <nous>disputerons</nous>
+                <vous>disputerez</vous>
+                <ils>disputeront</ils>
+            </future>
+            <subjunctive>
+                <je>dispute</je>
+                <tu>disputes</tu>
+                <il>dispute</il>
+                <nous>disputions</nous>
+                <vous>disputiez</vous>
+                <ils>disputent</ils>
+            </subjunctive>
+            <conditional>
+                <je>disputerais</je>
+                <tu>disputerais</tu>
+                <il>disputerait</il>
+                <nous>disputerions</nous>
+                <vous>disputeriez</vous>
+                <ils>disputeraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

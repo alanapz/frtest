@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>frotter</infinitive>
+	<translation>to rub</translation>
+	<translation>scrape</translation>
+	<presentParticiple>frottant</presentParticiple>
+	<pastParticiple>frotté</pastParticiple>
+	<present>
+		<je>frotte</je>
+		<tu>frottes</tu>
+		<il>frotte</il>
+		<nous>frottons</nous>
+		<vous>frottez</vous>
+		<ils>frottent</ils>
+	</present>
+	<imperative>
+		<tu>frotte</tu>
+		<nous>frottons</nous>
+		<vous>frottez</vous>
+	</imperative>
+	<imperfect>
+		<je>frottais</je>
+		<tu>frottais</tu>
+		<il>frottait</il>
+		<nous>frottions</nous>
+		<vous>frottiez</vous>
+		<ils>frottaient</ils>
+	</imperfect>
+	<future>
+		<je>frotterai</je>
+		<tu>frotteras</tu>
+		<il>frottera</il>
+		<nous>frotterons</nous>
+		<vous>frotterez</vous>
+		<ils>frotteront</ils>
+	</future>
+	<subjunctive>
+		<je>frotte</je>
+		<tu>frottes</tu>
+		<il>frotte</il>
+		<nous>frottions</nous>
+		<vous>frottiez</vous>
+		<ils>frottent</ils>
+	</subjunctive>
+	<conditional>
+		<je>frotterais</je>
+		<tu>frotterais</tu>
+		<il>frotterait</il>
+		<nous>frotterions</nous>
+		<vous>frotteriez</vous>
+		<ils>frotteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

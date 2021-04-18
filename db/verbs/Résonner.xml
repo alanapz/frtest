@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>résonner</infinitive>
+            <translation>to resonate</translation>
+            <translation>to reverberate</translation>
+            <presentParticiple>résonnant</presentParticiple>
+            <pastParticiple>résonné</pastParticiple>
+            <present>
+                <je>résonne</je>
+                <tu>résonnes</tu>
+                <il>résonne</il>
+                <nous>résonnons</nous>
+                <vous>résonnez</vous>
+                <ils>résonnent</ils>
+            </present>
+            <imperative>
+                <tu>résonne</tu>
+                <nous>résonnons</nous>
+                <vous>résonnez</vous>
+            </imperative>
+            <imperfect>
+                <je>résonnais</je>
+                <tu>résonnais</tu>
+                <il>résonnait</il>
+                <nous>résonnions</nous>
+                <vous>résonniez</vous>
+                <ils>résonnaient</ils>
+            </imperfect>
+            <future>
+                <je>résonnerai</je>
+                <tu>résonneras</tu>
+                <il>résonnera</il>
+                <nous>résonnerons</nous>
+                <vous>résonnerez</vous>
+                <ils>résonneront</ils>
+            </future>
+            <subjunctive>
+                <je>résonne</je>
+                <tu>résonnes</tu>
+                <il>résonne</il>
+                <nous>résonnions</nous>
+                <vous>résonniez</vous>
+                <ils>résonnent</ils>
+            </subjunctive>
+            <conditional>
+                <je>résonnerais</je>
+                <tu>résonnerais</tu>
+                <il>résonnerait</il>
+                <nous>résonnerions</nous>
+                <vous>résonneriez</vous>
+                <ils>résonneraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

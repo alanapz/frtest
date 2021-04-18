@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>rendre</infinitive>
+            <translation>to give back</translation>
+            <translation>to return(item)</translation>
+            <presentParticiple>rendant</presentParticiple>
+            <pastParticiple>rendu</pastParticiple>
+            <present>
+                <je>rends</je>
+                <tu>rends</tu>
+                <il>rend</il>
+                <nous>rendons</nous>
+                <vous>rendez</vous>
+                <ils>rendent</ils>
+            </present>
+            <imperative>
+                <tu>rends</tu>
+                <nous>rendons</nous>
+                <vous>rendez</vous>
+            </imperative>
+            <imperfect>
+                <je>rendais</je>
+                <tu>rendais</tu>
+                <il>rendait</il>
+                <nous>rendions</nous>
+                <vous>rendiez</vous>
+                <ils>rendaient</ils>
+            </imperfect>
+            <future>
+                <je>rendrai</je>
+                <tu>rendras</tu>
+                <il>rendra</il>
+                <nous>rendrons</nous>
+                <vous>rendrez</vous>
+                <ils>rendront</ils>
+            </future>
+            <subjunctive>
+                <je>rende</je>
+                <tu>rendes</tu>
+                <il>rende</il>
+                <nous>rendions</nous>
+                <vous>rendiez</vous>
+                <ils>rendent</ils>
+            </subjunctive>
+            <conditional>
+                <je>rendrais</je>
+                <tu>rendrais</tu>
+                <il>rendrait</il>
+                <nous>rendrions</nous>
+                <vous>rendriez</vous>
+                <ils>rendraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>accentuer</infinitive>
+	<translation>to accentuate</translation>
+	<presentParticiple>accentuant</presentParticiple>
+	<pastParticiple>accentué</pastParticiple>
+	<present>
+		<je>accentue</je>
+		<tu>accentues</tu>
+		<il>accentue</il>
+		<nous>accentuons</nous>
+		<vous>accentuez</vous>
+		<ils>accentuent</ils>
+	</present>
+	<imperative>
+		<tu>accentue</tu>
+		<nous>accentuons</nous>
+		<vous>accentuez</vous>
+	</imperative>
+	<imperfect>
+		<je>accentuais</je>
+		<tu>accentuais</tu>
+		<il>accentuait</il>
+		<nous>accentuions</nous>
+		<vous>accentuiez</vous>
+		<ils>accentuaient</ils>
+	</imperfect>
+	<future>
+		<je>accentuerai</je>
+		<tu>accentueras</tu>
+		<il>accentuera</il>
+		<nous>accentuerons</nous>
+		<vous>accentuerez</vous>
+		<ils>accentueront</ils>
+	</future>
+	<subjunctive>
+		<je>accentue</je>
+		<tu>accentues</tu>
+		<il>accentue</il>
+		<nous>accentuions</nous>
+		<vous>accentuiez</vous>
+		<ils>accentuent</ils>
+	</subjunctive>
+	<conditional>
+		<je>accentuerais</je>
+		<tu>accentuerais</tu>
+		<il>accentuerait</il>
+		<nous>accentuerions</nous>
+		<vous>accentueriez</vous>
+		<ils>accentueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

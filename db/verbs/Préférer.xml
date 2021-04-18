@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>préférer</infinitive>
+            <translation>to prefer</translation>
+            <presentParticiple>préférant</presentParticiple>
+            <pastParticiple>préféré</pastParticiple>
+            <present>
+                <je>préfère</je>
+                <tu>préfères</tu>
+                <il>préfère</il>
+                <nous>préférons</nous>
+                <vous>préférez</vous>
+                <ils>préfèrent</ils>
+            </present>
+            <imperative>
+                <tu>préfère</tu>
+                <nous>préférons</nous>
+                <vous>préférez</vous>
+            </imperative>
+            <future>
+                <je>préfèrerai</je>
+                <tu>préfèreras</tu>
+                <il>préfèrera</il>
+                <nous>préfèrerons</nous>
+                <vous>préfèrerez</vous>
+                <ils>préfèreront</ils>
+            </future>
+            <subjunctive>
+                <je>préfère</je>
+                <tu>préfères</tu>
+                <il>préfère</il>
+                <nous>préférions</nous>
+                <vous>préfériez</vous>
+                <ils>préfèrent</ils>
+            </subjunctive>
+            <conditional>
+                <je>préfèrerais</je>
+                <tu>préfèrerais</tu>
+                <il>préfèrerait</il>
+                <nous>préfèrerions</nous>
+                <vous>préfèreriez</vous>
+                <ils>préfèreraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

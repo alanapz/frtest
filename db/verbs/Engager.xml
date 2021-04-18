@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>engager</infinitive>
+            <translation>to commit</translation>
+            <translation>to hire</translation>
+            <spellingChange />
+            <presentParticiple>engageant</presentParticiple>
+            <pastParticiple>engagé</pastParticiple>
+            <present>
+                <je>engage</je>
+                <tu>engages</tu>
+                <il>engage</il>
+                <nous>engageons</nous>
+                <vous>engagez</vous>
+                <ils>engagent</ils>
+            </present>
+            <imperative>
+                <tu>engage</tu>
+                <nous>engageons</nous>
+                <vous>engagez</vous>
+            </imperative>
+            <imperfect>
+                <je>engageais</je>
+                <tu>engageais</tu>
+                <il>engageait</il>
+                <nous>engagions</nous>
+                <vous>engagiez</vous>
+                <ils>engageaient</ils>
+            </imperfect>
+            <future>
+                <je>engagerai</je>
+                <tu>engageras</tu>
+                <il>engagera</il>
+                <nous>engagerons</nous>
+                <vous>engagerez</vous>
+                <ils>engageront</ils>
+            </future>
+            <subjunctive>
+                <je>engage</je>
+                <tu>engages</tu>
+                <il>engage</il>
+                <nous>engagions</nous>
+                <vous>engagiez</vous>
+                <ils>engagent</ils>
+            </subjunctive>
+            <conditional>
+                <je>engagerais</je>
+                <tu>engagerais</tu>
+                <il>engagerait</il>
+                <nous>engagerions</nous>
+                <vous>engageriez</vous>
+                <ils>engageraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

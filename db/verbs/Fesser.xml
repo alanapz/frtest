@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>fesser</infinitive>
+	<translation>to spank</translation>
+	<presentParticiple>fessant</presentParticiple>
+	<pastParticiple>fessé</pastParticiple>
+	<present>
+		<je>fesse</je>
+		<tu>fesses</tu>
+		<il>fesse</il>
+		<nous>fessons</nous>
+		<vous>fessez</vous>
+		<ils>fessent</ils>
+	</present>
+	<imperative>
+		<tu>fesse</tu>
+		<nous>fessons</nous>
+		<vous>fessez</vous>
+	</imperative>
+	<imperfect>
+		<je>fessais</je>
+		<tu>fessais</tu>
+		<il>fessait</il>
+		<nous>fessions</nous>
+		<vous>fessiez</vous>
+		<ils>fessaient</ils>
+	</imperfect>
+	<future>
+		<je>fesserai</je>
+		<tu>fesseras</tu>
+		<il>fessera</il>
+		<nous>fesserons</nous>
+		<vous>fesserez</vous>
+		<ils>fesseront</ils>
+	</future>
+	<subjunctive>
+		<je>fesse</je>
+		<tu>fesses</tu>
+		<il>fesse</il>
+		<nous>fessions</nous>
+		<vous>fessiez</vous>
+		<ils>fessent</ils>
+	</subjunctive>
+	<conditional>
+		<je>fesserais</je>
+		<tu>fesserais</tu>
+		<il>fesserait</il>
+		<nous>fesserions</nous>
+		<vous>fesseriez</vous>
+		<ils>fesseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

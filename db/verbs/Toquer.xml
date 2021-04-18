@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>toquer</infinitive>
+	<translation>to knock</translation>
+	<presentParticiple>toquant</presentParticiple>
+	<pastParticiple>toqué</pastParticiple>
+	<present>
+		<je>toque</je>
+		<tu>toques</tu>
+		<il>toque</il>
+		<nous>toquons</nous>
+		<vous>toquez</vous>
+		<ils>toquent</ils>
+	</present>
+	<imperative>
+		<tu>toque</tu>
+		<nous>toquons</nous>
+		<vous>toquez</vous>
+	</imperative>
+	<imperfect>
+		<je>toquais</je>
+		<tu>toquais</tu>
+		<il>toquait</il>
+		<nous>toquions</nous>
+		<vous>toquiez</vous>
+		<ils>toquaient</ils>
+	</imperfect>
+	<future>
+		<je>toquerai</je>
+		<tu>toqueras</tu>
+		<il>toquera</il>
+		<nous>toquerons</nous>
+		<vous>toquerez</vous>
+		<ils>toqueront</ils>
+	</future>
+	<subjunctive>
+		<je>toque</je>
+		<tu>toques</tu>
+		<il>toque</il>
+		<nous>toquions</nous>
+		<vous>toquiez</vous>
+		<ils>toquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>toquerais</je>
+		<tu>toquerais</tu>
+		<il>toquerait</il>
+		<nous>toquerions</nous>
+		<vous>toqueriez</vous>
+		<ils>toqueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

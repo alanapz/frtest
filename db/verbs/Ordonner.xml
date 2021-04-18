@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>ordonner</infinitive>
+	<translation>to arrange</translation>
+	<translation>organize</translation>
+	<translation>to prescribe</translation>
+	<presentParticiple>ordonnant</presentParticiple>
+	<pastParticiple>ordonné</pastParticiple>
+	<present>
+		<je>ordonne</je>
+		<tu>ordonnes</tu>
+		<il>ordonne</il>
+		<nous>ordonnons</nous>
+		<vous>ordonnez</vous>
+		<ils>ordonnent</ils>
+	</present>
+	<imperative>
+		<tu>ordonne</tu>
+		<nous>ordonnons</nous>
+		<vous>ordonnez</vous>
+	</imperative>
+	<imperfect>
+		<je>ordonnais</je>
+		<tu>ordonnais</tu>
+		<il>ordonnait</il>
+		<nous>ordonnions</nous>
+		<vous>ordonniez</vous>
+		<ils>ordonnaient</ils>
+	</imperfect>
+	<future>
+		<je>ordonnerai</je>
+		<tu>ordonneras</tu>
+		<il>ordonnera</il>
+		<nous>ordonnerons</nous>
+		<vous>ordonnerez</vous>
+		<ils>ordonneront</ils>
+	</future>
+	<subjunctive>
+		<je>ordonne</je>
+		<tu>ordonnes</tu>
+		<il>ordonne</il>
+		<nous>ordonnions</nous>
+		<vous>ordonniez</vous>
+		<ils>ordonnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>ordonnerais</je>
+		<tu>ordonnerais</tu>
+		<il>ordonnerait</il>
+		<nous>ordonnerions</nous>
+		<vous>ordonneriez</vous>
+		<ils>ordonneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

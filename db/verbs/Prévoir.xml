@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>prévoir</infinitive>
+	<translation>to foresee</translation>
+	<irregular />
+	<presentParticiple>prévoyant</presentParticiple>
+	<pastParticiple>prévu</pastParticiple>
+	<present>
+		<je>prévois</je>
+		<tu>prévois</tu>
+		<il>prévoit</il>
+		<nous>prévoyons</nous>
+		<vous>prévoyez</vous>
+		<ils>prévoient</ils>
+	</present>
+	<imperative>
+		<tu>prévois</tu>
+		<nous>prévoyons</nous>
+		<vous>prévoyez</vous>
+	</imperative>
+	<imperfect>
+		<je>prévoyais</je>
+		<tu>prévoyais</tu>
+		<il>prévoyait</il>
+		<nous>prévoyions</nous>
+		<vous>prévoyiez</vous>
+		<ils>prévoyaient</ils>
+	</imperfect>
+	<future>
+		<je>prévoirai</je>
+		<tu>prévoiras</tu>
+		<il>prévoira</il>
+		<nous>prévoirons</nous>
+		<vous>prévoirez</vous>
+		<ils>prévoiront</ils>
+	</future>
+	<subjunctive>
+		<je>prévoie</je>
+		<tu>prévoies</tu>
+		<il>prévoie</il>
+		<nous>prévoyions</nous>
+		<vous>prévoyiez</vous>
+		<ils>prévoient</ils>
+	</subjunctive>
+	<conditional>
+		<je>prévoirais</je>
+		<tu>prévoirais</tu>
+		<il>prévoirait</il>
+		<nous>prévoirions</nous>
+		<vous>prévoiriez</vous>
+		<ils>prévoiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

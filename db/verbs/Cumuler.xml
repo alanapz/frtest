@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>cumuler</infinitive>
+	<translation>to do two things simultaneously</translation>
+	<presentParticiple>cumulant</presentParticiple>
+	<pastParticiple>cumulé</pastParticiple>
+	<present>
+		<je>cumule</je>
+		<tu>cumules</tu>
+		<il>cumule</il>
+		<nous>cumulons</nous>
+		<vous>cumulez</vous>
+		<ils>cumulent</ils>
+	</present>
+	<imperative>
+		<tu>cumule</tu>
+		<nous>cumulons</nous>
+		<vous>cumulez</vous>
+	</imperative>
+	<imperfect>
+		<je>cumulais</je>
+		<tu>cumulais</tu>
+		<il>cumulait</il>
+		<nous>cumulions</nous>
+		<vous>cumuliez</vous>
+		<ils>cumulaient</ils>
+	</imperfect>
+	<future>
+		<je>cumulerai</je>
+		<tu>cumuleras</tu>
+		<il>cumulera</il>
+		<nous>cumulerons</nous>
+		<vous>cumulerez</vous>
+		<ils>cumuleront</ils>
+	</future>
+	<subjunctive>
+		<je>cumule</je>
+		<tu>cumules</tu>
+		<il>cumule</il>
+		<nous>cumulions</nous>
+		<vous>cumuliez</vous>
+		<ils>cumulent</ils>
+	</subjunctive>
+	<conditional>
+		<je>cumulerais</je>
+		<tu>cumulerais</tu>
+		<il>cumulerait</il>
+		<nous>cumulerions</nous>
+		<vous>cumuleriez</vous>
+		<ils>cumuleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

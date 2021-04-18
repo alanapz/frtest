@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>mener</infinitive>
+	<translation>to lead</translation>
+	<stemChange />
+	<presentParticiple>menant</presentParticiple>
+	<pastParticiple>mené</pastParticiple>
+	<present>
+		<je>mène</je>
+		<tu>mènes</tu>
+		<il>mène</il>
+		<nous>menons</nous>
+		<vous>menez</vous>
+		<ils>mènent</ils>
+	</present>
+	<imperative>
+		<tu>mène</tu>
+		<nous>menons</nous>
+		<vous>menez</vous>
+	</imperative>
+	<imperfect>
+		<je>menais</je>
+		<tu>menais</tu>
+		<il>menait</il>
+		<nous>menions</nous>
+		<vous>meniez</vous>
+		<ils>menaient</ils>
+	</imperfect>
+	<future>
+		<je>mènerai</je>
+		<tu>mèneras</tu>
+		<il>mènera</il>
+		<nous>mènerons</nous>
+		<vous>mènerez</vous>
+		<ils>mèneront</ils>
+	</future>
+	<subjunctive>
+		<je>mène</je>
+		<tu>mènes</tu>
+		<il>mène</il>
+		<nous>menions</nous>
+		<vous>meniez</vous>
+		<ils>mènent</ils>
+	</subjunctive>
+	<conditional>
+		<je>mènerais</je>
+		<tu>mènerais</tu>
+		<il>mènerait</il>
+		<nous>mènerions</nous>
+		<vous>mèneriez</vous>
+		<ils>mèneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

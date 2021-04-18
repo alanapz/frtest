@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>bénéficier</infinitive>
+	<translation>to benefit</translation>
+	<presentParticiple>bénéficiant</presentParticiple>
+	<pastParticiple>bénéficié</pastParticiple>
+	<present>
+		<je>bénéficie</je>
+		<tu>bénéficies</tu>
+		<il>bénéficie</il>
+		<nous>bénéficions</nous>
+		<vous>bénéficiez</vous>
+		<ils>bénéficient</ils>
+	</present>
+	<imperative>
+		<tu>bénéficie</tu>
+		<nous>bénéficions</nous>
+		<vous>bénéficiez</vous>
+	</imperative>
+	<imperfect>
+		<je>bénéficiais</je>
+		<tu>bénéficiais</tu>
+		<il>bénéficiait</il>
+		<nous>bénéficiions</nous>
+		<vous>bénéficiiez</vous>
+		<ils>bénéficiaient</ils>
+	</imperfect>
+	<future>
+		<je>bénéficierai</je>
+		<tu>bénéficieras</tu>
+		<il>bénéficiera</il>
+		<nous>bénéficierons</nous>
+		<vous>bénéficierez</vous>
+		<ils>bénéficieront</ils>
+	</future>
+	<subjunctive>
+		<je>bénéficie</je>
+		<tu>bénéficies</tu>
+		<il>bénéficie</il>
+		<nous>bénéficiions</nous>
+		<vous>bénéficiiez</vous>
+		<ils>bénéficient</ils>
+	</subjunctive>
+	<conditional>
+		<je>bénéficierais</je>
+		<tu>bénéficierais</tu>
+		<il>bénéficierait</il>
+		<nous>bénéficierions</nous>
+		<vous>bénéficieriez</vous>
+		<ils>bénéficieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

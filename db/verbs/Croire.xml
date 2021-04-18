@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>croire</infinitive>
+            <translation>to believe</translation>
+            <presentParticiple>croyant</presentParticiple>
+            <pastParticiple>cru</pastParticiple>
+            <present>
+                <je>crois</je>
+                <tu>crois</tu>
+                <il>croit</il>
+                <nous>croyons</nous>
+                <vous>croyez</vous>
+                <ils>croient</ils>
+            </present>
+            <imperative>
+                <tu>crois</tu>
+                <nous>croyons</nous>
+                <vous>croyez</vous>
+            </imperative>
+            <imperfect>
+                <je>croyais</je>
+                <tu>croyais</tu>
+                <il>croyait</il>
+                <nous>croyions</nous>
+                <vous>croyiez</vous>
+                <ils>croyaient</ils>
+            </imperfect>
+            <future>
+                <je>croirai</je>
+                <tu>croiras</tu>
+                <il>croira</il>
+                <nous>croirons</nous>
+                <vous>croirez</vous>
+                <ils>croiront</ils>
+            </future>
+            <subjunctive>
+                <je>croie</je>
+                <tu>croies</tu>
+                <il>croie</il>
+                <nous>croyions</nous>
+                <vous>croyiez</vous>
+                <ils>croient</ils>
+            </subjunctive>
+            <conditional>
+                <je>croirais</je>
+                <tu>croirais</tu>
+                <il>croirait</il>
+                <nous>croirions</nous>
+                <vous>croiriez</vous>
+                <ils>croiraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

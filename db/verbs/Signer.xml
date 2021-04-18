@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>signer</infinitive>
+	<translation>to sign</translation>
+	<presentParticiple>signant</presentParticiple>
+	<pastParticiple>signé</pastParticiple>
+	<present>
+		<je>signe</je>
+		<tu>signes</tu>
+		<il>signe</il>
+		<nous>signons</nous>
+		<vous>signez</vous>
+		<ils>signent</ils>
+	</present>
+	<imperative>
+		<tu>signe</tu>
+		<nous>signons</nous>
+		<vous>signez</vous>
+	</imperative>
+	<imperfect>
+		<je>signais</je>
+		<tu>signais</tu>
+		<il>signait</il>
+		<nous>signions</nous>
+		<vous>signiez</vous>
+		<ils>signaient</ils>
+	</imperfect>
+	<future>
+		<je>signerai</je>
+		<tu>signeras</tu>
+		<il>signera</il>
+		<nous>signerons</nous>
+		<vous>signerez</vous>
+		<ils>signeront</ils>
+	</future>
+	<subjunctive>
+		<je>signe</je>
+		<tu>signes</tu>
+		<il>signe</il>
+		<nous>signions</nous>
+		<vous>signiez</vous>
+		<ils>signent</ils>
+	</subjunctive>
+	<conditional>
+		<je>signerais</je>
+		<tu>signerais</tu>
+		<il>signerait</il>
+		<nous>signerions</nous>
+		<vous>signeriez</vous>
+		<ils>signeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

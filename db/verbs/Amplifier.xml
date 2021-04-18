@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>amplifier</infinitive>
+	<translation>to amplify</translation>
+	<presentParticiple>amplifiant</presentParticiple>
+	<pastParticiple>amplifié</pastParticiple>
+	<present>
+		<je>amplifie</je>
+		<tu>amplifies</tu>
+		<il>amplifie</il>
+		<nous>amplifions</nous>
+		<vous>amplifiez</vous>
+		<ils>amplifient</ils>
+	</present>
+	<imperative>
+		<tu>amplifie</tu>
+		<nous>amplifions</nous>
+		<vous>amplifiez</vous>
+	</imperative>
+	<imperfect>
+		<je>amplifiais</je>
+		<tu>amplifiais</tu>
+		<il>amplifiait</il>
+		<nous>amplifiions</nous>
+		<vous>amplifiiez</vous>
+		<ils>amplifiaient</ils>
+	</imperfect>
+	<future>
+		<je>amplifierai</je>
+		<tu>amplifieras</tu>
+		<il>amplifiera</il>
+		<nous>amplifierons</nous>
+		<vous>amplifierez</vous>
+		<ils>amplifieront</ils>
+	</future>
+	<subjunctive>
+		<je>amplifie</je>
+		<tu>amplifies</tu>
+		<il>amplifie</il>
+		<nous>amplifiions</nous>
+		<vous>amplifiiez</vous>
+		<ils>amplifient</ils>
+	</subjunctive>
+	<conditional>
+		<je>amplifierais</je>
+		<tu>amplifierais</tu>
+		<il>amplifierait</il>
+		<nous>amplifierions</nous>
+		<vous>amplifieriez</vous>
+		<ils>amplifieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

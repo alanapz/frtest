@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>habiller</infinitive>
+            <translation>to dress</translation>
+            <transitive />
+            <presentParticiple>habillant</presentParticiple>
+            <pastParticiple>habillé</pastParticiple>
+            <present>
+                <je>habille</je>
+                <tu>habilles</tu>
+                <il>habille</il>
+                <nous>habillons</nous>
+                <vous>habillez</vous>
+                <ils>habillent</ils>
+            </present>
+            <imperative>
+                <tu>habille</tu>
+                <nous>habillons</nous>
+                <vous>habillez</vous>
+            </imperative>
+            <imperfect>
+                <je>habillais</je>
+                <tu>habillais</tu>
+                <il>habillait</il>
+                <nous>habillions</nous>
+                <vous>habilliez</vous>
+                <ils>habillaient</ils>
+            </imperfect>
+            <future>
+                <je>habillerai</je>
+                <tu>habilleras</tu>
+                <il>habillera</il>
+                <nous>habillerons</nous>
+                <vous>habillerez</vous>
+                <ils>habilleront</ils>
+            </future>
+            <subjunctive>
+                <je>habille</je>
+                <tu>habilles</tu>
+                <il>habille</il>
+                <nous>habillions</nous>
+                <vous>habilliez</vous>
+                <ils>habillent</ils>
+            </subjunctive>
+            <conditional>
+                <je>habillerais</je>
+                <tu>habillerais</tu>
+                <il>habillerait</il>
+                <nous>habillerions</nous>
+                <vous>habilleriez</vous>
+                <ils>habilleraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

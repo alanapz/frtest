@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>conserver</infinitive>
+	<translation>to conserve</translation>
+	<presentParticiple>conservant</presentParticiple>
+	<pastParticiple>conservé</pastParticiple>
+	<present>
+		<je>conserve</je>
+		<tu>conserves</tu>
+		<il>conserve</il>
+		<nous>conservons</nous>
+		<vous>conservez</vous>
+		<ils>conservent</ils>
+	</present>
+	<imperative>
+		<tu>conserve</tu>
+		<nous>conservons</nous>
+		<vous>conservez</vous>
+	</imperative>
+	<imperfect>
+		<je>conservais</je>
+		<tu>conservais</tu>
+		<il>conservait</il>
+		<nous>conservions</nous>
+		<vous>conserviez</vous>
+		<ils>conservaient</ils>
+	</imperfect>
+	<future>
+		<je>conserverai</je>
+		<tu>conserveras</tu>
+		<il>conservera</il>
+		<nous>conserverons</nous>
+		<vous>conserverez</vous>
+		<ils>conserveront</ils>
+	</future>
+	<subjunctive>
+		<je>conserve</je>
+		<tu>conserves</tu>
+		<il>conserve</il>
+		<nous>conservions</nous>
+		<vous>conserviez</vous>
+		<ils>conservent</ils>
+	</subjunctive>
+	<conditional>
+		<je>conserverais</je>
+		<tu>conserverais</tu>
+		<il>conserverait</il>
+		<nous>conserverions</nous>
+		<vous>conserveriez</vous>
+		<ils>conserveraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

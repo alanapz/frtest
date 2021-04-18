@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>tomber</infinitive>
+	<translation>to fall</translation>
+	<takesEtreInPerfect />
+	<presentParticiple>tombant</presentParticiple>
+	<pastParticiple>tombé</pastParticiple>
+	<present>
+		<je>tombe</je>
+		<tu>tombes</tu>
+		<il>tombe</il>
+		<nous>tombons</nous>
+		<vous>tombez</vous>
+		<ils>tombent</ils>
+	</present>
+	<imperative>
+		<tu>tombe</tu>
+		<nous>tombons</nous>
+		<vous>tombez</vous>
+	</imperative>
+	<imperfect>
+		<je>tombais</je>
+		<tu>tombais</tu>
+		<il>tombait</il>
+		<nous>tombions</nous>
+		<vous>tombiez</vous>
+		<ils>tombaient</ils>
+	</imperfect>
+	<future>
+		<je>tomberai</je>
+		<tu>tomberas</tu>
+		<il>tombera</il>
+		<nous>tomberons</nous>
+		<vous>tomberez</vous>
+		<ils>tomberont</ils>
+	</future>
+	<subjunctive>
+		<je>tombe</je>
+		<tu>tombes</tu>
+		<il>tombe</il>
+		<nous>tombions</nous>
+		<vous>tombiez</vous>
+		<ils>tombent</ils>
+	</subjunctive>
+	<conditional>
+		<je>tomberais</je>
+		<tu>tomberais</tu>
+		<il>tomberait</il>
+		<nous>tomberions</nous>
+		<vous>tomberiez</vous>
+		<ils>tomberaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

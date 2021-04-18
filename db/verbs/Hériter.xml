@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>hériter</infinitive>
+	<translation>to inherit</translation>
+	<translation>get</translation>
+	<presentParticiple>héritant</presentParticiple>
+	<pastParticiple>hérité</pastParticiple>
+	<present>
+		<je>hérite</je>
+		<tu>hérites</tu>
+		<il>hérite</il>
+		<nous>héritons</nous>
+		<vous>héritez</vous>
+		<ils>héritent</ils>
+	</present>
+	<imperative>
+		<tu>hérite</tu>
+		<nous>héritons</nous>
+		<vous>héritez</vous>
+	</imperative>
+	<imperfect>
+		<je>héritais</je>
+		<tu>héritais</tu>
+		<il>héritait</il>
+		<nous>héritions</nous>
+		<vous>héritiez</vous>
+		<ils>héritaient</ils>
+	</imperfect>
+	<future>
+		<je>hériterai</je>
+		<tu>hériteras</tu>
+		<il>héritera</il>
+		<nous>hériterons</nous>
+		<vous>hériterez</vous>
+		<ils>hériteront</ils>
+	</future>
+	<subjunctive>
+		<je>hérite</je>
+		<tu>hérites</tu>
+		<il>hérite</il>
+		<nous>héritions</nous>
+		<vous>héritiez</vous>
+		<ils>héritent</ils>
+	</subjunctive>
+	<conditional>
+		<je>hériterais</je>
+		<tu>hériterais</tu>
+		<il>hériterait</il>
+		<nous>hériterions</nous>
+		<vous>hériteriez</vous>
+		<ils>hériteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

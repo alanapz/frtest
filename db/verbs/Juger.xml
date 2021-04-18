@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>juger</infinitive>
+	<translation>to judge</translation>
+	<spellingChange />
+	<presentParticiple>jugeant</presentParticiple>
+	<pastParticiple>jugé</pastParticiple>
+	<present>
+		<je>juge</je>
+		<tu>juges</tu>
+		<il>juge</il>
+		<nous>jugeons</nous>
+		<vous>jugez</vous>
+		<ils>jugent</ils>
+	</present>
+	<imperative>
+		<tu>juge</tu>
+		<nous>jugeons</nous>
+		<vous>jugez</vous>
+	</imperative>
+	<imperfect>
+		<je>jugeais</je>
+		<tu>jugeais</tu>
+		<il>jugeait</il>
+		<nous>jugions</nous>
+		<vous>jugiez</vous>
+		<ils>jugeaient</ils>
+	</imperfect>
+	<future>
+		<je>jugerai</je>
+		<tu>jugeras</tu>
+		<il>jugera</il>
+		<nous>jugerons</nous>
+		<vous>jugerez</vous>
+		<ils>jugeront</ils>
+	</future>
+	<subjunctive>
+		<je>juge</je>
+		<tu>juges</tu>
+		<il>juge</il>
+		<nous>jugions</nous>
+		<vous>jugiez</vous>
+		<ils>jugent</ils>
+	</subjunctive>
+	<conditional>
+		<je>jugerais</je>
+		<tu>jugerais</tu>
+		<il>jugerait</il>
+		<nous>jugerions</nous>
+		<vous>jugeriez</vous>
+		<ils>jugeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

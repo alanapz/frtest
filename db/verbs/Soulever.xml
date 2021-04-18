@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>soulever</infinitive>
+	<translation>to lift</translation>
+	<translation>raise</translation>
+	<stemChange />
+	<presentParticiple>soulevant</presentParticiple>
+	<pastParticiple>soulevé</pastParticiple>
+	<present>
+		<je>soulève</je>
+		<tu>soulèves</tu>
+		<il>soulève</il>
+		<nous>soulevons</nous>
+		<vous>soulevez</vous>
+		<ils>soulèvent</ils>
+	</present>
+	<imperative>
+		<tu>soulève</tu>
+		<nous>soulevons</nous>
+		<vous>soulevez</vous>
+	</imperative>
+	<imperfect>
+		<je>soulevais</je>
+		<tu>soulevais</tu>
+		<il>soulevait</il>
+		<nous>soulevions</nous>
+		<vous>souleviez</vous>
+		<ils>soulevaient</ils>
+	</imperfect>
+	<future>
+		<je>soulèverai</je>
+		<tu>soulèveras</tu>
+		<il>soulèvera</il>
+		<nous>soulèverons</nous>
+		<vous>soulèverez</vous>
+		<ils>soulèveront</ils>
+	</future>
+	<subjunctive>
+		<je>soulève</je>
+		<tu>soulèves</tu>
+		<il>soulève</il>
+		<nous>soulevions</nous>
+		<vous>souleviez</vous>
+		<ils>soulèvent</ils>
+	</subjunctive>
+	<conditional>
+		<je>soulèverais</je>
+		<tu>soulèverais</tu>
+		<il>soulèverait</il>
+		<nous>soulèverions</nous>
+		<vous>soulèveriez</vous>
+		<ils>soulèveraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

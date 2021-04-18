@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>détruire</infinitive>
+	<translation>to destroy</translation>
+	<irregular />
+	<presentParticiple>détruisant</presentParticiple>
+	<pastParticiple>détruit</pastParticiple>
+	<present>
+		<je>détruis</je>
+		<tu>détruis</tu>
+		<il>détruit</il>
+		<nous>détruisons</nous>
+		<vous>détruisez</vous>
+		<ils>détruisent</ils>
+	</present>
+	<imperative>
+		<tu>détruis</tu>
+		<nous>détruisons</nous>
+		<vous>détruisez</vous>
+	</imperative>
+	<imperfect>
+		<je>détruisais</je>
+		<tu>détruisais</tu>
+		<il>détruisait</il>
+		<nous>détruisions</nous>
+		<vous>détruisiez</vous>
+		<ils>détruisaient</ils>
+	</imperfect>
+	<future>
+		<je>détruirai</je>
+		<tu>détruiras</tu>
+		<il>détruira</il>
+		<nous>détruirons</nous>
+		<vous>détruirez</vous>
+		<ils>détruiront</ils>
+	</future>
+	<subjunctive>
+		<je>détruise</je>
+		<tu>détruises</tu>
+		<il>détruise</il>
+		<nous>détruisions</nous>
+		<vous>détruisiez</vous>
+		<ils>détruisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>détruirais</je>
+		<tu>détruirais</tu>
+		<il>détruirait</il>
+		<nous>détruirions</nous>
+		<vous>détruiriez</vous>
+		<ils>détruiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

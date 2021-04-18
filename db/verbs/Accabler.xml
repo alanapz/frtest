@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>accabler</infinitive>
+	<translation>to overwhelm</translation>
+	<translation>overcome</translation>
+	<translation>to condemn</translation>
+	<presentParticiple>accablant</presentParticiple>
+	<pastParticiple>accablé</pastParticiple>
+	<present>
+		<je>accable</je>
+		<tu>accables</tu>
+		<il>accable</il>
+		<nous>accablons</nous>
+		<vous>accablez</vous>
+		<ils>accablent</ils>
+	</present>
+	<imperative>
+		<tu>accable</tu>
+		<nous>accablons</nous>
+		<vous>accablez</vous>
+	</imperative>
+	<imperfect>
+		<je>accablais</je>
+		<tu>accablais</tu>
+		<il>accablait</il>
+		<nous>accablions</nous>
+		<vous>accabliez</vous>
+		<ils>accablaient</ils>
+	</imperfect>
+	<future>
+		<je>accablerai</je>
+		<tu>accableras</tu>
+		<il>accablera</il>
+		<nous>accablerons</nous>
+		<vous>accablerez</vous>
+		<ils>accableront</ils>
+	</future>
+	<subjunctive>
+		<je>accable</je>
+		<tu>accables</tu>
+		<il>accable</il>
+		<nous>accablions</nous>
+		<vous>accabliez</vous>
+		<ils>accablent</ils>
+	</subjunctive>
+	<conditional>
+		<je>accablerais</je>
+		<tu>accablerais</tu>
+		<il>accablerait</il>
+		<nous>accablerions</nous>
+		<vous>accableriez</vous>
+		<ils>accableraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

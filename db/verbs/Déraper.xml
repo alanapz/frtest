@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>déraper</infinitive>
+	<translation>to skid</translation>
+	<translation>slip</translation>
+	<translation>soar</translation>
+	<presentParticiple>dérapant</presentParticiple>
+	<pastParticiple>dérapé</pastParticiple>
+	<present>
+		<je>dérape</je>
+		<tu>dérapes</tu>
+		<il>dérape</il>
+		<nous>dérapons</nous>
+		<vous>dérapez</vous>
+		<ils>dérapent</ils>
+	</present>
+	<imperative>
+		<tu>dérape</tu>
+		<nous>dérapons</nous>
+		<vous>dérapez</vous>
+	</imperative>
+	<imperfect>
+		<je>dérapais</je>
+		<tu>dérapais</tu>
+		<il>dérapait</il>
+		<nous>dérapions</nous>
+		<vous>dérapiez</vous>
+		<ils>dérapaient</ils>
+	</imperfect>
+	<future>
+		<je>déraperai</je>
+		<tu>déraperas</tu>
+		<il>dérapera</il>
+		<nous>déraperons</nous>
+		<vous>déraperez</vous>
+		<ils>déraperont</ils>
+	</future>
+	<subjunctive>
+		<je>dérape</je>
+		<tu>dérapes</tu>
+		<il>dérape</il>
+		<nous>dérapions</nous>
+		<vous>dérapiez</vous>
+		<ils>dérapent</ils>
+	</subjunctive>
+	<conditional>
+		<je>déraperais</je>
+		<tu>déraperais</tu>
+		<il>déraperait</il>
+		<nous>déraperions</nous>
+		<vous>déraperiez</vous>
+		<ils>déraperaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

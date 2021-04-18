@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>glacer</infinitive>
+	<translation>to chill</translation>
+	<translation>freeze</translation>
+	<spellingChange />
+	<presentParticiple>glaçant</presentParticiple>
+	<pastParticiple>glacé</pastParticiple>
+	<present>
+		<je>glace</je>
+		<tu>glaces</tu>
+		<il>glace</il>
+		<nous>glaçons</nous>
+		<vous>glacez</vous>
+		<ils>glacent</ils>
+	</present>
+	<imperative>
+		<tu>glace</tu>
+		<nous>glaçons</nous>
+		<vous>glacez</vous>
+	</imperative>
+	<imperfect>
+		<je>glaçais</je>
+		<tu>glaçais</tu>
+		<il>glaçait</il>
+		<nous>glacions</nous>
+		<vous>glaciez</vous>
+		<ils>glaçaient</ils>
+	</imperfect>
+	<future>
+		<je>glacerai</je>
+		<tu>glaceras</tu>
+		<il>glacera</il>
+		<nous>glacerons</nous>
+		<vous>glacerez</vous>
+		<ils>glaceront</ils>
+	</future>
+	<subjunctive>
+		<je>glace</je>
+		<tu>glaces</tu>
+		<il>glace</il>
+		<nous>glacions</nous>
+		<vous>glaciez</vous>
+		<ils>glacent</ils>
+	</subjunctive>
+	<conditional>
+		<je>glacerais</je>
+		<tu>glacerais</tu>
+		<il>glacerait</il>
+		<nous>glacerions</nous>
+		<vous>glaceriez</vous>
+		<ils>glaceraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

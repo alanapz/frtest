@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>suffire</infinitive>
+	<translation>to suffice</translation>
+	<irregular />
+	<presentParticiple>suffisant</presentParticiple>
+	<pastParticiple>suffi</pastParticiple>
+	<present>
+		<je>suffis</je>
+		<tu>suffis</tu>
+		<il>suffit</il>
+		<nous>suffisons</nous>
+		<vous>suffisez</vous>
+		<ils>suffisent</ils>
+	</present>
+	<imperative>
+		<tu>suffis</tu>
+		<nous>suffisons</nous>
+		<vous>suffisez</vous>
+	</imperative>
+	<imperfect>
+		<je>suffisais</je>
+		<tu>suffisais</tu>
+		<il>suffisait</il>
+		<nous>suffisions</nous>
+		<vous>suffisiez</vous>
+		<ils>suffisaient</ils>
+	</imperfect>
+	<future>
+		<je>suffirai</je>
+		<tu>suffiras</tu>
+		<il>suffira</il>
+		<nous>suffirons</nous>
+		<vous>suffirez</vous>
+		<ils>suffiront</ils>
+	</future>
+	<subjunctive>
+		<je>suffise</je>
+		<tu>suffises</tu>
+		<il>suffise</il>
+		<nous>suffisions</nous>
+		<vous>suffisiez</vous>
+		<ils>suffisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>suffirais</je>
+		<tu>suffirais</tu>
+		<il>suffirait</il>
+		<nous>suffirions</nous>
+		<vous>suffiriez</vous>
+		<ils>suffiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

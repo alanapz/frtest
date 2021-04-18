@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>renoncer</infinitive>
+            <translation>to renounce</translation>
+            <spellingChange />
+            <presentParticiple>renonçant</presentParticiple>
+            <pastParticiple>renoncé</pastParticiple>
+            <present>
+                <je>renonce</je>
+                <tu>renonces</tu>
+                <il>renonce</il>
+                <nous>renonçons</nous>
+                <vous>renoncez</vous>
+                <ils>renoncent</ils>
+            </present>
+            <imperative>
+                <tu>renonce</tu>
+                <nous>renonçons</nous>
+                <vous>renoncez</vous>
+            </imperative>
+            <imperfect>
+                <je>renonçais</je>
+                <tu>renonçais</tu>
+                <il>renonçait</il>
+                <nous>renoncions</nous>
+                <vous>renonciez</vous>
+                <ils>renonçaient</ils>
+            </imperfect>
+            <future>
+                <je>renoncerai</je>
+                <tu>renonceras</tu>
+                <il>renoncera</il>
+                <nous>renoncerons</nous>
+                <vous>renoncerez</vous>
+                <ils>renonceront</ils>
+            </future>
+            <subjunctive>
+                <je>renonce</je>
+                <tu>renonces</tu>
+                <il>renonce</il>
+                <nous>renoncions</nous>
+                <vous>renonciez</vous>
+                <ils>renoncent</ils>
+            </subjunctive>
+            <conditional>
+                <je>renoncerais</je>
+                <tu>renoncerais</tu>
+                <il>renoncerait</il>
+                <nous>renoncerions</nous>
+                <vous>renonceriez</vous>
+                <ils>renonceraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

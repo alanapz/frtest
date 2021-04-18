@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>louer</infinitive>
+	<translation>to rent</translation>
+	<presentParticiple>louant</presentParticiple>
+	<pastParticiple>loué</pastParticiple>
+	<present>
+		<je>loue</je>
+		<tu>loues</tu>
+		<il>loue</il>
+		<nous>louons</nous>
+		<vous>louez</vous>
+		<ils>louent</ils>
+	</present>
+	<imperative>
+		<tu>loue</tu>
+		<nous>louons</nous>
+		<vous>louez</vous>
+	</imperative>
+	<imperfect>
+		<je>louais</je>
+		<tu>louais</tu>
+		<il>louait</il>
+		<nous>louions</nous>
+		<vous>louiez</vous>
+		<ils>louaient</ils>
+	</imperfect>
+	<future>
+		<je>louerai</je>
+		<tu>loueras</tu>
+		<il>louera</il>
+		<nous>louerons</nous>
+		<vous>louerez</vous>
+		<ils>loueront</ils>
+	</future>
+	<subjunctive>
+		<je>loue</je>
+		<tu>loues</tu>
+		<il>loue</il>
+		<nous>louions</nous>
+		<vous>louiez</vous>
+		<ils>louent</ils>
+	</subjunctive>
+	<conditional>
+		<je>louerais</je>
+		<tu>louerais</tu>
+		<il>louerait</il>
+		<nous>louerions</nous>
+		<vous>loueriez</vous>
+		<ils>loueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

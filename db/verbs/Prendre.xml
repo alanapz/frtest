@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>prendre</infinitive>
+	<translation>to take</translation>
+	<irregular />
+	<presentParticiple>prenant</presentParticiple>
+	<pastParticiple>pris</pastParticiple>
+	<present>
+		<je>prends</je>
+		<tu>prends</tu>
+		<il>prend</il>
+		<nous>prenons</nous>
+		<vous>prenez</vous>
+		<ils>prennent</ils>
+	</present>
+	<imperative>
+		<tu>prends</tu>
+		<nous>prenons</nous>
+		<vous>prenez</vous>
+	</imperative>
+	<imperfect>
+		<je>prenais</je>
+		<tu>prenais</tu>
+		<il>prenait</il>
+		<nous>prenions</nous>
+		<vous>preniez</vous>
+		<ils>prenaient</ils>
+	</imperfect>
+	<future>
+		<je>prendrai</je>
+		<tu>prendras</tu>
+		<il>prendra</il>
+		<nous>prendrons</nous>
+		<vous>prendrez</vous>
+		<ils>prendront</ils>
+	</future>
+	<subjunctive>
+		<je>prenne</je>
+		<tu>prennes</tu>
+		<il>prenne</il>
+		<nous>prenions</nous>
+		<vous>preniez</vous>
+		<ils>prennent</ils>
+	</subjunctive>
+	<conditional>
+		<je>prendrais</je>
+		<tu>prendrais</tu>
+		<il>prendrait</il>
+		<nous>prendrions</nous>
+		<vous>prendriez</vous>
+		<ils>prendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

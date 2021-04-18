@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>suspendre</infinitive>
+	<translation>to hang</translation>
+	<translation>suspend</translation>
+	<presentParticiple>suspendant</presentParticiple>
+	<pastParticiple>suspendu</pastParticiple>
+	<present>
+		<je>suspends</je>
+		<tu>suspends</tu>
+		<il>suspend</il>
+		<nous>suspendons</nous>
+		<vous>suspendez</vous>
+		<ils>suspendent</ils>
+	</present>
+	<imperative>
+		<tu>suspends</tu>
+		<nous>suspendons</nous>
+		<vous>suspendez</vous>
+	</imperative>
+	<imperfect>
+		<je>suspendais</je>
+		<tu>suspendais</tu>
+		<il>suspendait</il>
+		<nous>suspendions</nous>
+		<vous>suspendiez</vous>
+		<ils>suspendaient</ils>
+	</imperfect>
+	<future>
+		<je>suspendrai</je>
+		<tu>suspendras</tu>
+		<il>suspendra</il>
+		<nous>suspendrons</nous>
+		<vous>suspendrez</vous>
+		<ils>suspendront</ils>
+	</future>
+	<subjunctive>
+		<je>suspende</je>
+		<tu>suspendes</tu>
+		<il>suspende</il>
+		<nous>suspendions</nous>
+		<vous>suspendiez</vous>
+		<ils>suspendent</ils>
+	</subjunctive>
+	<conditional>
+		<je>suspendrais</je>
+		<tu>suspendrais</tu>
+		<il>suspendrait</il>
+		<nous>suspendrions</nous>
+		<vous>suspendriez</vous>
+		<ils>suspendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

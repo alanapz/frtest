@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>transmettre</infinitive>
+	<translation>to transmit</translation>
+	<irregular />
+	<presentParticiple>transmettant</presentParticiple>
+	<pastParticiple>transmis</pastParticiple>
+	<present>
+		<je>transmets</je>
+		<tu>transmets</tu>
+		<il>transmet</il>
+		<nous>transmettons</nous>
+		<vous>transmettez</vous>
+		<ils>transmettent</ils>
+	</present>
+	<imperative>
+		<tu>transmets</tu>
+		<nous>transmettons</nous>
+		<vous>transmettez</vous>
+	</imperative>
+	<imperfect>
+		<je>transmettais</je>
+		<tu>transmettais</tu>
+		<il>transmettait</il>
+		<nous>transmettions</nous>
+		<vous>transmettiez</vous>
+		<ils>transmettaient</ils>
+	</imperfect>
+	<future>
+		<je>transmettrai</je>
+		<tu>transmettras</tu>
+		<il>transmettra</il>
+		<nous>transmettrons</nous>
+		<vous>transmettrez</vous>
+		<ils>transmettront</ils>
+	</future>
+	<subjunctive>
+		<je>transmette</je>
+		<tu>transmettes</tu>
+		<il>transmette</il>
+		<nous>transmettions</nous>
+		<vous>transmettiez</vous>
+		<ils>transmettent</ils>
+	</subjunctive>
+	<conditional>
+		<je>transmettrais</je>
+		<tu>transmettrais</tu>
+		<il>transmettrait</il>
+		<nous>transmettrions</nous>
+		<vous>transmettriez</vous>
+		<ils>transmettraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

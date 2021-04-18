@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>soupirer</infinitive>
+	<translation>to sigh</translation>
+	<presentParticiple>soupirant</presentParticiple>
+	<pastParticiple>soupiré</pastParticiple>
+	<present>
+		<je>soupire</je>
+		<tu>soupires</tu>
+		<il>soupire</il>
+		<nous>soupirons</nous>
+		<vous>soupirez</vous>
+		<ils>soupirent</ils>
+	</present>
+	<imperative>
+		<tu>soupire</tu>
+		<nous>soupirons</nous>
+		<vous>soupirez</vous>
+	</imperative>
+	<imperfect>
+		<je>soupirais</je>
+		<tu>soupirais</tu>
+		<il>soupirait</il>
+		<nous>soupirions</nous>
+		<vous>soupiriez</vous>
+		<ils>soupiraient</ils>
+	</imperfect>
+	<future>
+		<je>soupirerai</je>
+		<tu>soupireras</tu>
+		<il>soupirera</il>
+		<nous>soupirerons</nous>
+		<vous>soupirerez</vous>
+		<ils>soupireront</ils>
+	</future>
+	<subjunctive>
+		<je>soupire</je>
+		<tu>soupires</tu>
+		<il>soupire</il>
+		<nous>soupirions</nous>
+		<vous>soupiriez</vous>
+		<ils>soupirent</ils>
+	</subjunctive>
+	<conditional>
+		<je>soupirerais</je>
+		<tu>soupirerais</tu>
+		<il>soupirerait</il>
+		<nous>soupirerions</nous>
+		<vous>soupireriez</vous>
+		<ils>soupireraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

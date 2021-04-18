@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>crier</infinitive>
+	<translation>to shout</translation>
+	<translation>scream</translation>
+	<presentParticiple>criant</presentParticiple>
+	<pastParticiple>crié</pastParticiple>
+	<present>
+		<je>crie</je>
+		<tu>cries</tu>
+		<il>crie</il>
+		<nous>crions</nous>
+		<vous>criez</vous>
+		<ils>crient</ils>
+	</present>
+	<imperative>
+		<tu>crie</tu>
+		<nous>crions</nous>
+		<vous>criez</vous>
+	</imperative>
+	<imperfect>
+		<je>criais</je>
+		<tu>criais</tu>
+		<il>criait</il>
+		<nous>criions</nous>
+		<vous>criiez</vous>
+		<ils>criaient</ils>
+	</imperfect>
+	<future>
+		<je>crierai</je>
+		<tu>crieras</tu>
+		<il>criera</il>
+		<nous>crierons</nous>
+		<vous>crierez</vous>
+		<ils>crieront</ils>
+	</future>
+	<subjunctive>
+		<je>crie</je>
+		<tu>cries</tu>
+		<il>crie</il>
+		<nous>criions</nous>
+		<vous>criiez</vous>
+		<ils>crient</ils>
+	</subjunctive>
+	<conditional>
+		<je>crierais</je>
+		<tu>crierais</tu>
+		<il>crierait</il>
+		<nous>crierions</nous>
+		<vous>crieriez</vous>
+		<ils>crieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

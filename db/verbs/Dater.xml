@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dater</infinitive>
+	<translation>to date (from)</translation>
+	<translation>be outdated</translation>
+	<presentParticiple>datant</presentParticiple>
+	<pastParticiple>daté</pastParticiple>
+	<present>
+		<je>date</je>
+		<tu>dates</tu>
+		<il>date</il>
+		<nous>datons</nous>
+		<vous>datez</vous>
+		<ils>datent</ils>
+	</present>
+	<imperative>
+		<tu>date</tu>
+		<nous>datons</nous>
+		<vous>datez</vous>
+	</imperative>
+	<imperfect>
+		<je>datais</je>
+		<tu>datais</tu>
+		<il>datait</il>
+		<nous>dations</nous>
+		<vous>datiez</vous>
+		<ils>dataient</ils>
+	</imperfect>
+	<future>
+		<je>daterai</je>
+		<tu>dateras</tu>
+		<il>datera</il>
+		<nous>daterons</nous>
+		<vous>daterez</vous>
+		<ils>dateront</ils>
+	</future>
+	<subjunctive>
+		<je>date</je>
+		<tu>dates</tu>
+		<il>date</il>
+		<nous>dations</nous>
+		<vous>datiez</vous>
+		<ils>datent</ils>
+	</subjunctive>
+	<conditional>
+		<je>daterais</je>
+		<tu>daterais</tu>
+		<il>daterait</il>
+		<nous>daterions</nous>
+		<vous>dateriez</vous>
+		<ils>dateraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

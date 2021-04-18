@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>essayer</infinitive>
+            <translation>to try</translation>
+            <presentParticiple>essayant</presentParticiple>
+            <pastParticiple>essayé</pastParticiple>
+            <present>
+                <je>essaie</je>
+                <tu>essaies</tu>
+                <il>essaie</il>
+                <nous>essayons</nous>
+                <vous>essayez</vous>
+                <ils>essaient</ils>
+            </present>
+            <imperative>
+                <tu>essaie</tu>
+                <nous>essayons</nous>
+                <vous>essayez</vous>
+            </imperative>
+            <imperfect>
+                <je>essayais</je>
+                <tu>essayais</tu>
+                <il>essayait</il>
+                <nous>essayions</nous>
+                <vous>essayiez</vous>
+                <ils>essayaient</ils>
+            </imperfect>
+            <future>
+                <je>essaierai</je>
+                <tu>essaieras</tu>
+                <il>essaiera</il>
+                <nous>essaierons</nous>
+                <vous>essaierez</vous>
+                <ils>essaieront</ils>
+            </future>
+            <subjunctive>
+                <je>essaie</je>
+                <tu>essaies</tu>
+                <il>essaie</il>
+                <nous>essayions</nous>
+                <vous>essayiez</vous>
+                <ils>essaient</ils>
+            </subjunctive>
+            <conditional>
+                <je>essaierais</je>
+                <tu>essaierais</tu>
+                <il>essaierait</il>
+                <nous>essaierions</nous>
+                <vous>essaieriez</vous>
+                <ils>essaieraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

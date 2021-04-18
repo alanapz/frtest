@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>déshabiller</infinitive>
+            <translation>to undress</translation>
+            <transitive />
+            <presentParticiple>déshabillant</presentParticiple>
+            <pastParticiple>déshabillé</pastParticiple>
+            <present>
+                <je>déshabille</je>
+                <tu>déshabilles</tu>
+                <il>déshabille</il>
+                <nous>déshabillons</nous>
+                <vous>déshabillez</vous>
+                <ils>déshabillent</ils>
+            </present>
+            <imperative>
+                <tu>déshabille</tu>
+                <nous>déshabillons</nous>
+                <vous>déshabillez</vous>
+            </imperative>
+            <imperfect>
+                <je>déshabillais</je>
+                <tu>déshabillais</tu>
+                <il>déshabillait</il>
+                <nous>déshabillions</nous>
+                <vous>déshabilliez</vous>
+                <ils>déshabillaient</ils>
+            </imperfect>
+            <future>
+                <je>déshabillerai</je>
+                <tu>déshabilleras</tu>
+                <il>déshabillera</il>
+                <nous>déshabillerons</nous>
+                <vous>déshabillerez</vous>
+                <ils>déshabilleront</ils>
+            </future>
+            <subjunctive>
+                <je>déshabille</je>
+                <tu>déshabilles</tu>
+                <il>déshabille</il>
+                <nous>déshabillions</nous>
+                <vous>déshabilliez</vous>
+                <ils>déshabillent</ils>
+            </subjunctive>
+            <conditional>
+                <je>déshabillerais</je>
+                <tu>déshabillerais</tu>
+                <il>déshabillerait</il>
+                <nous>déshabillerions</nous>
+                <vous>déshabilleriez</vous>
+                <ils>déshabilleraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>donner</infinitive>
+	<translation>to give</translation>
+	<presentParticiple>donnant</presentParticiple>
+	<pastParticiple>donné</pastParticiple>
+	<present>
+		<je>donne</je>
+		<tu>donnes</tu>
+		<il>donne</il>
+		<nous>donnons</nous>
+		<vous>donnez</vous>
+		<ils>donnent</ils>
+	</present>
+	<imperative>
+		<tu>donne</tu>
+		<nous>donnons</nous>
+		<vous>donnez</vous>
+	</imperative>
+	<imperfect>
+		<je>donnais</je>
+		<tu>donnais</tu>
+		<il>donnait</il>
+		<nous>donnions</nous>
+		<vous>donniez</vous>
+		<ils>donnaient</ils>
+	</imperfect>
+	<future>
+		<je>donnerai</je>
+		<tu>donneras</tu>
+		<il>donnera</il>
+		<nous>donnerons</nous>
+		<vous>donnerez</vous>
+		<ils>donneront</ils>
+	</future>
+	<subjunctive>
+		<je>donne</je>
+		<tu>donnes</tu>
+		<il>donne</il>
+		<nous>donnions</nous>
+		<vous>donniez</vous>
+		<ils>donnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>donnerais</je>
+		<tu>donnerais</tu>
+		<il>donnerait</il>
+		<nous>donnerions</nous>
+		<vous>donneriez</vous>
+		<ils>donneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

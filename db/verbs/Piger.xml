@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>piger</infinitive>
+	<translation>to twig</translation>
+	<translation>get it</translation>
+	<translation>understand</translation>
+	<spellingChange />
+	<presentParticiple>pigeant</presentParticiple>
+	<pastParticiple>pigé</pastParticiple>
+	<present>
+		<je>pige</je>
+		<tu>piges</tu>
+		<il>pige</il>
+		<nous>pigeons</nous>
+		<vous>pigez</vous>
+		<ils>pigent</ils>
+	</present>
+	<imperative>
+		<tu>pige</tu>
+		<nous>pigeons</nous>
+		<vous>pigez</vous>
+	</imperative>
+	<imperfect>
+		<je>pigeais</je>
+		<tu>pigeais</tu>
+		<il>pigeait</il>
+		<nous>pigions</nous>
+		<vous>pigiez</vous>
+		<ils>pigeaient</ils>
+	</imperfect>
+	<future>
+		<je>pigerai</je>
+		<tu>pigeras</tu>
+		<il>pigera</il>
+		<nous>pigerons</nous>
+		<vous>pigerez</vous>
+		<ils>pigeront</ils>
+	</future>
+	<subjunctive>
+		<je>pige</je>
+		<tu>piges</tu>
+		<il>pige</il>
+		<nous>pigions</nous>
+		<vous>pigiez</vous>
+		<ils>pigent</ils>
+	</subjunctive>
+	<conditional>
+		<je>pigerais</je>
+		<tu>pigerais</tu>
+		<il>pigerait</il>
+		<nous>pigerions</nous>
+		<vous>pigeriez</vous>
+		<ils>pigeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

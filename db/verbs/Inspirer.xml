@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>inspirer</infinitive>
+	<translation>to inspire</translation>
+	<presentParticiple>inspirant</presentParticiple>
+	<pastParticiple>inspiré</pastParticiple>
+	<present>
+		<je>inspire</je>
+		<tu>inspires</tu>
+		<il>inspire</il>
+		<nous>inspirons</nous>
+		<vous>inspirez</vous>
+		<ils>inspirent</ils>
+	</present>
+	<imperative>
+		<tu>inspire</tu>
+		<nous>inspirons</nous>
+		<vous>inspirez</vous>
+	</imperative>
+	<imperfect>
+		<je>inspirais</je>
+		<tu>inspirais</tu>
+		<il>inspirait</il>
+		<nous>inspirions</nous>
+		<vous>inspiriez</vous>
+		<ils>inspiraient</ils>
+	</imperfect>
+	<future>
+		<je>inspirerai</je>
+		<tu>inspireras</tu>
+		<il>inspirera</il>
+		<nous>inspirerons</nous>
+		<vous>inspirerez</vous>
+		<ils>inspireront</ils>
+	</future>
+	<subjunctive>
+		<je>inspire</je>
+		<tu>inspires</tu>
+		<il>inspire</il>
+		<nous>inspirions</nous>
+		<vous>inspiriez</vous>
+		<ils>inspirent</ils>
+	</subjunctive>
+	<conditional>
+		<je>inspirerais</je>
+		<tu>inspirerais</tu>
+		<il>inspirerait</il>
+		<nous>inspirerions</nous>
+		<vous>inspireriez</vous>
+		<ils>inspireraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

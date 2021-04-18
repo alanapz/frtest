@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>soutenir</infinitive>
+	<translation>to support</translation>
+	<irregular />
+	<presentParticiple>soutenant</presentParticiple>
+	<pastParticiple>soutenu</pastParticiple>
+	<present>
+		<je>soutiens</je>
+		<tu>soutiens</tu>
+		<il>soutient</il>
+		<nous>soutenons</nous>
+		<vous>soutenez</vous>
+		<ils>soutiennent</ils>
+	</present>
+	<imperative>
+		<tu>soutiens</tu>
+		<nous>soutenons</nous>
+		<vous>soutenez</vous>
+	</imperative>
+	<imperfect>
+		<je>soutenais</je>
+		<tu>soutenais</tu>
+		<il>soutenait</il>
+		<nous>soutenions</nous>
+		<vous>souteniez</vous>
+		<ils>soutenaient</ils>
+	</imperfect>
+	<future>
+		<je>soutiendrai</je>
+		<tu>soutiendras</tu>
+		<il>soutiendra</il>
+		<nous>soutiendrons</nous>
+		<vous>soutiendrez</vous>
+		<ils>soutiendront</ils>
+	</future>
+	<subjunctive>
+		<je>soutienne</je>
+		<tu>soutiennes</tu>
+		<il>soutienne</il>
+		<nous>soutenions</nous>
+		<vous>souteniez</vous>
+		<ils>soutiennent</ils>
+	</subjunctive>
+	<conditional>
+		<je>soutiendrais</je>
+		<tu>soutiendrais</tu>
+		<il>soutiendrait</il>
+		<nous>soutiendrions</nous>
+		<vous>soutiendriez</vous>
+		<ils>soutiendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

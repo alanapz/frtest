@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>importer</infinitive>
+	<translation>to import</translation>
+	<translation>to matter</translation>
+	<translation>be important</translation>
+	<presentParticiple>important</presentParticiple>
+	<pastParticiple>importé</pastParticiple>
+	<present>
+		<je>importe</je>
+		<tu>importes</tu>
+		<il>importe</il>
+		<nous>importons</nous>
+		<vous>importez</vous>
+		<ils>importent</ils>
+	</present>
+	<imperative>
+		<tu>importe</tu>
+		<nous>importons</nous>
+		<vous>importez</vous>
+	</imperative>
+	<imperfect>
+		<je>importais</je>
+		<tu>importais</tu>
+		<il>importait</il>
+		<nous>importions</nous>
+		<vous>importiez</vous>
+		<ils>importaient</ils>
+	</imperfect>
+	<future>
+		<je>importerai</je>
+		<tu>importeras</tu>
+		<il>importera</il>
+		<nous>importerons</nous>
+		<vous>importerez</vous>
+		<ils>importeront</ils>
+	</future>
+	<subjunctive>
+		<je>importe</je>
+		<tu>importes</tu>
+		<il>importe</il>
+		<nous>importions</nous>
+		<vous>importiez</vous>
+		<ils>importent</ils>
+	</subjunctive>
+	<conditional>
+		<je>importerais</je>
+		<tu>importerais</tu>
+		<il>importerait</il>
+		<nous>importerions</nous>
+		<vous>importeriez</vous>
+		<ils>importeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

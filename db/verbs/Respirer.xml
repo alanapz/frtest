@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>respirer</infinitive>
+            <translation>to breathe</translation>
+            <translation>to inhale</translation>
+            <presentParticiple>respirant</presentParticiple>
+            <pastParticiple>respiré</pastParticiple>
+            <present>
+                <je>respire</je>
+                <tu>respires</tu>
+                <il>respire</il>
+                <nous>respirons</nous>
+                <vous>respirez</vous>
+                <ils>respirent</ils>
+            </present>
+            <imperative>
+                <tu>respire</tu>
+                <nous>respirons</nous>
+                <vous>respirez</vous>
+            </imperative>
+            <imperfect>
+                <je>respirais</je>
+                <tu>respirais</tu>
+                <il>respirait</il>
+                <nous>respirions</nous>
+                <vous>respiriez</vous>
+                <ils>respiraient</ils>
+            </imperfect>
+            <future>
+                <je>respirerai</je>
+                <tu>respireras</tu>
+                <il>respirera</il>
+                <nous>respirerons</nous>
+                <vous>respirerez</vous>
+                <ils>respireront</ils>
+            </future>
+            <subjunctive>
+                <je>respire</je>
+                <tu>respires</tu>
+                <il>respire</il>
+                <nous>respirions</nous>
+                <vous>respiriez</vous>
+                <ils>respirent</ils>
+            </subjunctive>
+            <conditional>
+                <je>respirerais</je>
+                <tu>respirerais</tu>
+                <il>respirerait</il>
+                <nous>respirerions</nous>
+                <vous>respireriez</vous>
+                <ils>respireraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

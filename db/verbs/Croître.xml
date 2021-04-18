@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>croître</infinitive>
+	<translation>to grow</translation>
+	<irregular />
+	<presentParticiple>croissant</presentParticiple>
+	<pastParticiple>crû</pastParticiple>
+	<present>
+		<je>croîs</je>
+		<tu>croîs</tu>
+		<il>croît</il>
+		<nous>croissons</nous>
+		<vous>croissez</vous>
+		<ils>croissent</ils>
+	</present>
+	<imperative>
+		<tu>croîs</tu>
+		<nous>croissons</nous>
+		<vous>croissez</vous>
+	</imperative>
+	<imperfect>
+		<je>croissais</je>
+		<tu>croissais</tu>
+		<il>croissait</il>
+		<nous>croissions</nous>
+		<vous>croissiez</vous>
+		<ils>croissaient</ils>
+	</imperfect>
+	<future>
+		<je>croîtrai</je>
+		<tu>croîtras</tu>
+		<il>croîtra</il>
+		<nous>croîtrons</nous>
+		<vous>croîtrez</vous>
+		<ils>croîtront</ils>
+	</future>
+	<subjunctive>
+		<je>croisse</je>
+		<tu>croisses</tu>
+		<il>croisse</il>
+		<nous>croissions</nous>
+		<vous>croissiez</vous>
+		<ils>croissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>croîtrais</je>
+		<tu>croîtrais</tu>
+		<il>croîtrait</il>
+		<nous>croîtrions</nous>
+		<vous>croîtriez</vous>
+		<ils>croîtraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

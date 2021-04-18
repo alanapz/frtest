@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>affliger</infinitive>
+	<translation>to afflict</translation>
+	<spellingChange />
+	<presentParticiple>affligeant</presentParticiple>
+	<pastParticiple>affligé</pastParticiple>
+	<present>
+		<je>afflige</je>
+		<tu>affliges</tu>
+		<il>afflige</il>
+		<nous>affligeons</nous>
+		<vous>affligez</vous>
+		<ils>affligent</ils>
+	</present>
+	<imperative>
+		<tu>afflige</tu>
+		<nous>affligeons</nous>
+		<vous>affligez</vous>
+	</imperative>
+	<imperfect>
+		<je>affligeais</je>
+		<tu>affligeais</tu>
+		<il>affligeait</il>
+		<nous>affligions</nous>
+		<vous>affligiez</vous>
+		<ils>affligeaient</ils>
+	</imperfect>
+	<future>
+		<je>affligerai</je>
+		<tu>affligeras</tu>
+		<il>affligera</il>
+		<nous>affligerons</nous>
+		<vous>affligerez</vous>
+		<ils>affligeront</ils>
+	</future>
+	<subjunctive>
+		<je>afflige</je>
+		<tu>affliges</tu>
+		<il>afflige</il>
+		<nous>affligions</nous>
+		<vous>affligiez</vous>
+		<ils>affligent</ils>
+	</subjunctive>
+	<conditional>
+		<je>affligerais</je>
+		<tu>affligerais</tu>
+		<il>affligerait</il>
+		<nous>affligerions</nous>
+		<vous>affligeriez</vous>
+		<ils>affligeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

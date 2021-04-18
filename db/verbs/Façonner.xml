@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>façonner</infinitive>
+	<translation>to fashion</translation>
+	<translation>shape</translation>
+	<presentParticiple>façonnant</presentParticiple>
+	<pastParticiple>façonné</pastParticiple>
+	<present>
+		<je>façonne</je>
+		<tu>façonnes</tu>
+		<il>façonne</il>
+		<nous>façonnons</nous>
+		<vous>façonnez</vous>
+		<ils>façonnent</ils>
+	</present>
+	<imperative>
+		<tu>façonne</tu>
+		<nous>façonnons</nous>
+		<vous>façonnez</vous>
+	</imperative>
+	<imperfect>
+		<je>façonnais</je>
+		<tu>façonnais</tu>
+		<il>façonnait</il>
+		<nous>façonnions</nous>
+		<vous>façonniez</vous>
+		<ils>façonnaient</ils>
+	</imperfect>
+	<future>
+		<je>façonnerai</je>
+		<tu>façonneras</tu>
+		<il>façonnera</il>
+		<nous>façonnerons</nous>
+		<vous>façonnerez</vous>
+		<ils>façonneront</ils>
+	</future>
+	<subjunctive>
+		<je>façonne</je>
+		<tu>façonnes</tu>
+		<il>façonne</il>
+		<nous>façonnions</nous>
+		<vous>façonniez</vous>
+		<ils>façonnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>façonnerais</je>
+		<tu>façonnerais</tu>
+		<il>façonnerait</il>
+		<nous>façonnerions</nous>
+		<vous>façonneriez</vous>
+		<ils>façonneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

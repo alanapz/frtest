@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>rafraîchir</infinitive>
+            <translation>to cool</translation>
+            <translation>to freshen</translation>
+            <translation>to refresh</translation>
+            <presentParticiple>rafraîchissant</presentParticiple>
+            <pastParticiple>rafraîchi</pastParticiple>
+            <present>
+                <je>rafraîchis</je>
+                <tu>rafraîchis</tu>
+                <il>rafraîchit</il>
+                <nous>rafraîchissons</nous>
+                <vous>rafraîchissez</vous>
+                <ils>rafraîchissent</ils>
+            </present>
+            <imperative>
+                <tu>rafraîchis</tu>
+                <nous>rafraîchissons</nous>
+                <vous>rafraîchissez</vous>
+            </imperative>
+            <imperfect>
+                <je>rafraîchissais</je>
+                <tu>rafraîchissais</tu>
+                <il>rafraîchissait</il>
+                <nous>rafraîchissions</nous>
+                <vous>rafraîchissiez</vous>
+                <ils>rafraîchissaient</ils>
+            </imperfect>
+            <future>
+                <je>rafraîchirai</je>
+                <tu>rafraîchiras</tu>
+                <il>rafraîchira</il>
+                <nous>rafraîchirons</nous>
+                <vous>rafraîchirez</vous>
+                <ils>rafraîchiront</ils>
+            </future>
+            <subjunctive>
+                <je>rafraîchisse</je>
+                <tu>rafraîchisses</tu>
+                <il>rafraîchisse</il>
+                <nous>rafraîchissions</nous>
+                <vous>rafraîchissiez</vous>
+                <ils>rafraîchissent</ils>
+            </subjunctive>
+            <conditional>
+                <je>rafraîchirais</je>
+                <tu>rafraîchirais</tu>
+                <il>rafraîchirait</il>
+                <nous>rafraîchirions</nous>
+                <vous>rafraîchiriez</vous>
+                <ils>rafraîchiraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

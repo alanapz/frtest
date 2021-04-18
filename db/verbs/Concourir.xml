@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>concourir</infinitive>
+	<translation>to compete</translation>
+	<irregular />
+	<presentParticiple>concourant</presentParticiple>
+	<pastParticiple> concouru</pastParticiple>
+	<present>
+		<je>concours</je>
+		<tu>concours</tu>
+		<il>concourt</il>
+		<nous>concourons</nous>
+		<vous>concourez</vous>
+		<ils>concourent</ils>
+	</present>
+	<imperative>
+		<tu>concours</tu>
+		<nous>concourons</nous>
+		<vous>concourez</vous>
+	</imperative>
+	<imperfect>
+		<je>concourais</je>
+		<tu>concourais</tu>
+		<il>concourait</il>
+		<nous>concourions</nous>
+		<vous>concouriez</vous>
+		<ils>concouraient</ils>
+	</imperfect>
+	<future>
+		<je>concourrai</je>
+		<tu>concourras</tu>
+		<il>concourra</il>
+		<nous>concourrons</nous>
+		<vous>concourrez</vous>
+		<ils>concourront</ils>
+	</future>
+	<subjunctive>
+		<je>concoure</je>
+		<tu>concoures</tu>
+		<il>concoure</il>
+		<nous>concourions</nous>
+		<vous>concouriez</vous>
+		<ils>concourent</ils>
+	</subjunctive>
+	<conditional>
+		<je>concourrais</je>
+		<tu>concourrais</tu>
+		<il>concourrait</il>
+		<nous>concourrions</nous>
+		<vous>concourriez</vous>
+		<ils>concourraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

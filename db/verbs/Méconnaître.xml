@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>méconnaître</infinitive>
+	<translation>to put</translation>
+	<irregular />
+	<presentParticiple>méconnaissant</presentParticiple>
+	<pastParticiple>méconnu</pastParticiple>
+	<present>
+		<je>méconnais</je>
+		<tu>méconnais</tu>
+		<il>méconnaît</il>
+		<nous>méconnaissons</nous>
+		<vous>méconnaissez</vous>
+		<ils>méconnaissent</ils>
+	</present>
+	<imperative>
+		<tu>méconnais</tu>
+		<nous>méconnaissons</nous>
+		<vous>méconnaissez</vous>
+	</imperative>
+	<imperfect>
+		<je>méconnaissais</je>
+		<tu>méconnaissais</tu>
+		<il>méconnaissait</il>
+		<nous>méconnaissions</nous>
+		<vous>méconnaissiez</vous>
+		<ils>méconnaissaient</ils>
+	</imperfect>
+	<future>
+		<je>méconnaîtrai</je>
+		<tu>méconnaîtras</tu>
+		<il>méconnaîtra</il>
+		<nous>méconnaîtrons</nous>
+		<vous>méconnaîtrez</vous>
+		<ils>méconnaîtront</ils>
+	</future>
+	<subjunctive>
+		<je>méconnaisse</je>
+		<tu>méconnaisses</tu>
+		<il>méconnaisse</il>
+		<nous>méconnaissions</nous>
+		<vous>méconnaissiez</vous>
+		<ils>méconnaissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>méconnaîtrais</je>
+		<tu>méconnaîtrais</tu>
+		<il>méconnaîtrait</il>
+		<nous>méconnaîtrions</nous>
+		<vous>méconnaîtriez</vous>
+		<ils>méconnaîtraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>blaser</infinitive>
+	<translation>to make blasé</translation>
+	<translation>indifferent</translation>
+	<translation>to bore</translation>
+	<presentParticiple>blasant</presentParticiple>
+	<pastParticiple>blasé</pastParticiple>
+	<present>
+		<je>blase</je>
+		<tu>blases</tu>
+		<il>blase</il>
+		<nous>blasons</nous>
+		<vous>blasez</vous>
+		<ils>blasent</ils>
+	</present>
+	<imperative>
+		<tu>blase</tu>
+		<nous>blasons</nous>
+		<vous>blasez</vous>
+	</imperative>
+	<imperfect>
+		<je>blasais</je>
+		<tu>blasais</tu>
+		<il>blasait</il>
+		<nous>blasions</nous>
+		<vous>blasiez</vous>
+		<ils>blasaient</ils>
+	</imperfect>
+	<future>
+		<je>blaserai</je>
+		<tu>blaseras</tu>
+		<il>blasera</il>
+		<nous>blaserons</nous>
+		<vous>blaserez</vous>
+		<ils>blaseront</ils>
+	</future>
+	<subjunctive>
+		<je>blase</je>
+		<tu>blases</tu>
+		<il>blase</il>
+		<nous>blasions</nous>
+		<vous>blasiez</vous>
+		<ils>blasent</ils>
+	</subjunctive>
+	<conditional>
+		<je>blaserais</je>
+		<tu>blaserais</tu>
+		<il>blaserait</il>
+		<nous>blaserions</nous>
+		<vous>blaseriez</vous>
+		<ils>blaseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

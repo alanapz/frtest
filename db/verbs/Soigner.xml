@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>soigner</infinitive>
+	<translation>to treat</translation>
+	<translation>look after</translation>
+	<translation>take care of</translation>
+	<presentParticiple>soignant</presentParticiple>
+	<pastParticiple>soigné</pastParticiple>
+	<present>
+		<je>soigne</je>
+		<tu>soignes</tu>
+		<il>soigne</il>
+		<nous>soignons</nous>
+		<vous>soignez</vous>
+		<ils>soignent</ils>
+	</present>
+	<imperative>
+		<tu>soigne</tu>
+		<nous>soignons</nous>
+		<vous>soignez</vous>
+	</imperative>
+	<imperfect>
+		<je>soignais</je>
+		<tu>soignais</tu>
+		<il>soignait</il>
+		<nous>soignions</nous>
+		<vous>soigniez</vous>
+		<ils>soignaient</ils>
+	</imperfect>
+	<future>
+		<je>soignerai</je>
+		<tu>soigneras</tu>
+		<il>soignera</il>
+		<nous>soignerons</nous>
+		<vous>soignerez</vous>
+		<ils>soigneront</ils>
+	</future>
+	<subjunctive>
+		<je>soigne</je>
+		<tu>soignes</tu>
+		<il>soigne</il>
+		<nous>soignions</nous>
+		<vous>soigniez</vous>
+		<ils>soignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>soignerais</je>
+		<tu>soignerais</tu>
+		<il>soignerait</il>
+		<nous>soignerions</nous>
+		<vous>soigneriez</vous>
+		<ils>soigneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

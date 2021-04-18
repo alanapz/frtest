@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>émoudre</infinitive>
+	<translation>to sharpen</translation>
+	<translation>grind</translation>
+	<irregular />
+	<presentParticiple>émoulant</presentParticiple>
+	<pastParticiple>émoulu</pastParticiple>
+	<present>
+		<je>émouds</je>
+		<tu>émouds</tu>
+		<il>émoud</il>
+		<nous>émoulons</nous>
+		<vous>émoulez</vous>
+		<ils>émoulent</ils>
+	</present>
+	<imperative>
+		<tu>émouds</tu>
+		<nous>émoulons</nous>
+		<vous>émoulez</vous>
+	</imperative>
+	<imperfect>
+		<je>émoulais</je>
+		<tu>émoulais</tu>
+		<il>émoulait</il>
+		<nous>émoulions</nous>
+		<vous>émouliez</vous>
+		<ils>émoulaient</ils>
+	</imperfect>
+	<future>
+		<je>émoudrai</je>
+		<tu>émoudras</tu>
+		<il>émoudra</il>
+		<nous>émoudrons</nous>
+		<vous>émoudrez</vous>
+		<ils>émoudront</ils>
+	</future>
+	<subjunctive>
+		<je>émoule</je>
+		<tu>émoules</tu>
+		<il>émoule</il>
+		<nous>émoulions</nous>
+		<vous>émouliez</vous>
+		<ils>émoulent</ils>
+	</subjunctive>
+	<conditional>
+		<je>émoudrais</je>
+		<tu>émoudrais</tu>
+		<il>émoudrait</il>
+		<nous>émoudrions</nous>
+		<vous>émoudriez</vous>
+		<ils>émoudraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

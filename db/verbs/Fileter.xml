@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>fileter</infinitive>
+	<translation>to thread (metal)</translation>
+	<translation>to fillet (fish)</translation>
+	<stemChange />
+	<presentParticiple>filetant</presentParticiple>
+	<pastParticiple>fileté</pastParticiple>
+	<present>
+		<je>filète</je>
+		<tu>filètes</tu>
+		<il>filète</il>
+		<nous>filetons</nous>
+		<vous>filetez</vous>
+		<ils>filètent</ils>
+	</present>
+	<imperative>
+		<tu>filète</tu>
+		<nous>filetons</nous>
+		<vous>filetez</vous>
+	</imperative>
+	<imperfect>
+		<je>filetais</je>
+		<tu>filetais</tu>
+		<il>filetait</il>
+		<nous>filetions</nous>
+		<vous>filetiez</vous>
+		<ils>filetaient</ils>
+	</imperfect>
+	<future>
+		<je>filèterai</je>
+		<tu>filèteras</tu>
+		<il>filètera</il>
+		<nous>filèterons</nous>
+		<vous>filèterez</vous>
+		<ils>filèteront</ils>
+	</future>
+	<subjunctive>
+		<je>filète</je>
+		<tu>filètes</tu>
+		<il>filète</il>
+		<nous>filetions</nous>
+		<vous>filetiez</vous>
+		<ils>filètent</ils>
+	</subjunctive>
+	<conditional>
+		<je>filèterais</je>
+		<tu>filèterais</tu>
+		<il>filèterait</il>
+		<nous>filèterions</nous>
+		<vous>filèteriez</vous>
+		<ils>filèteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

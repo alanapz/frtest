@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>warranter</infinitive>
+	<translation>to warrant</translation>
+	<presentParticiple>warrantant</presentParticiple>
+	<pastParticiple>warranté</pastParticiple>
+	<present>
+		<je>warrante</je>
+		<tu>warrantes</tu>
+		<il>warrante</il>
+		<nous>warrantons</nous>
+		<vous>warrantez</vous>
+		<ils>warrantent</ils>
+	</present>
+	<imperative>
+		<tu>warrante</tu>
+		<nous>warrantons</nous>
+		<vous>warrantez</vous>
+	</imperative>
+	<imperfect>
+		<je>warrantais</je>
+		<tu>warrantais</tu>
+		<il>warrantait</il>
+		<nous>warrantions</nous>
+		<vous>warrantiez</vous>
+		<ils>warrantaient</ils>
+	</imperfect>
+	<future>
+		<je>warranterai</je>
+		<tu>warranteras</tu>
+		<il>warrantera</il>
+		<nous>warranterons</nous>
+		<vous>warranterez</vous>
+		<ils>warranteront</ils>
+	</future>
+	<subjunctive>
+		<je>warrante</je>
+		<tu>warrantes</tu>
+		<il>warrante</il>
+		<nous>warrantions</nous>
+		<vous>warrantiez</vous>
+		<ils>warrantent</ils>
+	</subjunctive>
+	<conditional>
+		<je>warranterais</je>
+		<tu>warranterais</tu>
+		<il>warranterait</il>
+		<nous>warranterions</nous>
+		<vous>warranteriez</vous>
+		<ils>warranteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

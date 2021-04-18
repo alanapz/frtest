@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>autoriser</infinitive>
+	<translation>to authorize</translation>
+	<presentParticiple>autorisant</presentParticiple>
+	<pastParticiple>autorisé</pastParticiple>
+	<present>
+		<je>autorise</je>
+		<tu>autorises</tu>
+		<il>autorise</il>
+		<nous>autorisons</nous>
+		<vous>autorisez</vous>
+		<ils>autorisent</ils>
+	</present>
+	<imperative>
+		<tu>autorise</tu>
+		<nous>autorisons</nous>
+		<vous>autorisez</vous>
+	</imperative>
+	<imperfect>
+		<je>autorisais</je>
+		<tu>autorisais</tu>
+		<il>autorisait</il>
+		<nous>autorisions</nous>
+		<vous>autorisiez</vous>
+		<ils>autorisaient</ils>
+	</imperfect>
+	<future>
+		<je>autoriserai</je>
+		<tu>autoriseras</tu>
+		<il>autorisera</il>
+		<nous>autoriserons</nous>
+		<vous>autoriserez</vous>
+		<ils>autoriseront</ils>
+	</future>
+	<subjunctive>
+		<je>autorise</je>
+		<tu>autorises</tu>
+		<il>autorise</il>
+		<nous>autorisions</nous>
+		<vous>autorisiez</vous>
+		<ils>autorisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>autoriserais</je>
+		<tu>autoriserais</tu>
+		<il>autoriserait</il>
+		<nous>autoriserions</nous>
+		<vous>autoriseriez</vous>
+		<ils>autoriseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

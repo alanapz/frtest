@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>tromper</infinitive>
+            <translation>to deceive</translation>
+            <translation>to trick</translation>
+            <translation>to mislead</translation>
+            <pronominal>
+                <translation>to make a mistake</translation>
+            </pronominal>
+        </verb>
+    </verbs>
+</dictionary>

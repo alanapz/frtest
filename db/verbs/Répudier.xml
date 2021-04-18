@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>répudier</infinitive>
+            <translation>to repudiate</translation>
+            <presentParticiple>répudiant</presentParticiple>
+            <pastParticiple>répudié</pastParticiple>
+            <present>
+                <je>répudie</je>
+                <tu>répudies</tu>
+                <il>répudie</il>
+                <nous>répudions</nous>
+                <vous>répudiez</vous>
+                <ils>répudient</ils>
+            </present>
+            <imperative>
+                <tu>répudie</tu>
+                <nous>répudions</nous>
+                <vous>répudiez</vous>
+            </imperative>
+            <imperfect>
+                <je>répudiais</je>
+                <tu>répudiais</tu>
+                <il>répudiait</il>
+                <nous>répudiions</nous>
+                <vous>répudiiez</vous>
+                <ils>répudiaient</ils>
+            </imperfect>
+            <future>
+                <je>répudierai</je>
+                <tu>répudieras</tu>
+                <il>répudiera</il>
+                <nous>répudierons</nous>
+                <vous>répudierez</vous>
+                <ils>répudieront</ils>
+            </future>
+            <subjunctive>
+                <je>répudie</je>
+                <tu>répudies</tu>
+                <il>répudie</il>
+                <nous>répudiions</nous>
+                <vous>répudiiez</vous>
+                <ils>répudient</ils>
+            </subjunctive>
+            <conditional>
+                <je>répudierais</je>
+                <tu>répudierais</tu>
+                <il>répudierait</il>
+                <nous>répudierions</nous>
+                <vous>répudieriez</vous>
+                <ils>répudieraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>guérir</infinitive>
+	<translation>to cure</translation>
+	<translation>heal</translation>
+	<translation>recover</translation>
+	<presentParticiple>guérissant</presentParticiple>
+	<pastParticiple>guéri</pastParticiple>
+	<present>
+		<je>guéris</je>
+		<tu>guéris</tu>
+		<il>guérit</il>
+		<nous>guérissons</nous>
+		<vous>guérissez</vous>
+		<ils>guérissent</ils>
+	</present>
+	<imperative>
+		<tu>guéris</tu>
+		<nous>guérissons</nous>
+		<vous>guérissez</vous>
+	</imperative>
+	<imperfect>
+		<je>guérissais</je>
+		<tu>guérissais</tu>
+		<il>guérissait</il>
+		<nous>guérissions</nous>
+		<vous>guérissiez</vous>
+		<ils>guérissaient</ils>
+	</imperfect>
+	<future>
+		<je>guérirai</je>
+		<tu>guériras</tu>
+		<il>guérira</il>
+		<nous>guérirons</nous>
+		<vous>guérirez</vous>
+		<ils>guériront</ils>
+	</future>
+	<subjunctive>
+		<je>guérisse</je>
+		<tu>guérisses</tu>
+		<il>guérisse</il>
+		<nous>guérissions</nous>
+		<vous>guérissiez</vous>
+		<ils>guérissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>guérirais</je>
+		<tu>guérirais</tu>
+		<il>guérirait</il>
+		<nous>guéririons</nous>
+		<vous>guéririez</vous>
+		<ils>guériraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

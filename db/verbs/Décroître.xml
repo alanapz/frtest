@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>décroître</infinitive>
+	<translation>to decrease</translation>
+	<irregular />
+	<presentParticiple>décroissant</presentParticiple>
+	<pastParticiple>décru</pastParticiple>
+	<present>
+		<je>décrois</je>
+		<tu>décrois</tu>
+		<il>décroît</il>
+		<nous>décroissons</nous>
+		<vous>décroissez</vous>
+		<ils>décroissent</ils>
+	</present>
+	<imperative>
+		<tu>décrois</tu>
+		<nous>décroissons</nous>
+		<vous>décroissez</vous>
+	</imperative>
+	<imperfect>
+		<je>décroissais</je>
+		<tu>décroissais</tu>
+		<il>décroissait</il>
+		<nous>décroissions</nous>
+		<vous>décroissiez</vous>
+		<ils>décroissaient</ils>
+	</imperfect>
+	<future>
+		<je>décroîtrai</je>
+		<tu>décroîtras</tu>
+		<il>décroîtra</il>
+		<nous>décroîtrons</nous>
+		<vous>décroîtrez</vous>
+		<ils>décroîtront</ils>
+	</future>
+	<subjunctive>
+		<je>décroisse</je>
+		<tu>décroisses</tu>
+		<il>décroisse</il>
+		<nous>décroissions</nous>
+		<vous>décroissiez</vous>
+		<ils>décroissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>décroîtrais</je>
+		<tu>décroîtrais</tu>
+		<il>décroîtrait</il>
+		<nous>décroîtrions</nous>
+		<vous>décroîtriez</vous>
+		<ils>décroîtraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

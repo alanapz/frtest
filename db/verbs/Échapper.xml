@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>échapper</infinitive>
+	<translation>to escape</translation>
+	<presentParticiple>échappant</presentParticiple>
+	<pastParticiple>échappé</pastParticiple>
+	<present>
+		<je>échappe</je>
+		<tu>échappes</tu>
+		<il>échappe</il>
+		<nous>échappons</nous>
+		<vous>échappez</vous>
+		<ils>échappent</ils>
+	</present>
+	<imperative>
+		<tu>échappe</tu>
+		<nous>échappons</nous>
+		<vous>échappez</vous>
+	</imperative>
+	<imperfect>
+		<je>échappais</je>
+		<tu>échappais</tu>
+		<il>échappait</il>
+		<nous>échappions</nous>
+		<vous>échappiez</vous>
+		<ils>échappaient</ils>
+	</imperfect>
+	<future>
+		<je>échapperai</je>
+		<tu>échapperas</tu>
+		<il>échappera</il>
+		<nous>échapperons</nous>
+		<vous>échapperez</vous>
+		<ils>échapperont</ils>
+	</future>
+	<subjunctive>
+		<je>échappe</je>
+		<tu>échappes</tu>
+		<il>échappe</il>
+		<nous>échappions</nous>
+		<vous>échappiez</vous>
+		<ils>échappent</ils>
+	</subjunctive>
+	<conditional>
+		<je>échapperais</je>
+		<tu>échapperais</tu>
+		<il>échapperait</il>
+		<nous>échapperions</nous>
+		<vous>échapperiez</vous>
+		<ils>échapperaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>nourrir</infinitive>
+	<translation>to feed</translation>
+	<translation>nourish</translation>
+	<presentParticiple>nourrissant</presentParticiple>
+	<pastParticiple>nourri</pastParticiple>
+	<present>
+		<je>nourris</je>
+		<tu>nourris</tu>
+		<il>nourrit</il>
+		<nous>nourrissons</nous>
+		<vous>nourrissez</vous>
+		<ils>nourrissent</ils>
+	</present>
+	<imperative>
+		<tu>nourris</tu>
+		<nous>nourrissons</nous>
+		<vous>nourrissez</vous>
+	</imperative>
+	<imperfect>
+		<je>nourrissais</je>
+		<tu>nourrissais</tu>
+		<il>nourrissait</il>
+		<nous>nourrissions</nous>
+		<vous>nourrissiez</vous>
+		<ils>nourrissaient</ils>
+	</imperfect>
+	<future>
+		<je>nourrirai</je>
+		<tu>nourriras</tu>
+		<il>nourrira</il>
+		<nous>nourrirons</nous>
+		<vous>nourrirez</vous>
+		<ils>nourriront</ils>
+	</future>
+	<subjunctive>
+		<je>nourrisse</je>
+		<tu>nourrisses</tu>
+		<il>nourrisse</il>
+		<nous>nourrissions</nous>
+		<vous>nourrissiez</vous>
+		<ils>nourrissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>nourrirais</je>
+		<tu>nourrirais</tu>
+		<il>nourrirait</il>
+		<nous>nourririons</nous>
+		<vous>nourririez</vous>
+		<ils>nourriraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

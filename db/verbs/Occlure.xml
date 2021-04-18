@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>occlure</infinitive>
+	<translation>to occlude</translation>
+	<irregular />
+	<presentParticiple>occluant</presentParticiple>
+	<pastParticiple>occlus</pastParticiple>
+	<present>
+		<je>occlus</je>
+		<tu>occlus</tu>
+		<il>occlut</il>
+		<nous>occluons</nous>
+		<vous>occluez</vous>
+		<ils>occluent</ils>
+	</present>
+	<imperative>
+		<tu>occlus</tu>
+		<nous>occluons</nous>
+		<vous>occluez</vous>
+	</imperative>
+	<imperfect>
+		<je>occluais</je>
+		<tu>occluais</tu>
+		<il>occluait</il>
+		<nous>occluions</nous>
+		<vous>occluiez</vous>
+		<ils>occluaient</ils>
+	</imperfect>
+	<future>
+		<je>occlurai</je>
+		<tu>occluras</tu>
+		<il>occlura</il>
+		<nous>occlurons</nous>
+		<vous>occlurez</vous>
+		<ils>occluront</ils>
+	</future>
+	<subjunctive>
+		<je>occlue</je>
+		<tu>occlues</tu>
+		<il>occlue</il>
+		<nous>occluions</nous>
+		<vous>occluiez</vous>
+		<ils>occluent</ils>
+	</subjunctive>
+	<conditional>
+		<je>occlurais</je>
+		<tu>occlurais</tu>
+		<il>occlurait</il>
+		<nous>occlurions</nous>
+		<vous>occluriez</vous>
+		<ils>occluraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

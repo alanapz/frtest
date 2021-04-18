@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>traîner</infinitive>
+	<translation>to pull</translation>
+	<translation>drag</translation>
+	<presentParticiple>traînant</presentParticiple>
+	<pastParticiple>traîné</pastParticiple>
+	<present>
+		<je>traîne</je>
+		<tu>traînes</tu>
+		<il>traîne</il>
+		<nous>traînons</nous>
+		<vous>traînez</vous>
+		<ils>traînent</ils>
+	</present>
+	<imperative>
+		<tu>traîne</tu>
+		<nous>traînons</nous>
+		<vous>traînez</vous>
+	</imperative>
+	<imperfect>
+		<je>traînais</je>
+		<tu>traînais</tu>
+		<il>traînait</il>
+		<nous>traînions</nous>
+		<vous>traîniez</vous>
+		<ils>traînaient</ils>
+	</imperfect>
+	<future>
+		<je>traînerai</je>
+		<tu>traîneras</tu>
+		<il>traînera</il>
+		<nous>traînerons</nous>
+		<vous>traînerez</vous>
+		<ils>traîneront</ils>
+	</future>
+	<subjunctive>
+		<je>traîne</je>
+		<tu>traînes</tu>
+		<il>traîne</il>
+		<nous>traînions</nous>
+		<vous>traîniez</vous>
+		<ils>traînent</ils>
+	</subjunctive>
+	<conditional>
+		<je>traînerais</je>
+		<tu>traînerais</tu>
+		<il>traînerait</il>
+		<nous>traînerions</nous>
+		<vous>traîneriez</vous>
+		<ils>traîneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>encadrer</infinitive>
+	<translation>to frame</translation>
+	<translation>to train</translation>
+	<presentParticiple>encadrant</presentParticiple>
+	<pastParticiple>encadré</pastParticiple>
+	<present>
+		<je>encadre</je>
+		<tu>encadres</tu>
+		<il>encadre</il>
+		<nous>encadrons</nous>
+		<vous>encadrez</vous>
+		<ils>encadrent</ils>
+	</present>
+	<imperative>
+		<tu>encadre</tu>
+		<nous>encadrons</nous>
+		<vous>encadrez</vous>
+	</imperative>
+	<imperfect>
+		<je>encadrais</je>
+		<tu>encadrais</tu>
+		<il>encadrait</il>
+		<nous>encadrions</nous>
+		<vous>encadriez</vous>
+		<ils>encadraient</ils>
+	</imperfect>
+	<future>
+		<je>encadrerai</je>
+		<tu>encadreras</tu>
+		<il>encadrera</il>
+		<nous>encadrerons</nous>
+		<vous>encadrerez</vous>
+		<ils>encadreront</ils>
+	</future>
+	<subjunctive>
+		<je>encadre</je>
+		<tu>encadres</tu>
+		<il>encadre</il>
+		<nous>encadrions</nous>
+		<vous>encadriez</vous>
+		<ils>encadrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>encadrerais</je>
+		<tu>encadrerais</tu>
+		<il>encadrerait</il>
+		<nous>encadrerions</nous>
+		<vous>encadreriez</vous>
+		<ils>encadreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dépasser</infinitive>
+	<translation>to pass</translation>
+	<translation>overhang</translation>
+	<translation>exceed</translation>
+	<translation>surpass</translation>
+	<presentParticiple>dépassant</presentParticiple>
+	<pastParticiple>dépassé</pastParticiple>
+	<present>
+		<je>dépasse</je>
+		<tu>dépasses</tu>
+		<il>dépasse</il>
+		<nous>dépassons</nous>
+		<vous>dépassez</vous>
+		<ils>dépassent</ils>
+	</present>
+	<imperative>
+		<tu>dépasse</tu>
+		<nous>dépassons</nous>
+		<vous>dépassez</vous>
+	</imperative>
+	<imperfect>
+		<je>dépassais</je>
+		<tu>dépassais</tu>
+		<il>dépassait</il>
+		<nous>dépassions</nous>
+		<vous>dépassiez</vous>
+		<ils>dépassaient</ils>
+	</imperfect>
+	<future>
+		<je>dépasserai</je>
+		<tu>dépasseras</tu>
+		<il>dépassera</il>
+		<nous>dépasserons</nous>
+		<vous>dépasserez</vous>
+		<ils>dépasseront</ils>
+	</future>
+	<subjunctive>
+		<je>dépasse</je>
+		<tu>dépasses</tu>
+		<il>dépasse</il>
+		<nous>dépassions</nous>
+		<vous>dépassiez</vous>
+		<ils>dépassent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dépasserais</je>
+		<tu>dépasserais</tu>
+		<il>dépasserait</il>
+		<nous>dépasserions</nous>
+		<vous>dépasseriez</vous>
+		<ils>dépasseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>moudre</infinitive>
+	<translation>to mill</translation>
+	<translation>grind</translation>
+	<irregular />
+	<presentParticiple>moulant</presentParticiple>
+	<pastParticiple>moulu</pastParticiple>
+	<present>
+		<je>mouds</je>
+		<tu>mouds</tu>
+		<il>moud</il>
+		<nous>moulons</nous>
+		<vous>moulez</vous>
+		<ils>moulent</ils>
+	</present>
+	<imperative>
+		<tu>mouds</tu>
+		<nous>moulons</nous>
+		<vous>moulez</vous>
+	</imperative>
+	<imperfect>
+		<je>moulais</je>
+		<tu>moulais</tu>
+		<il>moulait</il>
+		<nous>moulions</nous>
+		<vous>mouliez</vous>
+		<ils>moulaient</ils>
+	</imperfect>
+	<future>
+		<je>moudrai</je>
+		<tu>moudras</tu>
+		<il>moudra</il>
+		<nous>moudrons</nous>
+		<vous>moudrez</vous>
+		<ils>moudront</ils>
+	</future>
+	<subjunctive>
+		<je>moule</je>
+		<tu>moules</tu>
+		<il>moule</il>
+		<nous>moulions</nous>
+		<vous>mouliez</vous>
+		<ils>moulent</ils>
+	</subjunctive>
+	<conditional>
+		<je>moudrais</je>
+		<tu>moudrais</tu>
+		<il>moudrait</il>
+		<nous>moudrions</nous>
+		<vous>moudriez</vous>
+		<ils>moudraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

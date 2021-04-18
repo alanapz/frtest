@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>proposer</infinitive>
+	<translation>to suggest</translation>
+	<translation>propose</translation>
+	<presentParticiple>proposant</presentParticiple>
+	<pastParticiple>proposé</pastParticiple>
+	<present>
+		<je>propose</je>
+		<tu>proposes</tu>
+		<il>propose</il>
+		<nous>proposons</nous>
+		<vous>proposez</vous>
+		<ils>proposent</ils>
+	</present>
+	<imperative>
+		<tu>propose</tu>
+		<nous>proposons</nous>
+		<vous>proposez</vous>
+	</imperative>
+	<imperfect>
+		<je>proposais</je>
+		<tu>proposais</tu>
+		<il>proposait</il>
+		<nous>proposions</nous>
+		<vous>proposiez</vous>
+		<ils>proposaient</ils>
+	</imperfect>
+	<future>
+		<je>proposerai</je>
+		<tu>proposeras</tu>
+		<il>proposera</il>
+		<nous>proposerons</nous>
+		<vous>proposerez</vous>
+		<ils>proposeront</ils>
+	</future>
+	<subjunctive>
+		<je>propose</je>
+		<tu>proposes</tu>
+		<il>propose</il>
+		<nous>proposions</nous>
+		<vous>proposiez</vous>
+		<ils>proposent</ils>
+	</subjunctive>
+	<conditional>
+		<je>proposerais</je>
+		<tu>proposerais</tu>
+		<il>proposerait</il>
+		<nous>proposerions</nous>
+		<vous>proposeriez</vous>
+		<ils>proposeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

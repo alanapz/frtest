@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>rouvrir</infinitive>
+            <translation>to reopen</translation>
+            <irregular />
+            <presentParticiple>rouvrant</presentParticiple>
+            <pastParticiple>rouvert</pastParticiple>
+            <present>
+                <je>rouvre</je>
+                <tu>rouvres</tu>
+                <il>rouvre</il>
+                <nous>rouvrons</nous>
+                <vous>rouvrez</vous>
+                <ils>rouvrent</ils>
+            </present>
+            <imperative>
+                <tu>rouvre</tu>
+                <nous>rouvrons</nous>
+                <vous>rouvrez</vous>
+            </imperative>
+            <imperfect>
+                <je>rouvrais</je>
+                <tu>rouvrais</tu>
+                <il>rouvrait</il>
+                <nous>rouvrions</nous>
+                <vous>rouvriez</vous>
+                <ils>rouvraient</ils>
+            </imperfect>
+            <future>
+                <je>rouvrirai</je>
+                <tu>rouvriras</tu>
+                <il>rouvrira</il>
+                <nous>rouvrirons</nous>
+                <vous>rouvrirez</vous>
+                <ils>rouvriront</ils>
+            </future>
+            <subjunctive>
+                <je>rouvre</je>
+                <tu>rouvres</tu>
+                <il>rouvre</il>
+                <nous>rouvrions</nous>
+                <vous>rouvriez</vous>
+                <ils>rouvrent</ils>
+            </subjunctive>
+            <conditional>
+                <je>rouvrirais</je>
+                <tu>rouvrirais</tu>
+                <il>rouvrirait</il>
+                <nous>rouvririons</nous>
+                <vous>rouvririez</vous>
+                <ils>rouvriraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>rétablir</infinitive>
+            <translation>to re-establish</translation>
+            <presentParticiple>rétablissant</presentParticiple>
+            <pastParticiple>rétabli</pastParticiple>
+            <present>
+                <je>rétablis</je>
+                <tu>rétablis</tu>
+                <il>rétablit</il>
+                <nous>rétablissons</nous>
+                <vous>rétablissez</vous>
+                <ils>rétablissent</ils>
+            </present>
+            <imperative>
+                <tu>rétablis</tu>
+                <nous>rétablissons</nous>
+                <vous>rétablissez</vous>
+            </imperative>
+            <imperfect>
+                <je>rétablissais</je>
+                <tu>rétablissais</tu>
+                <il>rétablissait</il>
+                <nous>rétablissions</nous>
+                <vous>rétablissiez</vous>
+                <ils>rétablissaient</ils>
+            </imperfect>
+            <future>
+                <je>rétablirai</je>
+                <tu>rétabliras</tu>
+                <il>rétablira</il>
+                <nous>rétablirons</nous>
+                <vous>rétablirez</vous>
+                <ils>rétabliront</ils>
+            </future>
+            <subjunctive>
+                <je>rétablisse</je>
+                <tu>rétablisses</tu>
+                <il>rétablisse</il>
+                <nous>rétablissions</nous>
+                <vous>rétablissiez</vous>
+                <ils>rétablissent</ils>
+            </subjunctive>
+            <conditional>
+                <je>rétablirais</je>
+                <tu>rétablirais</tu>
+                <il>rétablirait</il>
+                <nous>rétablirions</nous>
+                <vous>rétabliriez</vous>
+                <ils>rétabliraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

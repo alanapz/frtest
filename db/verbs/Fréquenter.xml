@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>fréquenter</infinitive>
+	<translation>to go to</translation>
+	<translation>frequent</translation>
+	<presentParticiple>fréquentant</presentParticiple>
+	<pastParticiple>fréquenté</pastParticiple>
+	<present>
+		<je>fréquente</je>
+		<tu>fréquentes</tu>
+		<il>fréquente</il>
+		<nous>fréquentons</nous>
+		<vous>fréquentez</vous>
+		<ils>fréquentent</ils>
+	</present>
+	<imperative>
+		<tu>fréquente</tu>
+		<nous>fréquentons</nous>
+		<vous>fréquentez</vous>
+	</imperative>
+	<imperfect>
+		<je>fréquentais</je>
+		<tu>fréquentais</tu>
+		<il>fréquentait</il>
+		<nous>fréquentions</nous>
+		<vous>fréquentiez</vous>
+		<ils>fréquentaient</ils>
+	</imperfect>
+	<future>
+		<je>fréquenterai</je>
+		<tu>fréquenteras</tu>
+		<il>fréquentera</il>
+		<nous>fréquenterons</nous>
+		<vous>fréquenterez</vous>
+		<ils>fréquenteront</ils>
+	</future>
+	<subjunctive>
+		<je>fréquente</je>
+		<tu>fréquentes</tu>
+		<il>fréquente</il>
+		<nous>fréquentions</nous>
+		<vous>fréquentiez</vous>
+		<ils>fréquentent</ils>
+	</subjunctive>
+	<conditional>
+		<je>fréquenterais</je>
+		<tu>fréquenterais</tu>
+		<il>fréquenterait</il>
+		<nous>fréquenterions</nous>
+		<vous>fréquenteriez</vous>
+		<ils>fréquenteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

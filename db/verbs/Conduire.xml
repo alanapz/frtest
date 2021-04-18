@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>conduire</infinitive>
+            <translation>to drive</translation>
+            <translation>to lead</translation>
+            <transitive />
+            <presentParticiple>conduisant</presentParticiple>
+            <pastParticiple>conduit</pastParticiple>
+            <pronominal>
+                <translation>to behave</translation>
+            </pronominal>
+            <present>
+                <je>conduis</je>
+                <tu>conduis</tu>
+                <il>conduit</il>
+                <nous>conduisons</nous>
+                <vous>conduisez</vous>
+                <ils>conduisent</ils>
+            </present>
+            <imperative>
+                <tu>conduis</tu>
+                <nous>conduisons</nous>
+                <vous>conduisez</vous>
+            </imperative>
+            <imperfect>
+                <je>conduisais</je>
+                <tu>conduisais</tu>
+                <il>conduisait</il>
+                <nous>conduisions</nous>
+                <vous>conduisiez</vous>
+                <ils>conduisaient</ils>
+            </imperfect>
+            <future>
+                <je>conduirai</je>
+                <tu>conduiras</tu>
+                <il>conduira</il>
+                <nous>conduirons</nous>
+                <vous>conduirez</vous>
+                <ils>conduiront</ils>
+            </future>
+            <subjunctive>
+                <je>conduise</je>
+                <tu>conduises</tu>
+                <il>conduise</il>
+                <nous>conduisions</nous>
+                <vous>conduisiez</vous>
+                <ils>conduisent</ils>
+            </subjunctive>
+            <conditional>
+                <je>conduirais</je>
+                <tu>conduirais</tu>
+                <il>conduirait</il>
+                <nous>conduirions</nous>
+                <vous>conduiriez</vous>
+                <ils>conduiraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

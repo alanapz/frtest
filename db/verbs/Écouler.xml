@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>écouler</infinitive>
+	<translation>to sell</translation>
+	<presentParticiple>écoulant</presentParticiple>
+	<pastParticiple>écoulé</pastParticiple>
+	<present>
+		<je>écoule</je>
+		<tu>écoules</tu>
+		<il>écoule</il>
+		<nous>écoulons</nous>
+		<vous>écoulez</vous>
+		<ils>écoulent</ils>
+	</present>
+	<imperative>
+		<tu>écoule</tu>
+		<nous>écoulons</nous>
+		<vous>écoulez</vous>
+	</imperative>
+	<imperfect>
+		<je>écoulais</je>
+		<tu>écoulais</tu>
+		<il>écoulait</il>
+		<nous>écoulions</nous>
+		<vous>écouliez</vous>
+		<ils>écoulaient</ils>
+	</imperfect>
+	<future>
+		<je>écoulerai</je>
+		<tu>écouleras</tu>
+		<il>écoulera</il>
+		<nous>écoulerons</nous>
+		<vous>écoulerez</vous>
+		<ils>écouleront</ils>
+	</future>
+	<subjunctive>
+		<je>écoule</je>
+		<tu>écoules</tu>
+		<il>écoule</il>
+		<nous>écoulions</nous>
+		<vous>écouliez</vous>
+		<ils>écoulent</ils>
+	</subjunctive>
+	<conditional>
+		<je>écoulerais</je>
+		<tu>écoulerais</tu>
+		<il>écoulerait</il>
+		<nous>écoulerions</nous>
+		<vous>écouleriez</vous>
+		<ils>écouleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>interrompre</infinitive>
+	<translation>to interrupt</translation>
+	<irregular />
+	<presentParticiple>interrompant</presentParticiple>
+	<pastParticiple>interrompu</pastParticiple>
+	<present>
+		<je>interromps</je>
+		<tu>interromps</tu>
+		<il>interrompt</il>
+		<nous>interrompons</nous>
+		<vous>interrompez</vous>
+		<ils>interrompent</ils>
+	</present>
+	<imperative>
+		<tu>interromps</tu>
+		<nous>interrompons</nous>
+		<vous>interrompez</vous>
+	</imperative>
+	<imperfect>
+		<je>interrompais</je>
+		<tu>interrompais</tu>
+		<il>interrompait</il>
+		<nous>interrompions</nous>
+		<vous>interrompiez</vous>
+		<ils>interrompaient</ils>
+	</imperfect>
+	<future>
+		<je>interromprai</je>
+		<tu>interrompras</tu>
+		<il>interrompra</il>
+		<nous>interromprons</nous>
+		<vous>interromprez</vous>
+		<ils>interrompront</ils>
+	</future>
+	<subjunctive>
+		<je>interrompe</je>
+		<tu>interrompes</tu>
+		<il>interrompe</il>
+		<nous>interrompions</nous>
+		<vous>interrompiez</vous>
+		<ils>interrompent</ils>
+	</subjunctive>
+	<conditional>
+		<je>interromprais</je>
+		<tu>interromprais</tu>
+		<il>interromprait</il>
+		<nous>interromprions</nous>
+		<vous>interrompriez</vous>
+		<ils>interrompraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

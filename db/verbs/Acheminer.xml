@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>acheminer</infinitive>
+	<translation>to forward</translation>
+	<translation>dispatch</translation>
+	<translation>transport</translation>
+	<presentParticiple>acheminant</presentParticiple>
+	<pastParticiple>acheminé</pastParticiple>
+	<present>
+		<je>achemine</je>
+		<tu>achemines</tu>
+		<il>achemine</il>
+		<nous>acheminons</nous>
+		<vous>acheminez</vous>
+		<ils>acheminent</ils>
+	</present>
+	<imperative>
+		<tu>achemine</tu>
+		<nous>acheminons</nous>
+		<vous>acheminez</vous>
+	</imperative>
+	<imperfect>
+		<je>acheminais</je>
+		<tu>acheminais</tu>
+		<il>acheminait</il>
+		<nous>acheminions</nous>
+		<vous>acheminiez</vous>
+		<ils>acheminaient</ils>
+	</imperfect>
+	<future>
+		<je>acheminerai</je>
+		<tu>achemineras</tu>
+		<il>acheminera</il>
+		<nous>acheminerons</nous>
+		<vous>acheminerez</vous>
+		<ils>achemineront</ils>
+	</future>
+	<subjunctive>
+		<je>achemine</je>
+		<tu>achemines</tu>
+		<il>achemine</il>
+		<nous>acheminions</nous>
+		<vous>acheminiez</vous>
+		<ils>acheminent</ils>
+	</subjunctive>
+	<conditional>
+		<je>acheminerais</je>
+		<tu>acheminerais</tu>
+		<il>acheminerait</il>
+		<nous>acheminerions</nous>
+		<vous>achemineriez</vous>
+		<ils>achemineraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

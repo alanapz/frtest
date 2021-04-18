@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>courber</infinitive>
+            <translation>to bend</translation>
+            <presentParticiple>courbant</presentParticiple>
+            <pastParticiple>courbé</pastParticiple>
+            <present>
+                <je>courbe</je>
+                <tu>courbes</tu>
+                <il>courbe</il>
+                <nous>courbons</nous>
+                <vous>courbez</vous>
+                <ils>courbent</ils>
+            </present>
+            <imperative>
+                <tu>courbe</tu>
+                <nous>courbons</nous>
+                <vous>courbez</vous>
+            </imperative>
+            <imperfect>
+                <je>courbais</je>
+                <tu>courbais</tu>
+                <il>courbait</il>
+                <nous>courbions</nous>
+                <vous>courbiez</vous>
+                <ils>courbaient</ils>
+            </imperfect>
+            <future>
+                <je>courberai</je>
+                <tu>courberas</tu>
+                <il>courbera</il>
+                <nous>courberons</nous>
+                <vous>courberez</vous>
+                <ils>courberont</ils>
+            </future>
+            <subjunctive>
+                <je>courbe</je>
+                <tu>courbes</tu>
+                <il>courbe</il>
+                <nous>courbions</nous>
+                <vous>courbiez</vous>
+                <ils>courbent</ils>
+            </subjunctive>
+            <conditional>
+                <je>courberais</je>
+                <tu>courberais</tu>
+                <il>courberait</il>
+                <nous>courberions</nous>
+                <vous>courberiez</vous>
+                <ils>courberaient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

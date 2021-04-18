@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>assouplir</infinitive>
+	<translation>to soften</translation>
+	<presentParticiple>assouplissant</presentParticiple>
+	<pastParticiple>assoupli</pastParticiple>
+	<present>
+		<je>assouplis</je>
+		<tu>assouplis</tu>
+		<il>assouplit</il>
+		<nous>assouplissons</nous>
+		<vous>assouplissez</vous>
+		<ils>assouplissent</ils>
+	</present>
+	<imperative>
+		<tu>assouplis</tu>
+		<nous>assouplissons</nous>
+		<vous>assouplissez</vous>
+	</imperative>
+	<imperfect>
+		<je>assouplissais</je>
+		<tu>assouplissais</tu>
+		<il>assouplissait</il>
+		<nous>assouplissions</nous>
+		<vous>assouplissiez</vous>
+		<ils>assouplissaient</ils>
+	</imperfect>
+	<future>
+		<je>assouplirai</je>
+		<tu>assoupliras</tu>
+		<il>assouplira</il>
+		<nous>assouplirons</nous>
+		<vous>assouplirez</vous>
+		<ils>assoupliront</ils>
+	</future>
+	<subjunctive>
+		<je>assouplisse</je>
+		<tu>assouplisses</tu>
+		<il>assouplisse</il>
+		<nous>assouplissions</nous>
+		<vous>assouplissiez</vous>
+		<ils>assouplissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>assouplirais</je>
+		<tu>assouplirais</tu>
+		<il>assouplirait</il>
+		<nous>assouplirions</nous>
+		<vous>assoupliriez</vous>
+		<ils>assoupliraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

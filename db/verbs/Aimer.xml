@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>aimer</infinitive>
+	<translation>to like</translation>
+	<translation>love</translation>
+	<presentParticiple>aimant</presentParticiple>
+	<pastParticiple>aimé</pastParticiple>
+	<present>
+		<je>aime</je>
+		<tu>aimes</tu>
+		<il>aime</il>
+		<nous>aimons</nous>
+		<vous>aimez</vous>
+		<ils>aiment</ils>
+	</present>
+	<imperative>
+		<tu>aime</tu>
+		<nous>aimons</nous>
+		<vous>aimez</vous>
+	</imperative>
+	<imperfect>
+		<je>aimais</je>
+		<tu>aimais</tu>
+		<il>aimait</il>
+		<nous>aimions</nous>
+		<vous>aimiez</vous>
+		<ils>aimaient</ils>
+	</imperfect>
+	<future>
+		<je>aimerai</je>
+		<tu>aimeras</tu>
+		<il>aimera</il>
+		<nous>aimerons</nous>
+		<vous>aimerez</vous>
+		<ils>aimeront</ils>
+	</future>
+	<subjunctive>
+		<je>aime</je>
+		<tu>aimes</tu>
+		<il>aime</il>
+		<nous>aimions</nous>
+		<vous>aimiez</vous>
+		<ils>aiment</ils>
+	</subjunctive>
+	<conditional>
+		<je>aimerais</je>
+		<tu>aimerais</tu>
+		<il>aimerait</il>
+		<nous>aimerions</nous>
+		<vous>aimeriez</vous>
+		<ils>aimeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

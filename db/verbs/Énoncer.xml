@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>énoncer</infinitive>
+	<translation>to express</translation>
+	<translation>state</translation>
+	<spellingChange />
+	<presentParticiple>énonçant</presentParticiple>
+	<pastParticiple>énoncé</pastParticiple>
+	<present>
+		<je>énonce</je>
+		<tu>énonces</tu>
+		<il>énonce</il>
+		<nous>énonçons</nous>
+		<vous>énoncez</vous>
+		<ils>énoncent</ils>
+	</present>
+	<imperative>
+		<tu>énonce</tu>
+		<nous>énonçons</nous>
+		<vous>énoncez</vous>
+	</imperative>
+	<imperfect>
+		<je>énonçais</je>
+		<tu>énonçais</tu>
+		<il>énonçait</il>
+		<nous>énoncions</nous>
+		<vous>énonciez</vous>
+		<ils>énonçaient</ils>
+	</imperfect>
+	<future>
+		<je>énoncerai</je>
+		<tu>énonceras</tu>
+		<il>énoncera</il>
+		<nous>énoncerons</nous>
+		<vous>énoncerez</vous>
+		<ils>énonceront</ils>
+	</future>
+	<subjunctive>
+		<je>énonce</je>
+		<tu>énonces</tu>
+		<il>énonce</il>
+		<nous>énoncions</nous>
+		<vous>énonciez</vous>
+		<ils>énoncent</ils>
+	</subjunctive>
+	<conditional>
+		<je>énoncerais</je>
+		<tu>énoncerais</tu>
+		<il>énoncerait</il>
+		<nous>énoncerions</nous>
+		<vous>énonceriez</vous>
+		<ils>énonceraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

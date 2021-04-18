@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>inviter</infinitive>
+	<translation>to invite</translation>
+	<presentParticiple>invitant</presentParticiple>
+	<pastParticiple>invité</pastParticiple>
+	<present>
+		<je>invite</je>
+		<tu>invites</tu>
+		<il>invite</il>
+		<nous>invitons</nous>
+		<vous>invitez</vous>
+		<ils>invitent</ils>
+	</present>
+	<imperative>
+		<tu>invite</tu>
+		<nous>invitons</nous>
+		<vous>invitez</vous>
+	</imperative>
+	<imperfect>
+		<je>invitais</je>
+		<tu>invitais</tu>
+		<il>invitait</il>
+		<nous>invitions</nous>
+		<vous>invitiez</vous>
+		<ils>invitaient</ils>
+	</imperfect>
+	<future>
+		<je>inviterai</je>
+		<tu>inviteras</tu>
+		<il>invitera</il>
+		<nous>inviterons</nous>
+		<vous>inviterez</vous>
+		<ils>inviteront</ils>
+	</future>
+	<subjunctive>
+		<je>invite</je>
+		<tu>invites</tu>
+		<il>invite</il>
+		<nous>invitions</nous>
+		<vous>invitiez</vous>
+		<ils>invitent</ils>
+	</subjunctive>
+	<conditional>
+		<je>inviterais</je>
+		<tu>inviterais</tu>
+		<il>inviterait</il>
+		<nous>inviterions</nous>
+		<vous>inviteriez</vous>
+		<ils>inviteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

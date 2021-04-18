@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>blâmer</infinitive>
+	<translation>to blame</translation>
+	<presentParticiple>blâmant</presentParticiple>
+	<pastParticiple>blâmé</pastParticiple>
+	<present>
+		<je>blâme</je>
+		<tu>blâmes</tu>
+		<il>blâme</il>
+		<nous>blâmons</nous>
+		<vous>blâmez</vous>
+		<ils>blâment</ils>
+	</present>
+	<imperative>
+		<tu>blâme</tu>
+		<nous>blâmons</nous>
+		<vous>blâmez</vous>
+	</imperative>
+	<imperfect>
+		<je>blâmais</je>
+		<tu>blâmais</tu>
+		<il>blâmait</il>
+		<nous>blâmions</nous>
+		<vous>blâmiez</vous>
+		<ils>blâmaient</ils>
+	</imperfect>
+	<future>
+		<je>blâmerai</je>
+		<tu>blâmeras</tu>
+		<il>blâmera</il>
+		<nous>blâmerons</nous>
+		<vous>blâmerez</vous>
+		<ils>blâmeront</ils>
+	</future>
+	<subjunctive>
+		<je>blâme</je>
+		<tu>blâmes</tu>
+		<il>blâme</il>
+		<nous>blâmions</nous>
+		<vous>blâmiez</vous>
+		<ils>blâment</ils>
+	</subjunctive>
+	<conditional>
+		<je>blâmerais</je>
+		<tu>blâmerais</tu>
+		<il>blâmerait</il>
+		<nous>blâmerions</nous>
+		<vous>blâmeriez</vous>
+		<ils>blâmeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

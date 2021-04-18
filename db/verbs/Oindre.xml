@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>oindre</infinitive>
+	<translation>to anoint</translation>
+	<irregular />
+	<presentParticiple>oignant</presentParticiple>
+	<pastParticiple>oint</pastParticiple>
+	<present>
+		<je>oins</je>
+		<tu>oins</tu>
+		<il>oint</il>
+		<nous>oignons</nous>
+		<vous>oignez</vous>
+		<ils>oignent</ils>
+	</present>
+	<imperative>
+		<tu>oins</tu>
+		<nous>oignons</nous>
+		<vous>oignez</vous>
+	</imperative>
+	<imperfect>
+		<je>oignais</je>
+		<tu>oignais</tu>
+		<il>oignait</il>
+		<nous>oignions</nous>
+		<vous>oigniez</vous>
+		<ils>oignaient</ils>
+	</imperfect>
+	<future>
+		<je>oindrai</je>
+		<tu>oindras</tu>
+		<il>oindra</il>
+		<nous>oindrons</nous>
+		<vous>oindrez</vous>
+		<ils>oindront</ils>
+	</future>
+	<subjunctive>
+		<je>oigne</je>
+		<tu>oignes</tu>
+		<il>oigne</il>
+		<nous>oignions</nous>
+		<vous>oigniez</vous>
+		<ils>oignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>oindrais</je>
+		<tu>oindrais</tu>
+		<il>oindrait</il>
+		<nous>oindrions</nous>
+		<vous>oindriez</vous>
+		<ils>oindraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

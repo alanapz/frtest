@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>enrichir</infinitive>
+	<translation>to enrich</translation>
+	<presentParticiple>enrichissant</presentParticiple>
+	<pastParticiple>enrichi</pastParticiple>
+	<present>
+		<je>enrichis</je>
+		<tu>enrichis</tu>
+		<il>enrichit</il>
+		<nous>enrichissons</nous>
+		<vous>enrichissez</vous>
+		<ils>enrichissent</ils>
+	</present>
+	<imperative>
+		<tu>enrichis</tu>
+		<nous>enrichissons</nous>
+		<vous>enrichissez</vous>
+	</imperative>
+	<imperfect>
+		<je>enrichissais</je>
+		<tu>enrichissais</tu>
+		<il>enrichissait</il>
+		<nous>enrichissions</nous>
+		<vous>enrichissiez</vous>
+		<ils>enrichissaient</ils>
+	</imperfect>
+	<future>
+		<je>enrichirai</je>
+		<tu>enrichiras</tu>
+		<il>enrichira</il>
+		<nous>enrichirons</nous>
+		<vous>enrichirez</vous>
+		<ils>enrichiront</ils>
+	</future>
+	<subjunctive>
+		<je>enrichisse</je>
+		<tu>enrichisses</tu>
+		<il>enrichisse</il>
+		<nous>enrichissions</nous>
+		<vous>enrichissiez</vous>
+		<ils>enrichissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>enrichirais</je>
+		<tu>enrichirais</tu>
+		<il>enrichirait</il>
+		<nous>enrichirions</nous>
+		<vous>enrichiriez</vous>
+		<ils>enrichiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

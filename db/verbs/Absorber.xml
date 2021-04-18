@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>absorber</infinitive>
+	<translation>to absorb</translation>
+	<presentParticiple>absorbant</presentParticiple>
+	<pastParticiple>absorbé</pastParticiple>
+	<present>
+		<je>absorbe</je>
+		<tu>absorbes</tu>
+		<il>absorbe</il>
+		<nous>absorbons</nous>
+		<vous>absorbez</vous>
+		<ils>absorbent</ils>
+	</present>
+	<imperative>
+		<tu>absorbe</tu>
+		<nous>absorbons</nous>
+		<vous>absorbez</vous>
+	</imperative>
+	<imperfect>
+		<je>absorbais</je>
+		<tu>absorbais</tu>
+		<il>absorbait</il>
+		<nous>absorbions</nous>
+		<vous>absorbiez</vous>
+		<ils>absorbaient</ils>
+	</imperfect>
+	<future>
+		<je>absorberai</je>
+		<tu>absorberas</tu>
+		<il>absorbera</il>
+		<nous>absorberons</nous>
+		<vous>absorberez</vous>
+		<ils>absorberont</ils>
+	</future>
+	<subjunctive>
+		<je>absorbe</je>
+		<tu>absorbes</tu>
+		<il>absorbe</il>
+		<nous>absorbions</nous>
+		<vous>absorbiez</vous>
+		<ils>absorbent</ils>
+	</subjunctive>
+	<conditional>
+		<je>absorberais</je>
+		<tu>absorberais</tu>
+		<il>absorberait</il>
+		<nous>absorberions</nous>
+		<vous>absorberiez</vous>
+		<ils>absorberaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

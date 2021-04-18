@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>encourir</infinitive>
+	<translation>to incur</translation>
+	<irregular />
+	<presentParticiple>encourant</presentParticiple>
+	<pastParticiple> encouru</pastParticiple>
+	<present>
+		<je>encours</je>
+		<tu>encours</tu>
+		<il>encourt</il>
+		<nous>encourons</nous>
+		<vous>encourez</vous>
+		<ils>encourent</ils>
+	</present>
+	<imperative>
+		<tu>encours</tu>
+		<nous>encourons</nous>
+		<vous>encourez</vous>
+	</imperative>
+	<imperfect>
+		<je>encourais</je>
+		<tu>encourais</tu>
+		<il>encourait</il>
+		<nous>encourions</nous>
+		<vous>encouriez</vous>
+		<ils>encouraient</ils>
+	</imperfect>
+	<future>
+		<je>encourrai</je>
+		<tu>encourras</tu>
+		<il>encourra</il>
+		<nous>encourrons</nous>
+		<vous>encourrez</vous>
+		<ils>encourront</ils>
+	</future>
+	<subjunctive>
+		<je>encoure</je>
+		<tu>encoures</tu>
+		<il>encoure</il>
+		<nous>encourions</nous>
+		<vous>encouriez</vous>
+		<ils>encourent</ils>
+	</subjunctive>
+	<conditional>
+		<je>encourrais</je>
+		<tu>encourrais</tu>
+		<il>encourrait</il>
+		<nous>encourrions</nous>
+		<vous>encourriez</vous>
+		<ils>encourraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

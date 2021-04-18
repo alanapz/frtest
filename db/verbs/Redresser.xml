@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>redresser</infinitive>
+	<translation>to straighten</translation>
+	<translation>to set right</translation>
+	<presentParticiple>redressant</presentParticiple>
+	<pastParticiple>redressé</pastParticiple>
+	<present>
+		<je>redresse</je>
+		<tu>redresses</tu>
+		<il>redresse</il>
+		<nous>redressons</nous>
+		<vous>redressez</vous>
+		<ils>redressent</ils>
+	</present>
+	<imperative>
+		<tu>redresse</tu>
+		<nous>redressons</nous>
+		<vous>redressez</vous>
+	</imperative>
+	<imperfect>
+		<je>redressais</je>
+		<tu>redressais</tu>
+		<il>redressait</il>
+		<nous>redressions</nous>
+		<vous>redressiez</vous>
+		<ils>redressaient</ils>
+	</imperfect>
+	<future>
+		<je>redresserai</je>
+		<tu>redresseras</tu>
+		<il>redressera</il>
+		<nous>redresserons</nous>
+		<vous>redresserez</vous>
+		<ils>redresseront</ils>
+	</future>
+	<subjunctive>
+		<je>redresse</je>
+		<tu>redresses</tu>
+		<il>redresse</il>
+		<nous>redressions</nous>
+		<vous>redressiez</vous>
+		<ils>redressent</ils>
+	</subjunctive>
+	<conditional>
+		<je>redresserais</je>
+		<tu>redresserais</tu>
+		<il>redresserait</il>
+		<nous>redresserions</nous>
+		<vous>redresseriez</vous>
+		<ils>redresseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

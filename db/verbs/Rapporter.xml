@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>rapporter</infinitive>
+	<translation>to bring again/back</translation>
+	<presentParticiple>rapportant</presentParticiple>
+	<pastParticiple>rapporté</pastParticiple>
+	<present>
+		<je>rapporte</je>
+		<tu>rapportes</tu>
+		<il>rapporte</il>
+		<nous>rapportons</nous>
+		<vous>rapportez</vous>
+		<ils>rapportent</ils>
+	</present>
+	<imperative>
+		<tu>rapporte</tu>
+		<nous>rapportons</nous>
+		<vous>rapportez</vous>
+	</imperative>
+	<imperfect>
+		<je>rapportais</je>
+		<tu>rapportais</tu>
+		<il>rapportait</il>
+		<nous>rapportions</nous>
+		<vous>rapportiez</vous>
+		<ils>rapportaient</ils>
+	</imperfect>
+	<future>
+		<je>rapporterai</je>
+		<tu>rapporteras</tu>
+		<il>rapportera</il>
+		<nous>rapporterons</nous>
+		<vous>rapporterez</vous>
+		<ils>rapporteront</ils>
+	</future>
+	<subjunctive>
+		<je>rapporte</je>
+		<tu>rapportes</tu>
+		<il>rapporte</il>
+		<nous>rapportions</nous>
+		<vous>rapportiez</vous>
+		<ils>rapportent</ils>
+	</subjunctive>
+	<conditional>
+		<je>rapporterais</je>
+		<tu>rapporterais</tu>
+		<il>rapporterait</il>
+		<nous>rapporterions</nous>
+		<vous>rapporteriez</vous>
+		<ils>rapporteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

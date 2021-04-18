@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>bénir</infinitive>
+            <translation>to bless</translation>
+            <presentParticiple>bénissant</presentParticiple>
+            <pastParticiple>béni</pastParticiple>
+            <present>
+                <je>bénis</je>
+                <tu>bénis</tu>
+                <il>bénit</il>
+                <nous>bénissons</nous>
+                <vous>bénissez</vous>
+                <ils>bénissent</ils>
+            </present>
+            <imperative>
+                <tu>bénis</tu>
+                <nous>bénissons</nous>
+                <vous>bénissez</vous>
+            </imperative>
+            <imperfect>
+                <je>bénissais</je>
+                <tu>bénissais</tu>
+                <il>bénissait</il>
+                <nous>bénissions</nous>
+                <vous>bénissiez</vous>
+                <ils>bénissaient</ils>
+            </imperfect>
+            <future>
+                <je>bénirai</je>
+                <tu>béniras</tu>
+                <il>bénira</il>
+                <nous>bénirons</nous>
+                <vous>bénirez</vous>
+                <ils>béniront</ils>
+            </future>
+            <subjunctive>
+                <je>bénisse</je>
+                <tu>bénisses</tu>
+                <il>bénisse</il>
+                <nous>bénissions</nous>
+                <vous>bénissiez</vous>
+                <ils>bénissent</ils>
+            </subjunctive>
+            <conditional>
+                <je>bénirais</je>
+                <tu>bénirais</tu>
+                <il>bénirait</il>
+                <nous>bénirions</nous>
+                <vous>béniriez</vous>
+                <ils>béniraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

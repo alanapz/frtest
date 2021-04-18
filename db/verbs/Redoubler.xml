@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>redoubler</infinitive>
+	<translation>to increase</translation>
+	<translation>intensify</translation>
+	<presentParticiple>redoublant</presentParticiple>
+	<pastParticiple>redoublé</pastParticiple>
+	<present>
+		<je>redouble</je>
+		<tu>redoubles</tu>
+		<il>redouble</il>
+		<nous>redoublons</nous>
+		<vous>redoublez</vous>
+		<ils>redoublent</ils>
+	</present>
+	<imperative>
+		<tu>redouble</tu>
+		<nous>redoublons</nous>
+		<vous>redoublez</vous>
+	</imperative>
+	<imperfect>
+		<je>redoublais</je>
+		<tu>redoublais</tu>
+		<il>redoublait</il>
+		<nous>redoublions</nous>
+		<vous>redoubliez</vous>
+		<ils>redoublaient</ils>
+	</imperfect>
+	<future>
+		<je>redoublerai</je>
+		<tu>redoubleras</tu>
+		<il>redoublera</il>
+		<nous>redoublerons</nous>
+		<vous>redoublerez</vous>
+		<ils>redoubleront</ils>
+	</future>
+	<subjunctive>
+		<je>redouble</je>
+		<tu>redoubles</tu>
+		<il>redouble</il>
+		<nous>redoublions</nous>
+		<vous>redoubliez</vous>
+		<ils>redoublent</ils>
+	</subjunctive>
+	<conditional>
+		<je>redoublerais</je>
+		<tu>redoublerais</tu>
+		<il>redoublerait</il>
+		<nous>redoublerions</nous>
+		<vous>redoubleriez</vous>
+		<ils>redoubleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

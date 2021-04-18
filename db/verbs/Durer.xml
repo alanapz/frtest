@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>durer</infinitive>
+	<translation>to last</translation>
+	<presentParticiple>durant</presentParticiple>
+	<pastParticiple>duré</pastParticiple>
+	<present>
+		<je>dure</je>
+		<tu>dures</tu>
+		<il>dure</il>
+		<nous>durons</nous>
+		<vous>durez</vous>
+		<ils>durent</ils>
+	</present>
+	<imperative>
+		<tu>dure</tu>
+		<nous>durons</nous>
+		<vous>durez</vous>
+	</imperative>
+	<imperfect>
+		<je>durais</je>
+		<tu>durais</tu>
+		<il>durait</il>
+		<nous>durions</nous>
+		<vous>duriez</vous>
+		<ils>duraient</ils>
+	</imperfect>
+	<future>
+		<je>durerai</je>
+		<tu>dureras</tu>
+		<il>durera</il>
+		<nous>durerons</nous>
+		<vous>durerez</vous>
+		<ils>dureront</ils>
+	</future>
+	<subjunctive>
+		<je>dure</je>
+		<tu>dures</tu>
+		<il>dure</il>
+		<nous>durions</nous>
+		<vous>duriez</vous>
+		<ils>durent</ils>
+	</subjunctive>
+	<conditional>
+		<je>durerais</je>
+		<tu>durerais</tu>
+		<il>durerait</il>
+		<nous>durerions</nous>
+		<vous>dureriez</vous>
+		<ils>dureraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

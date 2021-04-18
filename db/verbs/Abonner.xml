@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>abonner</infinitive>
+	<translation>to subscribe</translation>
+	<presentParticiple>abonnant</presentParticiple>
+	<pastParticiple>abonné</pastParticiple>
+	<present>
+		<je>abonne</je>
+		<tu>abonnes</tu>
+		<il>abonne</il>
+		<nous>abonnons</nous>
+		<vous>abonnez</vous>
+		<ils>abonnent</ils>
+	</present>
+	<imperative>
+		<tu>abonne</tu>
+		<nous>abonnons</nous>
+		<vous>abonnez</vous>
+	</imperative>
+	<imperfect>
+		<je>abonnais</je>
+		<tu>abonnais</tu>
+		<il>abonnait</il>
+		<nous>abonnions</nous>
+		<vous>abonniez</vous>
+		<ils>abonnaient</ils>
+	</imperfect>
+	<future>
+		<je>abonnerai</je>
+		<tu>abonneras</tu>
+		<il>abonnera</il>
+		<nous>abonnerons</nous>
+		<vous>abonnerez</vous>
+		<ils>abonneront</ils>
+	</future>
+	<subjunctive>
+		<je>abonne</je>
+		<tu>abonnes</tu>
+		<il>abonne</il>
+		<nous>abonnions</nous>
+		<vous>abonniez</vous>
+		<ils>abonnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>abonnerais</je>
+		<tu>abonnerais</tu>
+		<il>abonnerait</il>
+		<nous>abonnerions</nous>
+		<vous>abonneriez</vous>
+		<ils>abonneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

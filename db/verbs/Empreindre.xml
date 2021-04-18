@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>empreindre</infinitive>
+	<translation>to imprint</translation>
+	<irregular />
+	<presentParticiple>empreignant</presentParticiple>
+	<pastParticiple>empreint</pastParticiple>
+	<present>
+		<je>empreins</je>
+		<tu>empreins</tu>
+		<il>empreint</il>
+		<nous>empreignons</nous>
+		<vous>empreignez</vous>
+		<ils>empreignent</ils>
+	</present>
+	<imperative>
+		<tu>empreins</tu>
+		<nous>empreignons</nous>
+		<vous>empreignez</vous>
+	</imperative>
+	<imperfect>
+		<je>empreignais</je>
+		<tu>empreignais</tu>
+		<il>empreignait</il>
+		<nous>empreignions</nous>
+		<vous>empreigniez</vous>
+		<ils>empreignaient</ils>
+	</imperfect>
+	<future>
+		<je>empreindrai</je>
+		<tu>empreindras</tu>
+		<il>empreindra</il>
+		<nous>empreindrons</nous>
+		<vous>empreindrez</vous>
+		<ils>empreindront</ils>
+	</future>
+	<subjunctive>
+		<je>empreigne</je>
+		<tu>empreignes</tu>
+		<il>empreigne</il>
+		<nous>empreignions</nous>
+		<vous>empreigniez</vous>
+		<ils>empreignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>empreindrais</je>
+		<tu>empreindrais</tu>
+		<il>empreindrait</il>
+		<nous>empreindrions</nous>
+		<vous>empreindriez</vous>
+		<ils>empreindraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

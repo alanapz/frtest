@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>consentir</infinitive>
+	<translation>to consent</translation>
+	<irregular />
+	<presentParticiple>consentant</presentParticiple>
+	<pastParticiple> consenti</pastParticiple>
+	<present>
+		<je>consens</je>
+		<tu>consens</tu>
+		<il>consent</il>
+		<nous>consentons</nous>
+		<vous>consentez</vous>
+		<ils>consentent</ils>
+	</present>
+	<imperative>
+		<tu>consens</tu>
+		<nous>consentons</nous>
+		<vous>consentez</vous>
+	</imperative>
+	<imperfect>
+		<je>consentais</je>
+		<tu>consentais</tu>
+		<il>consentait</il>
+		<nous>consentions</nous>
+		<vous>consentiez</vous>
+		<ils>consentaient</ils>
+	</imperfect>
+	<future>
+		<je>consentirai</je>
+		<tu>consentiras</tu>
+		<il>consentira</il>
+		<nous>consentirons</nous>
+		<vous>consentirez</vous>
+		<ils>consentiront</ils>
+	</future>
+	<subjunctive>
+		<je>consente</je>
+		<tu>consentes</tu>
+		<il>consente</il>
+		<nous>consentions</nous>
+		<vous>consentiez</vous>
+		<ils>consentent</ils>
+	</subjunctive>
+	<conditional>
+		<je>consentirais</je>
+		<tu>consentirais</tu>
+		<il>consentirait</il>
+		<nous>consentirions</nous>
+		<vous>consentiriez</vous>
+		<ils>consentiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

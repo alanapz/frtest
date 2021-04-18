@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>ménager</infinitive>
+	<translation>to handle carefully</translation>
+	<translation>go easy on</translation>
+	<translation>to bring about</translation>
+	<spellingChange />
+	<presentParticiple>ménageant</presentParticiple>
+	<pastParticiple>ménagé</pastParticiple>
+	<present>
+		<je>ménage</je>
+		<tu>ménages</tu>
+		<il>ménage</il>
+		<nous>ménageons</nous>
+		<vous>ménagez</vous>
+		<ils>ménagent</ils>
+	</present>
+	<imperative>
+		<tu>ménage</tu>
+		<nous>ménageons</nous>
+		<vous>ménagez</vous>
+	</imperative>
+	<imperfect>
+		<je>ménageais</je>
+		<tu>ménageais</tu>
+		<il>ménageait</il>
+		<nous>ménagions</nous>
+		<vous>ménagiez</vous>
+		<ils>ménageaient</ils>
+	</imperfect>
+	<future>
+		<je>ménagerai</je>
+		<tu>ménageras</tu>
+		<il>ménagera</il>
+		<nous>ménagerons</nous>
+		<vous>ménagerez</vous>
+		<ils>ménageront</ils>
+	</future>
+	<subjunctive>
+		<je>ménage</je>
+		<tu>ménages</tu>
+		<il>ménage</il>
+		<nous>ménagions</nous>
+		<vous>ménagiez</vous>
+		<ils>ménagent</ils>
+	</subjunctive>
+	<conditional>
+		<je>ménagerais</je>
+		<tu>ménagerais</tu>
+		<il>ménagerait</il>
+		<nous>ménagerions</nous>
+		<vous>ménageriez</vous>
+		<ils>ménageraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

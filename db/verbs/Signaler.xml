@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>signaler</infinitive>
+	<translation>to signal</translation>
+	<presentParticiple>signalant</presentParticiple>
+	<pastParticiple>signalé</pastParticiple>
+	<present>
+		<je>signale</je>
+		<tu>signales</tu>
+		<il>signale</il>
+		<nous>signalons</nous>
+		<vous>signalez</vous>
+		<ils>signalent</ils>
+	</present>
+	<imperative>
+		<tu>signale</tu>
+		<nous>signalons</nous>
+		<vous>signalez</vous>
+	</imperative>
+	<imperfect>
+		<je>signalais</je>
+		<tu>signalais</tu>
+		<il>signalait</il>
+		<nous>signalions</nous>
+		<vous>signaliez</vous>
+		<ils>signalaient</ils>
+	</imperfect>
+	<future>
+		<je>signalerai</je>
+		<tu>signaleras</tu>
+		<il>signalera</il>
+		<nous>signalerons</nous>
+		<vous>signalerez</vous>
+		<ils>signaleront</ils>
+	</future>
+	<subjunctive>
+		<je>signale</je>
+		<tu>signales</tu>
+		<il>signale</il>
+		<nous>signalions</nous>
+		<vous>signaliez</vous>
+		<ils>signalent</ils>
+	</subjunctive>
+	<conditional>
+		<je>signalerais</je>
+		<tu>signalerais</tu>
+		<il>signalerait</il>
+		<nous>signalerions</nous>
+		<vous>signaleriez</vous>
+		<ils>signaleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

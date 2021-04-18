@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>diriger</infinitive>
+	<translation>to direct</translation>
+	<spellingChange />
+	<presentParticiple>dirigeant</presentParticiple>
+	<pastParticiple>dirigé</pastParticiple>
+	<present>
+		<je>dirige</je>
+		<tu>diriges</tu>
+		<il>dirige</il>
+		<nous>dirigeons</nous>
+		<vous>dirigez</vous>
+		<ils>dirigent</ils>
+	</present>
+	<imperative>
+		<tu>dirige</tu>
+		<nous>dirigeons</nous>
+		<vous>dirigez</vous>
+	</imperative>
+	<imperfect>
+		<je>dirigeais</je>
+		<tu>dirigeais</tu>
+		<il>dirigeait</il>
+		<nous>dirigions</nous>
+		<vous>dirigiez</vous>
+		<ils>dirigeaient</ils>
+	</imperfect>
+	<future>
+		<je>dirigerai</je>
+		<tu>dirigeras</tu>
+		<il>dirigera</il>
+		<nous>dirigerons</nous>
+		<vous>dirigerez</vous>
+		<ils>dirigeront</ils>
+	</future>
+	<subjunctive>
+		<je>dirige</je>
+		<tu>diriges</tu>
+		<il>dirige</il>
+		<nous>dirigions</nous>
+		<vous>dirigiez</vous>
+		<ils>dirigent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dirigerais</je>
+		<tu>dirigerais</tu>
+		<il>dirigerait</il>
+		<nous>dirigerions</nous>
+		<vous>dirigeriez</vous>
+		<ils>dirigeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

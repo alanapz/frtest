@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>finir</infinitive>
+            <translation>to finish</translation>
+            <presentParticiple>finissant</presentParticiple>
+            <pastParticiple>fini</pastParticiple>
+            <present>
+                <je>finis</je>
+                <tu>finis</tu>
+                <il>finit</il>
+                <nous>finissons</nous>
+                <vous>finissez</vous>
+                <ils>finissent</ils>
+            </present>
+            <imperative>
+                <tu>finis</tu>
+                <nous>finissons</nous>
+                <vous>finissez</vous>
+            </imperative>
+            <imperfect>
+                <je>finissais</je>
+                <tu>finissais</tu>
+                <il>finissait</il>
+                <nous>finissions</nous>
+                <vous>finissiez</vous>
+                <ils>finissaient</ils>
+            </imperfect>
+            <future>
+                <je>finirai</je>
+                <tu>finiras</tu>
+                <il>finira</il>
+                <nous>finirons</nous>
+                <vous>finirez</vous>
+                <ils>finiront</ils>
+            </future>
+            <subjunctive>
+                <je>finisse</je>
+                <tu>finisses</tu>
+                <il>finisse</il>
+                <nous>finissions</nous>
+                <vous>finissiez</vous>
+                <ils>finissent</ils>
+            </subjunctive>
+            <conditional>
+                <je>finirais</je>
+                <tu>finirais</tu>
+                <il>finirait</il>
+                <nous>finirions</nous>
+                <vous>finiriez</vous>
+                <ils>finiraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

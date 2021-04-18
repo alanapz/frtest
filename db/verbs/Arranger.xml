@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>arranger</infinitive>
+	<translation>to arrange</translation>
+	<spellingChange />
+	<presentParticiple>arrangeant</presentParticiple>
+	<pastParticiple>arrangé</pastParticiple>
+	<present>
+		<je>arrange</je>
+		<tu>arranges</tu>
+		<il>arrange</il>
+		<nous>arrangeons</nous>
+		<vous>arrangez</vous>
+		<ils>arrangent</ils>
+	</present>
+	<imperative>
+		<tu>arrange</tu>
+		<nous>arrangeons</nous>
+		<vous>arrangez</vous>
+	</imperative>
+	<imperfect>
+		<je>arrangeais</je>
+		<tu>arrangeais</tu>
+		<il>arrangeait</il>
+		<nous>arrangions</nous>
+		<vous>arrangiez</vous>
+		<ils>arrangeaient</ils>
+	</imperfect>
+	<future>
+		<je>arrangerai</je>
+		<tu>arrangeras</tu>
+		<il>arrangera</il>
+		<nous>arrangerons</nous>
+		<vous>arrangerez</vous>
+		<ils>arrangeront</ils>
+	</future>
+	<subjunctive>
+		<je>arrange</je>
+		<tu>arranges</tu>
+		<il>arrange</il>
+		<nous>arrangions</nous>
+		<vous>arrangiez</vous>
+		<ils>arrangent</ils>
+	</subjunctive>
+	<conditional>
+		<je>arrangerais</je>
+		<tu>arrangerais</tu>
+		<il>arrangerait</il>
+		<nous>arrangerions</nous>
+		<vous>arrangeriez</vous>
+		<ils>arrangeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

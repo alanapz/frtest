@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>agiter</infinitive>
+	<translation>to wave</translation>
+	<translation>flutter</translation>
+	<translation>to trouble</translation>
+	<translation>to debate</translation>
+	<presentParticiple>agitant</presentParticiple>
+	<pastParticiple>agité</pastParticiple>
+	<present>
+		<je>agite</je>
+		<tu>agites</tu>
+		<il>agite</il>
+		<nous>agitons</nous>
+		<vous>agitez</vous>
+		<ils>agitent</ils>
+	</present>
+	<imperative>
+		<tu>agite</tu>
+		<nous>agitons</nous>
+		<vous>agitez</vous>
+	</imperative>
+	<imperfect>
+		<je>agitais</je>
+		<tu>agitais</tu>
+		<il>agitait</il>
+		<nous>agitions</nous>
+		<vous>agitiez</vous>
+		<ils>agitaient</ils>
+	</imperfect>
+	<future>
+		<je>agiterai</je>
+		<tu>agiteras</tu>
+		<il>agitera</il>
+		<nous>agiterons</nous>
+		<vous>agiterez</vous>
+		<ils>agiteront</ils>
+	</future>
+	<subjunctive>
+		<je>agite</je>
+		<tu>agites</tu>
+		<il>agite</il>
+		<nous>agitions</nous>
+		<vous>agitiez</vous>
+		<ils>agitent</ils>
+	</subjunctive>
+	<conditional>
+		<je>agiterais</je>
+		<tu>agiterais</tu>
+		<il>agiterait</il>
+		<nous>agiterions</nous>
+		<vous>agiteriez</vous>
+		<ils>agiteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

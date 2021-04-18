@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>invoquer</infinitive>
+	<translation>to invoke</translation>
+	<presentParticiple>invoquant</presentParticiple>
+	<pastParticiple>invoqué</pastParticiple>
+	<present>
+		<je>invoque</je>
+		<tu>invoques</tu>
+		<il>invoque</il>
+		<nous>invoquons</nous>
+		<vous>invoquez</vous>
+		<ils>invoquent</ils>
+	</present>
+	<imperative>
+		<tu>invoque</tu>
+		<nous>invoquons</nous>
+		<vous>invoquez</vous>
+	</imperative>
+	<imperfect>
+		<je>invoquais</je>
+		<tu>invoquais</tu>
+		<il>invoquait</il>
+		<nous>invoquions</nous>
+		<vous>invoquiez</vous>
+		<ils>invoquaient</ils>
+	</imperfect>
+	<future>
+		<je>invoquerai</je>
+		<tu>invoqueras</tu>
+		<il>invoquera</il>
+		<nous>invoquerons</nous>
+		<vous>invoquerez</vous>
+		<ils>invoqueront</ils>
+	</future>
+	<subjunctive>
+		<je>invoque</je>
+		<tu>invoques</tu>
+		<il>invoque</il>
+		<nous>invoquions</nous>
+		<vous>invoquiez</vous>
+		<ils>invoquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>invoquerais</je>
+		<tu>invoquerais</tu>
+		<il>invoquerait</il>
+		<nous>invoquerions</nous>
+		<vous>invoqueriez</vous>
+		<ils>invoqueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

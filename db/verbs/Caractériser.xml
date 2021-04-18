@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>caractériser</infinitive>
+	<translation>to characterize</translation>
+	<presentParticiple>caractérisant</presentParticiple>
+	<pastParticiple>caractérisé</pastParticiple>
+	<present>
+		<je>caractérise</je>
+		<tu>caractérises</tu>
+		<il>caractérise</il>
+		<nous>caractérisons</nous>
+		<vous>caractérisez</vous>
+		<ils>caractérisent</ils>
+	</present>
+	<imperative>
+		<tu>caractérise</tu>
+		<nous>caractérisons</nous>
+		<vous>caractérisez</vous>
+	</imperative>
+	<imperfect>
+		<je>caractérisais</je>
+		<tu>caractérisais</tu>
+		<il>caractérisait</il>
+		<nous>caractérisions</nous>
+		<vous>caractérisiez</vous>
+		<ils>caractérisaient</ils>
+	</imperfect>
+	<future>
+		<je>caractériserai</je>
+		<tu>caractériseras</tu>
+		<il>caractérisera</il>
+		<nous>caractériserons</nous>
+		<vous>caractériserez</vous>
+		<ils>caractériseront</ils>
+	</future>
+	<subjunctive>
+		<je>caractérise</je>
+		<tu>caractérises</tu>
+		<il>caractérise</il>
+		<nous>caractérisions</nous>
+		<vous>caractérisiez</vous>
+		<ils>caractérisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>caractériserais</je>
+		<tu>caractériserais</tu>
+		<il>caractériserait</il>
+		<nous>caractériserions</nous>
+		<vous>caractériseriez</vous>
+		<ils>caractériseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

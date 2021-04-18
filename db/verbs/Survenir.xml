@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>survenir</infinitive>
+	<translation>to occur</translation>
+	<translation>take place</translation>
+	<irregular />
+	<takesEtreInPerfect />
+	<presentParticiple>survenant</presentParticiple>
+	<pastParticiple>survenu</pastParticiple>
+	<present>
+		<je>surviens</je>
+		<tu>surviens</tu>
+		<il>survient</il>
+		<nous>survenons</nous>
+		<vous>survenez</vous>
+		<ils>surviennent</ils>
+	</present>
+	<imperative>
+		<tu>surviens</tu>
+		<nous>survenons</nous>
+		<vous>survenez</vous>
+	</imperative>
+	<imperfect>
+		<je>survenais</je>
+		<tu>survenais</tu>
+		<il>survenait</il>
+		<nous>survenions</nous>
+		<vous>surveniez</vous>
+		<ils>survenaient</ils>
+	</imperfect>
+	<future>
+		<je>surviendrai</je>
+		<tu>surviendras</tu>
+		<il>surviendra</il>
+		<nous>surviendrons</nous>
+		<vous>surviendrez</vous>
+		<ils>surviendront</ils>
+	</future>
+	<subjunctive>
+		<je>survienne</je>
+		<tu>surviennes</tu>
+		<il>survienne</il>
+		<nous>survenions</nous>
+		<vous>surveniez</vous>
+		<ils>surviennent</ils>
+	</subjunctive>
+	<conditional>
+		<je>surviendrais</je>
+		<tu>surviendrais</tu>
+		<il>surviendrait</il>
+		<nous>surviendrions</nous>
+		<vous>surviendriez</vous>
+		<ils>surviendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>jaunir</infinitive>
+	<translation>to turn yellow</translation>
+	<presentParticiple>jaunissant</presentParticiple>
+	<pastParticiple>jauni</pastParticiple>
+	<present>
+		<je>jaunis</je>
+		<tu>jaunis</tu>
+		<il>jaunit</il>
+		<nous>jaunissons</nous>
+		<vous>jaunissez</vous>
+		<ils>jaunissent</ils>
+	</present>
+	<imperative>
+		<tu>jaunis</tu>
+		<nous>jaunissons</nous>
+		<vous>jaunissez</vous>
+	</imperative>
+	<imperfect>
+		<je>jaunissais</je>
+		<tu>jaunissais</tu>
+		<il>jaunissait</il>
+		<nous>jaunissions</nous>
+		<vous>jaunissiez</vous>
+		<ils>jaunissaient</ils>
+	</imperfect>
+	<future>
+		<je>jaunirai</je>
+		<tu>jauniras</tu>
+		<il>jaunira</il>
+		<nous>jaunirons</nous>
+		<vous>jaunirez</vous>
+		<ils>jauniront</ils>
+	</future>
+	<subjunctive>
+		<je>jaunisse</je>
+		<tu>jaunisses</tu>
+		<il>jaunisse</il>
+		<nous>jaunissions</nous>
+		<vous>jaunissiez</vous>
+		<ils>jaunissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>jaunirais</je>
+		<tu>jaunirais</tu>
+		<il>jaunirait</il>
+		<nous>jaunirions</nous>
+		<vous>jauniriez</vous>
+		<ils>jauniraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

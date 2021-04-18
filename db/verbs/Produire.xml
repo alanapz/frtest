@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>produire</infinitive>
+	<translation>to produce</translation>
+	<irregular />
+	<presentParticiple>produisant</presentParticiple>
+	<pastParticiple>produit</pastParticiple>
+	<present>
+		<je>produis</je>
+		<tu>produis</tu>
+		<il>produit</il>
+		<nous>produisons</nous>
+		<vous>produisez</vous>
+		<ils>produisent</ils>
+	</present>
+	<imperative>
+		<tu>produis</tu>
+		<nous>produisons</nous>
+		<vous>produisez</vous>
+	</imperative>
+	<imperfect>
+		<je>produisais</je>
+		<tu>produisais</tu>
+		<il>produisait</il>
+		<nous>produisions</nous>
+		<vous>produisiez</vous>
+		<ils>produisaient</ils>
+	</imperfect>
+	<future>
+		<je>produirai</je>
+		<tu>produiras</tu>
+		<il>produira</il>
+		<nous>produirons</nous>
+		<vous>produirez</vous>
+		<ils>produiront</ils>
+	</future>
+	<subjunctive>
+		<je>produise</je>
+		<tu>produises</tu>
+		<il>produise</il>
+		<nous>produisions</nous>
+		<vous>produisiez</vous>
+		<ils>produisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>produirais</je>
+		<tu>produirais</tu>
+		<il>produirait</il>
+		<nous>produirions</nous>
+		<vous>produiriez</vous>
+		<ils>produiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

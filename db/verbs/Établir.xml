@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>établir</infinitive>
+	<translation>to establish</translation>
+	<presentParticiple>établissant</presentParticiple>
+	<pastParticiple>établi</pastParticiple>
+	<present>
+		<je>établis</je>
+		<tu>établis</tu>
+		<il>établit</il>
+		<nous>établissons</nous>
+		<vous>établissez</vous>
+		<ils>établissent</ils>
+	</present>
+	<imperative>
+		<tu>établis</tu>
+		<nous>établissons</nous>
+		<vous>établissez</vous>
+	</imperative>
+	<imperfect>
+		<je>établissais</je>
+		<tu>établissais</tu>
+		<il>établissait</il>
+		<nous>établissions</nous>
+		<vous>établissiez</vous>
+		<ils>établissaient</ils>
+	</imperfect>
+	<future>
+		<je>établirai</je>
+		<tu>établiras</tu>
+		<il>établira</il>
+		<nous>établirons</nous>
+		<vous>établirez</vous>
+		<ils>établiront</ils>
+	</future>
+	<subjunctive>
+		<je>établisse</je>
+		<tu>établisses</tu>
+		<il>établisse</il>
+		<nous>établissions</nous>
+		<vous>établissiez</vous>
+		<ils>établissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>établirais</je>
+		<tu>établirais</tu>
+		<il>établirait</il>
+		<nous>établirions</nous>
+		<vous>établiriez</vous>
+		<ils>établiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>modeler</infinitive>
+	<translation>to model</translation>
+	<translation>shape</translation>
+	<translation>mold</translation>
+	<stemChange />
+	<presentParticiple>modelant</presentParticiple>
+	<pastParticiple>modelé</pastParticiple>
+	<present>
+		<je>modèle</je>
+		<tu>modèles</tu>
+		<il>modèle</il>
+		<nous>modelons</nous>
+		<vous>modelez</vous>
+		<ils>modèlent</ils>
+	</present>
+	<imperative>
+		<tu>modèle</tu>
+		<nous>modelons</nous>
+		<vous>modelez</vous>
+	</imperative>
+	<imperfect>
+		<je>modelais</je>
+		<tu>modelais</tu>
+		<il>modelait</il>
+		<nous>modelions</nous>
+		<vous>modeliez</vous>
+		<ils>modelaient</ils>
+	</imperfect>
+	<future>
+		<je>modèlerai</je>
+		<tu>modèleras</tu>
+		<il>modèlera</il>
+		<nous>modèlerons</nous>
+		<vous>modèlerez</vous>
+		<ils>modèleront</ils>
+	</future>
+	<subjunctive>
+		<je>modèle</je>
+		<tu>modèles</tu>
+		<il>modèle</il>
+		<nous>modelions</nous>
+		<vous>modeliez</vous>
+		<ils>modèlent</ils>
+	</subjunctive>
+	<conditional>
+		<je>modèlerais</je>
+		<tu>modèlerais</tu>
+		<il>modèlerait</il>
+		<nous>modèlerions</nous>
+		<vous>modèleriez</vous>
+		<ils>modèleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>écrire</infinitive>
+	<translation>to write</translation>
+	<irregular />
+	<presentParticiple>écrivant</presentParticiple>
+	<pastParticiple>écrit</pastParticiple>
+	<present>
+		<je>écris</je>
+		<tu>écris</tu>
+		<il>écrit</il>
+		<nous>écrivons</nous>
+		<vous>écrivez</vous>
+		<ils>écrivent</ils>
+	</present>
+	<imperative>
+		<tu>écris</tu>
+		<nous>écrivons</nous>
+		<vous>écrivez</vous>
+	</imperative>
+	<imperfect>
+		<je>écrivais</je>
+		<tu>écrivais</tu>
+		<il>écrivait</il>
+		<nous>écrivions</nous>
+		<vous>écriviez</vous>
+		<ils>écrivaient</ils>
+	</imperfect>
+	<future>
+		<je>écrirai</je>
+		<tu>écriras</tu>
+		<il>écrira</il>
+		<nous>écrirons</nous>
+		<vous>écrirez</vous>
+		<ils>écriront</ils>
+	</future>
+	<subjunctive>
+		<je>écrive</je>
+		<tu>écrives</tu>
+		<il>écrive</il>
+		<nous>écrivions</nous>
+		<vous>écriviez</vous>
+		<ils>écrivent</ils>
+	</subjunctive>
+	<conditional>
+		<je>écrirais</je>
+		<tu>écrirais</tu>
+		<il>écrirait</il>
+		<nous>écririons</nous>
+		<vous>écririez</vous>
+		<ils>écriraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

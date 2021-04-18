@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>croiser</infinitive>
+	<translation>to fold</translation>
+	<translation>cross</translation>
+	<translation>pass</translation>
+	<translation>cut across</translation>
+	<presentParticiple>croisant</presentParticiple>
+	<pastParticiple>croisé</pastParticiple>
+	<present>
+		<je>croise</je>
+		<tu>croises</tu>
+		<il>croise</il>
+		<nous>croisons</nous>
+		<vous>croisez</vous>
+		<ils>croisent</ils>
+	</present>
+	<imperative>
+		<tu>croise</tu>
+		<nous>croisons</nous>
+		<vous>croisez</vous>
+	</imperative>
+	<imperfect>
+		<je>croisais</je>
+		<tu>croisais</tu>
+		<il>croisait</il>
+		<nous>croisions</nous>
+		<vous>croisiez</vous>
+		<ils>croisaient</ils>
+	</imperfect>
+	<future>
+		<je>croiserai</je>
+		<tu>croiseras</tu>
+		<il>croisera</il>
+		<nous>croiserons</nous>
+		<vous>croiserez</vous>
+		<ils>croiseront</ils>
+	</future>
+	<subjunctive>
+		<je>croise</je>
+		<tu>croises</tu>
+		<il>croise</il>
+		<nous>croisions</nous>
+		<vous>croisiez</vous>
+		<ils>croisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>croiserais</je>
+		<tu>croiserais</tu>
+		<il>croiserait</il>
+		<nous>croiserions</nous>
+		<vous>croiseriez</vous>
+		<ils>croiseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>parfumer</infinitive>
+	<translation>to perfume</translation>
+	<translation>scent</translation>
+	<presentParticiple>parfumant</presentParticiple>
+	<pastParticiple>parfumé</pastParticiple>
+	<present>
+		<je>parfume</je>
+		<tu>parfumes</tu>
+		<il>parfume</il>
+		<nous>parfumons</nous>
+		<vous>parfumez</vous>
+		<ils>parfument</ils>
+	</present>
+	<imperative>
+		<tu>parfume</tu>
+		<nous>parfumons</nous>
+		<vous>parfumez</vous>
+	</imperative>
+	<imperfect>
+		<je>parfumais</je>
+		<tu>parfumais</tu>
+		<il>parfumait</il>
+		<nous>parfumions</nous>
+		<vous>parfumiez</vous>
+		<ils>parfumaient</ils>
+	</imperfect>
+	<future>
+		<je>parfumerai</je>
+		<tu>parfumeras</tu>
+		<il>parfumera</il>
+		<nous>parfumerons</nous>
+		<vous>parfumerez</vous>
+		<ils>parfumeront</ils>
+	</future>
+	<subjunctive>
+		<je>parfume</je>
+		<tu>parfumes</tu>
+		<il>parfume</il>
+		<nous>parfumions</nous>
+		<vous>parfumiez</vous>
+		<ils>parfument</ils>
+	</subjunctive>
+	<conditional>
+		<je>parfumerais</je>
+		<tu>parfumerais</tu>
+		<il>parfumerait</il>
+		<nous>parfumerions</nous>
+		<vous>parfumeriez</vous>
+		<ils>parfumeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

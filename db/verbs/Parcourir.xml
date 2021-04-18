@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>parcourir</infinitive>
+	<translation>to cover</translation>
+	<translation>travel</translation>
+	<irregular />
+	<presentParticiple>parcourant</presentParticiple>
+	<pastParticiple> parcouru</pastParticiple>
+	<present>
+		<je>parcours</je>
+		<tu>parcours</tu>
+		<il>parcourt</il>
+		<nous>parcourons</nous>
+		<vous>parcourez</vous>
+		<ils>parcourent</ils>
+	</present>
+	<imperative>
+		<tu>parcours</tu>
+		<nous>parcourons</nous>
+		<vous>parcourez</vous>
+	</imperative>
+	<imperfect>
+		<je>parcourais</je>
+		<tu>parcourais</tu>
+		<il>parcourait</il>
+		<nous>parcourions</nous>
+		<vous>parcouriez</vous>
+		<ils>parcouraient</ils>
+	</imperfect>
+	<future>
+		<je>parcourrai</je>
+		<tu>parcourras</tu>
+		<il>parcourra</il>
+		<nous>parcourrons</nous>
+		<vous>parcourrez</vous>
+		<ils>parcourront</ils>
+	</future>
+	<subjunctive>
+		<je>parcoure</je>
+		<tu>parcoures</tu>
+		<il>parcoure</il>
+		<nous>parcourions</nous>
+		<vous>parcouriez</vous>
+		<ils>parcourent</ils>
+	</subjunctive>
+	<conditional>
+		<je>parcourrais</je>
+		<tu>parcourrais</tu>
+		<il>parcourrait</il>
+		<nous>parcourrions</nous>
+		<vous>parcourriez</vous>
+		<ils>parcourraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

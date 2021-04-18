@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>hasarder</infinitive>
+	<translation>to risk</translation>
+	<translation>hazard</translation>
+	<translation>to gamble</translation>
+	<presentParticiple>hasardant</presentParticiple>
+	<pastParticiple>hasardé</pastParticiple>
+	<present>
+		<je>hasarde</je>
+		<tu>hasardes</tu>
+		<il>hasarde</il>
+		<nous>hasardons</nous>
+		<vous>hasardez</vous>
+		<ils>hasardent</ils>
+	</present>
+	<imperative>
+		<tu>hasarde</tu>
+		<nous>hasardons</nous>
+		<vous>hasardez</vous>
+	</imperative>
+	<imperfect>
+		<je>hasardais</je>
+		<tu>hasardais</tu>
+		<il>hasardait</il>
+		<nous>hasardions</nous>
+		<vous>hasardiez</vous>
+		<ils>hasardaient</ils>
+	</imperfect>
+	<future>
+		<je>hasarderai</je>
+		<tu>hasarderas</tu>
+		<il>hasardera</il>
+		<nous>hasarderons</nous>
+		<vous>hasarderez</vous>
+		<ils>hasarderont</ils>
+	</future>
+	<subjunctive>
+		<je>hasarde</je>
+		<tu>hasardes</tu>
+		<il>hasarde</il>
+		<nous>hasardions</nous>
+		<vous>hasardiez</vous>
+		<ils>hasardent</ils>
+	</subjunctive>
+	<conditional>
+		<je>hasarderais</je>
+		<tu>hasarderais</tu>
+		<il>hasarderait</il>
+		<nous>hasarderions</nous>
+		<vous>hasarderiez</vous>
+		<ils>hasarderaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

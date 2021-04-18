@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>déborder</infinitive>
+	<translation>to overflow</translation>
+	<translation>stick out</translation>
+	<presentParticiple>débordant</presentParticiple>
+	<pastParticiple>débordé</pastParticiple>
+	<present>
+		<je>déborde</je>
+		<tu>débordes</tu>
+		<il>déborde</il>
+		<nous>débordons</nous>
+		<vous>débordez</vous>
+		<ils>débordent</ils>
+	</present>
+	<imperative>
+		<tu>déborde</tu>
+		<nous>débordons</nous>
+		<vous>débordez</vous>
+	</imperative>
+	<imperfect>
+		<je>débordais</je>
+		<tu>débordais</tu>
+		<il>débordait</il>
+		<nous>débordions</nous>
+		<vous>débordiez</vous>
+		<ils>débordaient</ils>
+	</imperfect>
+	<future>
+		<je>déborderai</je>
+		<tu>déborderas</tu>
+		<il>débordera</il>
+		<nous>déborderons</nous>
+		<vous>déborderez</vous>
+		<ils>déborderont</ils>
+	</future>
+	<subjunctive>
+		<je>déborde</je>
+		<tu>débordes</tu>
+		<il>déborde</il>
+		<nous>débordions</nous>
+		<vous>débordiez</vous>
+		<ils>débordent</ils>
+	</subjunctive>
+	<conditional>
+		<je>déborderais</je>
+		<tu>déborderais</tu>
+		<il>déborderait</il>
+		<nous>déborderions</nous>
+		<vous>déborderiez</vous>
+		<ils>déborderaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

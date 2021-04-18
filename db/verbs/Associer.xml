@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>associer</infinitive>
+	<translation>to associate</translation>
+	<presentParticiple>associant</presentParticiple>
+	<pastParticiple>associé</pastParticiple>
+	<present>
+		<je>associe</je>
+		<tu>associes</tu>
+		<il>associe</il>
+		<nous>associons</nous>
+		<vous>associez</vous>
+		<ils>associent</ils>
+	</present>
+	<imperative>
+		<tu>associe</tu>
+		<nous>associons</nous>
+		<vous>associez</vous>
+	</imperative>
+	<imperfect>
+		<je>associais</je>
+		<tu>associais</tu>
+		<il>associait</il>
+		<nous>associions</nous>
+		<vous>associiez</vous>
+		<ils>associaient</ils>
+	</imperfect>
+	<future>
+		<je>associerai</je>
+		<tu>associeras</tu>
+		<il>associera</il>
+		<nous>associerons</nous>
+		<vous>associerez</vous>
+		<ils>associeront</ils>
+	</future>
+	<subjunctive>
+		<je>associe</je>
+		<tu>associes</tu>
+		<il>associe</il>
+		<nous>associions</nous>
+		<vous>associiez</vous>
+		<ils>associent</ils>
+	</subjunctive>
+	<conditional>
+		<je>associerais</je>
+		<tu>associerais</tu>
+		<il>associerait</il>
+		<nous>associerions</nous>
+		<vous>associeriez</vous>
+		<ils>associeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

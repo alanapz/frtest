@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>raser</infinitive>
+            <translation>to shave</translation>
+            <transitive />
+            <presentParticiple>rasant</presentParticiple>
+            <pastParticiple>rasé</pastParticiple>
+            <present>
+                <je>rase</je>
+                <tu>rases</tu>
+                <il>rase</il>
+                <nous>rasons</nous>
+                <vous>rasez</vous>
+                <ils>rasent</ils>
+            </present>
+            <imperative>
+                <tu>rase</tu>
+                <nous>rasons</nous>
+                <vous>rasez</vous>
+            </imperative>
+            <imperfect>
+                <je>rasais</je>
+                <tu>rasais</tu>
+                <il>rasait</il>
+                <nous>rasions</nous>
+                <vous>rasiez</vous>
+                <ils>rasaient</ils>
+            </imperfect>
+            <future>
+                <je>raserai</je>
+                <tu>raseras</tu>
+                <il>rasera</il>
+                <nous>raserons</nous>
+                <vous>raserez</vous>
+                <ils>raseront</ils>
+            </future>
+            <subjunctive>
+                <je>rase</je>
+                <tu>rases</tu>
+                <il>rase</il>
+                <nous>rasions</nous>
+                <vous>rasiez</vous>
+                <ils>rasent</ils>
+            </subjunctive>
+            <conditional>
+                <je>raserais</je>
+                <tu>raserais</tu>
+                <il>raserait</il>
+                <nous>raserions</nous>
+                <vous>raseriez</vous>
+                <ils>raseraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

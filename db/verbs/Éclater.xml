@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>éclater</infinitive>
+            <translation>to burst</translation>
+            <translation>to shatter</translation>
+            <translation>to boom</translation>
+            <presentParticiple>éclatant</presentParticiple>
+            <pastParticiple>éclaté</pastParticiple>
+            <pronominal>
+                <translation>to have a great time</translation>
+            </pronominal>
+            <present>
+                <je>éclate</je>
+                <tu>éclates</tu>
+                <il>éclate</il>
+                <nous>éclatons</nous>
+                <vous>éclatez</vous>
+                <ils>éclatent</ils>
+            </present>
+            <imperative>
+                <tu>éclate</tu>
+                <nous>éclatons</nous>
+                <vous>éclatez</vous>
+            </imperative>
+            <imperfect>
+                <je>éclatais</je>
+                <tu>éclatais</tu>
+                <il>éclatait</il>
+                <nous>éclations</nous>
+                <vous>éclatiez</vous>
+                <ils>éclataient</ils>
+            </imperfect>
+            <future>
+                <je>éclaterai</je>
+                <tu>éclateras</tu>
+                <il>éclatera</il>
+                <nous>éclaterons</nous>
+                <vous>éclaterez</vous>
+                <ils>éclateront</ils>
+            </future>
+            <subjunctive>
+                <je>éclate</je>
+                <tu>éclates</tu>
+                <il>éclate</il>
+                <nous>éclations</nous>
+                <vous>éclatiez</vous>
+                <ils>éclatent</ils>
+            </subjunctive>
+            <conditional>
+                <je>éclaterais</je>
+                <tu>éclaterais</tu>
+                <il>éclaterait</il>
+                <nous>éclaterions</nous>
+                <vous>éclateriez</vous>
+                <ils>éclateraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

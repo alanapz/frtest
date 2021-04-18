@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>démolir</infinitive>
+	<translation>to demolish</translation>
+	<presentParticiple>démolissant</presentParticiple>
+	<pastParticiple>démoli</pastParticiple>
+	<present>
+		<je>démolis</je>
+		<tu>démolis</tu>
+		<il>démolit</il>
+		<nous>démolissons</nous>
+		<vous>démolissez</vous>
+		<ils>démolissent</ils>
+	</present>
+	<imperative>
+		<tu>démolis</tu>
+		<nous>démolissons</nous>
+		<vous>démolissez</vous>
+	</imperative>
+	<imperfect>
+		<je>démolissais</je>
+		<tu>démolissais</tu>
+		<il>démolissait</il>
+		<nous>démolissions</nous>
+		<vous>démolissiez</vous>
+		<ils>démolissaient</ils>
+	</imperfect>
+	<future>
+		<je>démolirai</je>
+		<tu>démoliras</tu>
+		<il>démolira</il>
+		<nous>démolirons</nous>
+		<vous>démolirez</vous>
+		<ils>démoliront</ils>
+	</future>
+	<subjunctive>
+		<je>démolisse</je>
+		<tu>démolisses</tu>
+		<il>démolisse</il>
+		<nous>démolissions</nous>
+		<vous>démolissiez</vous>
+		<ils>démolissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>démolirais</je>
+		<tu>démolirais</tu>
+		<il>démolirait</il>
+		<nous>démolirions</nous>
+		<vous>démoliriez</vous>
+		<ils>démoliraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

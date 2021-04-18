@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>persister</infinitive>
+	<translation>to persist</translation>
+	<presentParticiple>persistant</presentParticiple>
+	<pastParticiple>persisté</pastParticiple>
+	<present>
+		<je>persiste</je>
+		<tu>persistes</tu>
+		<il>persiste</il>
+		<nous>persistons</nous>
+		<vous>persistez</vous>
+		<ils>persistent</ils>
+	</present>
+	<imperative>
+		<tu>persiste</tu>
+		<nous>persistons</nous>
+		<vous>persistez</vous>
+	</imperative>
+	<imperfect>
+		<je>persistais</je>
+		<tu>persistais</tu>
+		<il>persistait</il>
+		<nous>persistions</nous>
+		<vous>persistiez</vous>
+		<ils>persistaient</ils>
+	</imperfect>
+	<future>
+		<je>persisterai</je>
+		<tu>persisteras</tu>
+		<il>persistera</il>
+		<nous>persisterons</nous>
+		<vous>persisterez</vous>
+		<ils>persisteront</ils>
+	</future>
+	<subjunctive>
+		<je>persiste</je>
+		<tu>persistes</tu>
+		<il>persiste</il>
+		<nous>persistions</nous>
+		<vous>persistiez</vous>
+		<ils>persistent</ils>
+	</subjunctive>
+	<conditional>
+		<je>persisterais</je>
+		<tu>persisterais</tu>
+		<il>persisterait</il>
+		<nous>persisterions</nous>
+		<vous>persisteriez</vous>
+		<ils>persisteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

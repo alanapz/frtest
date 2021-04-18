@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>boucler</infinitive>
+	<translation>to buckle</translation>
+	<translation>fasten</translation>
+	<translation>to settle</translation>
+	<translation>complete</translation>
+	<presentParticiple>bouclant</presentParticiple>
+	<pastParticiple>bouclé</pastParticiple>
+	<present>
+		<je>boucle</je>
+		<tu>boucles</tu>
+		<il>boucle</il>
+		<nous>bouclons</nous>
+		<vous>bouclez</vous>
+		<ils>bouclent</ils>
+	</present>
+	<imperative>
+		<tu>boucle</tu>
+		<nous>bouclons</nous>
+		<vous>bouclez</vous>
+	</imperative>
+	<imperfect>
+		<je>bouclais</je>
+		<tu>bouclais</tu>
+		<il>bouclait</il>
+		<nous>bouclions</nous>
+		<vous>boucliez</vous>
+		<ils>bouclaient</ils>
+	</imperfect>
+	<future>
+		<je>bouclerai</je>
+		<tu>boucleras</tu>
+		<il>bouclera</il>
+		<nous>bouclerons</nous>
+		<vous>bouclerez</vous>
+		<ils>boucleront</ils>
+	</future>
+	<subjunctive>
+		<je>boucle</je>
+		<tu>boucles</tu>
+		<il>boucle</il>
+		<nous>bouclions</nous>
+		<vous>boucliez</vous>
+		<ils>bouclent</ils>
+	</subjunctive>
+	<conditional>
+		<je>bouclerais</je>
+		<tu>bouclerais</tu>
+		<il>bouclerait</il>
+		<nous>bouclerions</nous>
+		<vous>boucleriez</vous>
+		<ils>boucleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

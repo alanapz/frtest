@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>remercier</infinitive>
+	<translation>to thank</translation>
+	<presentParticiple>remerciant</presentParticiple>
+	<pastParticiple>remercié</pastParticiple>
+	<present>
+		<je>remercie</je>
+		<tu>remercies</tu>
+		<il>remercie</il>
+		<nous>remercions</nous>
+		<vous>remerciez</vous>
+		<ils>remercient</ils>
+	</present>
+	<imperative>
+		<tu>remercie</tu>
+		<nous>remercions</nous>
+		<vous>remerciez</vous>
+	</imperative>
+	<imperfect>
+		<je>remerciais</je>
+		<tu>remerciais</tu>
+		<il>remerciait</il>
+		<nous>remerciions</nous>
+		<vous>remerciiez</vous>
+		<ils>remerciaient</ils>
+	</imperfect>
+	<future>
+		<je>remercierai</je>
+		<tu>remercieras</tu>
+		<il>remerciera</il>
+		<nous>remercierons</nous>
+		<vous>remercierez</vous>
+		<ils>remercieront</ils>
+	</future>
+	<subjunctive>
+		<je>remercie</je>
+		<tu>remercies</tu>
+		<il>remercie</il>
+		<nous>remerciions</nous>
+		<vous>remerciiez</vous>
+		<ils>remercient</ils>
+	</subjunctive>
+	<conditional>
+		<je>remercierais</je>
+		<tu>remercierais</tu>
+		<il>remercierait</il>
+		<nous>remercierions</nous>
+		<vous>remercieriez</vous>
+		<ils>remercieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

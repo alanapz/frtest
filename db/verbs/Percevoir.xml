@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>percevoir</infinitive>
+	<translation>to perceive</translation>
+	<irregular />
+	<presentParticiple>percevant</presentParticiple>
+	<pastParticiple> perçu</pastParticiple>
+	<present>
+		<je>perçois</je>
+		<tu>perçois</tu>
+		<il>perçoit</il>
+		<nous>percevons</nous>
+		<vous>percevez</vous>
+		<ils>perçoivent</ils>
+	</present>
+	<imperative>
+		<tu>perçois</tu>
+		<nous>percevons</nous>
+		<vous>percevez</vous>
+	</imperative>
+	<imperfect>
+		<je>percevais</je>
+		<tu>percevais</tu>
+		<il>percevait</il>
+		<nous>percevions</nous>
+		<vous>perceviez</vous>
+		<ils>percevaient</ils>
+	</imperfect>
+	<future>
+		<je>percevrai</je>
+		<tu>percevras</tu>
+		<il>percevra</il>
+		<nous>percevrons</nous>
+		<vous>percevrez</vous>
+		<ils>percevront</ils>
+	</future>
+	<subjunctive>
+		<je>perçoive</je>
+		<tu>perçoives</tu>
+		<il>perçoive</il>
+		<nous>percevions</nous>
+		<vous>perceviez</vous>
+		<ils>perçoivent</ils>
+	</subjunctive>
+	<conditional>
+		<je>percevrais</je>
+		<tu>percevrais</tu>
+		<il>percevrait</il>
+		<nous>percevrions</nous>
+		<vous>percevriez</vous>
+		<ils>percevraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

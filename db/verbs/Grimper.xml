@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>grimper</infinitive>
+	<translation>to climb</translation>
+	<presentParticiple>grimpant</presentParticiple>
+	<pastParticiple>grimpé</pastParticiple>
+	<present>
+		<je>grimpe</je>
+		<tu>grimpes</tu>
+		<il>grimpe</il>
+		<nous>grimpons</nous>
+		<vous>grimpez</vous>
+		<ils>grimpent</ils>
+	</present>
+	<imperative>
+		<tu>grimpe</tu>
+		<nous>grimpons</nous>
+		<vous>grimpez</vous>
+	</imperative>
+	<imperfect>
+		<je>grimpais</je>
+		<tu>grimpais</tu>
+		<il>grimpait</il>
+		<nous>grimpions</nous>
+		<vous>grimpiez</vous>
+		<ils>grimpaient</ils>
+	</imperfect>
+	<future>
+		<je>grimperai</je>
+		<tu>grimperas</tu>
+		<il>grimpera</il>
+		<nous>grimperons</nous>
+		<vous>grimperez</vous>
+		<ils>grimperont</ils>
+	</future>
+	<subjunctive>
+		<je>grimpe</je>
+		<tu>grimpes</tu>
+		<il>grimpe</il>
+		<nous>grimpions</nous>
+		<vous>grimpiez</vous>
+		<ils>grimpent</ils>
+	</subjunctive>
+	<conditional>
+		<je>grimperais</je>
+		<tu>grimperais</tu>
+		<il>grimperait</il>
+		<nous>grimperions</nous>
+		<vous>grimperiez</vous>
+		<ils>grimperaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

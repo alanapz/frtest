@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>errer</infinitive>
+	<translation>to wander</translation>
+	<translation>roam</translation>
+	<presentParticiple>errant</presentParticiple>
+	<pastParticiple>erré</pastParticiple>
+	<present>
+		<je>erre</je>
+		<tu>erres</tu>
+		<il>erre</il>
+		<nous>errons</nous>
+		<vous>errez</vous>
+		<ils>errent</ils>
+	</present>
+	<imperative>
+		<tu>erre</tu>
+		<nous>errons</nous>
+		<vous>errez</vous>
+	</imperative>
+	<imperfect>
+		<je>errais</je>
+		<tu>errais</tu>
+		<il>errait</il>
+		<nous>errions</nous>
+		<vous>erriez</vous>
+		<ils>erraient</ils>
+	</imperfect>
+	<future>
+		<je>errerai</je>
+		<tu>erreras</tu>
+		<il>errera</il>
+		<nous>errerons</nous>
+		<vous>errerez</vous>
+		<ils>erreront</ils>
+	</future>
+	<subjunctive>
+		<je>erre</je>
+		<tu>erres</tu>
+		<il>erre</il>
+		<nous>errions</nous>
+		<vous>erriez</vous>
+		<ils>errent</ils>
+	</subjunctive>
+	<conditional>
+		<je>errerais</je>
+		<tu>errerais</tu>
+		<il>errerait</il>
+		<nous>errerions</nous>
+		<vous>erreriez</vous>
+		<ils>erreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

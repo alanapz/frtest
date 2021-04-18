@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>agir</infinitive>
+	<translation>to act</translation>
+	<presentParticiple>agissant</presentParticiple>
+	<pastParticiple>agi</pastParticiple>
+	<present>
+		<je>agis</je>
+		<tu>agis</tu>
+		<il>agit</il>
+		<nous>agissons</nous>
+		<vous>agissez</vous>
+		<ils>agissent</ils>
+	</present>
+	<imperative>
+		<tu>agis</tu>
+		<nous>agissons</nous>
+		<vous>agissez</vous>
+	</imperative>
+	<imperfect>
+		<je>agissais</je>
+		<tu>agissais</tu>
+		<il>agissait</il>
+		<nous>agissions</nous>
+		<vous>agissiez</vous>
+		<ils>agissaient</ils>
+	</imperfect>
+	<future>
+		<je>agirai</je>
+		<tu>agiras</tu>
+		<il>agira</il>
+		<nous>agirons</nous>
+		<vous>agirez</vous>
+		<ils>agiront</ils>
+	</future>
+	<subjunctive>
+		<je>agisse</je>
+		<tu>agisses</tu>
+		<il>agisse</il>
+		<nous>agissions</nous>
+		<vous>agissiez</vous>
+		<ils>agissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>agirais</je>
+		<tu>agirais</tu>
+		<il>agirait</il>
+		<nous>agirions</nous>
+		<vous>agiriez</vous>
+		<ils>agiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

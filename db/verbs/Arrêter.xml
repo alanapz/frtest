@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>arrêter</infinitive>
+	<translation>to stop</translation>
+	<translation>to arrest</translation>
+	<presentParticiple>arrêtant</presentParticiple>
+	<pastParticiple>arrêté</pastParticiple>
+	<present>
+		<je>arrête</je>
+		<tu>arrêtes</tu>
+		<il>arrête</il>
+		<nous>arrêtons</nous>
+		<vous>arrêtez</vous>
+		<ils>arrêtent</ils>
+	</present>
+	<imperative>
+		<tu>arrête</tu>
+		<nous>arrêtons</nous>
+		<vous>arrêtez</vous>
+	</imperative>
+	<imperfect>
+		<je>arrêtais</je>
+		<tu>arrêtais</tu>
+		<il>arrêtait</il>
+		<nous>arrêtions</nous>
+		<vous>arrêtiez</vous>
+		<ils>arrêtaient</ils>
+	</imperfect>
+	<future>
+		<je>arrêterai</je>
+		<tu>arrêteras</tu>
+		<il>arrêtera</il>
+		<nous>arrêterons</nous>
+		<vous>arrêterez</vous>
+		<ils>arrêteront</ils>
+	</future>
+	<subjunctive>
+		<je>arrête</je>
+		<tu>arrêtes</tu>
+		<il>arrête</il>
+		<nous>arrêtions</nous>
+		<vous>arrêtiez</vous>
+		<ils>arrêtent</ils>
+	</subjunctive>
+	<conditional>
+		<je>arrêterais</je>
+		<tu>arrêterais</tu>
+		<il>arrêterait</il>
+		<nous>arrêterions</nous>
+		<vous>arrêteriez</vous>
+		<ils>arrêteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

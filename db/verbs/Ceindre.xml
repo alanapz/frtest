@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>ceindre</infinitive>
+	<translation>to don</translation>
+	<translation>put on</translation>
+	<irregular />
+	<presentParticiple>ceignant</presentParticiple>
+	<pastParticiple>ceint</pastParticiple>
+	<present>
+		<je>ceins</je>
+		<tu>ceins</tu>
+		<il>ceint</il>
+		<nous>ceignons</nous>
+		<vous>ceignez</vous>
+		<ils>ceignent</ils>
+	</present>
+	<imperative>
+		<tu>ceins</tu>
+		<nous>ceignons</nous>
+		<vous>ceignez</vous>
+	</imperative>
+	<imperfect>
+		<je>ceignais</je>
+		<tu>ceignais</tu>
+		<il>ceignait</il>
+		<nous>ceignions</nous>
+		<vous>ceigniez</vous>
+		<ils>ceignaient</ils>
+	</imperfect>
+	<future>
+		<je>ceindrai</je>
+		<tu>ceindras</tu>
+		<il>ceindra</il>
+		<nous>ceindrons</nous>
+		<vous>ceindrez</vous>
+		<ils>ceindront</ils>
+	</future>
+	<subjunctive>
+		<je>ceigne</je>
+		<tu>ceignes</tu>
+		<il>ceigne</il>
+		<nous>ceignions</nous>
+		<vous>ceigniez</vous>
+		<ils>ceignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>ceindrais</je>
+		<tu>ceindrais</tu>
+		<il>ceindrait</il>
+		<nous>ceindrions</nous>
+		<vous>ceindriez</vous>
+		<ils>ceindraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

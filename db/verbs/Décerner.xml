@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>décerner</infinitive>
+	<translation>to give</translation>
+	<translation>award</translation>
+	<presentParticiple>décernant</presentParticiple>
+	<pastParticiple>décerné</pastParticiple>
+	<present>
+		<je>décerne</je>
+		<tu>décernes</tu>
+		<il>décerne</il>
+		<nous>décernons</nous>
+		<vous>décernez</vous>
+		<ils>décernent</ils>
+	</present>
+	<imperative>
+		<tu>décerne</tu>
+		<nous>décernons</nous>
+		<vous>décernez</vous>
+	</imperative>
+	<imperfect>
+		<je>décernais</je>
+		<tu>décernais</tu>
+		<il>décernait</il>
+		<nous>décernions</nous>
+		<vous>décerniez</vous>
+		<ils>décernaient</ils>
+	</imperfect>
+	<future>
+		<je>décernerai</je>
+		<tu>décerneras</tu>
+		<il>décernera</il>
+		<nous>décernerons</nous>
+		<vous>décernerez</vous>
+		<ils>décerneront</ils>
+	</future>
+	<subjunctive>
+		<je>décerne</je>
+		<tu>décernes</tu>
+		<il>décerne</il>
+		<nous>décernions</nous>
+		<vous>décerniez</vous>
+		<ils>décernent</ils>
+	</subjunctive>
+	<conditional>
+		<je>décernerais</je>
+		<tu>décernerais</tu>
+		<il>décernerait</il>
+		<nous>décernerions</nous>
+		<vous>décerneriez</vous>
+		<ils>décerneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

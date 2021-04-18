@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>chérir</infinitive>
+	<translation>to cherish</translation>
+	<presentParticiple>chérissant</presentParticiple>
+	<pastParticiple>chéri</pastParticiple>
+	<present>
+		<je>chéris</je>
+		<tu>chéris</tu>
+		<il>chérit</il>
+		<nous>chérissons</nous>
+		<vous>chérissez</vous>
+		<ils>chérissent</ils>
+	</present>
+	<imperative>
+		<tu>chéris</tu>
+		<nous>chérissons</nous>
+		<vous>chérissez</vous>
+	</imperative>
+	<imperfect>
+		<je>chérissais</je>
+		<tu>chérissais</tu>
+		<il>chérissait</il>
+		<nous>chérissions</nous>
+		<vous>chérissiez</vous>
+		<ils>chérissaient</ils>
+	</imperfect>
+	<future>
+		<je>chérirai</je>
+		<tu>chériras</tu>
+		<il>chérira</il>
+		<nous>chérirons</nous>
+		<vous>chérirez</vous>
+		<ils>chériront</ils>
+	</future>
+	<subjunctive>
+		<je>chérisse</je>
+		<tu>chérisses</tu>
+		<il>chérisse</il>
+		<nous>chérissions</nous>
+		<vous>chérissiez</vous>
+		<ils>chérissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>chérirais</je>
+		<tu>chérirais</tu>
+		<il>chérirait</il>
+		<nous>chéririons</nous>
+		<vous>chéririez</vous>
+		<ils>chériraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

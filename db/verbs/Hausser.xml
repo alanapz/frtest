@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>hausser</infinitive>
+	<translation>to raise</translation>
+	<translation>heighten</translation>
+	<presentParticiple>haussant</presentParticiple>
+	<pastParticiple>haussé</pastParticiple>
+	<present>
+		<je>hausse</je>
+		<tu>hausses</tu>
+		<il>hausse</il>
+		<nous>haussons</nous>
+		<vous>haussez</vous>
+		<ils>haussent</ils>
+	</present>
+	<imperative>
+		<tu>hausse</tu>
+		<nous>haussons</nous>
+		<vous>haussez</vous>
+	</imperative>
+	<imperfect>
+		<je>haussais</je>
+		<tu>haussais</tu>
+		<il>haussait</il>
+		<nous>haussions</nous>
+		<vous>haussiez</vous>
+		<ils>haussaient</ils>
+	</imperfect>
+	<future>
+		<je>hausserai</je>
+		<tu>hausseras</tu>
+		<il>haussera</il>
+		<nous>hausserons</nous>
+		<vous>hausserez</vous>
+		<ils>hausseront</ils>
+	</future>
+	<subjunctive>
+		<je>hausse</je>
+		<tu>hausses</tu>
+		<il>hausse</il>
+		<nous>haussions</nous>
+		<vous>haussiez</vous>
+		<ils>haussent</ils>
+	</subjunctive>
+	<conditional>
+		<je>hausserais</je>
+		<tu>hausserais</tu>
+		<il>hausserait</il>
+		<nous>hausserions</nous>
+		<vous>hausseriez</vous>
+		<ils>hausseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

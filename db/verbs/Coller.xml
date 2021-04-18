@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>coller</infinitive>
+	<translation>to glue</translation>
+	<translation>stick</translation>
+	<translation>paste</translation>
+	<presentParticiple>collant</presentParticiple>
+	<pastParticiple>collé</pastParticiple>
+	<present>
+		<je>colle</je>
+		<tu>colles</tu>
+		<il>colle</il>
+		<nous>collons</nous>
+		<vous>collez</vous>
+		<ils>collent</ils>
+	</present>
+	<imperative>
+		<tu>colle</tu>
+		<nous>collons</nous>
+		<vous>collez</vous>
+	</imperative>
+	<imperfect>
+		<je>collais</je>
+		<tu>collais</tu>
+		<il>collait</il>
+		<nous>collions</nous>
+		<vous>colliez</vous>
+		<ils>collaient</ils>
+	</imperfect>
+	<future>
+		<je>collerai</je>
+		<tu>colleras</tu>
+		<il>collera</il>
+		<nous>collerons</nous>
+		<vous>collerez</vous>
+		<ils>colleront</ils>
+	</future>
+	<subjunctive>
+		<je>colle</je>
+		<tu>colles</tu>
+		<il>colle</il>
+		<nous>collions</nous>
+		<vous>colliez</vous>
+		<ils>collent</ils>
+	</subjunctive>
+	<conditional>
+		<je>collerais</je>
+		<tu>collerais</tu>
+		<il>collerait</il>
+		<nous>collerions</nous>
+		<vous>colleriez</vous>
+		<ils>colleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

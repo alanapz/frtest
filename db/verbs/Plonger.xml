@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>plonger</infinitive>
+	<translation>to dive</translation>
+	<spellingChange />
+	<presentParticiple>plongeant</presentParticiple>
+	<pastParticiple>plongé</pastParticiple>
+	<present>
+		<je>plonge</je>
+		<tu>plonges</tu>
+		<il>plonge</il>
+		<nous>plongeons</nous>
+		<vous>plongez</vous>
+		<ils>plongent</ils>
+	</present>
+	<imperative>
+		<tu>plonge</tu>
+		<nous>plongeons</nous>
+		<vous>plongez</vous>
+	</imperative>
+	<imperfect>
+		<je>plongeais</je>
+		<tu>plongeais</tu>
+		<il>plongeait</il>
+		<nous>plongions</nous>
+		<vous>plongiez</vous>
+		<ils>plongeaient</ils>
+	</imperfect>
+	<future>
+		<je>plongerai</je>
+		<tu>plongeras</tu>
+		<il>plongera</il>
+		<nous>plongerons</nous>
+		<vous>plongerez</vous>
+		<ils>plongeront</ils>
+	</future>
+	<subjunctive>
+		<je>plonge</je>
+		<tu>plonges</tu>
+		<il>plonge</il>
+		<nous>plongions</nous>
+		<vous>plongiez</vous>
+		<ils>plongent</ils>
+	</subjunctive>
+	<conditional>
+		<je>plongerais</je>
+		<tu>plongerais</tu>
+		<il>plongerait</il>
+		<nous>plongerions</nous>
+		<vous>plongeriez</vous>
+		<ils>plongeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

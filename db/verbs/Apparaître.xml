@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>apparaitre</infinitive>
+            <translation>to appear</translation>
+            <translation>to become visible</translation>
+            <presentParticiple>apparaissant</presentParticiple>
+            <pastParticiple>apparu</pastParticiple>
+            <present>
+                <je>apparais</je>
+                <tu>apparais</tu>
+                <il>apparaît</il>
+                <nous>apparaissons</nous>
+                <vous>apparaissez</vous>
+                <ils>apparaissent</ils>
+            </present>
+            <imperative>
+                <tu>apparais</tu>
+                <nous>apparaissons</nous>
+                <vous>apparaissez</vous>
+            </imperative>
+            <imperfect>
+                <je>apparaissais</je>
+                <tu>apparaissais</tu>
+                <il>apparaissait</il>
+                <nous>apparaissions</nous>
+                <vous>apparaissiez</vous>
+                <ils>apparaissaient</ils>
+            </imperfect>
+            <future>
+                <je>apparaîtrai</je>
+                <tu>apparaîtras</tu>
+                <il>apparaîtra</il>
+                <nous>apparaîtrons</nous>
+                <vous>apparaîtrez</vous>
+                <ils>apparaîtront</ils>
+            </future>
+            <subjunctive>
+                <je>apparaisse</je>
+                <tu>apparaisses</tu>
+                <il>apparaisse</il>
+                <nous>apparaissions</nous>
+                <vous>apparaissiez</vous>
+                <ils>apparaissent</ils>
+            </subjunctive>
+            <conditional>
+                <je>apparaîtrais</je>
+                <tu>apparaîtrais</tu>
+                <il>apparaîtrait</il>
+                <nous>apparaîtrions</nous>
+                <vous>apparaîtriez</vous>
+                <ils>apparaîtraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

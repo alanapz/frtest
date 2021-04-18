@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>mystifier</infinitive>
+	<translation>to mystify</translation>
+	<presentParticiple>mystifiant</presentParticiple>
+	<pastParticiple>mystifié</pastParticiple>
+	<present>
+		<je>mystifie</je>
+		<tu>mystifies</tu>
+		<il>mystifie</il>
+		<nous>mystifions</nous>
+		<vous>mystifiez</vous>
+		<ils>mystifient</ils>
+	</present>
+	<imperative>
+		<tu>mystifie</tu>
+		<nous>mystifions</nous>
+		<vous>mystifiez</vous>
+	</imperative>
+	<imperfect>
+		<je>mystifiais</je>
+		<tu>mystifiais</tu>
+		<il>mystifiait</il>
+		<nous>mystifiions</nous>
+		<vous>mystifiiez</vous>
+		<ils>mystifiaient</ils>
+	</imperfect>
+	<future>
+		<je>mystifierai</je>
+		<tu>mystifieras</tu>
+		<il>mystifiera</il>
+		<nous>mystifierons</nous>
+		<vous>mystifierez</vous>
+		<ils>mystifieront</ils>
+	</future>
+	<subjunctive>
+		<je>mystifie</je>
+		<tu>mystifies</tu>
+		<il>mystifie</il>
+		<nous>mystifiions</nous>
+		<vous>mystifiiez</vous>
+		<ils>mystifient</ils>
+	</subjunctive>
+	<conditional>
+		<je>mystifierais</je>
+		<tu>mystifierais</tu>
+		<il>mystifierait</il>
+		<nous>mystifierions</nous>
+		<vous>mystifieriez</vous>
+		<ils>mystifieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

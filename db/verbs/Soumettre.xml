@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>soumettre</infinitive>
+	<translation>to submit</translation>
+	<irregular />
+	<presentParticiple>soumettant</presentParticiple>
+	<pastParticiple>soumis</pastParticiple>
+	<present>
+		<je>soumets</je>
+		<tu>soumets</tu>
+		<il>soumet</il>
+		<nous>soumettons</nous>
+		<vous>soumettez</vous>
+		<ils>soumettent</ils>
+	</present>
+	<imperative>
+		<tu>soumets</tu>
+		<nous>soumettons</nous>
+		<vous>soumettez</vous>
+	</imperative>
+	<imperfect>
+		<je>soumettais</je>
+		<tu>soumettais</tu>
+		<il>soumettait</il>
+		<nous>soumettions</nous>
+		<vous>soumettiez</vous>
+		<ils>soumettaient</ils>
+	</imperfect>
+	<future>
+		<je>soumettrai</je>
+		<tu>soumettras</tu>
+		<il>soumettra</il>
+		<nous>soumettrons</nous>
+		<vous>soumettrez</vous>
+		<ils>soumettront</ils>
+	</future>
+	<subjunctive>
+		<je>soumette</je>
+		<tu>soumettes</tu>
+		<il>soumette</il>
+		<nous>soumettions</nous>
+		<vous>soumettiez</vous>
+		<ils>soumettent</ils>
+	</subjunctive>
+	<conditional>
+		<je>soumettrais</je>
+		<tu>soumettrais</tu>
+		<il>soumettrait</il>
+		<nous>soumettrions</nous>
+		<vous>soumettriez</vous>
+		<ils>soumettraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

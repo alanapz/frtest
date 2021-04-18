@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>parier</infinitive>
+	<translation>to bet</translation>
+	<translation>wager</translation>
+	<presentParticiple>pariant</presentParticiple>
+	<pastParticiple>parié</pastParticiple>
+	<present>
+		<je>parie</je>
+		<tu>paries</tu>
+		<il>parie</il>
+		<nous>parions</nous>
+		<vous>pariez</vous>
+		<ils>parient</ils>
+	</present>
+	<imperative>
+		<tu>parie</tu>
+		<nous>parions</nous>
+		<vous>pariez</vous>
+	</imperative>
+	<imperfect>
+		<je>pariais</je>
+		<tu>pariais</tu>
+		<il>pariait</il>
+		<nous>pariions</nous>
+		<vous>pariiez</vous>
+		<ils>pariaient</ils>
+	</imperfect>
+	<future>
+		<je>parierai</je>
+		<tu>parieras</tu>
+		<il>pariera</il>
+		<nous>parierons</nous>
+		<vous>parierez</vous>
+		<ils>parieront</ils>
+	</future>
+	<subjunctive>
+		<je>parie</je>
+		<tu>paries</tu>
+		<il>parie</il>
+		<nous>pariions</nous>
+		<vous>pariiez</vous>
+		<ils>parient</ils>
+	</subjunctive>
+	<conditional>
+		<je>parierais</je>
+		<tu>parierais</tu>
+		<il>parierait</il>
+		<nous>parierions</nous>
+		<vous>parieriez</vous>
+		<ils>parieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

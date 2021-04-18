@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>détourner</infinitive>
+	<translation>to divert</translation>
+	<presentParticiple>détournant</presentParticiple>
+	<pastParticiple>détourné</pastParticiple>
+	<present>
+		<je>détourne</je>
+		<tu>détournes</tu>
+		<il>détourne</il>
+		<nous>détournons</nous>
+		<vous>détournez</vous>
+		<ils>détournent</ils>
+	</present>
+	<imperative>
+		<tu>détourne</tu>
+		<nous>détournons</nous>
+		<vous>détournez</vous>
+	</imperative>
+	<imperfect>
+		<je>détournais</je>
+		<tu>détournais</tu>
+		<il>détournait</il>
+		<nous>détournions</nous>
+		<vous>détourniez</vous>
+		<ils>détournaient</ils>
+	</imperfect>
+	<future>
+		<je>détournerai</je>
+		<tu>détourneras</tu>
+		<il>détournera</il>
+		<nous>détournerons</nous>
+		<vous>détournerez</vous>
+		<ils>détourneront</ils>
+	</future>
+	<subjunctive>
+		<je>détourne</je>
+		<tu>détournes</tu>
+		<il>détourne</il>
+		<nous>détournions</nous>
+		<vous>détourniez</vous>
+		<ils>détournent</ils>
+	</subjunctive>
+	<conditional>
+		<je>détournerais</je>
+		<tu>détournerais</tu>
+		<il>détournerait</il>
+		<nous>détournerions</nous>
+		<vous>détourneriez</vous>
+		<ils>détourneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

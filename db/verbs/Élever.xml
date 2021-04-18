@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>élever</infinitive>
+	<translation>to raise</translation>
+	<translation>bring up</translation>
+	<translation>rear</translation>
+	<stemChange />
+	<presentParticiple>élevant</presentParticiple>
+	<pastParticiple>élevé</pastParticiple>
+	<present>
+		<je>élève</je>
+		<tu>élèves</tu>
+		<il>élève</il>
+		<nous>élevons</nous>
+		<vous>élevez</vous>
+		<ils>élèvent</ils>
+	</present>
+	<imperative>
+		<tu>élève</tu>
+		<nous>élevons</nous>
+		<vous>élevez</vous>
+	</imperative>
+	<imperfect>
+		<je>élevais</je>
+		<tu>élevais</tu>
+		<il>élevait</il>
+		<nous>élevions</nous>
+		<vous>éleviez</vous>
+		<ils>élevaient</ils>
+	</imperfect>
+	<future>
+		<je>élèverai</je>
+		<tu>élèveras</tu>
+		<il>élèvera</il>
+		<nous>élèverons</nous>
+		<vous>élèverez</vous>
+		<ils>élèveront</ils>
+	</future>
+	<subjunctive>
+		<je>élève</je>
+		<tu>élèves</tu>
+		<il>élève</il>
+		<nous>élevions</nous>
+		<vous>éleviez</vous>
+		<ils>élèvent</ils>
+	</subjunctive>
+	<conditional>
+		<je>élèverais</je>
+		<tu>élèverais</tu>
+		<il>élèverait</il>
+		<nous>élèverions</nous>
+		<vous>élèveriez</vous>
+		<ils>élèveraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

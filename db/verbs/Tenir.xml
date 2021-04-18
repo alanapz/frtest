@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>tenir</infinitive>
+            <translation>to hold</translation>
+            <translation>to keep</translation>
+            <irregular />
+            <presentParticiple>tenant</presentParticiple>
+            <pastParticiple>tenu</pastParticiple>
+            <present>
+                <je>tiens</je>
+                <tu>tiens</tu>
+                <il>tient</il>
+                <nous>tenons</nous>
+                <vous>tenez</vous>
+                <ils>tiennent</ils>
+            </present>
+            <imperative>
+                <tu>tiens</tu>
+                <nous>tenons</nous>
+                <vous>tenez</vous>
+            </imperative>
+            <imperfect>
+                <je>tenais</je>
+                <tu>tenais</tu>
+                <il>tenait</il>
+                <nous>tenions</nous>
+                <vous>teniez</vous>
+                <ils>tenaient</ils>
+            </imperfect>
+            <future>
+                <je>tiendrai</je>
+                <tu>tiendras</tu>
+                <il>tiendra</il>
+                <nous>tiendrons</nous>
+                <vous>tiendrez</vous>
+                <ils>tiendront</ils>
+            </future>
+            <subjunctive>
+                <je>tienne</je>
+                <tu>tiennes</tu>
+                <il>tienne</il>
+                <nous>tenions</nous>
+                <vous>teniez</vous>
+                <ils>tiennent</ils>
+            </subjunctive>
+            <conditional>
+                <je>tiendrais</je>
+                <tu>tiendrais</tu>
+                <il>tiendrait</il>
+                <nous>tiendrions</nous>
+                <vous>tiendriez</vous>
+                <ils>tiendraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

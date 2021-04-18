@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>invalider</infinitive>
+	<translation>to invalidate</translation>
+	<presentParticiple>invalidant</presentParticiple>
+	<pastParticiple>invalidé</pastParticiple>
+	<present>
+		<je>invalide</je>
+		<tu>invalides</tu>
+		<il>invalide</il>
+		<nous>invalidons</nous>
+		<vous>invalidez</vous>
+		<ils>invalident</ils>
+	</present>
+	<imperative>
+		<tu>invalide</tu>
+		<nous>invalidons</nous>
+		<vous>invalidez</vous>
+	</imperative>
+	<imperfect>
+		<je>invalidais</je>
+		<tu>invalidais</tu>
+		<il>invalidait</il>
+		<nous>invalidions</nous>
+		<vous>invalidiez</vous>
+		<ils>invalidaient</ils>
+	</imperfect>
+	<future>
+		<je>invaliderai</je>
+		<tu>invalideras</tu>
+		<il>invalidera</il>
+		<nous>invaliderons</nous>
+		<vous>invaliderez</vous>
+		<ils>invalideront</ils>
+	</future>
+	<subjunctive>
+		<je>invalide</je>
+		<tu>invalides</tu>
+		<il>invalide</il>
+		<nous>invalidions</nous>
+		<vous>invalidiez</vous>
+		<ils>invalident</ils>
+	</subjunctive>
+	<conditional>
+		<je>invaliderais</je>
+		<tu>invaliderais</tu>
+		<il>invaliderait</il>
+		<nous>invaliderions</nous>
+		<vous>invalideriez</vous>
+		<ils>invalideraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

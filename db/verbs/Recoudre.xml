@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>recoudre</infinitive>
+	<translation>to sew back up/on</translation>
+	<irregular />
+	<presentParticiple>recousant</presentParticiple>
+	<pastParticiple>recousu</pastParticiple>
+	<present>
+		<je>recouds</je>
+		<tu>recouds</tu>
+		<il>recoud</il>
+		<nous>recousons</nous>
+		<vous>recousez</vous>
+		<ils>recousent</ils>
+	</present>
+	<imperative>
+		<tu>recouds</tu>
+		<nous>recousons</nous>
+		<vous>recousez</vous>
+	</imperative>
+	<imperfect>
+		<je>recousais</je>
+		<tu>recousais</tu>
+		<il>recousait</il>
+		<nous>recousions</nous>
+		<vous>recousiez</vous>
+		<ils>recousaient</ils>
+	</imperfect>
+	<future>
+		<je>recoudrai</je>
+		<tu>recoudras</tu>
+		<il>recoudra</il>
+		<nous>recoudrons</nous>
+		<vous>recoudrez</vous>
+		<ils>recoudront</ils>
+	</future>
+	<subjunctive>
+		<je>recouse</je>
+		<tu>recouses</tu>
+		<il>recouse</il>
+		<nous>recousions</nous>
+		<vous>recousiez</vous>
+		<ils>recousent</ils>
+	</subjunctive>
+	<conditional>
+		<je>recoudrais</je>
+		<tu>recoudrais</tu>
+		<il>recoudrait</il>
+		<nous>recoudrions</nous>
+		<vous>recoudriez</vous>
+		<ils>recoudraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

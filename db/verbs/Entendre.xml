@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>entendre</infinitive>
+            <translation>to hear</translation>
+            <presentParticiple>entendant</presentParticiple>
+            <pastParticiple>entendu</pastParticiple>
+            <pronominal>
+                <translation>to get along with</translation>
+            </pronominal>
+            <present>
+                <je>entends</je>
+                <tu>entends</tu>
+                <il>entend</il>
+                <nous>entendons</nous>
+                <vous>entendez</vous>
+                <ils>entendent</ils>
+            </present>
+            <imperative>
+                <tu>entends</tu>
+                <nous>entendons</nous>
+                <vous>entendez</vous>
+            </imperative>
+            <imperfect>
+                <je>entendais</je>
+                <tu>entendais</tu>
+                <il>entendait</il>
+                <nous>entendions</nous>
+                <vous>entendiez</vous>
+                <ils>entendaient</ils>
+            </imperfect>
+            <future>
+                <je>entendrai</je>
+                <tu>entendras</tu>
+                <il>entendra</il>
+                <nous>entendrons</nous>
+                <vous>entendrez</vous>
+                <ils>entendront</ils>
+            </future>
+            <subjunctive>
+                <je>entende</je>
+                <tu>entendes</tu>
+                <il>entende</il>
+                <nous>entendions</nous>
+                <vous>entendiez</vous>
+                <ils>entendent</ils>
+            </subjunctive>
+            <conditional>
+                <je>entendrais</je>
+                <tu>entendrais</tu>
+                <il>entendrait</il>
+                <nous>entendrions</nous>
+                <vous>entendriez</vous>
+                <ils>entendraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

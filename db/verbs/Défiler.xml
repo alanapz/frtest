@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>défiler</infinitive>
+	<translation>to unthread</translation>
+	<translation>to march</translation>
+	<translation>parade</translation>
+	<translation>to unwind</translation>
+	<presentParticiple>défilant</presentParticiple>
+	<pastParticiple>défilé</pastParticiple>
+	<present>
+		<je>défile</je>
+		<tu>défiles</tu>
+		<il>défile</il>
+		<nous>défilons</nous>
+		<vous>défilez</vous>
+		<ils>défilent</ils>
+	</present>
+	<imperative>
+		<tu>défile</tu>
+		<nous>défilons</nous>
+		<vous>défilez</vous>
+	</imperative>
+	<imperfect>
+		<je>défilais</je>
+		<tu>défilais</tu>
+		<il>défilait</il>
+		<nous>défilions</nous>
+		<vous>défiliez</vous>
+		<ils>défilaient</ils>
+	</imperfect>
+	<future>
+		<je>défilerai</je>
+		<tu>défileras</tu>
+		<il>défilera</il>
+		<nous>défilerons</nous>
+		<vous>défilerez</vous>
+		<ils>défileront</ils>
+	</future>
+	<subjunctive>
+		<je>défile</je>
+		<tu>défiles</tu>
+		<il>défile</il>
+		<nous>défilions</nous>
+		<vous>défiliez</vous>
+		<ils>défilent</ils>
+	</subjunctive>
+	<conditional>
+		<je>défilerais</je>
+		<tu>défilerais</tu>
+		<il>défilerait</il>
+		<nous>défilerions</nous>
+		<vous>défileriez</vous>
+		<ils>défileraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>comparer</infinitive>
+	<translation>to compare</translation>
+	<presentParticiple>comparant</presentParticiple>
+	<pastParticiple>comparé</pastParticiple>
+	<present>
+		<je>compare</je>
+		<tu>compares</tu>
+		<il>compare</il>
+		<nous>comparons</nous>
+		<vous>comparez</vous>
+		<ils>comparent</ils>
+	</present>
+	<imperative>
+		<tu>compare</tu>
+		<nous>comparons</nous>
+		<vous>comparez</vous>
+	</imperative>
+	<imperfect>
+		<je>comparais</je>
+		<tu>comparais</tu>
+		<il>comparait</il>
+		<nous>comparions</nous>
+		<vous>compariez</vous>
+		<ils>comparaient</ils>
+	</imperfect>
+	<future>
+		<je>comparerai</je>
+		<tu>compareras</tu>
+		<il>comparera</il>
+		<nous>comparerons</nous>
+		<vous>comparerez</vous>
+		<ils>compareront</ils>
+	</future>
+	<subjunctive>
+		<je>compare</je>
+		<tu>compares</tu>
+		<il>compare</il>
+		<nous>comparions</nous>
+		<vous>compariez</vous>
+		<ils>comparent</ils>
+	</subjunctive>
+	<conditional>
+		<je>comparerais</je>
+		<tu>comparerais</tu>
+		<il>comparerait</il>
+		<nous>comparerions</nous>
+		<vous>compareriez</vous>
+		<ils>compareraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

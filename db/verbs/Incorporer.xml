@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>incorporer</infinitive>
+	<translation>to incorporate</translation>
+	<presentParticiple>incorporant</presentParticiple>
+	<pastParticiple>incorporé</pastParticiple>
+	<present>
+		<je>incorpore</je>
+		<tu>incorpores</tu>
+		<il>incorpore</il>
+		<nous>incorporons</nous>
+		<vous>incorporez</vous>
+		<ils>incorporent</ils>
+	</present>
+	<imperative>
+		<tu>incorpore</tu>
+		<nous>incorporons</nous>
+		<vous>incorporez</vous>
+	</imperative>
+	<imperfect>
+		<je>incorporais</je>
+		<tu>incorporais</tu>
+		<il>incorporait</il>
+		<nous>incorporions</nous>
+		<vous>incorporiez</vous>
+		<ils>incorporaient</ils>
+	</imperfect>
+	<future>
+		<je>incorporerai</je>
+		<tu>incorporeras</tu>
+		<il>incorporera</il>
+		<nous>incorporerons</nous>
+		<vous>incorporerez</vous>
+		<ils>incorporeront</ils>
+	</future>
+	<subjunctive>
+		<je>incorpore</je>
+		<tu>incorpores</tu>
+		<il>incorpore</il>
+		<nous>incorporions</nous>
+		<vous>incorporiez</vous>
+		<ils>incorporent</ils>
+	</subjunctive>
+	<conditional>
+		<je>incorporerais</je>
+		<tu>incorporerais</tu>
+		<il>incorporerait</il>
+		<nous>incorporerions</nous>
+		<vous>incorporeriez</vous>
+		<ils>incorporeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>perdre</infinitive>
+            <translation>to lose</translation>
+            <presentParticiple>perdant</presentParticiple>
+            <pastParticiple>perdu</pastParticiple>
+            <present>
+                <je>perds</je>
+                <tu>perds</tu>
+                <il>perd</il>
+                <nous>perdons</nous>
+                <vous>perdez</vous>
+                <ils>perdent</ils>
+            </present>
+            <imperative>
+                <tu>perds</tu>
+                <nous>perdons</nous>
+                <vous>perdez</vous>
+            </imperative>
+            <imperfect>
+                <je>perdais</je>
+                <tu>perdais</tu>
+                <il>perdait</il>
+                <nous>perdions</nous>
+                <vous>perdiez</vous>
+                <ils>perdaient</ils>
+            </imperfect>
+            <future>
+                <je>perdrai</je>
+                <tu>perdras</tu>
+                <il>perdra</il>
+                <nous>perdrons</nous>
+                <vous>perdrez</vous>
+                <ils>perdront</ils>
+            </future>
+            <subjunctive>
+                <je>perde</je>
+                <tu>perdes</tu>
+                <il>perde</il>
+                <nous>perdions</nous>
+                <vous>perdiez</vous>
+                <ils>perdent</ils>
+            </subjunctive>
+            <conditional>
+                <je>perdrais</je>
+                <tu>perdrais</tu>
+                <il>perdrait</il>
+                <nous>perdrions</nous>
+                <vous>perdriez</vous>
+                <ils>perdraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

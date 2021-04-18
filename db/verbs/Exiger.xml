@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>exiger</infinitive>
+	<translation>to demand</translation>
+	<spellingChange />
+	<presentParticiple>exigeant</presentParticiple>
+	<pastParticiple>exigé</pastParticiple>
+	<present>
+		<je>exige</je>
+		<tu>exiges</tu>
+		<il>exige</il>
+		<nous>exigeons</nous>
+		<vous>exigez</vous>
+		<ils>exigent</ils>
+	</present>
+	<imperative>
+		<tu>exige</tu>
+		<nous>exigeons</nous>
+		<vous>exigez</vous>
+	</imperative>
+	<imperfect>
+		<je>exigeais</je>
+		<tu>exigeais</tu>
+		<il>exigeait</il>
+		<nous>exigions</nous>
+		<vous>exigiez</vous>
+		<ils>exigeaient</ils>
+	</imperfect>
+	<future>
+		<je>exigerai</je>
+		<tu>exigeras</tu>
+		<il>exigera</il>
+		<nous>exigerons</nous>
+		<vous>exigerez</vous>
+		<ils>exigeront</ils>
+	</future>
+	<subjunctive>
+		<je>exige</je>
+		<tu>exiges</tu>
+		<il>exige</il>
+		<nous>exigions</nous>
+		<vous>exigiez</vous>
+		<ils>exigent</ils>
+	</subjunctive>
+	<conditional>
+		<je>exigerais</je>
+		<tu>exigerais</tu>
+		<il>exigerait</il>
+		<nous>exigerions</nous>
+		<vous>exigeriez</vous>
+		<ils>exigeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

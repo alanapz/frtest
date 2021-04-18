@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>élire</infinitive>
+	<translation>to elect</translation>
+	<irregular />
+	<presentParticiple>élisant</presentParticiple>
+	<pastParticiple>élu</pastParticiple>
+	<present>
+		<je>élis</je>
+		<tu>élis</tu>
+		<il>élit</il>
+		<nous>élisons</nous>
+		<vous>élisez</vous>
+		<ils>élisent</ils>
+	</present>
+	<imperative>
+		<tu>élis</tu>
+		<nous>élisons</nous>
+		<vous>élisez</vous>
+	</imperative>
+	<imperfect>
+		<je>élisais</je>
+		<tu>élisais</tu>
+		<il>élisait</il>
+		<nous>élisions</nous>
+		<vous>élisiez</vous>
+		<ils>élisaient</ils>
+	</imperfect>
+	<future>
+		<je>élirai</je>
+		<tu>éliras</tu>
+		<il>élira</il>
+		<nous>élirons</nous>
+		<vous>élirez</vous>
+		<ils>éliront</ils>
+	</future>
+	<subjunctive>
+		<je>élise</je>
+		<tu>élises</tu>
+		<il>élise</il>
+		<nous>élisions</nous>
+		<vous>élisiez</vous>
+		<ils>élisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>élirais</je>
+		<tu>élirais</tu>
+		<il>élirait</il>
+		<nous>élirions</nous>
+		<vous>éliriez</vous>
+		<ils>éliraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

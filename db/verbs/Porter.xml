@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>porter</infinitive>
+	<translation>to wear</translation>
+	<translation>to carry</translation>
+	<presentParticiple>portant</presentParticiple>
+	<pastParticiple>porté</pastParticiple>
+	<present>
+		<je>porte</je>
+		<tu>portes</tu>
+		<il>porte</il>
+		<nous>portons</nous>
+		<vous>portez</vous>
+		<ils>portent</ils>
+	</present>
+	<imperative>
+		<tu>porte</tu>
+		<nous>portons</nous>
+		<vous>portez</vous>
+	</imperative>
+	<imperfect>
+		<je>portais</je>
+		<tu>portais</tu>
+		<il>portait</il>
+		<nous>portions</nous>
+		<vous>portiez</vous>
+		<ils>portaient</ils>
+	</imperfect>
+	<future>
+		<je>porterai</je>
+		<tu>porteras</tu>
+		<il>portera</il>
+		<nous>porterons</nous>
+		<vous>porterez</vous>
+		<ils>porteront</ils>
+	</future>
+	<subjunctive>
+		<je>porte</je>
+		<tu>portes</tu>
+		<il>porte</il>
+		<nous>portions</nous>
+		<vous>portiez</vous>
+		<ils>portent</ils>
+	</subjunctive>
+	<conditional>
+		<je>porterais</je>
+		<tu>porterais</tu>
+		<il>porterait</il>
+		<nous>porterions</nous>
+		<vous>porteriez</vous>
+		<ils>porteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

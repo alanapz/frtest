@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>cesser</infinitive>
+	<translation>to cease</translation>
+	<translation>stop</translation>
+	<presentParticiple>cessant</presentParticiple>
+	<pastParticiple>cessé</pastParticiple>
+	<present>
+		<je>cesse</je>
+		<tu>cesses</tu>
+		<il>cesse</il>
+		<nous>cessons</nous>
+		<vous>cessez</vous>
+		<ils>cessent</ils>
+	</present>
+	<imperative>
+		<tu>cesse</tu>
+		<nous>cessons</nous>
+		<vous>cessez</vous>
+	</imperative>
+	<imperfect>
+		<je>cessais</je>
+		<tu>cessais</tu>
+		<il>cessait</il>
+		<nous>cessions</nous>
+		<vous>cessiez</vous>
+		<ils>cessaient</ils>
+	</imperfect>
+	<future>
+		<je>cesserai</je>
+		<tu>cesseras</tu>
+		<il>cessera</il>
+		<nous>cesserons</nous>
+		<vous>cesserez</vous>
+		<ils>cesseront</ils>
+	</future>
+	<subjunctive>
+		<je>cesse</je>
+		<tu>cesses</tu>
+		<il>cesse</il>
+		<nous>cessions</nous>
+		<vous>cessiez</vous>
+		<ils>cessent</ils>
+	</subjunctive>
+	<conditional>
+		<je>cesserais</je>
+		<tu>cesserais</tu>
+		<il>cesserait</il>
+		<nous>cesserions</nous>
+		<vous>cesseriez</vous>
+		<ils>cesseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

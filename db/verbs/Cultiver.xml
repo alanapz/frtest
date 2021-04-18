@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>cultiver</infinitive>
+	<translation>to cultivate</translation>
+	<presentParticiple>cultivant</presentParticiple>
+	<pastParticiple>cultivé</pastParticiple>
+	<present>
+		<je>cultive</je>
+		<tu>cultives</tu>
+		<il>cultive</il>
+		<nous>cultivons</nous>
+		<vous>cultivez</vous>
+		<ils>cultivent</ils>
+	</present>
+	<imperative>
+		<tu>cultive</tu>
+		<nous>cultivons</nous>
+		<vous>cultivez</vous>
+	</imperative>
+	<imperfect>
+		<je>cultivais</je>
+		<tu>cultivais</tu>
+		<il>cultivait</il>
+		<nous>cultivions</nous>
+		<vous>cultiviez</vous>
+		<ils>cultivaient</ils>
+	</imperfect>
+	<future>
+		<je>cultiverai</je>
+		<tu>cultiveras</tu>
+		<il>cultivera</il>
+		<nous>cultiverons</nous>
+		<vous>cultiverez</vous>
+		<ils>cultiveront</ils>
+	</future>
+	<subjunctive>
+		<je>cultive</je>
+		<tu>cultives</tu>
+		<il>cultive</il>
+		<nous>cultivions</nous>
+		<vous>cultiviez</vous>
+		<ils>cultivent</ils>
+	</subjunctive>
+	<conditional>
+		<je>cultiverais</je>
+		<tu>cultiverais</tu>
+		<il>cultiverait</il>
+		<nous>cultiverions</nous>
+		<vous>cultiveriez</vous>
+		<ils>cultiveraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

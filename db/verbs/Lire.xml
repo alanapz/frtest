@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>lire</infinitive>
+	<translation>to read</translation>
+	<irregular />
+	<presentParticiple>lisant</presentParticiple>
+	<pastParticiple>lu</pastParticiple>
+	<present>
+		<je>lis</je>
+		<tu>lis</tu>
+		<il>lit</il>
+		<nous>lisons</nous>
+		<vous>lisez</vous>
+		<ils>lisent</ils>
+	</present>
+	<imperative>
+		<tu>lis</tu>
+		<nous>lisons</nous>
+		<vous>lisez</vous>
+	</imperative>
+	<imperfect>
+		<je>lisais</je>
+		<tu>lisais</tu>
+		<il>lisait</il>
+		<nous>lisions</nous>
+		<vous>lisiez</vous>
+		<ils>lisaient</ils>
+	</imperfect>
+	<future>
+		<je>lirai</je>
+		<tu>liras</tu>
+		<il>lira</il>
+		<nous>lirons</nous>
+		<vous>lirez</vous>
+		<ils>liront</ils>
+	</future>
+	<subjunctive>
+		<je>lise</je>
+		<tu>lises</tu>
+		<il>lise</il>
+		<nous>lisions</nous>
+		<vous>lisiez</vous>
+		<ils>lisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>lirais</je>
+		<tu>lirais</tu>
+		<il>lirait</il>
+		<nous>lirions</nous>
+		<vous>liriez</vous>
+		<ils>liraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

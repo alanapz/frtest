@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>jurer</infinitive>
+	<translation>to swear</translation>
+	<translation>vow</translation>
+	<presentParticiple>jurant</presentParticiple>
+	<pastParticiple>juré</pastParticiple>
+	<present>
+		<je>jure</je>
+		<tu>jures</tu>
+		<il>jure</il>
+		<nous>jurons</nous>
+		<vous>jurez</vous>
+		<ils>jurent</ils>
+	</present>
+	<imperative>
+		<tu>jure</tu>
+		<nous>jurons</nous>
+		<vous>jurez</vous>
+	</imperative>
+	<imperfect>
+		<je>jurais</je>
+		<tu>jurais</tu>
+		<il>jurait</il>
+		<nous>jurions</nous>
+		<vous>juriez</vous>
+		<ils>juraient</ils>
+	</imperfect>
+	<future>
+		<je>jurerai</je>
+		<tu>jureras</tu>
+		<il>jurera</il>
+		<nous>jurerons</nous>
+		<vous>jurerez</vous>
+		<ils>jureront</ils>
+	</future>
+	<subjunctive>
+		<je>jure</je>
+		<tu>jures</tu>
+		<il>jure</il>
+		<nous>jurions</nous>
+		<vous>juriez</vous>
+		<ils>jurent</ils>
+	</subjunctive>
+	<conditional>
+		<je>jurerais</je>
+		<tu>jurerais</tu>
+		<il>jurerait</il>
+		<nous>jurerions</nous>
+		<vous>jureriez</vous>
+		<ils>jureraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

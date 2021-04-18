@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>pouvoir</infinitive>
+            <translation>to be able</translation>
+            <presentParticiple>pouvant</presentParticiple>
+            <pastParticiple>pu</pastParticiple>
+            <present>
+                <je>peux</je>
+                <tu>peux</tu>
+                <il>peut</il>
+                <nous>pouvons</nous>
+                <vous>pouvez</vous>
+                <ils>peuvent</ils>
+            </present>
+            <imperative>
+                <tu></tu>
+                <nous></nous>
+                <vous></vous>
+            </imperative>
+            <imperfect>
+                <je>pouvais</je>
+                <tu>pouvais</tu>
+                <il>pouvait</il>
+                <nous>pouvions</nous>
+                <vous>pouviez</vous>
+                <ils>pouvaient</ils>
+            </imperfect>
+            <future>
+                <je>pourrai</je>
+                <tu>pourras</tu>
+                <il>pourra</il>
+                <nous>pourrons</nous>
+                <vous>pourrez</vous>
+                <ils>pourront</ils>
+            </future>
+            <subjunctive>
+                <je>puisse</je>
+                <tu>puisses</tu>
+                <il>puisse</il>
+                <nous>puissions</nous>
+                <vous>puissiez</vous>
+                <ils>puissent</ils>
+            </subjunctive>
+            <conditional>
+                <je>pourrais</je>
+                <tu>pourrais</tu>
+                <il>pourrait</il>
+                <nous>pourrions</nous>
+                <vous>pourriez</vous>
+                <ils>pourraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

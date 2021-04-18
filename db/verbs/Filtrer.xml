@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>filtrer</infinitive>
+	<translation>to filter</translation>
+	<translation>screen</translation>
+	<presentParticiple>filtrant</presentParticiple>
+	<pastParticiple>filtré</pastParticiple>
+	<present>
+		<je>filtre</je>
+		<tu>filtres</tu>
+		<il>filtre</il>
+		<nous>filtrons</nous>
+		<vous>filtrez</vous>
+		<ils>filtrent</ils>
+	</present>
+	<imperative>
+		<tu>filtre</tu>
+		<nous>filtrons</nous>
+		<vous>filtrez</vous>
+	</imperative>
+	<imperfect>
+		<je>filtrais</je>
+		<tu>filtrais</tu>
+		<il>filtrait</il>
+		<nous>filtrions</nous>
+		<vous>filtriez</vous>
+		<ils>filtraient</ils>
+	</imperfect>
+	<future>
+		<je>filtrerai</je>
+		<tu>filtreras</tu>
+		<il>filtrera</il>
+		<nous>filtrerons</nous>
+		<vous>filtrerez</vous>
+		<ils>filtreront</ils>
+	</future>
+	<subjunctive>
+		<je>filtre</je>
+		<tu>filtres</tu>
+		<il>filtre</il>
+		<nous>filtrions</nous>
+		<vous>filtriez</vous>
+		<ils>filtrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>filtrerais</je>
+		<tu>filtrerais</tu>
+		<il>filtrerait</il>
+		<nous>filtrerions</nous>
+		<vous>filtreriez</vous>
+		<ils>filtreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

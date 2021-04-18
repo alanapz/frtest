@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>essuyer</infinitive>
+	<translation>to wipe</translation>
+	<stemChange />
+	<presentParticiple>essuyant</presentParticiple>
+	<pastParticiple>essuyé</pastParticiple>
+	<present>
+		<je>essuie</je>
+		<tu>essuies</tu>
+		<il>essuie</il>
+		<nous>essuyons</nous>
+		<vous>essuyez</vous>
+		<ils>essuient</ils>
+	</present>
+	<imperative>
+		<tu>essuie</tu>
+		<nous>essuyons</nous>
+		<vous>essuyez</vous>
+	</imperative>
+	<imperfect>
+		<je>essuyais</je>
+		<tu>essuyais</tu>
+		<il>essuyait</il>
+		<nous>essuyions</nous>
+		<vous>essuyiez</vous>
+		<ils>essuyaient</ils>
+	</imperfect>
+	<future>
+		<je>essuierai</je>
+		<tu>essuieras</tu>
+		<il>essuiera</il>
+		<nous>essuierons</nous>
+		<vous>essuierez</vous>
+		<ils>essuieront</ils>
+	</future>
+	<subjunctive>
+		<je>essuie</je>
+		<tu>essuies</tu>
+		<il>essuie</il>
+		<nous>essuyions</nous>
+		<vous>essuyiez</vous>
+		<ils>essuient</ils>
+	</subjunctive>
+	<conditional>
+		<je>essuierais</je>
+		<tu>essuierais</tu>
+		<il>essuierait</il>
+		<nous>essuierions</nous>
+		<vous>essuieriez</vous>
+		<ils>essuieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

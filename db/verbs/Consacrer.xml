@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>consacrer</infinitive>
+	<translation>to devote</translation>
+	<translation>dedicate</translation>
+	<translation>to establish</translation>
+	<presentParticiple>consacrant</presentParticiple>
+	<pastParticiple>consacré</pastParticiple>
+	<present>
+		<je>consacre</je>
+		<tu>consacres</tu>
+		<il>consacre</il>
+		<nous>consacrons</nous>
+		<vous>consacrez</vous>
+		<ils>consacrent</ils>
+	</present>
+	<imperative>
+		<tu>consacre</tu>
+		<nous>consacrons</nous>
+		<vous>consacrez</vous>
+	</imperative>
+	<imperfect>
+		<je>consacrais</je>
+		<tu>consacrais</tu>
+		<il>consacrait</il>
+		<nous>consacrions</nous>
+		<vous>consacriez</vous>
+		<ils>consacraient</ils>
+	</imperfect>
+	<future>
+		<je>consacrerai</je>
+		<tu>consacreras</tu>
+		<il>consacrera</il>
+		<nous>consacrerons</nous>
+		<vous>consacrerez</vous>
+		<ils>consacreront</ils>
+	</future>
+	<subjunctive>
+		<je>consacre</je>
+		<tu>consacres</tu>
+		<il>consacre</il>
+		<nous>consacrions</nous>
+		<vous>consacriez</vous>
+		<ils>consacrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>consacrerais</je>
+		<tu>consacrerais</tu>
+		<il>consacrerait</il>
+		<nous>consacrerions</nous>
+		<vous>consacreriez</vous>
+		<ils>consacreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

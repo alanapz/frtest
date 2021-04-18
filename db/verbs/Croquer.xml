@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>croquer</infinitive>
+	<translation>to bite into</translation>
+	<translation>crunch</translation>
+	<translation>to squander</translation>
+	<presentParticiple>croquant</presentParticiple>
+	<pastParticiple>croqué</pastParticiple>
+	<present>
+		<je>croque</je>
+		<tu>croques</tu>
+		<il>croque</il>
+		<nous>croquons</nous>
+		<vous>croquez</vous>
+		<ils>croquent</ils>
+	</present>
+	<imperative>
+		<tu>croque</tu>
+		<nous>croquons</nous>
+		<vous>croquez</vous>
+	</imperative>
+	<imperfect>
+		<je>croquais</je>
+		<tu>croquais</tu>
+		<il>croquait</il>
+		<nous>croquions</nous>
+		<vous>croquiez</vous>
+		<ils>croquaient</ils>
+	</imperfect>
+	<future>
+		<je>croquerai</je>
+		<tu>croqueras</tu>
+		<il>croquera</il>
+		<nous>croquerons</nous>
+		<vous>croquerez</vous>
+		<ils>croqueront</ils>
+	</future>
+	<subjunctive>
+		<je>croque</je>
+		<tu>croques</tu>
+		<il>croque</il>
+		<nous>croquions</nous>
+		<vous>croquiez</vous>
+		<ils>croquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>croquerais</je>
+		<tu>croquerais</tu>
+		<il>croquerait</il>
+		<nous>croquerions</nous>
+		<vous>croqueriez</vous>
+		<ils>croqueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

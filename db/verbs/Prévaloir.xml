@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>prévaloir</infinitive>
+	<translation>to prevail</translation>
+	<translation>overcome (formal)</translation>
+	<irregular />
+	<presentParticiple>prévalant</presentParticiple>
+	<pastParticiple> prévalu</pastParticiple>
+	<present>
+		<je>prévaux</je>
+		<tu>prévaux</tu>
+		<il>prévaut</il>
+		<nous>prévalons</nous>
+		<vous>prévalez</vous>
+		<ils>prévalent</ils>
+	</present>
+	<imperative>
+		<tu>prévaux</tu>
+		<nous>prévalons</nous>
+		<vous>prévalez</vous>
+	</imperative>
+	<imperfect>
+		<je>prévalais</je>
+		<tu>prévalais</tu>
+		<il>prévalait</il>
+		<nous>prévalions</nous>
+		<vous>prévaliez</vous>
+		<ils>prévalaient</ils>
+	</imperfect>
+	<future>
+		<je>prévaudrai</je>
+		<tu>prévaudras</tu>
+		<il>prévaudra</il>
+		<nous>prévaudrons</nous>
+		<vous>prévaudrez</vous>
+		<ils>prévaudront</ils>
+	</future>
+	<subjunctive>
+		<je>prévale</je>
+		<tu>prévales</tu>
+		<il>prévale</il>
+		<nous>prévalions</nous>
+		<vous>prévaliez</vous>
+		<ils>prévalent</ils>
+	</subjunctive>
+	<conditional>
+		<je>prévaudrais</je>
+		<tu>prévaudrais</tu>
+		<il>prévaudrait</il>
+		<nous>prévaudrions</nous>
+		<vous>prévaudriez</vous>
+		<ils>prévaudraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

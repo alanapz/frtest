@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>tondre</infinitive>
+	<translation>to shear</translation>
+	<translation>mow</translation>
+	<presentParticiple>tondant</presentParticiple>
+	<pastParticiple>tondu</pastParticiple>
+	<present>
+		<je>tonds</je>
+		<tu>tonds</tu>
+		<il>tond</il>
+		<nous>tondons</nous>
+		<vous>tondez</vous>
+		<ils>tondent</ils>
+	</present>
+	<imperative>
+		<tu>tonds</tu>
+		<nous>tondons</nous>
+		<vous>tondez</vous>
+	</imperative>
+	<imperfect>
+		<je>tondais</je>
+		<tu>tondais</tu>
+		<il>tondait</il>
+		<nous>tondions</nous>
+		<vous>tondiez</vous>
+		<ils>tondaient</ils>
+	</imperfect>
+	<future>
+		<je>tondrai</je>
+		<tu>tondras</tu>
+		<il>tondra</il>
+		<nous>tondrons</nous>
+		<vous>tondrez</vous>
+		<ils>tondront</ils>
+	</future>
+	<subjunctive>
+		<je>tonde</je>
+		<tu>tondes</tu>
+		<il>tonde</il>
+		<nous>tondions</nous>
+		<vous>tondiez</vous>
+		<ils>tondent</ils>
+	</subjunctive>
+	<conditional>
+		<je>tondrais</je>
+		<tu>tondrais</tu>
+		<il>tondrait</il>
+		<nous>tondrions</nous>
+		<vous>tondriez</vous>
+		<ils>tondraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

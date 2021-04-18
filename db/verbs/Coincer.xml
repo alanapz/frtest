@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>coincer</infinitive>
+	<translation>to wedge</translation>
+	<translation>jam</translation>
+	<translation>to catch s.o. out</translation>
+	<spellingChange />
+	<presentParticiple>coinçant</presentParticiple>
+	<pastParticiple>coincé</pastParticiple>
+	<present>
+		<je>coince</je>
+		<tu>coinces</tu>
+		<il>coince</il>
+		<nous>coinçons</nous>
+		<vous>coincez</vous>
+		<ils>coincent</ils>
+	</present>
+	<imperative>
+		<tu>coince</tu>
+		<nous>coinçons</nous>
+		<vous>coincez</vous>
+	</imperative>
+	<imperfect>
+		<je>coinçais</je>
+		<tu>coinçais</tu>
+		<il>coinçait</il>
+		<nous>coincions</nous>
+		<vous>coinciez</vous>
+		<ils>coinçaient</ils>
+	</imperfect>
+	<future>
+		<je>coincerai</je>
+		<tu>coinceras</tu>
+		<il>coincera</il>
+		<nous>coincerons</nous>
+		<vous>coincerez</vous>
+		<ils>coinceront</ils>
+	</future>
+	<subjunctive>
+		<je>coince</je>
+		<tu>coinces</tu>
+		<il>coince</il>
+		<nous>coincions</nous>
+		<vous>coinciez</vous>
+		<ils>coincent</ils>
+	</subjunctive>
+	<conditional>
+		<je>coincerais</je>
+		<tu>coincerais</tu>
+		<il>coincerait</il>
+		<nous>coincerions</nous>
+		<vous>coinceriez</vous>
+		<ils>coinceraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

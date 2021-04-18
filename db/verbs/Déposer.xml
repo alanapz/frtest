@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>déposer</infinitive>
+	<translation>to put down</translation>
+	<translation>to deposit</translation>
+	<presentParticiple>déposant</presentParticiple>
+	<pastParticiple>déposé</pastParticiple>
+	<present>
+		<je>dépose</je>
+		<tu>déposes</tu>
+		<il>dépose</il>
+		<nous>déposons</nous>
+		<vous>déposez</vous>
+		<ils>déposent</ils>
+	</present>
+	<imperative>
+		<tu>dépose</tu>
+		<nous>déposons</nous>
+		<vous>déposez</vous>
+	</imperative>
+	<imperfect>
+		<je>déposais</je>
+		<tu>déposais</tu>
+		<il>déposait</il>
+		<nous>déposions</nous>
+		<vous>déposiez</vous>
+		<ils>déposaient</ils>
+	</imperfect>
+	<future>
+		<je>déposerai</je>
+		<tu>déposeras</tu>
+		<il>déposera</il>
+		<nous>déposerons</nous>
+		<vous>déposerez</vous>
+		<ils>déposeront</ils>
+	</future>
+	<subjunctive>
+		<je>dépose</je>
+		<tu>déposes</tu>
+		<il>dépose</il>
+		<nous>déposions</nous>
+		<vous>déposiez</vous>
+		<ils>déposent</ils>
+	</subjunctive>
+	<conditional>
+		<je>déposerais</je>
+		<tu>déposerais</tu>
+		<il>déposerait</il>
+		<nous>déposerions</nous>
+		<vous>déposeriez</vous>
+		<ils>déposeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

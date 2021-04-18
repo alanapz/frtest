@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>mesurer</infinitive>
+	<translation>to measure</translation>
+	<presentParticiple>mesurant</presentParticiple>
+	<pastParticiple>mesuré</pastParticiple>
+	<present>
+		<je>mesure</je>
+		<tu>mesures</tu>
+		<il>mesure</il>
+		<nous>mesurons</nous>
+		<vous>mesurez</vous>
+		<ils>mesurent</ils>
+	</present>
+	<imperative>
+		<tu>mesure</tu>
+		<nous>mesurons</nous>
+		<vous>mesurez</vous>
+	</imperative>
+	<imperfect>
+		<je>mesurais</je>
+		<tu>mesurais</tu>
+		<il>mesurait</il>
+		<nous>mesurions</nous>
+		<vous>mesuriez</vous>
+		<ils>mesuraient</ils>
+	</imperfect>
+	<future>
+		<je>mesurerai</je>
+		<tu>mesureras</tu>
+		<il>mesurera</il>
+		<nous>mesurerons</nous>
+		<vous>mesurerez</vous>
+		<ils>mesureront</ils>
+	</future>
+	<subjunctive>
+		<je>mesure</je>
+		<tu>mesures</tu>
+		<il>mesure</il>
+		<nous>mesurions</nous>
+		<vous>mesuriez</vous>
+		<ils>mesurent</ils>
+	</subjunctive>
+	<conditional>
+		<je>mesurerais</je>
+		<tu>mesurerais</tu>
+		<il>mesurerait</il>
+		<nous>mesurerions</nous>
+		<vous>mesureriez</vous>
+		<ils>mesureraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

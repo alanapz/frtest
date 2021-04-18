@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>tressaillir</infinitive>
+	<translation>to shudder</translation>
+	<irregular />
+	<presentParticiple>tressaillant</presentParticiple>
+	<pastParticiple>tressailli</pastParticiple>
+	<present>
+		<je>tressaille</je>
+		<tu>tressailles</tu>
+		<il>tressaille</il>
+		<nous>tressaillons</nous>
+		<vous>tressaillez</vous>
+		<ils>tressaillent</ils>
+	</present>
+	<imperative>
+		<tu>tressaille</tu>
+		<nous>tressaillons</nous>
+		<vous>tressaillez</vous>
+	</imperative>
+	<imperfect>
+		<je>tressaillais</je>
+		<tu>tressaillais</tu>
+		<il>tressaillait</il>
+		<nous>tressaillions</nous>
+		<vous>tressailliez</vous>
+		<ils>tressaillaient</ils>
+	</imperfect>
+	<future>
+		<je>tressaillirai</je>
+		<tu>tressailliras</tu>
+		<il>tressaillira</il>
+		<nous>tressaillirons</nous>
+		<vous>tressaillirez</vous>
+		<ils>tressailliront</ils>
+	</future>
+	<subjunctive>
+		<je>tressaille</je>
+		<tu>tressailles</tu>
+		<il>tressaille</il>
+		<nous>tressaillions</nous>
+		<vous>tressailliez</vous>
+		<ils>tressaillent</ils>
+	</subjunctive>
+	<conditional>
+		<je>tressaillirais</je>
+		<tu>tressaillirais</tu>
+		<il>tressaillirait</il>
+		<nous>tressaillirions</nous>
+		<vous>tressailliriez</vous>
+		<ils>tressailliraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

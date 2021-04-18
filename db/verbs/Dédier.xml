@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dédier</infinitive>
+	<translation>to dedicate</translation>
+	<presentParticiple>dédiant</presentParticiple>
+	<pastParticiple>dédié</pastParticiple>
+	<present>
+		<je>dédie</je>
+		<tu>dédies</tu>
+		<il>dédie</il>
+		<nous>dédions</nous>
+		<vous>dédiez</vous>
+		<ils>dédient</ils>
+	</present>
+	<imperative>
+		<tu>dédie</tu>
+		<nous>dédions</nous>
+		<vous>dédiez</vous>
+	</imperative>
+	<imperfect>
+		<je>dédiais</je>
+		<tu>dédiais</tu>
+		<il>dédiait</il>
+		<nous>dédiions</nous>
+		<vous>dédiiez</vous>
+		<ils>dédiaient</ils>
+	</imperfect>
+	<future>
+		<je>dédierai</je>
+		<tu>dédieras</tu>
+		<il>dédiera</il>
+		<nous>dédierons</nous>
+		<vous>dédierez</vous>
+		<ils>dédieront</ils>
+	</future>
+	<subjunctive>
+		<je>dédie</je>
+		<tu>dédies</tu>
+		<il>dédie</il>
+		<nous>dédiions</nous>
+		<vous>dédiiez</vous>
+		<ils>dédient</ils>
+	</subjunctive>
+	<conditional>
+		<je>dédierais</je>
+		<tu>dédierais</tu>
+		<il>dédierait</il>
+		<nous>dédierions</nous>
+		<vous>dédieriez</vous>
+		<ils>dédieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

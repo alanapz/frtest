@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>défendre</infinitive>
+	<translation>to defend</translation>
+	<translation>to forbid</translation>
+	<presentParticiple>défendant</presentParticiple>
+	<pastParticiple>défendu</pastParticiple>
+	<present>
+		<je>défends</je>
+		<tu>défends</tu>
+		<il>défend</il>
+		<nous>défendons</nous>
+		<vous>défendez</vous>
+		<ils>défendent</ils>
+	</present>
+	<imperative>
+		<tu>défends</tu>
+		<nous>défendons</nous>
+		<vous>défendez</vous>
+	</imperative>
+	<imperfect>
+		<je>défendais</je>
+		<tu>défendais</tu>
+		<il>défendait</il>
+		<nous>défendions</nous>
+		<vous>défendiez</vous>
+		<ils>défendaient</ils>
+	</imperfect>
+	<future>
+		<je>défendrai</je>
+		<tu>défendras</tu>
+		<il>défendra</il>
+		<nous>défendrons</nous>
+		<vous>défendrez</vous>
+		<ils>défendront</ils>
+	</future>
+	<subjunctive>
+		<je>défende</je>
+		<tu>défendes</tu>
+		<il>défende</il>
+		<nous>défendions</nous>
+		<vous>défendiez</vous>
+		<ils>défendent</ils>
+	</subjunctive>
+	<conditional>
+		<je>défendrais</je>
+		<tu>défendrais</tu>
+		<il>défendrait</il>
+		<nous>défendrions</nous>
+		<vous>défendriez</vous>
+		<ils>défendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

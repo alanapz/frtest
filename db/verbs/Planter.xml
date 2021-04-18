@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>planter</infinitive>
+	<translation>to plant</translation>
+	<translation>to put in/up</translation>
+	<presentParticiple>plantant</presentParticiple>
+	<pastParticiple>planté</pastParticiple>
+	<present>
+		<je>plante</je>
+		<tu>plantes</tu>
+		<il>plante</il>
+		<nous>plantons</nous>
+		<vous>plantez</vous>
+		<ils>plantent</ils>
+	</present>
+	<imperative>
+		<tu>plante</tu>
+		<nous>plantons</nous>
+		<vous>plantez</vous>
+	</imperative>
+	<imperfect>
+		<je>plantais</je>
+		<tu>plantais</tu>
+		<il>plantait</il>
+		<nous>plantions</nous>
+		<vous>plantiez</vous>
+		<ils>plantaient</ils>
+	</imperfect>
+	<future>
+		<je>planterai</je>
+		<tu>planteras</tu>
+		<il>plantera</il>
+		<nous>planterons</nous>
+		<vous>planterez</vous>
+		<ils>planteront</ils>
+	</future>
+	<subjunctive>
+		<je>plante</je>
+		<tu>plantes</tu>
+		<il>plante</il>
+		<nous>plantions</nous>
+		<vous>plantiez</vous>
+		<ils>plantent</ils>
+	</subjunctive>
+	<conditional>
+		<je>planterais</je>
+		<tu>planterais</tu>
+		<il>planterait</il>
+		<nous>planterions</nous>
+		<vous>planteriez</vous>
+		<ils>planteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

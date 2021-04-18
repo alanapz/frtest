@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>fourrer</infinitive>
+	<translation>to stuff</translation>
+	<translation>fill</translation>
+	<presentParticiple>fourrant</presentParticiple>
+	<pastParticiple>fourré</pastParticiple>
+	<present>
+		<je>fourre</je>
+		<tu>fourres</tu>
+		<il>fourre</il>
+		<nous>fourrons</nous>
+		<vous>fourrez</vous>
+		<ils>fourrent</ils>
+	</present>
+	<imperative>
+		<tu>fourre</tu>
+		<nous>fourrons</nous>
+		<vous>fourrez</vous>
+	</imperative>
+	<imperfect>
+		<je>fourrais</je>
+		<tu>fourrais</tu>
+		<il>fourrait</il>
+		<nous>fourrions</nous>
+		<vous>fourriez</vous>
+		<ils>fourraient</ils>
+	</imperfect>
+	<future>
+		<je>fourrerai</je>
+		<tu>fourreras</tu>
+		<il>fourrera</il>
+		<nous>fourrerons</nous>
+		<vous>fourrerez</vous>
+		<ils>fourreront</ils>
+	</future>
+	<subjunctive>
+		<je>fourre</je>
+		<tu>fourres</tu>
+		<il>fourre</il>
+		<nous>fourrions</nous>
+		<vous>fourriez</vous>
+		<ils>fourrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>fourrerais</je>
+		<tu>fourrerais</tu>
+		<il>fourrerait</il>
+		<nous>fourrerions</nous>
+		<vous>fourreriez</vous>
+		<ils>fourreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

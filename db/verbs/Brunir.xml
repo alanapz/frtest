@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>brunir</infinitive>
+	<translation>to darken</translation>
+	<translation>tan</translation>
+	<presentParticiple>brunissant</presentParticiple>
+	<pastParticiple>bruni</pastParticiple>
+	<present>
+		<je>brunis</je>
+		<tu>brunis</tu>
+		<il>brunit</il>
+		<nous>brunissons</nous>
+		<vous>brunissez</vous>
+		<ils>brunissent</ils>
+	</present>
+	<imperative>
+		<tu>brunis</tu>
+		<nous>brunissons</nous>
+		<vous>brunissez</vous>
+	</imperative>
+	<imperfect>
+		<je>brunissais</je>
+		<tu>brunissais</tu>
+		<il>brunissait</il>
+		<nous>brunissions</nous>
+		<vous>brunissiez</vous>
+		<ils>brunissaient</ils>
+	</imperfect>
+	<future>
+		<je>brunirai</je>
+		<tu>bruniras</tu>
+		<il>brunira</il>
+		<nous>brunirons</nous>
+		<vous>brunirez</vous>
+		<ils>bruniront</ils>
+	</future>
+	<subjunctive>
+		<je>brunisse</je>
+		<tu>brunisses</tu>
+		<il>brunisse</il>
+		<nous>brunissions</nous>
+		<vous>brunissiez</vous>
+		<ils>brunissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>brunirais</je>
+		<tu>brunirais</tu>
+		<il>brunirait</il>
+		<nous>brunirions</nous>
+		<vous>bruniriez</vous>
+		<ils>bruniraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

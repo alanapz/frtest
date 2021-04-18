@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>emmener</infinitive>
+	<translation>to take</translation>
+	<stemChange />
+	<presentParticiple>emmenant</presentParticiple>
+	<pastParticiple>emmené</pastParticiple>
+	<present>
+		<je>emmène</je>
+		<tu>emmènes</tu>
+		<il>emmène</il>
+		<nous>emmenons</nous>
+		<vous>emmenez</vous>
+		<ils>emmènent</ils>
+	</present>
+	<imperative>
+		<tu>emmène</tu>
+		<nous>emmenons</nous>
+		<vous>emmenez</vous>
+	</imperative>
+	<imperfect>
+		<je>emmenais</je>
+		<tu>emmenais</tu>
+		<il>emmenait</il>
+		<nous>emmenions</nous>
+		<vous>emmeniez</vous>
+		<ils>emmenaient</ils>
+	</imperfect>
+	<future>
+		<je>emmènerai</je>
+		<tu>emmèneras</tu>
+		<il>emmènera</il>
+		<nous>emmènerons</nous>
+		<vous>emmènerez</vous>
+		<ils>emmèneront</ils>
+	</future>
+	<subjunctive>
+		<je>emmène</je>
+		<tu>emmènes</tu>
+		<il>emmène</il>
+		<nous>emmenions</nous>
+		<vous>emmeniez</vous>
+		<ils>emmènent</ils>
+	</subjunctive>
+	<conditional>
+		<je>emmènerais</je>
+		<tu>emmènerais</tu>
+		<il>emmènerait</il>
+		<nous>emmènerions</nous>
+		<vous>emmèneriez</vous>
+		<ils>emmèneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

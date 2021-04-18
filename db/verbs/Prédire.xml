@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>prédire</infinitive>
+	<translation>to predict</translation>
+	<irregular />
+	<presentParticiple>prédisant</presentParticiple>
+	<pastParticiple>prédit</pastParticiple>
+	<present>
+		<je>prédis</je>
+		<tu>prédis</tu>
+		<il>prédit</il>
+		<nous>prédisons</nous>
+		<vous>prédisez</vous>
+		<ils>prédisent</ils>
+	</present>
+	<imperative>
+		<tu>prédis</tu>
+		<nous>prédisons</nous>
+		<vous>prédisez</vous>
+	</imperative>
+	<imperfect>
+		<je>prédisais</je>
+		<tu>prédisais</tu>
+		<il>prédisait</il>
+		<nous>prédisions</nous>
+		<vous>prédisiez</vous>
+		<ils>prédisaient</ils>
+	</imperfect>
+	<future>
+		<je>prédirai</je>
+		<tu>prédiras</tu>
+		<il>prédira</il>
+		<nous>prédirons</nous>
+		<vous>prédirez</vous>
+		<ils>prédiront</ils>
+	</future>
+	<subjunctive>
+		<je>prédise</je>
+		<tu>prédises</tu>
+		<il>prédise</il>
+		<nous>prédisions</nous>
+		<vous>prédisiez</vous>
+		<ils>prédisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>prédirais</je>
+		<tu>prédirais</tu>
+		<il>prédirait</il>
+		<nous>prédirions</nous>
+		<vous>prédiriez</vous>
+		<ils>prédiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>diminuer</infinitive>
+	<translation>to diminish</translation>
+	<presentParticiple>diminuant</presentParticiple>
+	<pastParticiple>diminué</pastParticiple>
+	<present>
+		<je>diminue</je>
+		<tu>diminues</tu>
+		<il>diminue</il>
+		<nous>diminuons</nous>
+		<vous>diminuez</vous>
+		<ils>diminuent</ils>
+	</present>
+	<imperative>
+		<tu>diminue</tu>
+		<nous>diminuons</nous>
+		<vous>diminuez</vous>
+	</imperative>
+	<imperfect>
+		<je>diminuais</je>
+		<tu>diminuais</tu>
+		<il>diminuait</il>
+		<nous>diminuions</nous>
+		<vous>diminuiez</vous>
+		<ils>diminuaient</ils>
+	</imperfect>
+	<future>
+		<je>diminuerai</je>
+		<tu>diminueras</tu>
+		<il>diminuera</il>
+		<nous>diminuerons</nous>
+		<vous>diminuerez</vous>
+		<ils>diminueront</ils>
+	</future>
+	<subjunctive>
+		<je>diminue</je>
+		<tu>diminues</tu>
+		<il>diminue</il>
+		<nous>diminuions</nous>
+		<vous>diminuiez</vous>
+		<ils>diminuent</ils>
+	</subjunctive>
+	<conditional>
+		<je>diminuerais</je>
+		<tu>diminuerais</tu>
+		<il>diminuerait</il>
+		<nous>diminuerions</nous>
+		<vous>diminueriez</vous>
+		<ils>diminueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>provenir</infinitive>
+	<translation>to come from</translation>
+	<translation>be dueto</translation>
+	<irregular />
+	<takesEtreInPerfect />
+	<presentParticiple>provenant</presentParticiple>
+	<pastParticiple>provenu</pastParticiple>
+	<present>
+		<je>proviens</je>
+		<tu>proviens</tu>
+		<il>provient</il>
+		<nous>provenons</nous>
+		<vous>provenez</vous>
+		<ils>proviennent</ils>
+	</present>
+	<imperative>
+		<tu>proviens</tu>
+		<nous>provenons</nous>
+		<vous>provenez</vous>
+	</imperative>
+	<imperfect>
+		<je>provenais</je>
+		<tu>provenais</tu>
+		<il>provenait</il>
+		<nous>provenions</nous>
+		<vous>proveniez</vous>
+		<ils>provenaient</ils>
+	</imperfect>
+	<future>
+		<je>proviendrai</je>
+		<tu>proviendras</tu>
+		<il>proviendra</il>
+		<nous>proviendrons</nous>
+		<vous>proviendrez</vous>
+		<ils>proviendront</ils>
+	</future>
+	<subjunctive>
+		<je>provienne</je>
+		<tu>proviennes</tu>
+		<il>provienne</il>
+		<nous>provenions</nous>
+		<vous>proveniez</vous>
+		<ils>proviennent</ils>
+	</subjunctive>
+	<conditional>
+		<je>proviendrais</je>
+		<tu>proviendrais</tu>
+		<il>proviendrait</il>
+		<nous>proviendrions</nous>
+		<vous>proviendriez</vous>
+		<ils>proviendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

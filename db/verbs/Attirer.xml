@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>attirer</infinitive>
+	<translation>to attract</translation>
+	<presentParticiple>attirant</presentParticiple>
+	<pastParticiple>attiré</pastParticiple>
+	<present>
+		<je>attire</je>
+		<tu>attires</tu>
+		<il>attire</il>
+		<nous>attirons</nous>
+		<vous>attirez</vous>
+		<ils>attirent</ils>
+	</present>
+	<imperative>
+		<tu>attire</tu>
+		<nous>attirons</nous>
+		<vous>attirez</vous>
+	</imperative>
+	<imperfect>
+		<je>attirais</je>
+		<tu>attirais</tu>
+		<il>attirait</il>
+		<nous>attirions</nous>
+		<vous>attiriez</vous>
+		<ils>attiraient</ils>
+	</imperfect>
+	<future>
+		<je>attirerai</je>
+		<tu>attireras</tu>
+		<il>attirera</il>
+		<nous>attirerons</nous>
+		<vous>attirerez</vous>
+		<ils>attireront</ils>
+	</future>
+	<subjunctive>
+		<je>attire</je>
+		<tu>attires</tu>
+		<il>attire</il>
+		<nous>attirions</nous>
+		<vous>attiriez</vous>
+		<ils>attirent</ils>
+	</subjunctive>
+	<conditional>
+		<je>attirerais</je>
+		<tu>attirerais</tu>
+		<il>attirerait</il>
+		<nous>attirerions</nous>
+		<vous>attireriez</vous>
+		<ils>attireraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

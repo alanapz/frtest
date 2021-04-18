@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>employer</infinitive>
+	<translation>to use</translation>
+	<stemChange />
+	<presentParticiple>employant</presentParticiple>
+	<pastParticiple>employé</pastParticiple>
+	<present>
+		<je>emploie</je>
+		<tu>emploies</tu>
+		<il>emploie</il>
+		<nous>employons</nous>
+		<vous>employez</vous>
+		<ils>emploient</ils>
+	</present>
+	<imperative>
+		<tu>emploie</tu>
+		<nous>employons</nous>
+		<vous>employez</vous>
+	</imperative>
+	<imperfect>
+		<je>employais</je>
+		<tu>employais</tu>
+		<il>employait</il>
+		<nous>employions</nous>
+		<vous>employiez</vous>
+		<ils>employaient</ils>
+	</imperfect>
+	<future>
+		<je>emploierai</je>
+		<tu>emploieras</tu>
+		<il>emploiera</il>
+		<nous>emploierons</nous>
+		<vous>emploierez</vous>
+		<ils>emploieront</ils>
+	</future>
+	<subjunctive>
+		<je>emploie</je>
+		<tu>emploies</tu>
+		<il>emploie</il>
+		<nous>employions</nous>
+		<vous>employiez</vous>
+		<ils>emploient</ils>
+	</subjunctive>
+	<conditional>
+		<je>emploierais</je>
+		<tu>emploierais</tu>
+		<il>emploierait</il>
+		<nous>emploierions</nous>
+		<vous>emploieriez</vous>
+		<ils>emploieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

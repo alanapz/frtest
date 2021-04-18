@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>bouillir</infinitive>
+	<translation>to boil</translation>
+	<irregular />
+	<presentParticiple>bouillant</presentParticiple>
+	<pastParticiple>bouilli</pastParticiple>
+	<present>
+		<je>bous</je>
+		<tu>bous</tu>
+		<il>bout</il>
+		<nous>bouillons</nous>
+		<vous>bouillez</vous>
+		<ils>bouillent</ils>
+	</present>
+	<imperative>
+		<tu>bous</tu>
+		<nous>bouillons</nous>
+		<vous>bouillez</vous>
+	</imperative>
+	<imperfect>
+		<je>bouillais</je>
+		<tu>bouillais</tu>
+		<il>bouillait</il>
+		<nous>bouillions</nous>
+		<vous>bouilliez</vous>
+		<ils>bouillaient</ils>
+	</imperfect>
+	<future>
+		<je>bouillirai</je>
+		<tu>bouilliras</tu>
+		<il>bouillira</il>
+		<nous>bouillirons</nous>
+		<vous>bouillirez</vous>
+		<ils>bouilliront</ils>
+	</future>
+	<subjunctive>
+		<je>bouille</je>
+		<tu>bouilles</tu>
+		<il>bouille</il>
+		<nous>bouillions</nous>
+		<vous>bouilliez</vous>
+		<ils>bouillent</ils>
+	</subjunctive>
+	<conditional>
+		<je>bouillirais</je>
+		<tu>bouillirais</tu>
+		<il>bouillirait</il>
+		<nous>bouillirions</nous>
+		<vous>bouilliriez</vous>
+		<ils>bouilliraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>affaiblir</infinitive>
+	<translation>to weaken</translation>
+	<presentParticiple>affaiblissant</presentParticiple>
+	<pastParticiple>affaibli</pastParticiple>
+	<present>
+		<je>affaiblis</je>
+		<tu>affaiblis</tu>
+		<il>affaiblit</il>
+		<nous>affaiblissons</nous>
+		<vous>affaiblissez</vous>
+		<ils>affaiblissent</ils>
+	</present>
+	<imperative>
+		<tu>affaiblis</tu>
+		<nous>affaiblissons</nous>
+		<vous>affaiblissez</vous>
+	</imperative>
+	<imperfect>
+		<je>affaiblissais</je>
+		<tu>affaiblissais</tu>
+		<il>affaiblissait</il>
+		<nous>affaiblissions</nous>
+		<vous>affaiblissiez</vous>
+		<ils>affaiblissaient</ils>
+	</imperfect>
+	<future>
+		<je>affaiblirai</je>
+		<tu>affaibliras</tu>
+		<il>affaiblira</il>
+		<nous>affaiblirons</nous>
+		<vous>affaiblirez</vous>
+		<ils>affaibliront</ils>
+	</future>
+	<subjunctive>
+		<je>affaiblisse</je>
+		<tu>affaiblisses</tu>
+		<il>affaiblisse</il>
+		<nous>affaiblissions</nous>
+		<vous>affaiblissiez</vous>
+		<ils>affaiblissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>affaiblirais</je>
+		<tu>affaiblirais</tu>
+		<il>affaiblirait</il>
+		<nous>affaiblirions</nous>
+		<vous>affaibliriez</vous>
+		<ils>affaibliraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

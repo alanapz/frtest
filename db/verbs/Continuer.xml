@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>continuer</infinitive>
+	<translation>to continue</translation>
+	<presentParticiple>continuant</presentParticiple>
+	<pastParticiple>continué</pastParticiple>
+	<present>
+		<je>continue</je>
+		<tu>continues</tu>
+		<il>continue</il>
+		<nous>continuons</nous>
+		<vous>continuez</vous>
+		<ils>continuent</ils>
+	</present>
+	<imperative>
+		<tu>continue</tu>
+		<nous>continuons</nous>
+		<vous>continuez</vous>
+	</imperative>
+	<imperfect>
+		<je>continuais</je>
+		<tu>continuais</tu>
+		<il>continuait</il>
+		<nous>continuions</nous>
+		<vous>continuiez</vous>
+		<ils>continuaient</ils>
+	</imperfect>
+	<future>
+		<je>continuerai</je>
+		<tu>continueras</tu>
+		<il>continuera</il>
+		<nous>continuerons</nous>
+		<vous>continuerez</vous>
+		<ils>continueront</ils>
+	</future>
+	<subjunctive>
+		<je>continue</je>
+		<tu>continues</tu>
+		<il>continue</il>
+		<nous>continuions</nous>
+		<vous>continuiez</vous>
+		<ils>continuent</ils>
+	</subjunctive>
+	<conditional>
+		<je>continuerais</je>
+		<tu>continuerais</tu>
+		<il>continuerait</il>
+		<nous>continuerions</nous>
+		<vous>continueriez</vous>
+		<ils>continueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>découper</infinitive>
+	<translation>to cut</translation>
+	<translation>carve</translation>
+	<presentParticiple>découpant</presentParticiple>
+	<pastParticiple>découpé</pastParticiple>
+	<present>
+		<je>découpe</je>
+		<tu>découpes</tu>
+		<il>découpe</il>
+		<nous>découpons</nous>
+		<vous>découpez</vous>
+		<ils>découpent</ils>
+	</present>
+	<imperative>
+		<tu>découpe</tu>
+		<nous>découpons</nous>
+		<vous>découpez</vous>
+	</imperative>
+	<imperfect>
+		<je>découpais</je>
+		<tu>découpais</tu>
+		<il>découpait</il>
+		<nous>découpions</nous>
+		<vous>découpiez</vous>
+		<ils>découpaient</ils>
+	</imperfect>
+	<future>
+		<je>découperai</je>
+		<tu>découperas</tu>
+		<il>découpera</il>
+		<nous>découperons</nous>
+		<vous>découperez</vous>
+		<ils>découperont</ils>
+	</future>
+	<subjunctive>
+		<je>découpe</je>
+		<tu>découpes</tu>
+		<il>découpe</il>
+		<nous>découpions</nous>
+		<vous>découpiez</vous>
+		<ils>découpent</ils>
+	</subjunctive>
+	<conditional>
+		<je>découperais</je>
+		<tu>découperais</tu>
+		<il>découperait</il>
+		<nous>découperions</nous>
+		<vous>découperiez</vous>
+		<ils>découperaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

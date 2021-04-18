@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>réunir</infinitive>
+            <translation>to reunite</translation>
+            <presentParticiple>réunissant</presentParticiple>
+            <pastParticiple>réuni</pastParticiple>
+            <present>
+                <je>réunis</je>
+                <tu>réunis</tu>
+                <il>réunit</il>
+                <nous>réunissons</nous>
+                <vous>réunissez</vous>
+                <ils>réunissent</ils>
+            </present>
+            <imperative>
+                <tu>réunis</tu>
+                <nous>réunissons</nous>
+                <vous>réunissez</vous>
+            </imperative>
+            <imperfect>
+                <je>réunissais</je>
+                <tu>réunissais</tu>
+                <il>réunissait</il>
+                <nous>réunissions</nous>
+                <vous>réunissiez</vous>
+                <ils>réunissaient</ils>
+            </imperfect>
+            <future>
+                <je>réunirai</je>
+                <tu>réuniras</tu>
+                <il>réunira</il>
+                <nous>réunirons</nous>
+                <vous>réunirez</vous>
+                <ils>réuniront</ils>
+            </future>
+            <subjunctive>
+                <je>réunisse</je>
+                <tu>réunisses</tu>
+                <il>réunisse</il>
+                <nous>réunissions</nous>
+                <vous>réunissiez</vous>
+                <ils>réunissent</ils>
+            </subjunctive>
+            <conditional>
+                <je>réunirais</je>
+                <tu>réunirais</tu>
+                <il>réunirait</il>
+                <nous>réunirions</nous>
+                <vous>réuniriez</vous>
+                <ils>réuniraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

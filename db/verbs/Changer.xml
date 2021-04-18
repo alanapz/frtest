@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>changer</infinitive>
+	<translation>to change</translation>
+	<spellingChange />
+	<presentParticiple>changeant</presentParticiple>
+	<pastParticiple>changé</pastParticiple>
+	<present>
+		<je>change</je>
+		<tu>changes</tu>
+		<il>change</il>
+		<nous>changeons</nous>
+		<vous>changez</vous>
+		<ils>changent</ils>
+	</present>
+	<imperative>
+		<tu>change</tu>
+		<nous>changeons</nous>
+		<vous>changez</vous>
+	</imperative>
+	<imperfect>
+		<je>changeais</je>
+		<tu>changeais</tu>
+		<il>changeait</il>
+		<nous>changions</nous>
+		<vous>changiez</vous>
+		<ils>changeaient</ils>
+	</imperfect>
+	<future>
+		<je>changerai</je>
+		<tu>changeras</tu>
+		<il>changera</il>
+		<nous>changerons</nous>
+		<vous>changerez</vous>
+		<ils>changeront</ils>
+	</future>
+	<subjunctive>
+		<je>change</je>
+		<tu>changes</tu>
+		<il>change</il>
+		<nous>changions</nous>
+		<vous>changiez</vous>
+		<ils>changent</ils>
+	</subjunctive>
+	<conditional>
+		<je>changerais</je>
+		<tu>changerais</tu>
+		<il>changerait</il>
+		<nous>changerions</nous>
+		<vous>changeriez</vous>
+		<ils>changeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

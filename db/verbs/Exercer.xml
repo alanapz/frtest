@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>exercer</infinitive>
+	<translation>to exercise (control)</translation>
+	<translation>exert</translation>
+	<spellingChange />
+	<presentParticiple>exerçant</presentParticiple>
+	<pastParticiple>exercé</pastParticiple>
+	<present>
+		<je>exerce</je>
+		<tu>exerces</tu>
+		<il>exerce</il>
+		<nous>exerçons</nous>
+		<vous>exercez</vous>
+		<ils>exercent</ils>
+	</present>
+	<imperative>
+		<tu>exerce</tu>
+		<nous>exerçons</nous>
+		<vous>exercez</vous>
+	</imperative>
+	<imperfect>
+		<je>exerçais</je>
+		<tu>exerçais</tu>
+		<il>exerçait</il>
+		<nous>exercions</nous>
+		<vous>exerciez</vous>
+		<ils>exerçaient</ils>
+	</imperfect>
+	<future>
+		<je>exercerai</je>
+		<tu>exerceras</tu>
+		<il>exercera</il>
+		<nous>exercerons</nous>
+		<vous>exercerez</vous>
+		<ils>exerceront</ils>
+	</future>
+	<subjunctive>
+		<je>exerce</je>
+		<tu>exerces</tu>
+		<il>exerce</il>
+		<nous>exercions</nous>
+		<vous>exerciez</vous>
+		<ils>exercent</ils>
+	</subjunctive>
+	<conditional>
+		<je>exercerais</je>
+		<tu>exercerais</tu>
+		<il>exercerait</il>
+		<nous>exercerions</nous>
+		<vous>exerceriez</vous>
+		<ils>exerceraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

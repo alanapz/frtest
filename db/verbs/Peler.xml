@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>peler</infinitive>
+	<translation>to peel</translation>
+	<stemChange />
+	<presentParticiple>pelant</presentParticiple>
+	<pastParticiple>pelé</pastParticiple>
+	<present>
+		<je>pèle</je>
+		<tu>pèles</tu>
+		<il>pèle</il>
+		<nous>pelons</nous>
+		<vous>pelez</vous>
+		<ils>pèlent</ils>
+	</present>
+	<imperative>
+		<tu>pèle</tu>
+		<nous>pelons</nous>
+		<vous>pelez</vous>
+	</imperative>
+	<imperfect>
+		<je>pelais</je>
+		<tu>pelais</tu>
+		<il>pelait</il>
+		<nous>pelions</nous>
+		<vous>peliez</vous>
+		<ils>pelaient</ils>
+	</imperfect>
+	<future>
+		<je>pèlerai</je>
+		<tu>pèleras</tu>
+		<il>pèlera</il>
+		<nous>pèlerons</nous>
+		<vous>pèlerez</vous>
+		<ils>pèleront</ils>
+	</future>
+	<subjunctive>
+		<je>pèle</je>
+		<tu>pèles</tu>
+		<il>pèle</il>
+		<nous>pelions</nous>
+		<vous>peliez</vous>
+		<ils>pèlent</ils>
+	</subjunctive>
+	<conditional>
+		<je>pèlerais</je>
+		<tu>pèlerais</tu>
+		<il>pèlerait</il>
+		<nous>pèlerions</nous>
+		<vous>pèleriez</vous>
+		<ils>pèleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

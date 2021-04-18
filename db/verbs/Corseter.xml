@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>corseter</infinitive>
+	<translation>to corset</translation>
+	<translation>to constrain</translation>
+	<translation>constrict</translation>
+	<stemChange />
+	<presentParticiple>corsetant</presentParticiple>
+	<pastParticiple>corseté</pastParticiple>
+	<present>
+		<je>corsète</je>
+		<tu>corsètes</tu>
+		<il>corsète</il>
+		<nous>corsetons</nous>
+		<vous>corsetez</vous>
+		<ils>corsètent</ils>
+	</present>
+	<imperative>
+		<tu>corsète</tu>
+		<nous>corsetons</nous>
+		<vous>corsetez</vous>
+	</imperative>
+	<imperfect>
+		<je>corsetais</je>
+		<tu>corsetais</tu>
+		<il>corsetait</il>
+		<nous>corsetions</nous>
+		<vous>corsetiez</vous>
+		<ils>corsetaient</ils>
+	</imperfect>
+	<future>
+		<je>corsèterai</je>
+		<tu>corsèteras</tu>
+		<il>corsètera</il>
+		<nous>corsèterons</nous>
+		<vous>corsèterez</vous>
+		<ils>corsèteront</ils>
+	</future>
+	<subjunctive>
+		<je>corsète</je>
+		<tu>corsètes</tu>
+		<il>corsète</il>
+		<nous>corsetions</nous>
+		<vous>corsetiez</vous>
+		<ils>corsètent</ils>
+	</subjunctive>
+	<conditional>
+		<je>corsèterais</je>
+		<tu>corsèterais</tu>
+		<il>corsèterait</il>
+		<nous>corsèterions</nous>
+		<vous>corsèteriez</vous>
+		<ils>corsèteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

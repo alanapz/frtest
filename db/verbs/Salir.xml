@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>salir</infinitive>
+	<translation>to soil</translation>
+	<presentParticiple>salissant</presentParticiple>
+	<pastParticiple>sali</pastParticiple>
+	<present>
+		<je>salis</je>
+		<tu>salis</tu>
+		<il>salit</il>
+		<nous>salissons</nous>
+		<vous>salissez</vous>
+		<ils>salissent</ils>
+	</present>
+	<imperative>
+		<tu>salis</tu>
+		<nous>salissons</nous>
+		<vous>salissez</vous>
+	</imperative>
+	<imperfect>
+		<je>salissais</je>
+		<tu>salissais</tu>
+		<il>salissait</il>
+		<nous>salissions</nous>
+		<vous>salissiez</vous>
+		<ils>salissaient</ils>
+	</imperfect>
+	<future>
+		<je>salirai</je>
+		<tu>saliras</tu>
+		<il>salira</il>
+		<nous>salirons</nous>
+		<vous>salirez</vous>
+		<ils>saliront</ils>
+	</future>
+	<subjunctive>
+		<je>salisse</je>
+		<tu>salisses</tu>
+		<il>salisse</il>
+		<nous>salissions</nous>
+		<vous>salissiez</vous>
+		<ils>salissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>salirais</je>
+		<tu>salirais</tu>
+		<il>salirait</il>
+		<nous>salirions</nous>
+		<vous>saliriez</vous>
+		<ils>saliraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

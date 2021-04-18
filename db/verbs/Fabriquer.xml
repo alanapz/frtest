@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>fabriquer</infinitive>
+	<translation>to manufacture</translation>
+	<translation>fabricate</translation>
+	<presentParticiple>fabriquant</presentParticiple>
+	<pastParticiple>fabriqué</pastParticiple>
+	<present>
+		<je>fabrique</je>
+		<tu>fabriques</tu>
+		<il>fabrique</il>
+		<nous>fabriquons</nous>
+		<vous>fabriquez</vous>
+		<ils>fabriquent</ils>
+	</present>
+	<imperative>
+		<tu>fabrique</tu>
+		<nous>fabriquons</nous>
+		<vous>fabriquez</vous>
+	</imperative>
+	<imperfect>
+		<je>fabriquais</je>
+		<tu>fabriquais</tu>
+		<il>fabriquait</il>
+		<nous>fabriquions</nous>
+		<vous>fabriquiez</vous>
+		<ils>fabriquaient</ils>
+	</imperfect>
+	<future>
+		<je>fabriquerai</je>
+		<tu>fabriqueras</tu>
+		<il>fabriquera</il>
+		<nous>fabriquerons</nous>
+		<vous>fabriquerez</vous>
+		<ils>fabriqueront</ils>
+	</future>
+	<subjunctive>
+		<je>fabrique</je>
+		<tu>fabriques</tu>
+		<il>fabrique</il>
+		<nous>fabriquions</nous>
+		<vous>fabriquiez</vous>
+		<ils>fabriquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>fabriquerais</je>
+		<tu>fabriquerais</tu>
+		<il>fabriquerait</il>
+		<nous>fabriquerions</nous>
+		<vous>fabriqueriez</vous>
+		<ils>fabriqueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

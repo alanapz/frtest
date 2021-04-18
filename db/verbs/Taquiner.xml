@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>taquiner</infinitive>
+	<translation>to tease</translation>
+	<presentParticiple>taquinant</presentParticiple>
+	<pastParticiple>taquiné</pastParticiple>
+	<present>
+		<je>taquine</je>
+		<tu>taquines</tu>
+		<il>taquine</il>
+		<nous>taquinons</nous>
+		<vous>taquinez</vous>
+		<ils>taquinent</ils>
+	</present>
+	<imperative>
+		<tu>taquine</tu>
+		<nous>taquinons</nous>
+		<vous>taquinez</vous>
+	</imperative>
+	<imperfect>
+		<je>taquinais</je>
+		<tu>taquinais</tu>
+		<il>taquinait</il>
+		<nous>taquinions</nous>
+		<vous>taquiniez</vous>
+		<ils>taquinaient</ils>
+	</imperfect>
+	<future>
+		<je>taquinerai</je>
+		<tu>taquineras</tu>
+		<il>taquinera</il>
+		<nous>taquinerons</nous>
+		<vous>taquinerez</vous>
+		<ils>taquineront</ils>
+	</future>
+	<subjunctive>
+		<je>taquine</je>
+		<tu>taquines</tu>
+		<il>taquine</il>
+		<nous>taquinions</nous>
+		<vous>taquiniez</vous>
+		<ils>taquinent</ils>
+	</subjunctive>
+	<conditional>
+		<je>taquinerais</je>
+		<tu>taquinerais</tu>
+		<il>taquinerait</il>
+		<nous>taquinerions</nous>
+		<vous>taquineriez</vous>
+		<ils>taquineraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

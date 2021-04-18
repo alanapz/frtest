@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>secourir</infinitive>
+	<translation>to help</translation>
+	<irregular />
+	<presentParticiple>secourant</presentParticiple>
+	<pastParticiple> secouru</pastParticiple>
+	<present>
+		<je>secours</je>
+		<tu>secours</tu>
+		<il>secourt</il>
+		<nous>secourons</nous>
+		<vous>secourez</vous>
+		<ils>secourent</ils>
+	</present>
+	<imperative>
+		<tu>secours</tu>
+		<nous>secourons</nous>
+		<vous>secourez</vous>
+	</imperative>
+	<imperfect>
+		<je>secourais</je>
+		<tu>secourais</tu>
+		<il>secourait</il>
+		<nous>secourions</nous>
+		<vous>secouriez</vous>
+		<ils>secouraient</ils>
+	</imperfect>
+	<future>
+		<je>secourrai</je>
+		<tu>secourras</tu>
+		<il>secourra</il>
+		<nous>secourrons</nous>
+		<vous>secourrez</vous>
+		<ils>secourront</ils>
+	</future>
+	<subjunctive>
+		<je>secoure</je>
+		<tu>secoures</tu>
+		<il>secoure</il>
+		<nous>secourions</nous>
+		<vous>secouriez</vous>
+		<ils>secourent</ils>
+	</subjunctive>
+	<conditional>
+		<je>secourrais</je>
+		<tu>secourrais</tu>
+		<il>secourrait</il>
+		<nous>secourrions</nous>
+		<vous>secourriez</vous>
+		<ils>secourraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

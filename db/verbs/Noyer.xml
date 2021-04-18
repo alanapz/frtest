@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>noyer</infinitive>
+            <translation>to drown</translation>
+            <transitive />
+            <presentParticiple>noyant</presentParticiple>
+            <pastParticiple>noyé</pastParticiple>
+            <present>
+                <je>noie</je>
+                <tu>noies</tu>
+                <il>noie</il>
+                <nous>noyons</nous>
+                <vous>noyez</vous>
+                <ils>noient</ils>
+            </present>
+            <imperative>
+                <tu>noie</tu>
+                <nous>noyons</nous>
+                <vous>noyez</vous>
+            </imperative>
+            <imperfect>
+                <je>noyais</je>
+                <tu>noyais</tu>
+                <il>noyait</il>
+                <nous>noyions</nous>
+                <vous>noyiez</vous>
+                <ils>noyaient</ils>
+            </imperfect>
+            <future>
+                <je>noierai</je>
+                <tu>noieras</tu>
+                <il>noiera</il>
+                <nous>noierons</nous>
+                <vous>noierez</vous>
+                <ils>noieront</ils>
+            </future>
+            <subjunctive>
+                <je>noie</je>
+                <tu>noies</tu>
+                <il>noie</il>
+                <nous>noyions</nous>
+                <vous>noyiez</vous>
+                <ils>noient</ils>
+            </subjunctive>
+            <conditional>
+                <je>noierais</je>
+                <tu>noierais</tu>
+                <il>noierait</il>
+                <nous>noierions</nous>
+                <vous>noieriez</vous>
+                <ils>noieraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>entourer</infinitive>
+	<translation>to surround</translation>
+	<translation>to rally around</translation>
+	<presentParticiple>entourant</presentParticiple>
+	<pastParticiple>entouré</pastParticiple>
+	<present>
+		<je>entoure</je>
+		<tu>entoures</tu>
+		<il>entoure</il>
+		<nous>entourons</nous>
+		<vous>entourez</vous>
+		<ils>entourent</ils>
+	</present>
+	<imperative>
+		<tu>entoure</tu>
+		<nous>entourons</nous>
+		<vous>entourez</vous>
+	</imperative>
+	<imperfect>
+		<je>entourais</je>
+		<tu>entourais</tu>
+		<il>entourait</il>
+		<nous>entourions</nous>
+		<vous>entouriez</vous>
+		<ils>entouraient</ils>
+	</imperfect>
+	<future>
+		<je>entourerai</je>
+		<tu>entoureras</tu>
+		<il>entourera</il>
+		<nous>entourerons</nous>
+		<vous>entourerez</vous>
+		<ils>entoureront</ils>
+	</future>
+	<subjunctive>
+		<je>entoure</je>
+		<tu>entoures</tu>
+		<il>entoure</il>
+		<nous>entourions</nous>
+		<vous>entouriez</vous>
+		<ils>entourent</ils>
+	</subjunctive>
+	<conditional>
+		<je>entourerais</je>
+		<tu>entourerais</tu>
+		<il>entourerait</il>
+		<nous>entourerions</nous>
+		<vous>entoureriez</vous>
+		<ils>entoureraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

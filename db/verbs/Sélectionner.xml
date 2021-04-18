@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>sélectionner</infinitive>
+	<translation>to select</translation>
+	<presentParticiple>sélectionnant</presentParticiple>
+	<pastParticiple>sélectionné</pastParticiple>
+	<present>
+		<je>sélectionne</je>
+		<tu>sélectionnes</tu>
+		<il>sélectionne</il>
+		<nous>sélectionnons</nous>
+		<vous>sélectionnez</vous>
+		<ils>sélectionnent</ils>
+	</present>
+	<imperative>
+		<tu>sélectionne</tu>
+		<nous>sélectionnons</nous>
+		<vous>sélectionnez</vous>
+	</imperative>
+	<imperfect>
+		<je>sélectionnais</je>
+		<tu>sélectionnais</tu>
+		<il>sélectionnait</il>
+		<nous>sélectionnions</nous>
+		<vous>sélectionniez</vous>
+		<ils>sélectionnaient</ils>
+	</imperfect>
+	<future>
+		<je>sélectionnerai</je>
+		<tu>sélectionneras</tu>
+		<il>sélectionnera</il>
+		<nous>sélectionnerons</nous>
+		<vous>sélectionnerez</vous>
+		<ils>sélectionneront</ils>
+	</future>
+	<subjunctive>
+		<je>sélectionne</je>
+		<tu>sélectionnes</tu>
+		<il>sélectionne</il>
+		<nous>sélectionnions</nous>
+		<vous>sélectionniez</vous>
+		<ils>sélectionnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>sélectionnerais</je>
+		<tu>sélectionnerais</tu>
+		<il>sélectionnerait</il>
+		<nous>sélectionnerions</nous>
+		<vous>sélectionneriez</vous>
+		<ils>sélectionneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

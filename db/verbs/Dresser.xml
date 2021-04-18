@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dresser</infinitive>
+	<translation>to stand up</translation>
+	<translation>raise</translation>
+	<translation>to write (a list)</translation>
+	<presentParticiple>dressant</presentParticiple>
+	<pastParticiple>dressé</pastParticiple>
+	<present>
+		<je>dresse</je>
+		<tu>dresses</tu>
+		<il>dresse</il>
+		<nous>dressons</nous>
+		<vous>dressez</vous>
+		<ils>dressent</ils>
+	</present>
+	<imperative>
+		<tu>dresse</tu>
+		<nous>dressons</nous>
+		<vous>dressez</vous>
+	</imperative>
+	<imperfect>
+		<je>dressais</je>
+		<tu>dressais</tu>
+		<il>dressait</il>
+		<nous>dressions</nous>
+		<vous>dressiez</vous>
+		<ils>dressaient</ils>
+	</imperfect>
+	<future>
+		<je>dresserai</je>
+		<tu>dresseras</tu>
+		<il>dressera</il>
+		<nous>dresserons</nous>
+		<vous>dresserez</vous>
+		<ils>dresseront</ils>
+	</future>
+	<subjunctive>
+		<je>dresse</je>
+		<tu>dresses</tu>
+		<il>dresse</il>
+		<nous>dressions</nous>
+		<vous>dressiez</vous>
+		<ils>dressent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dresserais</je>
+		<tu>dresserais</tu>
+		<il>dresserait</il>
+		<nous>dresserions</nous>
+		<vous>dresseriez</vous>
+		<ils>dresseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>avaler</infinitive>
+	<translation>to swallow</translation>
+	<presentParticiple>avalant</presentParticiple>
+	<pastParticiple>avalé</pastParticiple>
+	<present>
+		<je>avale</je>
+		<tu>avales</tu>
+		<il>avale</il>
+		<nous>avalons</nous>
+		<vous>avalez</vous>
+		<ils>avalent</ils>
+	</present>
+	<imperative>
+		<tu>avale</tu>
+		<nous>avalons</nous>
+		<vous>avalez</vous>
+	</imperative>
+	<imperfect>
+		<je>avalais</je>
+		<tu>avalais</tu>
+		<il>avalait</il>
+		<nous>avalions</nous>
+		<vous>avaliez</vous>
+		<ils>avalaient</ils>
+	</imperfect>
+	<future>
+		<je>avalerai</je>
+		<tu>avaleras</tu>
+		<il>avalera</il>
+		<nous>avalerons</nous>
+		<vous>avalerez</vous>
+		<ils>avaleront</ils>
+	</future>
+	<subjunctive>
+		<je>avale</je>
+		<tu>avales</tu>
+		<il>avale</il>
+		<nous>avalions</nous>
+		<vous>avaliez</vous>
+		<ils>avalent</ils>
+	</subjunctive>
+	<conditional>
+		<je>avalerais</je>
+		<tu>avalerais</tu>
+		<il>avalerait</il>
+		<nous>avalerions</nous>
+		<vous>avaleriez</vous>
+		<ils>avaleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

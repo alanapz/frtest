@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>noircir</infinitive>
+	<translation>to blacken</translation>
+	<presentParticiple>noircissant</presentParticiple>
+	<pastParticiple>noirci</pastParticiple>
+	<present>
+		<je>noircis</je>
+		<tu>noircis</tu>
+		<il>noircit</il>
+		<nous>noircissons</nous>
+		<vous>noircissez</vous>
+		<ils>noircissent</ils>
+	</present>
+	<imperative>
+		<tu>noircis</tu>
+		<nous>noircissons</nous>
+		<vous>noircissez</vous>
+	</imperative>
+	<imperfect>
+		<je>noircissais</je>
+		<tu>noircissais</tu>
+		<il>noircissait</il>
+		<nous>noircissions</nous>
+		<vous>noircissiez</vous>
+		<ils>noircissaient</ils>
+	</imperfect>
+	<future>
+		<je>noircirai</je>
+		<tu>noirciras</tu>
+		<il>noircira</il>
+		<nous>noircirons</nous>
+		<vous>noircirez</vous>
+		<ils>noirciront</ils>
+	</future>
+	<subjunctive>
+		<je>noircisse</je>
+		<tu>noircisses</tu>
+		<il>noircisse</il>
+		<nous>noircissions</nous>
+		<vous>noircissiez</vous>
+		<ils>noircissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>noircirais</je>
+		<tu>noircirais</tu>
+		<il>noircirait</il>
+		<nous>noircirions</nous>
+		<vous>noirciriez</vous>
+		<ils>noirciraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

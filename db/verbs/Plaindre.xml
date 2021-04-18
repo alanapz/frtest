@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>plaindre</infinitive>
+	<translation>to pity</translation>
+	<translation>feel sorry for</translation>
+	<irregular />
+	<presentParticiple>plaignant</presentParticiple>
+	<pastParticiple>plaint</pastParticiple>
+	<present>
+		<je>plains</je>
+		<tu>plains</tu>
+		<il>plaint</il>
+		<nous>plaignons</nous>
+		<vous>plaignez</vous>
+		<ils>plaignent</ils>
+	</present>
+	<imperative>
+		<tu>plains</tu>
+		<nous>plaignons</nous>
+		<vous>plaignez</vous>
+	</imperative>
+	<imperfect>
+		<je>plaignais</je>
+		<tu>plaignais</tu>
+		<il>plaignait</il>
+		<nous>plaignions</nous>
+		<vous>plaigniez</vous>
+		<ils>plaignaient</ils>
+	</imperfect>
+	<future>
+		<je>plaindrai</je>
+		<tu>plaindras</tu>
+		<il>plaindra</il>
+		<nous>plaindrons</nous>
+		<vous>plaindrez</vous>
+		<ils>plaindront</ils>
+	</future>
+	<subjunctive>
+		<je>plaigne</je>
+		<tu>plaignes</tu>
+		<il>plaigne</il>
+		<nous>plaignions</nous>
+		<vous>plaigniez</vous>
+		<ils>plaignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>plaindrais</je>
+		<tu>plaindrais</tu>
+		<il>plaindrait</il>
+		<nous>plaindrions</nous>
+		<vous>plaindriez</vous>
+		<ils>plaindraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

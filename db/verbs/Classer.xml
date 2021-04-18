@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>classer</infinitive>
+	<translation>to file</translation>
+	<translation>classify</translation>
+	<translation>to grade</translation>
+	<presentParticiple>classant</presentParticiple>
+	<pastParticiple>classé</pastParticiple>
+	<present>
+		<je>classe</je>
+		<tu>classes</tu>
+		<il>classe</il>
+		<nous>classons</nous>
+		<vous>classez</vous>
+		<ils>classent</ils>
+	</present>
+	<imperative>
+		<tu>classe</tu>
+		<nous>classons</nous>
+		<vous>classez</vous>
+	</imperative>
+	<imperfect>
+		<je>classais</je>
+		<tu>classais</tu>
+		<il>classait</il>
+		<nous>classions</nous>
+		<vous>classiez</vous>
+		<ils>classaient</ils>
+	</imperfect>
+	<future>
+		<je>classerai</je>
+		<tu>classeras</tu>
+		<il>classera</il>
+		<nous>classerons</nous>
+		<vous>classerez</vous>
+		<ils>classeront</ils>
+	</future>
+	<subjunctive>
+		<je>classe</je>
+		<tu>classes</tu>
+		<il>classe</il>
+		<nous>classions</nous>
+		<vous>classiez</vous>
+		<ils>classent</ils>
+	</subjunctive>
+	<conditional>
+		<je>classerais</je>
+		<tu>classerais</tu>
+		<il>classerait</il>
+		<nous>classerions</nous>
+		<vous>classeriez</vous>
+		<ils>classeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

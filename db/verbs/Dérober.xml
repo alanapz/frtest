@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dérober</infinitive>
+	<translation>to steal</translation>
+	<translation>to hide</translation>
+	<translation>conceal</translation>
+	<presentParticiple>dérobant</presentParticiple>
+	<pastParticiple>dérobé</pastParticiple>
+	<present>
+		<je>dérobe</je>
+		<tu>dérobes</tu>
+		<il>dérobe</il>
+		<nous>dérobons</nous>
+		<vous>dérobez</vous>
+		<ils>dérobent</ils>
+	</present>
+	<imperative>
+		<tu>dérobe</tu>
+		<nous>dérobons</nous>
+		<vous>dérobez</vous>
+	</imperative>
+	<imperfect>
+		<je>dérobais</je>
+		<tu>dérobais</tu>
+		<il>dérobait</il>
+		<nous>dérobions</nous>
+		<vous>dérobiez</vous>
+		<ils>dérobaient</ils>
+	</imperfect>
+	<future>
+		<je>déroberai</je>
+		<tu>déroberas</tu>
+		<il>dérobera</il>
+		<nous>déroberons</nous>
+		<vous>déroberez</vous>
+		<ils>déroberont</ils>
+	</future>
+	<subjunctive>
+		<je>dérobe</je>
+		<tu>dérobes</tu>
+		<il>dérobe</il>
+		<nous>dérobions</nous>
+		<vous>dérobiez</vous>
+		<ils>dérobent</ils>
+	</subjunctive>
+	<conditional>
+		<je>déroberais</je>
+		<tu>déroberais</tu>
+		<il>déroberait</il>
+		<nous>déroberions</nous>
+		<vous>déroberiez</vous>
+		<ils>déroberaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

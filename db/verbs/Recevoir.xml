@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>recevoir</infinitive>
+	<translation>to receive</translation>
+	<irregular />
+	<presentParticiple>recevant</presentParticiple>
+	<pastParticiple>reçu</pastParticiple>
+	<present>
+		<je>reçois</je>
+		<tu>reçois</tu>
+		<il>reçoit</il>
+		<nous>recevons</nous>
+		<vous>recevez</vous>
+		<ils>reçoivent</ils>
+	</present>
+	<imperative>
+		<tu>reçois</tu>
+		<nous>recevons</nous>
+		<vous>recevez</vous>
+	</imperative>
+	<imperfect>
+		<je>recevais</je>
+		<tu>recevais</tu>
+		<il>recevait</il>
+		<nous>recevions</nous>
+		<vous>receviez</vous>
+		<ils>recevaient</ils>
+	</imperfect>
+	<future>
+		<je>recevrai</je>
+		<tu>recevras</tu>
+		<il>recevra</il>
+		<nous>recevrons</nous>
+		<vous>recevrez</vous>
+		<ils>recevront</ils>
+	</future>
+	<subjunctive>
+		<je>reçoive</je>
+		<tu>reçoives</tu>
+		<il>reçoive</il>
+		<nous>recevions</nous>
+		<vous>receviez</vous>
+		<ils>reçoivent</ils>
+	</subjunctive>
+	<conditional>
+		<je>recevrais</je>
+		<tu>recevrais</tu>
+		<il>recevrait</il>
+		<nous>recevrions</nous>
+		<vous>recevriez</vous>
+		<ils>recevraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

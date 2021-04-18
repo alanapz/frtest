@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>défaillir</infinitive>
+	<translation>to faint</translation>
+	<irregular />
+	<presentParticiple>défaillant</presentParticiple>
+	<pastParticiple> défailli</pastParticiple>
+	<present>
+		<je>défaille</je>
+		<tu>défailles</tu>
+		<il>défaille</il>
+		<nous>défaillons</nous>
+		<vous>défaillez</vous>
+		<ils>défaillent</ils>
+	</present>
+	<imperative>
+		<tu>défaille</tu>
+		<nous>défaillons</nous>
+		<vous>défaillez</vous>
+	</imperative>
+	<imperfect>
+		<je>défaillais</je>
+		<tu>défaillais</tu>
+		<il>défaillait</il>
+		<nous>défaillions</nous>
+		<vous>défailliez</vous>
+		<ils>défaillaient</ils>
+	</imperfect>
+	<future>
+		<je>défaillirai</je>
+		<tu>défailliras</tu>
+		<il>défaillira</il>
+		<nous>défaillirons</nous>
+		<vous>défaillirez</vous>
+		<ils>défailliront</ils>
+	</future>
+	<subjunctive>
+		<je>défaille</je>
+		<tu>défailles</tu>
+		<il>défaille</il>
+		<nous>défaillions</nous>
+		<vous>défailliez</vous>
+		<ils>défaillent</ils>
+	</subjunctive>
+	<conditional>
+		<je>défaillirais</je>
+		<tu>défaillirais</tu>
+		<il>défaillirait</il>
+		<nous>défaillirions</nous>
+		<vous>défailliriez</vous>
+		<ils>défailliraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>bourrer</infinitive>
+	<translation>to fill</translation>
+	<translation>stuff</translation>
+	<presentParticiple>bourrant</presentParticiple>
+	<pastParticiple>bourré</pastParticiple>
+	<present>
+		<je>bourre</je>
+		<tu>bourres</tu>
+		<il>bourre</il>
+		<nous>bourrons</nous>
+		<vous>bourrez</vous>
+		<ils>bourrent</ils>
+	</present>
+	<imperative>
+		<tu>bourre</tu>
+		<nous>bourrons</nous>
+		<vous>bourrez</vous>
+	</imperative>
+	<imperfect>
+		<je>bourrais</je>
+		<tu>bourrais</tu>
+		<il>bourrait</il>
+		<nous>bourrions</nous>
+		<vous>bourriez</vous>
+		<ils>bourraient</ils>
+	</imperfect>
+	<future>
+		<je>bourrerai</je>
+		<tu>bourreras</tu>
+		<il>bourrera</il>
+		<nous>bourrerons</nous>
+		<vous>bourrerez</vous>
+		<ils>bourreront</ils>
+	</future>
+	<subjunctive>
+		<je>bourre</je>
+		<tu>bourres</tu>
+		<il>bourre</il>
+		<nous>bourrions</nous>
+		<vous>bourriez</vous>
+		<ils>bourrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>bourrerais</je>
+		<tu>bourrerais</tu>
+		<il>bourrerait</il>
+		<nous>bourrerions</nous>
+		<vous>bourreriez</vous>
+		<ils>bourreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

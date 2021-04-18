@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>vérifier</infinitive>
+	<translation>to verify</translation>
+	<presentParticiple>vérifiant</presentParticiple>
+	<pastParticiple>vérifié</pastParticiple>
+	<present>
+		<je>vérifie</je>
+		<tu>vérifies</tu>
+		<il>vérifie</il>
+		<nous>vérifions</nous>
+		<vous>vérifiez</vous>
+		<ils>vérifient</ils>
+	</present>
+	<imperative>
+		<tu>vérifie</tu>
+		<nous>vérifions</nous>
+		<vous>vérifiez</vous>
+	</imperative>
+	<imperfect>
+		<je>vérifiais</je>
+		<tu>vérifiais</tu>
+		<il>vérifiait</il>
+		<nous>vérifiions</nous>
+		<vous>vérifiiez</vous>
+		<ils>vérifiaient</ils>
+	</imperfect>
+	<future>
+		<je>vérifierai</je>
+		<tu>vérifieras</tu>
+		<il>vérifiera</il>
+		<nous>vérifierons</nous>
+		<vous>vérifierez</vous>
+		<ils>vérifieront</ils>
+	</future>
+	<subjunctive>
+		<je>vérifie</je>
+		<tu>vérifies</tu>
+		<il>vérifie</il>
+		<nous>vérifiions</nous>
+		<vous>vérifiiez</vous>
+		<ils>vérifient</ils>
+	</subjunctive>
+	<conditional>
+		<je>vérifierais</je>
+		<tu>vérifierais</tu>
+		<il>vérifierait</il>
+		<nous>vérifierions</nous>
+		<vous>vérifieriez</vous>
+		<ils>vérifieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

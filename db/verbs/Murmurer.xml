@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>murmurer</infinitive>
+	<translation>to murmur</translation>
+	<presentParticiple>murmurant</presentParticiple>
+	<pastParticiple>murmuré</pastParticiple>
+	<present>
+		<je>murmure</je>
+		<tu>murmures</tu>
+		<il>murmure</il>
+		<nous>murmurons</nous>
+		<vous>murmurez</vous>
+		<ils>murmurent</ils>
+	</present>
+	<imperative>
+		<tu>murmure</tu>
+		<nous>murmurons</nous>
+		<vous>murmurez</vous>
+	</imperative>
+	<imperfect>
+		<je>murmurais</je>
+		<tu>murmurais</tu>
+		<il>murmurait</il>
+		<nous>murmurions</nous>
+		<vous>murmuriez</vous>
+		<ils>murmuraient</ils>
+	</imperfect>
+	<future>
+		<je>murmurerai</je>
+		<tu>murmureras</tu>
+		<il>murmurera</il>
+		<nous>murmurerons</nous>
+		<vous>murmurerez</vous>
+		<ils>murmureront</ils>
+	</future>
+	<subjunctive>
+		<je>murmure</je>
+		<tu>murmures</tu>
+		<il>murmure</il>
+		<nous>murmurions</nous>
+		<vous>murmuriez</vous>
+		<ils>murmurent</ils>
+	</subjunctive>
+	<conditional>
+		<je>murmurerais</je>
+		<tu>murmurerais</tu>
+		<il>murmurerait</il>
+		<nous>murmurerions</nous>
+		<vous>murmureriez</vous>
+		<ils>murmureraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

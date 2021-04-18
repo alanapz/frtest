@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>moduler</infinitive>
+	<translation>to modulate</translation>
+	<translation>inflect</translation>
+	<presentParticiple>modulant</presentParticiple>
+	<pastParticiple>modulé</pastParticiple>
+	<present>
+		<je>module</je>
+		<tu>modules</tu>
+		<il>module</il>
+		<nous>modulons</nous>
+		<vous>modulez</vous>
+		<ils>modulent</ils>
+	</present>
+	<imperative>
+		<tu>module</tu>
+		<nous>modulons</nous>
+		<vous>modulez</vous>
+	</imperative>
+	<imperfect>
+		<je>modulais</je>
+		<tu>modulais</tu>
+		<il>modulait</il>
+		<nous>modulions</nous>
+		<vous>moduliez</vous>
+		<ils>modulaient</ils>
+	</imperfect>
+	<future>
+		<je>modulerai</je>
+		<tu>moduleras</tu>
+		<il>modulera</il>
+		<nous>modulerons</nous>
+		<vous>modulerez</vous>
+		<ils>moduleront</ils>
+	</future>
+	<subjunctive>
+		<je>module</je>
+		<tu>modules</tu>
+		<il>module</il>
+		<nous>modulions</nous>
+		<vous>moduliez</vous>
+		<ils>modulent</ils>
+	</subjunctive>
+	<conditional>
+		<je>modulerais</je>
+		<tu>modulerais</tu>
+		<il>modulerait</il>
+		<nous>modulerions</nous>
+		<vous>moduleriez</vous>
+		<ils>moduleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

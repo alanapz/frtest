@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>remoudre</infinitive>
+	<translation>to regrind</translation>
+	<irregular />
+	<presentParticiple>remoulant</presentParticiple>
+	<pastParticiple>remoulu</pastParticiple>
+	<present>
+		<je>remouds</je>
+		<tu>remouds</tu>
+		<il>remoud</il>
+		<nous>remoulons</nous>
+		<vous>remoulez</vous>
+		<ils>remoulent</ils>
+	</present>
+	<imperative>
+		<tu>remouds</tu>
+		<nous>remoulons</nous>
+		<vous>remoulez</vous>
+	</imperative>
+	<imperfect>
+		<je>remoulais</je>
+		<tu>remoulais</tu>
+		<il>remoulait</il>
+		<nous>remoulions</nous>
+		<vous>remouliez</vous>
+		<ils>remoulaient</ils>
+	</imperfect>
+	<future>
+		<je>remoudrai</je>
+		<tu>remoudras</tu>
+		<il>remoudra</il>
+		<nous>remoudrons</nous>
+		<vous>remoudrez</vous>
+		<ils>remoudront</ils>
+	</future>
+	<subjunctive>
+		<je>remoule</je>
+		<tu>remoules</tu>
+		<il>remoule</il>
+		<nous>remoulions</nous>
+		<vous>remouliez</vous>
+		<ils>remoulent</ils>
+	</subjunctive>
+	<conditional>
+		<je>remoudrais</je>
+		<tu>remoudrais</tu>
+		<il>remoudrait</il>
+		<nous>remoudrions</nous>
+		<vous>remoudriez</vous>
+		<ils>remoudraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

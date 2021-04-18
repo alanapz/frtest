@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>jeûner</infinitive>
+	<translation>to fast</translation>
+	<presentParticiple>jeûnant</presentParticiple>
+	<pastParticiple>jeûné</pastParticiple>
+	<present>
+		<je>jeûne</je>
+		<tu>jeûnes</tu>
+		<il>jeûne</il>
+		<nous>jeûnons</nous>
+		<vous>jeûnez</vous>
+		<ils>jeûnent</ils>
+	</present>
+	<imperative>
+		<tu>jeûne</tu>
+		<nous>jeûnons</nous>
+		<vous>jeûnez</vous>
+	</imperative>
+	<imperfect>
+		<je>jeûnais</je>
+		<tu>jeûnais</tu>
+		<il>jeûnait</il>
+		<nous>jeûnions</nous>
+		<vous>jeûniez</vous>
+		<ils>jeûnaient</ils>
+	</imperfect>
+	<future>
+		<je>jeûnerai</je>
+		<tu>jeûneras</tu>
+		<il>jeûnera</il>
+		<nous>jeûnerons</nous>
+		<vous>jeûnerez</vous>
+		<ils>jeûneront</ils>
+	</future>
+	<subjunctive>
+		<je>jeûne</je>
+		<tu>jeûnes</tu>
+		<il>jeûne</il>
+		<nous>jeûnions</nous>
+		<vous>jeûniez</vous>
+		<ils>jeûnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>jeûnerais</je>
+		<tu>jeûnerais</tu>
+		<il>jeûnerait</il>
+		<nous>jeûnerions</nous>
+		<vous>jeûneriez</vous>
+		<ils>jeûneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

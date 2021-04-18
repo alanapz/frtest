@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>marier</infinitive>
+            <translation>to marry</translation>
+            <presentParticiple>mariant</presentParticiple>
+            <pastParticiple>marié</pastParticiple>
+            <pronominal>
+                <translation>to get married</translation>
+            </pronominal>
+            <present>
+                <je>marie</je>
+                <tu>maries</tu>
+                <il>marie</il>
+                <nous>marions</nous>
+                <vous>mariez</vous>
+                <ils>marient</ils>
+            </present>
+            <imperative>
+                <tu>marie</tu>
+                <nous>marions</nous>
+                <vous>mariez</vous>
+            </imperative>
+            <imperfect>
+                <je>mariais</je>
+                <tu>mariais</tu>
+                <il>mariait</il>
+                <nous>mariions</nous>
+                <vous>mariiez</vous>
+                <ils>mariaient</ils>
+            </imperfect>
+            <future>
+                <je>marierai</je>
+                <tu>marieras</tu>
+                <il>mariera</il>
+                <nous>marierons</nous>
+                <vous>marierez</vous>
+                <ils>marieront</ils>
+            </future>
+            <subjunctive>
+                <je>marie</je>
+                <tu>maries</tu>
+                <il>marie</il>
+                <nous>mariions</nous>
+                <vous>mariiez</vous>
+                <ils>marient</ils>
+            </subjunctive>
+            <conditional>
+                <je>marierais</je>
+                <tu>marierais</tu>
+                <il>marierait</il>
+                <nous>marierions</nous>
+                <vous>marieriez</vous>
+                <ils>marieraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

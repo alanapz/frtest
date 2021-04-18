@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>terminer</infinitive>
+	<translation>to end</translation>
+	<translation>terminate</translation>
+	<presentParticiple>terminant</presentParticiple>
+	<pastParticiple>terminé</pastParticiple>
+	<present>
+		<je>termine</je>
+		<tu>termines</tu>
+		<il>termine</il>
+		<nous>terminons</nous>
+		<vous>terminez</vous>
+		<ils>terminent</ils>
+	</present>
+	<imperative>
+		<tu>termine</tu>
+		<nous>terminons</nous>
+		<vous>terminez</vous>
+	</imperative>
+	<imperfect>
+		<je>terminais</je>
+		<tu>terminais</tu>
+		<il>terminait</il>
+		<nous>terminions</nous>
+		<vous>terminiez</vous>
+		<ils>terminaient</ils>
+	</imperfect>
+	<future>
+		<je>terminerai</je>
+		<tu>termineras</tu>
+		<il>terminera</il>
+		<nous>terminerons</nous>
+		<vous>terminerez</vous>
+		<ils>termineront</ils>
+	</future>
+	<subjunctive>
+		<je>termine</je>
+		<tu>termines</tu>
+		<il>termine</il>
+		<nous>terminions</nous>
+		<vous>terminiez</vous>
+		<ils>terminent</ils>
+	</subjunctive>
+	<conditional>
+		<je>terminerais</je>
+		<tu>terminerais</tu>
+		<il>terminerait</il>
+		<nous>terminerions</nous>
+		<vous>termineriez</vous>
+		<ils>termineraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

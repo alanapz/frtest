@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>décoiffer</infinitive>
+	<translation>to muss (one's hair)</translation>
+	<translation>to take one's hat off</translation>
+	<presentParticiple>décoiffant</presentParticiple>
+	<pastParticiple>décoiffé</pastParticiple>
+	<present>
+		<je>décoiffe</je>
+		<tu>décoiffes</tu>
+		<il>décoiffe</il>
+		<nous>décoiffons</nous>
+		<vous>décoiffez</vous>
+		<ils>décoiffent</ils>
+	</present>
+	<imperative>
+		<tu>décoiffe</tu>
+		<nous>décoiffons</nous>
+		<vous>décoiffez</vous>
+	</imperative>
+	<imperfect>
+		<je>décoiffais</je>
+		<tu>décoiffais</tu>
+		<il>décoiffait</il>
+		<nous>décoiffions</nous>
+		<vous>décoiffiez</vous>
+		<ils>décoiffaient</ils>
+	</imperfect>
+	<future>
+		<je>décoifferai</je>
+		<tu>décoifferas</tu>
+		<il>décoiffera</il>
+		<nous>décoifferons</nous>
+		<vous>décoifferez</vous>
+		<ils>décoifferont</ils>
+	</future>
+	<subjunctive>
+		<je>décoiffe</je>
+		<tu>décoiffes</tu>
+		<il>décoiffe</il>
+		<nous>décoiffions</nous>
+		<vous>décoiffiez</vous>
+		<ils>décoiffent</ils>
+	</subjunctive>
+	<conditional>
+		<je>décoifferais</je>
+		<tu>décoifferais</tu>
+		<il>décoifferait</il>
+		<nous>décoifferions</nous>
+		<vous>décoifferiez</vous>
+		<ils>décoifferaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

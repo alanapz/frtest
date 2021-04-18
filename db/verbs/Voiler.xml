@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>voiler</infinitive>
+	<translation>to veil</translation>
+	<presentParticiple>voilant</presentParticiple>
+	<pastParticiple>voilé</pastParticiple>
+	<present>
+		<je>voile</je>
+		<tu>voiles</tu>
+		<il>voile</il>
+		<nous>voilons</nous>
+		<vous>voilez</vous>
+		<ils>voilent</ils>
+	</present>
+	<imperative>
+		<tu>voile</tu>
+		<nous>voilons</nous>
+		<vous>voilez</vous>
+	</imperative>
+	<imperfect>
+		<je>voilais</je>
+		<tu>voilais</tu>
+		<il>voilait</il>
+		<nous>voilions</nous>
+		<vous>voiliez</vous>
+		<ils>voilaient</ils>
+	</imperfect>
+	<future>
+		<je>voilerai</je>
+		<tu>voileras</tu>
+		<il>voilera</il>
+		<nous>voilerons</nous>
+		<vous>voilerez</vous>
+		<ils>voileront</ils>
+	</future>
+	<subjunctive>
+		<je>voile</je>
+		<tu>voiles</tu>
+		<il>voile</il>
+		<nous>voilions</nous>
+		<vous>voiliez</vous>
+		<ils>voilent</ils>
+	</subjunctive>
+	<conditional>
+		<je>voilerais</je>
+		<tu>voilerais</tu>
+		<il>voilerait</il>
+		<nous>voilerions</nous>
+		<vous>voileriez</vous>
+		<ils>voileraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>déterminer</infinitive>
+	<translation>to determine</translation>
+	<presentParticiple>déterminant</presentParticiple>
+	<pastParticiple>déterminé</pastParticiple>
+	<present>
+		<je>détermine</je>
+		<tu>détermines</tu>
+		<il>détermine</il>
+		<nous>déterminons</nous>
+		<vous>déterminez</vous>
+		<ils>déterminent</ils>
+	</present>
+	<imperative>
+		<tu>détermine</tu>
+		<nous>déterminons</nous>
+		<vous>déterminez</vous>
+	</imperative>
+	<imperfect>
+		<je>déterminais</je>
+		<tu>déterminais</tu>
+		<il>déterminait</il>
+		<nous>déterminions</nous>
+		<vous>déterminiez</vous>
+		<ils>déterminaient</ils>
+	</imperfect>
+	<future>
+		<je>déterminerai</je>
+		<tu>détermineras</tu>
+		<il>déterminera</il>
+		<nous>déterminerons</nous>
+		<vous>déterminerez</vous>
+		<ils>détermineront</ils>
+	</future>
+	<subjunctive>
+		<je>détermine</je>
+		<tu>détermines</tu>
+		<il>détermine</il>
+		<nous>déterminions</nous>
+		<vous>déterminiez</vous>
+		<ils>déterminent</ils>
+	</subjunctive>
+	<conditional>
+		<je>déterminerais</je>
+		<tu>déterminerais</tu>
+		<il>déterminerait</il>
+		<nous>déterminerions</nous>
+		<vous>détermineriez</vous>
+		<ils>détermineraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

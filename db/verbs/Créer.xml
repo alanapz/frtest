@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>créer</infinitive>
+            <translation>to create</translation>
+            <presentParticiple>créant</presentParticiple>
+            <pastParticiple>créé</pastParticiple>
+            <present>
+                <je>crée</je>
+                <tu>crées</tu>
+                <il>crée</il>
+                <nous>créons</nous>
+                <vous>créez</vous>
+                <ils>créent</ils>
+            </present>
+            <imperative>
+                <tu>crée</tu>
+                <nous>créons</nous>
+                <vous>créez</vous>
+            </imperative>
+            <imperfect>
+                <je>créais</je>
+                <tu>créais</tu>
+                <il>créait</il>
+                <nous>créions</nous>
+                <vous>créiez</vous>
+                <ils>créaient</ils>
+            </imperfect>
+            <future>
+                <je>créerai</je>
+                <tu>créeras</tu>
+                <il>créera</il>
+                <nous>créerons</nous>
+                <vous>créerez</vous>
+                <ils>créeront</ils>
+            </future>
+            <subjunctive>
+                <je>crée</je>
+                <tu>crées</tu>
+                <il>crée</il>
+                <nous>créions</nous>
+                <vous>créiez</vous>
+                <ils>créent</ils>
+            </subjunctive>
+            <conditional>
+                <je>créerais</je>
+                <tu>créerais</tu>
+                <il>créerait</il>
+                <nous>créerions</nous>
+                <vous>créeriez</vous>
+                <ils>créeraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

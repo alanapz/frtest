@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>garer</infinitive>
+	<translation>to park</translation>
+	<presentParticiple>garant</presentParticiple>
+	<pastParticiple>garé</pastParticiple>
+	<present>
+		<je>gare</je>
+		<tu>gares</tu>
+		<il>gare</il>
+		<nous>garons</nous>
+		<vous>garez</vous>
+		<ils>garent</ils>
+	</present>
+	<imperative>
+		<tu>gare</tu>
+		<nous>garons</nous>
+		<vous>garez</vous>
+	</imperative>
+	<imperfect>
+		<je>garais</je>
+		<tu>garais</tu>
+		<il>garait</il>
+		<nous>garions</nous>
+		<vous>gariez</vous>
+		<ils>garaient</ils>
+	</imperfect>
+	<future>
+		<je>garerai</je>
+		<tu>gareras</tu>
+		<il>garera</il>
+		<nous>garerons</nous>
+		<vous>garerez</vous>
+		<ils>gareront</ils>
+	</future>
+	<subjunctive>
+		<je>gare</je>
+		<tu>gares</tu>
+		<il>gare</il>
+		<nous>garions</nous>
+		<vous>gariez</vous>
+		<ils>garent</ils>
+	</subjunctive>
+	<conditional>
+		<je>garerais</je>
+		<tu>garerais</tu>
+		<il>garerait</il>
+		<nous>garerions</nous>
+		<vous>gareriez</vous>
+		<ils>gareraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

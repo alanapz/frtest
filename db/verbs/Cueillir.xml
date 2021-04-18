@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>cueillir</infinitive>
+	<translation>to gather</translation>
+	<translation>pick</translation>
+	<irregular />
+	<presentParticiple>cueillant</presentParticiple>
+	<pastParticiple>cueilli</pastParticiple>
+	<present>
+		<je>cueille</je>
+		<tu>cueilles</tu>
+		<il>cueille</il>
+		<nous>cueillons</nous>
+		<vous>cueillez</vous>
+		<ils>cueillent</ils>
+	</present>
+	<imperative>
+		<tu>cueille</tu>
+		<nous>cueillons</nous>
+		<vous>cueillez</vous>
+	</imperative>
+	<imperfect>
+		<je>cueillais</je>
+		<tu>cueillais</tu>
+		<il>cueillait</il>
+		<nous>cueillions</nous>
+		<vous>cueilliez</vous>
+		<ils>cueillaient</ils>
+	</imperfect>
+	<future>
+		<je>cueillerai</je>
+		<tu>cueilleras</tu>
+		<il>cueillera</il>
+		<nous>cueillerons</nous>
+		<vous>cueillerez</vous>
+		<ils>cueilleront</ils>
+	</future>
+	<subjunctive>
+		<je>cueille</je>
+		<tu>cueilles</tu>
+		<il>cueille</il>
+		<nous>cueillions</nous>
+		<vous>cueilliez</vous>
+		<ils>cueillent</ils>
+	</subjunctive>
+	<conditional>
+		<je>cueillerais</je>
+		<tu>cueillerais</tu>
+		<il>cueillerait</il>
+		<nous>cueillerions</nous>
+		<vous>cueilleriez</vous>
+		<ils>cueilleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

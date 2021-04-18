@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>multiplier</infinitive>
+	<translation>to multiply</translation>
+	<presentParticiple>multipliant</presentParticiple>
+	<pastParticiple>multiplié</pastParticiple>
+	<present>
+		<je>multiplie</je>
+		<tu>multiplies</tu>
+		<il>multiplie</il>
+		<nous>multiplions</nous>
+		<vous>multipliez</vous>
+		<ils>multiplient</ils>
+	</present>
+	<imperative>
+		<tu>multiplie</tu>
+		<nous>multiplions</nous>
+		<vous>multipliez</vous>
+	</imperative>
+	<imperfect>
+		<je>multipliais</je>
+		<tu>multipliais</tu>
+		<il>multipliait</il>
+		<nous>multipliions</nous>
+		<vous>multipliiez</vous>
+		<ils>multipliaient</ils>
+	</imperfect>
+	<future>
+		<je>multiplierai</je>
+		<tu>multiplieras</tu>
+		<il>multipliera</il>
+		<nous>multiplierons</nous>
+		<vous>multiplierez</vous>
+		<ils>multiplieront</ils>
+	</future>
+	<subjunctive>
+		<je>multiplie</je>
+		<tu>multiplies</tu>
+		<il>multiplie</il>
+		<nous>multipliions</nous>
+		<vous>multipliiez</vous>
+		<ils>multiplient</ils>
+	</subjunctive>
+	<conditional>
+		<je>multiplierais</je>
+		<tu>multiplierais</tu>
+		<il>multiplierait</il>
+		<nous>multiplierions</nous>
+		<vous>multiplieriez</vous>
+		<ils>multiplieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

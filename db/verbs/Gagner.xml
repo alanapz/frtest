@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>gagner</infinitive>
+	<translation>to win</translation>
+	<translation>to earn</translation>
+	<presentParticiple>gagnant</presentParticiple>
+	<pastParticiple>gagné</pastParticiple>
+	<present>
+		<je>gagne</je>
+		<tu>gagnes</tu>
+		<il>gagne</il>
+		<nous>gagnons</nous>
+		<vous>gagnez</vous>
+		<ils>gagnent</ils>
+	</present>
+	<imperative>
+		<tu>gagne</tu>
+		<nous>gagnons</nous>
+		<vous>gagnez</vous>
+	</imperative>
+	<imperfect>
+		<je>gagnais</je>
+		<tu>gagnais</tu>
+		<il>gagnait</il>
+		<nous>gagnions</nous>
+		<vous>gagniez</vous>
+		<ils>gagnaient</ils>
+	</imperfect>
+	<future>
+		<je>gagnerai</je>
+		<tu>gagneras</tu>
+		<il>gagnera</il>
+		<nous>gagnerons</nous>
+		<vous>gagnerez</vous>
+		<ils>gagneront</ils>
+	</future>
+	<subjunctive>
+		<je>gagne</je>
+		<tu>gagnes</tu>
+		<il>gagne</il>
+		<nous>gagnions</nous>
+		<vous>gagniez</vous>
+		<ils>gagnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>gagnerais</je>
+		<tu>gagnerais</tu>
+		<il>gagnerait</il>
+		<nous>gagnerions</nous>
+		<vous>gagneriez</vous>
+		<ils>gagneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

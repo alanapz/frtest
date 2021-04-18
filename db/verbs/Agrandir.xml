@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>agrandir</infinitive>
+	<translation>to enlarge</translation>
+	<translation>make bigger</translation>
+	<presentParticiple>agrandissant</presentParticiple>
+	<pastParticiple>agrandi</pastParticiple>
+	<present>
+		<je>agrandis</je>
+		<tu>agrandis</tu>
+		<il>agrandit</il>
+		<nous>agrandissons</nous>
+		<vous>agrandissez</vous>
+		<ils>agrandissent</ils>
+	</present>
+	<imperative>
+		<tu>agrandis</tu>
+		<nous>agrandissons</nous>
+		<vous>agrandissez</vous>
+	</imperative>
+	<imperfect>
+		<je>agrandissais</je>
+		<tu>agrandissais</tu>
+		<il>agrandissait</il>
+		<nous>agrandissions</nous>
+		<vous>agrandissiez</vous>
+		<ils>agrandissaient</ils>
+	</imperfect>
+	<future>
+		<je>agrandirai</je>
+		<tu>agrandiras</tu>
+		<il>agrandira</il>
+		<nous>agrandirons</nous>
+		<vous>agrandirez</vous>
+		<ils>agrandiront</ils>
+	</future>
+	<subjunctive>
+		<je>agrandisse</je>
+		<tu>agrandisses</tu>
+		<il>agrandisse</il>
+		<nous>agrandissions</nous>
+		<vous>agrandissiez</vous>
+		<ils>agrandissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>agrandirais</je>
+		<tu>agrandirais</tu>
+		<il>agrandirait</il>
+		<nous>agrandirions</nous>
+		<vous>agrandiriez</vous>
+		<ils>agrandiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>outrepasser</infinitive>
+	<translation>to exceed</translation>
+	<translation>surpass</translation>
+	<translation>go beyond</translation>
+	<presentParticiple>outrepassant</presentParticiple>
+	<pastParticiple>outrepassé</pastParticiple>
+	<present>
+		<je>outrepasse</je>
+		<tu>outrepasses</tu>
+		<il>outrepasse</il>
+		<nous>outrepassons</nous>
+		<vous>outrepassez</vous>
+		<ils>outrepassent</ils>
+	</present>
+	<imperative>
+		<tu>outrepasse</tu>
+		<nous>outrepassons</nous>
+		<vous>outrepassez</vous>
+	</imperative>
+	<imperfect>
+		<je>outrepassais</je>
+		<tu>outrepassais</tu>
+		<il>outrepassait</il>
+		<nous>outrepassions</nous>
+		<vous>outrepassiez</vous>
+		<ils>outrepassaient</ils>
+	</imperfect>
+	<future>
+		<je>outrepasserai</je>
+		<tu>outrepasseras</tu>
+		<il>outrepassera</il>
+		<nous>outrepasserons</nous>
+		<vous>outrepasserez</vous>
+		<ils>outrepasseront</ils>
+	</future>
+	<subjunctive>
+		<je>outrepasse</je>
+		<tu>outrepasses</tu>
+		<il>outrepasse</il>
+		<nous>outrepassions</nous>
+		<vous>outrepassiez</vous>
+		<ils>outrepassent</ils>
+	</subjunctive>
+	<conditional>
+		<je>outrepasserais</je>
+		<tu>outrepasserais</tu>
+		<il>outrepasserait</il>
+		<nous>outrepasserions</nous>
+		<vous>outrepasseriez</vous>
+		<ils>outrepasseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

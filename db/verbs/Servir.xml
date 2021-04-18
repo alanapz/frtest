@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>servir</infinitive>
+            <translation>to serve</translation>
+            <presentParticiple>servant</presentParticiple>
+            <pastParticiple>servi</pastParticiple>
+            <pronominal>
+                <translation>to use</translation>
+                <translation>to make use of</translation>
+            </pronominal>
+            <present>
+                <je>sers</je>
+                <tu>sers</tu>
+                <il>sert</il>
+                <nous>servons</nous>
+                <vous>servez</vous>
+                <ils>servent</ils>
+            </present>
+            <imperative>
+                <tu>sers</tu>
+                <nous>servons</nous>
+                <vous>servez</vous>
+            </imperative>
+            <imperfect>
+                <je>servais</je>
+                <tu>servais</tu>
+                <il>servait</il>
+                <nous>servions</nous>
+                <vous>serviez</vous>
+                <ils>servaient</ils>
+            </imperfect>
+            <future>
+                <je>servirai</je>
+                <tu>serviras</tu>
+                <il>servira</il>
+                <nous>servirons</nous>
+                <vous>servirez</vous>
+                <ils>serviront</ils>
+            </future>
+            <subjunctive>
+                <je>serve</je>
+                <tu>serves</tu>
+                <il>serve</il>
+                <nous>servions</nous>
+                <vous>serviez</vous>
+                <ils>servent</ils>
+            </subjunctive>
+            <conditional>
+                <je>servirais</je>
+                <tu>servirais</tu>
+                <il>servirait</il>
+                <nous>servirions</nous>
+                <vous>serviriez</vous>
+                <ils>serviraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

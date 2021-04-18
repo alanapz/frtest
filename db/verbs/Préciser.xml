@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>préciser</infinitive>
+	<translation>to specify</translation>
+	<translation>clarify</translation>
+	<presentParticiple>précisant</presentParticiple>
+	<pastParticiple>précisé</pastParticiple>
+	<present>
+		<je>précise</je>
+		<tu>précises</tu>
+		<il>précise</il>
+		<nous>précisons</nous>
+		<vous>précisez</vous>
+		<ils>précisent</ils>
+	</present>
+	<imperative>
+		<tu>précise</tu>
+		<nous>précisons</nous>
+		<vous>précisez</vous>
+	</imperative>
+	<imperfect>
+		<je>précisais</je>
+		<tu>précisais</tu>
+		<il>précisait</il>
+		<nous>précisions</nous>
+		<vous>précisiez</vous>
+		<ils>précisaient</ils>
+	</imperfect>
+	<future>
+		<je>préciserai</je>
+		<tu>préciseras</tu>
+		<il>précisera</il>
+		<nous>préciserons</nous>
+		<vous>préciserez</vous>
+		<ils>préciseront</ils>
+	</future>
+	<subjunctive>
+		<je>précise</je>
+		<tu>précises</tu>
+		<il>précise</il>
+		<nous>précisions</nous>
+		<vous>précisiez</vous>
+		<ils>précisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>préciserais</je>
+		<tu>préciserais</tu>
+		<il>préciserait</il>
+		<nous>préciserions</nous>
+		<vous>préciseriez</vous>
+		<ils>préciseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

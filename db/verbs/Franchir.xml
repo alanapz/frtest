@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>franchir</infinitive>
+	<translation>to cross</translation>
+	<translation>get over</translation>
+	<translation>overcome</translation>
+	<presentParticiple>franchissant</presentParticiple>
+	<pastParticiple>franchi</pastParticiple>
+	<present>
+		<je>franchis</je>
+		<tu>franchis</tu>
+		<il>franchit</il>
+		<nous>franchissons</nous>
+		<vous>franchissez</vous>
+		<ils>franchissent</ils>
+	</present>
+	<imperative>
+		<tu>franchis</tu>
+		<nous>franchissons</nous>
+		<vous>franchissez</vous>
+	</imperative>
+	<imperfect>
+		<je>franchissais</je>
+		<tu>franchissais</tu>
+		<il>franchissait</il>
+		<nous>franchissions</nous>
+		<vous>franchissiez</vous>
+		<ils>franchissaient</ils>
+	</imperfect>
+	<future>
+		<je>franchirai</je>
+		<tu>franchiras</tu>
+		<il>franchira</il>
+		<nous>franchirons</nous>
+		<vous>franchirez</vous>
+		<ils>franchiront</ils>
+	</future>
+	<subjunctive>
+		<je>franchisse</je>
+		<tu>franchisses</tu>
+		<il>franchisse</il>
+		<nous>franchissions</nous>
+		<vous>franchissiez</vous>
+		<ils>franchissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>franchirais</je>
+		<tu>franchirais</tu>
+		<il>franchirait</il>
+		<nous>franchirions</nous>
+		<vous>franchiriez</vous>
+		<ils>franchiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>méprendre</infinitive>
+	<translation>to mistake</translation>
+	<irregular />
+	<presentParticiple>méprenant</presentParticiple>
+	<pastParticiple>mépris</pastParticiple>
+	<present>
+		<je>méprends</je>
+		<tu>méprends</tu>
+		<il>méprend</il>
+		<nous>méprenons</nous>
+		<vous>méprenez</vous>
+		<ils>méprennent</ils>
+	</present>
+	<imperative>
+		<tu>méprends</tu>
+		<nous>méprenons</nous>
+		<vous>méprenez</vous>
+	</imperative>
+	<imperfect>
+		<je>méprenais</je>
+		<tu>méprenais</tu>
+		<il>méprenait</il>
+		<nous>méprenions</nous>
+		<vous>mépreniez</vous>
+		<ils>méprenaient</ils>
+	</imperfect>
+	<future>
+		<je>méprendrai</je>
+		<tu>méprendras</tu>
+		<il>méprendra</il>
+		<nous>méprendrons</nous>
+		<vous>méprendrez</vous>
+		<ils>méprendront</ils>
+	</future>
+	<subjunctive>
+		<je>méprenne</je>
+		<tu>méprennes</tu>
+		<il>méprenne</il>
+		<nous>méprenions</nous>
+		<vous>mépreniez</vous>
+		<ils>méprennent</ils>
+	</subjunctive>
+	<conditional>
+		<je>méprendrais</je>
+		<tu>méprendrais</tu>
+		<il>méprendrait</il>
+		<nous>méprendrions</nous>
+		<vous>méprendriez</vous>
+		<ils>méprendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

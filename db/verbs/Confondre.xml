@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>confondre</infinitive>
+	<translation>to confuse</translation>
+	<presentParticiple>confondant</presentParticiple>
+	<pastParticiple>confondu</pastParticiple>
+	<present>
+		<je>confonds</je>
+		<tu>confonds</tu>
+		<il>confond</il>
+		<nous>confondons</nous>
+		<vous>confondez</vous>
+		<ils>confondent</ils>
+	</present>
+	<imperative>
+		<tu>confonds</tu>
+		<nous>confondons</nous>
+		<vous>confondez</vous>
+	</imperative>
+	<imperfect>
+		<je>confondais</je>
+		<tu>confondais</tu>
+		<il>confondait</il>
+		<nous>confondions</nous>
+		<vous>confondiez</vous>
+		<ils>confondaient</ils>
+	</imperfect>
+	<future>
+		<je>confondrai</je>
+		<tu>confondras</tu>
+		<il>confondra</il>
+		<nous>confondrons</nous>
+		<vous>confondrez</vous>
+		<ils>confondront</ils>
+	</future>
+	<subjunctive>
+		<je>confonde</je>
+		<tu>confondes</tu>
+		<il>confonde</il>
+		<nous>confondions</nous>
+		<vous>confondiez</vous>
+		<ils>confondent</ils>
+	</subjunctive>
+	<conditional>
+		<je>confondrais</je>
+		<tu>confondrais</tu>
+		<il>confondrait</il>
+		<nous>confondrions</nous>
+		<vous>confondriez</vous>
+		<ils>confondraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

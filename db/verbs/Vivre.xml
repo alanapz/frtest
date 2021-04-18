@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>vivre</infinitive>
+            <translation>to live</translation>
+            <presentParticiple>vivant</presentParticiple>
+            <pastParticiple>vécu</pastParticiple>
+            <present>
+                <je>vis</je>
+                <tu>vis</tu>
+                <il>vit</il>
+                <nous>vivons</nous>
+                <vous>vivez</vous>
+                <ils>vivent</ils>
+            </present>
+            <imperative>
+                <tu>vis</tu>
+                <nous>vivons</nous>
+                <vous>vivez</vous>
+            </imperative>
+            <imperfect>
+                <je>vivais</je>
+                <tu>vivais</tu>
+                <il>vivait</il>
+                <nous>vivions</nous>
+                <vous>viviez</vous>
+                <ils>vivaient</ils>
+            </imperfect>
+            <future>
+                <je>vivrai</je>
+                <tu>vivras</tu>
+                <il>vivra</il>
+                <nous>vivrons</nous>
+                <vous>vivrez</vous>
+                <ils>vivront</ils>
+            </future>
+            <subjunctive>
+                <je>vive</je>
+                <tu>vives</tu>
+                <il>vive</il>
+                <nous>vivions</nous>
+                <vous>viviez</vous>
+                <ils>vivent</ils>
+            </subjunctive>
+            <conditional>
+                <je>vivrais</je>
+                <tu>vivrais</tu>
+                <il>vivrait</il>
+                <nous>vivrions</nous>
+                <vous>vivriez</vous>
+                <ils>vivraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

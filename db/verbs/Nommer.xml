@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>nommer</infinitive>
+	<translation>to name</translation>
+	<presentParticiple>nommant</presentParticiple>
+	<pastParticiple>nommé</pastParticiple>
+	<present>
+		<je>nomme</je>
+		<tu>nommes</tu>
+		<il>nomme</il>
+		<nous>nommons</nous>
+		<vous>nommez</vous>
+		<ils>nomment</ils>
+	</present>
+	<imperative>
+		<tu>nomme</tu>
+		<nous>nommons</nous>
+		<vous>nommez</vous>
+	</imperative>
+	<imperfect>
+		<je>nommais</je>
+		<tu>nommais</tu>
+		<il>nommait</il>
+		<nous>nommions</nous>
+		<vous>nommiez</vous>
+		<ils>nommaient</ils>
+	</imperfect>
+	<future>
+		<je>nommerai</je>
+		<tu>nommeras</tu>
+		<il>nommera</il>
+		<nous>nommerons</nous>
+		<vous>nommerez</vous>
+		<ils>nommeront</ils>
+	</future>
+	<subjunctive>
+		<je>nomme</je>
+		<tu>nommes</tu>
+		<il>nomme</il>
+		<nous>nommions</nous>
+		<vous>nommiez</vous>
+		<ils>nomment</ils>
+	</subjunctive>
+	<conditional>
+		<je>nommerais</je>
+		<tu>nommerais</tu>
+		<il>nommerait</il>
+		<nous>nommerions</nous>
+		<vous>nommeriez</vous>
+		<ils>nommeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

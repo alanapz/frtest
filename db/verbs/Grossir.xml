@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>grossir</infinitive>
+	<translation>to gain weight</translation>
+	<translation>become fat</translation>
+	<presentParticiple>grossissant</presentParticiple>
+	<pastParticiple>grossi</pastParticiple>
+	<present>
+		<je>grossis</je>
+		<tu>grossis</tu>
+		<il>grossit</il>
+		<nous>grossissons</nous>
+		<vous>grossissez</vous>
+		<ils>grossissent</ils>
+	</present>
+	<imperative>
+		<tu>grossis</tu>
+		<nous>grossissons</nous>
+		<vous>grossissez</vous>
+	</imperative>
+	<imperfect>
+		<je>grossissais</je>
+		<tu>grossissais</tu>
+		<il>grossissait</il>
+		<nous>grossissions</nous>
+		<vous>grossissiez</vous>
+		<ils>grossissaient</ils>
+	</imperfect>
+	<future>
+		<je>grossirai</je>
+		<tu>grossiras</tu>
+		<il>grossira</il>
+		<nous>grossirons</nous>
+		<vous>grossirez</vous>
+		<ils>grossiront</ils>
+	</future>
+	<subjunctive>
+		<je>grossisse</je>
+		<tu>grossisses</tu>
+		<il>grossisse</il>
+		<nous>grossissions</nous>
+		<vous>grossissiez</vous>
+		<ils>grossissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>grossirais</je>
+		<tu>grossirais</tu>
+		<il>grossirait</il>
+		<nous>grossirions</nous>
+		<vous>grossiriez</vous>
+		<ils>grossiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

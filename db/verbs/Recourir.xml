@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>recourir</infinitive>
+	<translation>to run again</translation>
+	<irregular />
+	<presentParticiple>recourant</presentParticiple>
+	<pastParticiple> recouru</pastParticiple>
+	<present>
+		<je>recours</je>
+		<tu>recours</tu>
+		<il>recourt</il>
+		<nous>recourons</nous>
+		<vous>recourez</vous>
+		<ils>recourent</ils>
+	</present>
+	<imperative>
+		<tu>recours</tu>
+		<nous>recourons</nous>
+		<vous>recourez</vous>
+	</imperative>
+	<imperfect>
+		<je>recourais</je>
+		<tu>recourais</tu>
+		<il>recourait</il>
+		<nous>recourions</nous>
+		<vous>recouriez</vous>
+		<ils>recouraient</ils>
+	</imperfect>
+	<future>
+		<je>recourrai</je>
+		<tu>recourras</tu>
+		<il>recourra</il>
+		<nous>recourrons</nous>
+		<vous>recourrez</vous>
+		<ils>recourront</ils>
+	</future>
+	<subjunctive>
+		<je>recoure</je>
+		<tu>recoures</tu>
+		<il>recoure</il>
+		<nous>recourions</nous>
+		<vous>recouriez</vous>
+		<ils>recourent</ils>
+	</subjunctive>
+	<conditional>
+		<je>recourrais</je>
+		<tu>recourrais</tu>
+		<il>recourrait</il>
+		<nous>recourrions</nous>
+		<vous>recourriez</vous>
+		<ils>recourraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

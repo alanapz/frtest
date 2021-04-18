@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>ramener</infinitive>
+	<translation>to take back</translation>
+	<stemChange />
+	<presentParticiple>ramenant</presentParticiple>
+	<pastParticiple>ramené</pastParticiple>
+	<present>
+		<je>ramène</je>
+		<tu>ramènes</tu>
+		<il>ramène</il>
+		<nous>ramenons</nous>
+		<vous>ramenez</vous>
+		<ils>ramènent</ils>
+	</present>
+	<imperative>
+		<tu>ramène</tu>
+		<nous>ramenons</nous>
+		<vous>ramenez</vous>
+	</imperative>
+	<imperfect>
+		<je>ramenais</je>
+		<tu>ramenais</tu>
+		<il>ramenait</il>
+		<nous>ramenions</nous>
+		<vous>rameniez</vous>
+		<ils>ramenaient</ils>
+	</imperfect>
+	<future>
+		<je>ramènerai</je>
+		<tu>ramèneras</tu>
+		<il>ramènera</il>
+		<nous>ramènerons</nous>
+		<vous>ramènerez</vous>
+		<ils>ramèneront</ils>
+	</future>
+	<subjunctive>
+		<je>ramène</je>
+		<tu>ramènes</tu>
+		<il>ramène</il>
+		<nous>ramenions</nous>
+		<vous>rameniez</vous>
+		<ils>ramènent</ils>
+	</subjunctive>
+	<conditional>
+		<je>ramènerais</je>
+		<tu>ramènerais</tu>
+		<il>ramènerait</il>
+		<nous>ramènerions</nous>
+		<vous>ramèneriez</vous>
+		<ils>ramèneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

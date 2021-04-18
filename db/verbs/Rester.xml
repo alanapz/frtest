@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>rester</infinitive>
+            <translation>to stay</translation>
+            <translation>remain</translation>
+            <takesEtreInPerfect />
+            <presentParticiple>restant</presentParticiple>
+            <pastParticiple>resté</pastParticiple>
+            <present>
+                <je>reste</je>
+                <tu>restes</tu>
+                <il>reste</il>
+                <nous>restons</nous>
+                <vous>restez</vous>
+                <ils>restent</ils>
+            </present>
+            <imperative>
+                <tu>reste</tu>
+                <nous>restons</nous>
+                <vous>restez</vous>
+            </imperative>
+            <imperfect>
+                <je>restais</je>
+                <tu>restais</tu>
+                <il>restait</il>
+                <nous>restions</nous>
+                <vous>restiez</vous>
+                <ils>restaient</ils>
+            </imperfect>
+            <future>
+                <je>resterai</je>
+                <tu>resteras</tu>
+                <il>restera</il>
+                <nous>resterons</nous>
+                <vous>resterez</vous>
+                <ils>resteront</ils>
+            </future>
+            <subjunctive>
+                <je>reste</je>
+                <tu>restes</tu>
+                <il>reste</il>
+                <nous>restions</nous>
+                <vous>restiez</vous>
+                <ils>restent</ils>
+            </subjunctive>
+            <conditional>
+                <je>resterais</je>
+                <tu>resterais</tu>
+                <il>resterait</il>
+                <nous>resterions</nous>
+                <vous>resteriez</vous>
+                <ils>resteraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

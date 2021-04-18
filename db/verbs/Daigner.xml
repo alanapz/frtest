@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>daigner</infinitive>
+	<translation>to deign</translation>
+	<translation>condescend</translation>
+	<presentParticiple>daignant</presentParticiple>
+	<pastParticiple>daigné</pastParticiple>
+	<present>
+		<je>daigne</je>
+		<tu>daignes</tu>
+		<il>daigne</il>
+		<nous>daignons</nous>
+		<vous>daignez</vous>
+		<ils>daignent</ils>
+	</present>
+	<imperative>
+		<tu>daigne</tu>
+		<nous>daignons</nous>
+		<vous>daignez</vous>
+	</imperative>
+	<imperfect>
+		<je>daignais</je>
+		<tu>daignais</tu>
+		<il>daignait</il>
+		<nous>daignions</nous>
+		<vous>daigniez</vous>
+		<ils>daignaient</ils>
+	</imperfect>
+	<future>
+		<je>daignerai</je>
+		<tu>daigneras</tu>
+		<il>daignera</il>
+		<nous>daignerons</nous>
+		<vous>daignerez</vous>
+		<ils>daigneront</ils>
+	</future>
+	<subjunctive>
+		<je>daigne</je>
+		<tu>daignes</tu>
+		<il>daigne</il>
+		<nous>daignions</nous>
+		<vous>daigniez</vous>
+		<ils>daignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>daignerais</je>
+		<tu>daignerais</tu>
+		<il>daignerait</il>
+		<nous>daignerions</nous>
+		<vous>daigneriez</vous>
+		<ils>daigneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

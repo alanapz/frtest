@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>moderniser</infinitive>
+	<translation>to mordernize</translation>
+	<presentParticiple>modernisant</presentParticiple>
+	<pastParticiple>modernisé</pastParticiple>
+	<present>
+		<je>modernise</je>
+		<tu>modernises</tu>
+		<il>modernise</il>
+		<nous>modernisons</nous>
+		<vous>modernisez</vous>
+		<ils>modernisent</ils>
+	</present>
+	<imperative>
+		<tu>modernise</tu>
+		<nous>modernisons</nous>
+		<vous>modernisez</vous>
+	</imperative>
+	<imperfect>
+		<je>modernisais</je>
+		<tu>modernisais</tu>
+		<il>modernisait</il>
+		<nous>modernisions</nous>
+		<vous>modernisiez</vous>
+		<ils>modernisaient</ils>
+	</imperfect>
+	<future>
+		<je>moderniserai</je>
+		<tu>moderniseras</tu>
+		<il>modernisera</il>
+		<nous>moderniserons</nous>
+		<vous>moderniserez</vous>
+		<ils>moderniseront</ils>
+	</future>
+	<subjunctive>
+		<je>modernise</je>
+		<tu>modernises</tu>
+		<il>modernise</il>
+		<nous>modernisions</nous>
+		<vous>modernisiez</vous>
+		<ils>modernisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>moderniserais</je>
+		<tu>moderniserais</tu>
+		<il>moderniserait</il>
+		<nous>moderniserions</nous>
+		<vous>moderniseriez</vous>
+		<ils>moderniseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

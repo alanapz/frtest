@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>chuchoter</infinitive>
+	<translation>to whisper</translation>
+	<presentParticiple>chuchotant</presentParticiple>
+	<pastParticiple>chuchoté</pastParticiple>
+	<present>
+		<je>chuchote</je>
+		<tu>chuchotes</tu>
+		<il>chuchote</il>
+		<nous>chuchotons</nous>
+		<vous>chuchotez</vous>
+		<ils>chuchotent</ils>
+	</present>
+	<imperative>
+		<tu>chuchote</tu>
+		<nous>chuchotons</nous>
+		<vous>chuchotez</vous>
+	</imperative>
+	<imperfect>
+		<je>chuchotais</je>
+		<tu>chuchotais</tu>
+		<il>chuchotait</il>
+		<nous>chuchotions</nous>
+		<vous>chuchotiez</vous>
+		<ils>chuchotaient</ils>
+	</imperfect>
+	<future>
+		<je>chuchoterai</je>
+		<tu>chuchoteras</tu>
+		<il>chuchotera</il>
+		<nous>chuchoterons</nous>
+		<vous>chuchoterez</vous>
+		<ils>chuchoteront</ils>
+	</future>
+	<subjunctive>
+		<je>chuchote</je>
+		<tu>chuchotes</tu>
+		<il>chuchote</il>
+		<nous>chuchotions</nous>
+		<vous>chuchotiez</vous>
+		<ils>chuchotent</ils>
+	</subjunctive>
+	<conditional>
+		<je>chuchoterais</je>
+		<tu>chuchoterais</tu>
+		<il>chuchoterait</il>
+		<nous>chuchoterions</nous>
+		<vous>chuchoteriez</vous>
+		<ils>chuchoteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

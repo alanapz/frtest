@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>savoir</infinitive>
+            <translation>to know</translation>
+            <presentParticiple>sachant</presentParticiple>
+            <pastParticiple>su</pastParticiple>
+            <present>
+                <je>sais</je>
+                <tu>sais</tu>
+                <il>sait</il>
+                <nous>savons</nous>
+                <vous>savez</vous>
+                <ils>savent</ils>
+            </present>
+            <imperative>
+                <tu>sache</tu>
+                <nous>sachons</nous>
+                <vous>sachez</vous>
+            </imperative>
+            <imperfect>
+                <je>savais</je>
+                <tu>savais</tu>
+                <il>savait</il>
+                <nous>savions</nous>
+                <vous>saviez</vous>
+                <ils>savaient</ils>
+            </imperfect>
+            <future>
+                <je>saurai</je>
+                <tu>sauras</tu>
+                <il>saura</il>
+                <nous>saurons</nous>
+                <vous>saurez</vous>
+                <ils>sauront</ils>
+            </future>
+            <subjunctive>
+                <je>sache</je>
+                <tu>saches</tu>
+                <il>sache</il>
+                <nous>sachions</nous>
+                <vous>sachiez</vous>
+                <ils>sachent</ils>
+            </subjunctive>
+            <conditional>
+                <je>saurais</je>
+                <tu>saurais</tu>
+                <il>saurait</il>
+                <nous>saurions</nous>
+                <vous>sauriez</vous>
+                <ils>sauraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

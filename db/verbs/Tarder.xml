@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>tarder</infinitive>
+	<translation>to delay</translation>
+	<translation>take a long time</translation>
+	<presentParticiple>tardant</presentParticiple>
+	<pastParticiple>tardé</pastParticiple>
+	<present>
+		<je>tarde</je>
+		<tu>tardes</tu>
+		<il>tarde</il>
+		<nous>tardons</nous>
+		<vous>tardez</vous>
+		<ils>tardent</ils>
+	</present>
+	<imperative>
+		<tu>tarde</tu>
+		<nous>tardons</nous>
+		<vous>tardez</vous>
+	</imperative>
+	<imperfect>
+		<je>tardais</je>
+		<tu>tardais</tu>
+		<il>tardait</il>
+		<nous>tardions</nous>
+		<vous>tardiez</vous>
+		<ils>tardaient</ils>
+	</imperfect>
+	<future>
+		<je>tarderai</je>
+		<tu>tarderas</tu>
+		<il>tardera</il>
+		<nous>tarderons</nous>
+		<vous>tarderez</vous>
+		<ils>tarderont</ils>
+	</future>
+	<subjunctive>
+		<je>tarde</je>
+		<tu>tardes</tu>
+		<il>tarde</il>
+		<nous>tardions</nous>
+		<vous>tardiez</vous>
+		<ils>tardent</ils>
+	</subjunctive>
+	<conditional>
+		<je>tarderais</je>
+		<tu>tarderais</tu>
+		<il>tarderait</il>
+		<nous>tarderions</nous>
+		<vous>tarderiez</vous>
+		<ils>tarderaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

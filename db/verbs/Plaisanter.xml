@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>plaisanter</infinitive>
+	<translation>to joke</translation>
+	<presentParticiple>plaisantant</presentParticiple>
+	<pastParticiple>plaisanté</pastParticiple>
+	<present>
+		<je>plaisante</je>
+		<tu>plaisantes</tu>
+		<il>plaisante</il>
+		<nous>plaisantons</nous>
+		<vous>plaisantez</vous>
+		<ils>plaisantent</ils>
+	</present>
+	<imperative>
+		<tu>plaisante</tu>
+		<nous>plaisantons</nous>
+		<vous>plaisantez</vous>
+	</imperative>
+	<imperfect>
+		<je>plaisantais</je>
+		<tu>plaisantais</tu>
+		<il>plaisantait</il>
+		<nous>plaisantions</nous>
+		<vous>plaisantiez</vous>
+		<ils>plaisantaient</ils>
+	</imperfect>
+	<future>
+		<je>plaisanterai</je>
+		<tu>plaisanteras</tu>
+		<il>plaisantera</il>
+		<nous>plaisanterons</nous>
+		<vous>plaisanterez</vous>
+		<ils>plaisanteront</ils>
+	</future>
+	<subjunctive>
+		<je>plaisante</je>
+		<tu>plaisantes</tu>
+		<il>plaisante</il>
+		<nous>plaisantions</nous>
+		<vous>plaisantiez</vous>
+		<ils>plaisantent</ils>
+	</subjunctive>
+	<conditional>
+		<je>plaisanterais</je>
+		<tu>plaisanterais</tu>
+		<il>plaisanterait</il>
+		<nous>plaisanterions</nous>
+		<vous>plaisanteriez</vous>
+		<ils>plaisanteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

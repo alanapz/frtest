@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>collaborer</infinitive>
+	<translation>to collaborate</translation>
+	<presentParticiple>collaborant</presentParticiple>
+	<pastParticiple>collaboré</pastParticiple>
+	<present>
+		<je>collabore</je>
+		<tu>collabores</tu>
+		<il>collabore</il>
+		<nous>collaborons</nous>
+		<vous>collaborez</vous>
+		<ils>collaborent</ils>
+	</present>
+	<imperative>
+		<tu>collabore</tu>
+		<nous>collaborons</nous>
+		<vous>collaborez</vous>
+	</imperative>
+	<imperfect>
+		<je>collaborais</je>
+		<tu>collaborais</tu>
+		<il>collaborait</il>
+		<nous>collaborions</nous>
+		<vous>collaboriez</vous>
+		<ils>collaboraient</ils>
+	</imperfect>
+	<future>
+		<je>collaborerai</je>
+		<tu>collaboreras</tu>
+		<il>collaborera</il>
+		<nous>collaborerons</nous>
+		<vous>collaborerez</vous>
+		<ils>collaboreront</ils>
+	</future>
+	<subjunctive>
+		<je>collabore</je>
+		<tu>collabores</tu>
+		<il>collabore</il>
+		<nous>collaborions</nous>
+		<vous>collaboriez</vous>
+		<ils>collaborent</ils>
+	</subjunctive>
+	<conditional>
+		<je>collaborerais</je>
+		<tu>collaborerais</tu>
+		<il>collaborerait</il>
+		<nous>collaborerions</nous>
+		<vous>collaboreriez</vous>
+		<ils>collaboreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

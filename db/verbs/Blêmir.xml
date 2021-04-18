@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>blêmir</infinitive>
+	<translation>to pale</translation>
+	<presentParticiple>blêmissant</presentParticiple>
+	<pastParticiple>blêmi</pastParticiple>
+	<present>
+		<je>blêmis</je>
+		<tu>blêmis</tu>
+		<il>blêmit</il>
+		<nous>blêmissons</nous>
+		<vous>blêmissez</vous>
+		<ils>blêmissent</ils>
+	</present>
+	<imperative>
+		<tu>blêmis</tu>
+		<nous>blêmissons</nous>
+		<vous>blêmissez</vous>
+	</imperative>
+	<imperfect>
+		<je>blêmissais</je>
+		<tu>blêmissais</tu>
+		<il>blêmissait</il>
+		<nous>blêmissions</nous>
+		<vous>blêmissiez</vous>
+		<ils>blêmissaient</ils>
+	</imperfect>
+	<future>
+		<je>blêmirai</je>
+		<tu>blêmiras</tu>
+		<il>blêmira</il>
+		<nous>blêmirons</nous>
+		<vous>blêmirez</vous>
+		<ils>blêmiront</ils>
+	</future>
+	<subjunctive>
+		<je>blêmisse</je>
+		<tu>blêmisses</tu>
+		<il>blêmisse</il>
+		<nous>blêmissions</nous>
+		<vous>blêmissiez</vous>
+		<ils>blêmissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>blêmirais</je>
+		<tu>blêmirais</tu>
+		<il>blêmirait</il>
+		<nous>blêmirions</nous>
+		<vous>blêmiriez</vous>
+		<ils>blêmiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

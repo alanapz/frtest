@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>peigner</infinitive>
+	<translation>to comb</translation>
+	<presentParticiple>peignant</presentParticiple>
+	<pastParticiple>peigné</pastParticiple>
+	<present>
+		<je>peigne</je>
+		<tu>peignes</tu>
+		<il>peigne</il>
+		<nous>peignons</nous>
+		<vous>peignez</vous>
+		<ils>peignent</ils>
+	</present>
+	<imperative>
+		<tu>peigne</tu>
+		<nous>peignons</nous>
+		<vous>peignez</vous>
+	</imperative>
+	<imperfect>
+		<je>peignais</je>
+		<tu>peignais</tu>
+		<il>peignait</il>
+		<nous>peignions</nous>
+		<vous>peigniez</vous>
+		<ils>peignaient</ils>
+	</imperfect>
+	<future>
+		<je>peignerai</je>
+		<tu>peigneras</tu>
+		<il>peignera</il>
+		<nous>peignerons</nous>
+		<vous>peignerez</vous>
+		<ils>peigneront</ils>
+	</future>
+	<subjunctive>
+		<je>peigne</je>
+		<tu>peignes</tu>
+		<il>peigne</il>
+		<nous>peignions</nous>
+		<vous>peigniez</vous>
+		<ils>peignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>peignerais</je>
+		<tu>peignerais</tu>
+		<il>peignerait</il>
+		<nous>peignerions</nous>
+		<vous>peigneriez</vous>
+		<ils>peigneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>retomber</infinitive>
+            <translation>to re-fall-down</translation>
+            <takesEtreInPerfect />
+            <presentParticiple>retombant</presentParticiple>
+            <pastParticiple>retombé</pastParticiple>
+            <present>
+                <je>retombe</je>
+                <tu>retombes</tu>
+                <il>retombe</il>
+                <nous>retombons</nous>
+                <vous>retombez</vous>
+                <ils>retombent</ils>
+            </present>
+            <imperative>
+                <tu>retombe</tu>
+                <nous>retombons</nous>
+                <vous>retombez</vous>
+            </imperative>
+            <imperfect>
+                <je>retombais</je>
+                <tu>retombais</tu>
+                <il>retombait</il>
+                <nous>retombions</nous>
+                <vous>retombiez</vous>
+                <ils>retombaient</ils>
+            </imperfect>
+            <future>
+                <je>retomberai</je>
+                <tu>retomberas</tu>
+                <il>retombera</il>
+                <nous>retomberons</nous>
+                <vous>retomberez</vous>
+                <ils>retomberont</ils>
+            </future>
+            <subjunctive>
+                <je>retombe</je>
+                <tu>retombes</tu>
+                <il>retombe</il>
+                <nous>retombions</nous>
+                <vous>retombiez</vous>
+                <ils>retombent</ils>
+            </subjunctive>
+            <conditional>
+                <je>retomberais</je>
+                <tu>retomberais</tu>
+                <il>retomberait</il>
+                <nous>retomberions</nous>
+                <vous>retomberiez</vous>
+                <ils>retomberaient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

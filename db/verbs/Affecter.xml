@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>affecter</infinitive>
+	<translation>to affect</translation>
+	<presentParticiple>affectant</presentParticiple>
+	<pastParticiple>affecté</pastParticiple>
+	<present>
+		<je>affecte</je>
+		<tu>affectes</tu>
+		<il>affecte</il>
+		<nous>affectons</nous>
+		<vous>affectez</vous>
+		<ils>affectent</ils>
+	</present>
+	<imperative>
+		<tu>affecte</tu>
+		<nous>affectons</nous>
+		<vous>affectez</vous>
+	</imperative>
+	<imperfect>
+		<je>affectais</je>
+		<tu>affectais</tu>
+		<il>affectait</il>
+		<nous>affections</nous>
+		<vous>affectiez</vous>
+		<ils>affectaient</ils>
+	</imperfect>
+	<future>
+		<je>affecterai</je>
+		<tu>affecteras</tu>
+		<il>affectera</il>
+		<nous>affecterons</nous>
+		<vous>affecterez</vous>
+		<ils>affecteront</ils>
+	</future>
+	<subjunctive>
+		<je>affecte</je>
+		<tu>affectes</tu>
+		<il>affecte</il>
+		<nous>affections</nous>
+		<vous>affectiez</vous>
+		<ils>affectent</ils>
+	</subjunctive>
+	<conditional>
+		<je>affecterais</je>
+		<tu>affecterais</tu>
+		<il>affecterait</il>
+		<nous>affecterions</nous>
+		<vous>affecteriez</vous>
+		<ils>affecteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

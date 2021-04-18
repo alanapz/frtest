@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>avouer</infinitive>
+	<translation>to vow</translation>
+	<presentParticiple>avouant</presentParticiple>
+	<pastParticiple>avoué</pastParticiple>
+	<present>
+		<je>avoue</je>
+		<tu>avoues</tu>
+		<il>avoue</il>
+		<nous>avouons</nous>
+		<vous>avouez</vous>
+		<ils>avouent</ils>
+	</present>
+	<imperative>
+		<tu>avoue</tu>
+		<nous>avouons</nous>
+		<vous>avouez</vous>
+	</imperative>
+	<imperfect>
+		<je>avouais</je>
+		<tu>avouais</tu>
+		<il>avouait</il>
+		<nous>avouions</nous>
+		<vous>avouiez</vous>
+		<ils>avouaient</ils>
+	</imperfect>
+	<future>
+		<je>avouerai</je>
+		<tu>avoueras</tu>
+		<il>avouera</il>
+		<nous>avouerons</nous>
+		<vous>avouerez</vous>
+		<ils>avoueront</ils>
+	</future>
+	<subjunctive>
+		<je>avoue</je>
+		<tu>avoues</tu>
+		<il>avoue</il>
+		<nous>avouions</nous>
+		<vous>avouiez</vous>
+		<ils>avouent</ils>
+	</subjunctive>
+	<conditional>
+		<je>avouerais</je>
+		<tu>avouerais</tu>
+		<il>avouerait</il>
+		<nous>avouerions</nous>
+		<vous>avoueriez</vous>
+		<ils>avoueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

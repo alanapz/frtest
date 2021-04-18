@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>clouer</infinitive>
+	<translation>to nail</translation>
+	<translation>tack</translation>
+	<translation>to pin down</translation>
+	<presentParticiple>clouant</presentParticiple>
+	<pastParticiple>cloué</pastParticiple>
+	<present>
+		<je>cloue</je>
+		<tu>cloues</tu>
+		<il>cloue</il>
+		<nous>clouons</nous>
+		<vous>clouez</vous>
+		<ils>clouent</ils>
+	</present>
+	<imperative>
+		<tu>cloue</tu>
+		<nous>clouons</nous>
+		<vous>clouez</vous>
+	</imperative>
+	<imperfect>
+		<je>clouais</je>
+		<tu>clouais</tu>
+		<il>clouait</il>
+		<nous>clouions</nous>
+		<vous>clouiez</vous>
+		<ils>clouaient</ils>
+	</imperfect>
+	<future>
+		<je>clouerai</je>
+		<tu>cloueras</tu>
+		<il>clouera</il>
+		<nous>clouerons</nous>
+		<vous>clouerez</vous>
+		<ils>cloueront</ils>
+	</future>
+	<subjunctive>
+		<je>cloue</je>
+		<tu>cloues</tu>
+		<il>cloue</il>
+		<nous>clouions</nous>
+		<vous>clouiez</vous>
+		<ils>clouent</ils>
+	</subjunctive>
+	<conditional>
+		<je>clouerais</je>
+		<tu>clouerais</tu>
+		<il>clouerait</il>
+		<nous>clouerions</nous>
+		<vous>cloueriez</vous>
+		<ils>cloueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

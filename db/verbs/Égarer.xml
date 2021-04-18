@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>égarer</infinitive>
+	<translation>to mislead</translation>
+	<translation>mislay</translation>
+	<presentParticiple>égarant</presentParticiple>
+	<pastParticiple>égaré</pastParticiple>
+	<present>
+		<je>égare</je>
+		<tu>égares</tu>
+		<il>égare</il>
+		<nous>égarons</nous>
+		<vous>égarez</vous>
+		<ils>égarent</ils>
+	</present>
+	<imperative>
+		<tu>égare</tu>
+		<nous>égarons</nous>
+		<vous>égarez</vous>
+	</imperative>
+	<imperfect>
+		<je>égarais</je>
+		<tu>égarais</tu>
+		<il>égarait</il>
+		<nous>égarions</nous>
+		<vous>égariez</vous>
+		<ils>égaraient</ils>
+	</imperfect>
+	<future>
+		<je>égarerai</je>
+		<tu>égareras</tu>
+		<il>égarera</il>
+		<nous>égarerons</nous>
+		<vous>égarerez</vous>
+		<ils>égareront</ils>
+	</future>
+	<subjunctive>
+		<je>égare</je>
+		<tu>égares</tu>
+		<il>égare</il>
+		<nous>égarions</nous>
+		<vous>égariez</vous>
+		<ils>égarent</ils>
+	</subjunctive>
+	<conditional>
+		<je>égarerais</je>
+		<tu>égarerais</tu>
+		<il>égarerait</il>
+		<nous>égarerions</nous>
+		<vous>égareriez</vous>
+		<ils>égareraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

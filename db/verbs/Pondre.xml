@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>pondre</infinitive>
+	<translation>to lay (an egg)</translation>
+	<translation>to produce</translation>
+	<presentParticiple>pondant</presentParticiple>
+	<pastParticiple>pondu</pastParticiple>
+	<present>
+		<je>ponds</je>
+		<tu>ponds</tu>
+		<il>pond</il>
+		<nous>pondons</nous>
+		<vous>pondez</vous>
+		<ils>pondent</ils>
+	</present>
+	<imperative>
+		<tu>ponds</tu>
+		<nous>pondons</nous>
+		<vous>pondez</vous>
+	</imperative>
+	<imperfect>
+		<je>pondais</je>
+		<tu>pondais</tu>
+		<il>pondait</il>
+		<nous>pondions</nous>
+		<vous>pondiez</vous>
+		<ils>pondaient</ils>
+	</imperfect>
+	<future>
+		<je>pondrai</je>
+		<tu>pondras</tu>
+		<il>pondra</il>
+		<nous>pondrons</nous>
+		<vous>pondrez</vous>
+		<ils>pondront</ils>
+	</future>
+	<subjunctive>
+		<je>ponde</je>
+		<tu>pondes</tu>
+		<il>ponde</il>
+		<nous>pondions</nous>
+		<vous>pondiez</vous>
+		<ils>pondent</ils>
+	</subjunctive>
+	<conditional>
+		<je>pondrais</je>
+		<tu>pondrais</tu>
+		<il>pondrait</il>
+		<nous>pondrions</nous>
+		<vous>pondriez</vous>
+		<ils>pondraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

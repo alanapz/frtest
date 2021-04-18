@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>alimenter</infinitive>
+	<translation>to feed</translation>
+	<presentParticiple>alimentant</presentParticiple>
+	<pastParticiple>alimenté</pastParticiple>
+	<present>
+		<je>alimente</je>
+		<tu>alimentes</tu>
+		<il>alimente</il>
+		<nous>alimentons</nous>
+		<vous>alimentez</vous>
+		<ils>alimentent</ils>
+	</present>
+	<imperative>
+		<tu>alimente</tu>
+		<nous>alimentons</nous>
+		<vous>alimentez</vous>
+	</imperative>
+	<imperfect>
+		<je>alimentais</je>
+		<tu>alimentais</tu>
+		<il>alimentait</il>
+		<nous>alimentions</nous>
+		<vous>alimentiez</vous>
+		<ils>alimentaient</ils>
+	</imperfect>
+	<future>
+		<je>alimenterai</je>
+		<tu>alimenteras</tu>
+		<il>alimentera</il>
+		<nous>alimenterons</nous>
+		<vous>alimenterez</vous>
+		<ils>alimenteront</ils>
+	</future>
+	<subjunctive>
+		<je>alimente</je>
+		<tu>alimentes</tu>
+		<il>alimente</il>
+		<nous>alimentions</nous>
+		<vous>alimentiez</vous>
+		<ils>alimentent</ils>
+	</subjunctive>
+	<conditional>
+		<je>alimenterais</je>
+		<tu>alimenterais</tu>
+		<il>alimenterait</il>
+		<nous>alimenterions</nous>
+		<vous>alimenteriez</vous>
+		<ils>alimenteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

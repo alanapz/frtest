@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dégoûter</infinitive>
+	<translation>to disgust</translation>
+	<presentParticiple>dégoûtant</presentParticiple>
+	<pastParticiple>dégoûté</pastParticiple>
+	<present>
+		<je>dégoûte</je>
+		<tu>dégoûtes</tu>
+		<il>dégoûte</il>
+		<nous>dégoûtons</nous>
+		<vous>dégoûtez</vous>
+		<ils>dégoûtent</ils>
+	</present>
+	<imperative>
+		<tu>dégoûte</tu>
+		<nous>dégoûtons</nous>
+		<vous>dégoûtez</vous>
+	</imperative>
+	<imperfect>
+		<je>dégoûtais</je>
+		<tu>dégoûtais</tu>
+		<il>dégoûtait</il>
+		<nous>dégoûtions</nous>
+		<vous>dégoûtiez</vous>
+		<ils>dégoûtaient</ils>
+	</imperfect>
+	<future>
+		<je>dégoûterai</je>
+		<tu>dégoûteras</tu>
+		<il>dégoûtera</il>
+		<nous>dégoûterons</nous>
+		<vous>dégoûterez</vous>
+		<ils>dégoûteront</ils>
+	</future>
+	<subjunctive>
+		<je>dégoûte</je>
+		<tu>dégoûtes</tu>
+		<il>dégoûte</il>
+		<nous>dégoûtions</nous>
+		<vous>dégoûtiez</vous>
+		<ils>dégoûtent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dégoûterais</je>
+		<tu>dégoûterais</tu>
+		<il>dégoûterait</il>
+		<nous>dégoûterions</nous>
+		<vous>dégoûteriez</vous>
+		<ils>dégoûteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

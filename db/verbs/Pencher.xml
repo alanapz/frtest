@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>pencher</infinitive>
+	<translation>to tilt</translation>
+	<translation>slope</translation>
+	<presentParticiple>penchant</presentParticiple>
+	<pastParticiple>penché</pastParticiple>
+	<present>
+		<je>penche</je>
+		<tu>penches</tu>
+		<il>penche</il>
+		<nous>penchons</nous>
+		<vous>penchez</vous>
+		<ils>penchent</ils>
+	</present>
+	<imperative>
+		<tu>penche</tu>
+		<nous>penchons</nous>
+		<vous>penchez</vous>
+	</imperative>
+	<imperfect>
+		<je>penchais</je>
+		<tu>penchais</tu>
+		<il>penchait</il>
+		<nous>penchions</nous>
+		<vous>penchiez</vous>
+		<ils>penchaient</ils>
+	</imperfect>
+	<future>
+		<je>pencherai</je>
+		<tu>pencheras</tu>
+		<il>penchera</il>
+		<nous>pencherons</nous>
+		<vous>pencherez</vous>
+		<ils>pencheront</ils>
+	</future>
+	<subjunctive>
+		<je>penche</je>
+		<tu>penches</tu>
+		<il>penche</il>
+		<nous>penchions</nous>
+		<vous>penchiez</vous>
+		<ils>penchent</ils>
+	</subjunctive>
+	<conditional>
+		<je>pencherais</je>
+		<tu>pencherais</tu>
+		<il>pencherait</il>
+		<nous>pencherions</nous>
+		<vous>pencheriez</vous>
+		<ils>pencheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

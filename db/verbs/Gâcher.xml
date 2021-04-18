@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>gâcher</infinitive>
+	<translation>to waste</translation>
+	<translation>spoil</translation>
+	<translation>to temper</translation>
+	<translation>mix</translation>
+	<presentParticiple>gâchant</presentParticiple>
+	<pastParticiple>gâché</pastParticiple>
+	<present>
+		<je>gâche</je>
+		<tu>gâches</tu>
+		<il>gâche</il>
+		<nous>gâchons</nous>
+		<vous>gâchez</vous>
+		<ils>gâchent</ils>
+	</present>
+	<imperative>
+		<tu>gâche</tu>
+		<nous>gâchons</nous>
+		<vous>gâchez</vous>
+	</imperative>
+	<imperfect>
+		<je>gâchais</je>
+		<tu>gâchais</tu>
+		<il>gâchait</il>
+		<nous>gâchions</nous>
+		<vous>gâchiez</vous>
+		<ils>gâchaient</ils>
+	</imperfect>
+	<future>
+		<je>gâcherai</je>
+		<tu>gâcheras</tu>
+		<il>gâchera</il>
+		<nous>gâcherons</nous>
+		<vous>gâcherez</vous>
+		<ils>gâcheront</ils>
+	</future>
+	<subjunctive>
+		<je>gâche</je>
+		<tu>gâches</tu>
+		<il>gâche</il>
+		<nous>gâchions</nous>
+		<vous>gâchiez</vous>
+		<ils>gâchent</ils>
+	</subjunctive>
+	<conditional>
+		<je>gâcherais</je>
+		<tu>gâcherais</tu>
+		<il>gâcherait</il>
+		<nous>gâcherions</nous>
+		<vous>gâcheriez</vous>
+		<ils>gâcheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

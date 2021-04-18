@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>tester</infinitive>
+	<translation>to test</translation>
+	<presentParticiple>testant</presentParticiple>
+	<pastParticiple>testé</pastParticiple>
+	<present>
+		<je>teste</je>
+		<tu>testes</tu>
+		<il>teste</il>
+		<nous>testons</nous>
+		<vous>testez</vous>
+		<ils>testent</ils>
+	</present>
+	<imperative>
+		<tu>teste</tu>
+		<nous>testons</nous>
+		<vous>testez</vous>
+	</imperative>
+	<imperfect>
+		<je>testais</je>
+		<tu>testais</tu>
+		<il>testait</il>
+		<nous>testions</nous>
+		<vous>testiez</vous>
+		<ils>testaient</ils>
+	</imperfect>
+	<future>
+		<je>testerai</je>
+		<tu>testeras</tu>
+		<il>testera</il>
+		<nous>testerons</nous>
+		<vous>testerez</vous>
+		<ils>testeront</ils>
+	</future>
+	<subjunctive>
+		<je>teste</je>
+		<tu>testes</tu>
+		<il>teste</il>
+		<nous>testions</nous>
+		<vous>testiez</vous>
+		<ils>testent</ils>
+	</subjunctive>
+	<conditional>
+		<je>testerais</je>
+		<tu>testerais</tu>
+		<il>testerait</il>
+		<nous>testerions</nous>
+		<vous>testeriez</vous>
+		<ils>testeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

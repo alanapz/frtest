@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>battre</infinitive>
+	<translation>to beat</translation>
+	<irregular />
+	<presentParticiple>battant</presentParticiple>
+	<pastParticiple>battu</pastParticiple>
+	<present>
+		<je>bats</je>
+		<tu>bats</tu>
+		<il>bat</il>
+		<nous>battons</nous>
+		<vous>battez</vous>
+		<ils>battent</ils>
+	</present>
+	<imperative>
+		<tu>bats</tu>
+		<nous>battons</nous>
+		<vous>battez</vous>
+	</imperative>
+	<imperfect>
+		<je>battais</je>
+		<tu>battais</tu>
+		<il>battait</il>
+		<nous>battions</nous>
+		<vous>battiez</vous>
+		<ils>battaient</ils>
+	</imperfect>
+	<future>
+		<je>battrai</je>
+		<tu>battras</tu>
+		<il>battra</il>
+		<nous>battrons</nous>
+		<vous>battrez</vous>
+		<ils>battront</ils>
+	</future>
+	<subjunctive>
+		<je>batte</je>
+		<tu>battes</tu>
+		<il>batte</il>
+		<nous>battions</nous>
+		<vous>battiez</vous>
+		<ils>battent</ils>
+	</subjunctive>
+	<conditional>
+		<je>battrais</je>
+		<tu>battrais</tu>
+		<il>battrait</il>
+		<nous>battrions</nous>
+		<vous>battriez</vous>
+		<ils>battraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

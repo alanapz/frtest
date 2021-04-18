@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>obvier</infinitive>
+	<translation>to take precautions</translation>
+	<translation>to overcome</translation>
+	<presentParticiple>obviant</presentParticiple>
+	<pastParticiple>obvié</pastParticiple>
+	<present>
+		<je>obvie</je>
+		<tu>obvies</tu>
+		<il>obvie</il>
+		<nous>obvions</nous>
+		<vous>obviez</vous>
+		<ils>obvient</ils>
+	</present>
+	<imperative>
+		<tu>obvie</tu>
+		<nous>obvions</nous>
+		<vous>obviez</vous>
+	</imperative>
+	<imperfect>
+		<je>obviais</je>
+		<tu>obviais</tu>
+		<il>obviait</il>
+		<nous>obviions</nous>
+		<vous>obviiez</vous>
+		<ils>obviaient</ils>
+	</imperfect>
+	<future>
+		<je>obvierai</je>
+		<tu>obvieras</tu>
+		<il>obviera</il>
+		<nous>obvierons</nous>
+		<vous>obvierez</vous>
+		<ils>obvieront</ils>
+	</future>
+	<subjunctive>
+		<je>obvie</je>
+		<tu>obvies</tu>
+		<il>obvie</il>
+		<nous>obviions</nous>
+		<vous>obviiez</vous>
+		<ils>obvient</ils>
+	</subjunctive>
+	<conditional>
+		<je>obvierais</je>
+		<tu>obvierais</tu>
+		<il>obvierait</il>
+		<nous>obvierions</nous>
+		<vous>obvieriez</vous>
+		<ils>obvieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

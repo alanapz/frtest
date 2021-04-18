@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>cuisiner</infinitive>
+	<translation>to cook</translation>
+	<presentParticiple>cuisinant</presentParticiple>
+	<pastParticiple>cuisiné</pastParticiple>
+	<present>
+		<je>cuisine</je>
+		<tu>cuisines</tu>
+		<il>cuisine</il>
+		<nous>cuisinons</nous>
+		<vous>cuisinez</vous>
+		<ils>cuisinent</ils>
+	</present>
+	<imperative>
+		<tu>cuisine</tu>
+		<nous>cuisinons</nous>
+		<vous>cuisinez</vous>
+	</imperative>
+	<imperfect>
+		<je>cuisinais</je>
+		<tu>cuisinais</tu>
+		<il>cuisinait</il>
+		<nous>cuisinions</nous>
+		<vous>cuisiniez</vous>
+		<ils>cuisinaient</ils>
+	</imperfect>
+	<future>
+		<je>cuisinerai</je>
+		<tu>cuisineras</tu>
+		<il>cuisinera</il>
+		<nous>cuisinerons</nous>
+		<vous>cuisinerez</vous>
+		<ils>cuisineront</ils>
+	</future>
+	<subjunctive>
+		<je>cuisine</je>
+		<tu>cuisines</tu>
+		<il>cuisine</il>
+		<nous>cuisinions</nous>
+		<vous>cuisiniez</vous>
+		<ils>cuisinent</ils>
+	</subjunctive>
+	<conditional>
+		<je>cuisinerais</je>
+		<tu>cuisinerais</tu>
+		<il>cuisinerait</il>
+		<nous>cuisinerions</nous>
+		<vous>cuisineriez</vous>
+		<ils>cuisineraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

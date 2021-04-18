@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>fondre</infinitive>
+	<translation>to melt</translation>
+	<presentParticiple>fondant</presentParticiple>
+	<pastParticiple>fondu</pastParticiple>
+	<present>
+		<je>fonds</je>
+		<tu>fonds</tu>
+		<il>fond</il>
+		<nous>fondons</nous>
+		<vous>fondez</vous>
+		<ils>fondent</ils>
+	</present>
+	<imperative>
+		<tu>fonds</tu>
+		<nous>fondons</nous>
+		<vous>fondez</vous>
+	</imperative>
+	<imperfect>
+		<je>fondais</je>
+		<tu>fondais</tu>
+		<il>fondait</il>
+		<nous>fondions</nous>
+		<vous>fondiez</vous>
+		<ils>fondaient</ils>
+	</imperfect>
+	<future>
+		<je>fondrai</je>
+		<tu>fondras</tu>
+		<il>fondra</il>
+		<nous>fondrons</nous>
+		<vous>fondrez</vous>
+		<ils>fondront</ils>
+	</future>
+	<subjunctive>
+		<je>fonde</je>
+		<tu>fondes</tu>
+		<il>fonde</il>
+		<nous>fondions</nous>
+		<vous>fondiez</vous>
+		<ils>fondent</ils>
+	</subjunctive>
+	<conditional>
+		<je>fondrais</je>
+		<tu>fondrais</tu>
+		<il>fondrait</il>
+		<nous>fondrions</nous>
+		<vous>fondriez</vous>
+		<ils>fondraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>installer</infinitive>
+	<translation>to set up</translation>
+	<translation>get settled</translation>
+	<presentParticiple>installant</presentParticiple>
+	<pastParticiple>installé</pastParticiple>
+	<present>
+		<je>installe</je>
+		<tu>installes</tu>
+		<il>installe</il>
+		<nous>installons</nous>
+		<vous>installez</vous>
+		<ils>installent</ils>
+	</present>
+	<imperative>
+		<tu>installe</tu>
+		<nous>installons</nous>
+		<vous>installez</vous>
+	</imperative>
+	<imperfect>
+		<je>installais</je>
+		<tu>installais</tu>
+		<il>installait</il>
+		<nous>installions</nous>
+		<vous>installiez</vous>
+		<ils>installaient</ils>
+	</imperfect>
+	<future>
+		<je>installerai</je>
+		<tu>installeras</tu>
+		<il>installera</il>
+		<nous>installerons</nous>
+		<vous>installerez</vous>
+		<ils>installeront</ils>
+	</future>
+	<subjunctive>
+		<je>installe</je>
+		<tu>installes</tu>
+		<il>installe</il>
+		<nous>installions</nous>
+		<vous>installiez</vous>
+		<ils>installent</ils>
+	</subjunctive>
+	<conditional>
+		<je>installerais</je>
+		<tu>installerais</tu>
+		<il>installerait</il>
+		<nous>installerions</nous>
+		<vous>installeriez</vous>
+		<ils>installeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

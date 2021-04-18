@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>assister</infinitive>
+	<translation>to attend</translation>
+	<presentParticiple>assistant</presentParticiple>
+	<pastParticiple>assisté</pastParticiple>
+	<present>
+		<je>assiste</je>
+		<tu>assistes</tu>
+		<il>assiste</il>
+		<nous>assistons</nous>
+		<vous>assistez</vous>
+		<ils>assistent</ils>
+	</present>
+	<imperative>
+		<tu>assiste</tu>
+		<nous>assistons</nous>
+		<vous>assistez</vous>
+	</imperative>
+	<imperfect>
+		<je>assistais</je>
+		<tu>assistais</tu>
+		<il>assistait</il>
+		<nous>assistions</nous>
+		<vous>assistiez</vous>
+		<ils>assistaient</ils>
+	</imperfect>
+	<future>
+		<je>assisterai</je>
+		<tu>assisteras</tu>
+		<il>assistera</il>
+		<nous>assisterons</nous>
+		<vous>assisterez</vous>
+		<ils>assisteront</ils>
+	</future>
+	<subjunctive>
+		<je>assiste</je>
+		<tu>assistes</tu>
+		<il>assiste</il>
+		<nous>assistions</nous>
+		<vous>assistiez</vous>
+		<ils>assistent</ils>
+	</subjunctive>
+	<conditional>
+		<je>assisterais</je>
+		<tu>assisterais</tu>
+		<il>assisterait</il>
+		<nous>assisterions</nous>
+		<vous>assisteriez</vous>
+		<ils>assisteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

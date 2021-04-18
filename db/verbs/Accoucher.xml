@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>accoucher</infinitive>
+	<translation>to be in labor</translation>
+	<translation>to give birth</translation>
+	<presentParticiple>accouchant</presentParticiple>
+	<pastParticiple>accouché</pastParticiple>
+	<present>
+		<je>accouche</je>
+		<tu>accouches</tu>
+		<il>accouche</il>
+		<nous>accouchons</nous>
+		<vous>accouchez</vous>
+		<ils>accouchent</ils>
+	</present>
+	<imperative>
+		<tu>accouche</tu>
+		<nous>accouchons</nous>
+		<vous>accouchez</vous>
+	</imperative>
+	<imperfect>
+		<je>accouchais</je>
+		<tu>accouchais</tu>
+		<il>accouchait</il>
+		<nous>accouchions</nous>
+		<vous>accouchiez</vous>
+		<ils>accouchaient</ils>
+	</imperfect>
+	<future>
+		<je>accoucherai</je>
+		<tu>accoucheras</tu>
+		<il>accouchera</il>
+		<nous>accoucherons</nous>
+		<vous>accoucherez</vous>
+		<ils>accoucheront</ils>
+	</future>
+	<subjunctive>
+		<je>accouche</je>
+		<tu>accouches</tu>
+		<il>accouche</il>
+		<nous>accouchions</nous>
+		<vous>accouchiez</vous>
+		<ils>accouchent</ils>
+	</subjunctive>
+	<conditional>
+		<je>accoucherais</je>
+		<tu>accoucherais</tu>
+		<il>accoucherait</il>
+		<nous>accoucherions</nous>
+		<vous>accoucheriez</vous>
+		<ils>accoucheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

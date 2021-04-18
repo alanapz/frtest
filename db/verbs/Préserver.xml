@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>préserver</infinitive>
+	<translation>to preserve</translation>
+	<presentParticiple>préservant</presentParticiple>
+	<pastParticiple>préservé</pastParticiple>
+	<present>
+		<je>préserve</je>
+		<tu>préserves</tu>
+		<il>préserve</il>
+		<nous>préservons</nous>
+		<vous>préservez</vous>
+		<ils>préservent</ils>
+	</present>
+	<imperative>
+		<tu>préserve</tu>
+		<nous>préservons</nous>
+		<vous>préservez</vous>
+	</imperative>
+	<imperfect>
+		<je>préservais</je>
+		<tu>préservais</tu>
+		<il>préservait</il>
+		<nous>préservions</nous>
+		<vous>préserviez</vous>
+		<ils>préservaient</ils>
+	</imperfect>
+	<future>
+		<je>préserverai</je>
+		<tu>préserveras</tu>
+		<il>préservera</il>
+		<nous>préserverons</nous>
+		<vous>préserverez</vous>
+		<ils>préserveront</ils>
+	</future>
+	<subjunctive>
+		<je>préserve</je>
+		<tu>préserves</tu>
+		<il>préserve</il>
+		<nous>préservions</nous>
+		<vous>préserviez</vous>
+		<ils>préservent</ils>
+	</subjunctive>
+	<conditional>
+		<je>préserverais</je>
+		<tu>préserverais</tu>
+		<il>préserverait</il>
+		<nous>préserverions</nous>
+		<vous>préserveriez</vous>
+		<ils>préserveraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

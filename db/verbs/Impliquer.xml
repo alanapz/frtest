@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>impliquer</infinitive>
+	<translation>to imply</translation>
+	<translation>to implicate</translation>
+	<translation>involve</translation>
+	<presentParticiple>impliquant</presentParticiple>
+	<pastParticiple>impliqué</pastParticiple>
+	<present>
+		<je>implique</je>
+		<tu>impliques</tu>
+		<il>implique</il>
+		<nous>impliquons</nous>
+		<vous>impliquez</vous>
+		<ils>impliquent</ils>
+	</present>
+	<imperative>
+		<tu>implique</tu>
+		<nous>impliquons</nous>
+		<vous>impliquez</vous>
+	</imperative>
+	<imperfect>
+		<je>impliquais</je>
+		<tu>impliquais</tu>
+		<il>impliquait</il>
+		<nous>impliquions</nous>
+		<vous>impliquiez</vous>
+		<ils>impliquaient</ils>
+	</imperfect>
+	<future>
+		<je>impliquerai</je>
+		<tu>impliqueras</tu>
+		<il>impliquera</il>
+		<nous>impliquerons</nous>
+		<vous>impliquerez</vous>
+		<ils>impliqueront</ils>
+	</future>
+	<subjunctive>
+		<je>implique</je>
+		<tu>impliques</tu>
+		<il>implique</il>
+		<nous>impliquions</nous>
+		<vous>impliquiez</vous>
+		<ils>impliquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>impliquerais</je>
+		<tu>impliquerais</tu>
+		<il>impliquerait</il>
+		<nous>impliquerions</nous>
+		<vous>impliqueriez</vous>
+		<ils>impliqueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

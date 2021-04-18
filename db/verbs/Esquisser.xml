@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>esquisser</infinitive>
+	<translation>to sketch</translation>
+	<translation>outline</translation>
+	<presentParticiple>esquissant</presentParticiple>
+	<pastParticiple>esquissé</pastParticiple>
+	<present>
+		<je>esquisse</je>
+		<tu>esquisses</tu>
+		<il>esquisse</il>
+		<nous>esquissons</nous>
+		<vous>esquissez</vous>
+		<ils>esquissent</ils>
+	</present>
+	<imperative>
+		<tu>esquisse</tu>
+		<nous>esquissons</nous>
+		<vous>esquissez</vous>
+	</imperative>
+	<imperfect>
+		<je>esquissais</je>
+		<tu>esquissais</tu>
+		<il>esquissait</il>
+		<nous>esquissions</nous>
+		<vous>esquissiez</vous>
+		<ils>esquissaient</ils>
+	</imperfect>
+	<future>
+		<je>esquisserai</je>
+		<tu>esquisseras</tu>
+		<il>esquissera</il>
+		<nous>esquisserons</nous>
+		<vous>esquisserez</vous>
+		<ils>esquisseront</ils>
+	</future>
+	<subjunctive>
+		<je>esquisse</je>
+		<tu>esquisses</tu>
+		<il>esquisse</il>
+		<nous>esquissions</nous>
+		<vous>esquissiez</vous>
+		<ils>esquissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>esquisserais</je>
+		<tu>esquisserais</tu>
+		<il>esquisserait</il>
+		<nous>esquisserions</nous>
+		<vous>esquisseriez</vous>
+		<ils>esquisseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

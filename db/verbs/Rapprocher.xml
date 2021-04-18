@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>rapprocher</infinitive>
+	<translation>to bring close/together</translation>
+	<translation>to compare</translation>
+	<presentParticiple>rapprochant</presentParticiple>
+	<pastParticiple>rapproché</pastParticiple>
+	<present>
+		<je>rapproche</je>
+		<tu>rapproches</tu>
+		<il>rapproche</il>
+		<nous>rapprochons</nous>
+		<vous>rapprochez</vous>
+		<ils>rapprochent</ils>
+	</present>
+	<imperative>
+		<tu>rapproche</tu>
+		<nous>rapprochons</nous>
+		<vous>rapprochez</vous>
+	</imperative>
+	<imperfect>
+		<je>rapprochais</je>
+		<tu>rapprochais</tu>
+		<il>rapprochait</il>
+		<nous>rapprochions</nous>
+		<vous>rapprochiez</vous>
+		<ils>rapprochaient</ils>
+	</imperfect>
+	<future>
+		<je>rapprocherai</je>
+		<tu>rapprocheras</tu>
+		<il>rapprochera</il>
+		<nous>rapprocherons</nous>
+		<vous>rapprocherez</vous>
+		<ils>rapprocheront</ils>
+	</future>
+	<subjunctive>
+		<je>rapproche</je>
+		<tu>rapproches</tu>
+		<il>rapproche</il>
+		<nous>rapprochions</nous>
+		<vous>rapprochiez</vous>
+		<ils>rapprochent</ils>
+	</subjunctive>
+	<conditional>
+		<je>rapprocherais</je>
+		<tu>rapprocherais</tu>
+		<il>rapprocherait</il>
+		<nous>rapprocherions</nous>
+		<vous>rapprocheriez</vous>
+		<ils>rapprocheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

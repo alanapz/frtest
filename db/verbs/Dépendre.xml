@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dépendre</infinitive>
+	<translation>to depend (on)</translation>
+	<presentParticiple>dépendant</presentParticiple>
+	<pastParticiple>dépendu</pastParticiple>
+	<present>
+		<je>dépends</je>
+		<tu>dépends</tu>
+		<il>dépend</il>
+		<nous>dépendons</nous>
+		<vous>dépendez</vous>
+		<ils>dépendent</ils>
+	</present>
+	<imperative>
+		<tu>dépends</tu>
+		<nous>dépendons</nous>
+		<vous>dépendez</vous>
+	</imperative>
+	<imperfect>
+		<je>dépendais</je>
+		<tu>dépendais</tu>
+		<il>dépendait</il>
+		<nous>dépendions</nous>
+		<vous>dépendiez</vous>
+		<ils>dépendaient</ils>
+	</imperfect>
+	<future>
+		<je>dépendrai</je>
+		<tu>dépendras</tu>
+		<il>dépendra</il>
+		<nous>dépendrons</nous>
+		<vous>dépendrez</vous>
+		<ils>dépendront</ils>
+	</future>
+	<subjunctive>
+		<je>dépende</je>
+		<tu>dépendes</tu>
+		<il>dépende</il>
+		<nous>dépendions</nous>
+		<vous>dépendiez</vous>
+		<ils>dépendent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dépendrais</je>
+		<tu>dépendrais</tu>
+		<il>dépendrait</il>
+		<nous>dépendrions</nous>
+		<vous>dépendriez</vous>
+		<ils>dépendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

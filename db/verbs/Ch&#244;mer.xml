@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>ch&#244;mer</infinitive>
+	<translation>to be idle</translation>
+	<translation>unemployed</translation>
+	<presentParticiple>ch&#244;mant</presentParticiple>
+	<pastParticiple>ch&#244;mé</pastParticiple>
+	<present>
+		<je>ch&#244;me</je>
+		<tu>ch&#244;mes</tu>
+		<il>ch&#244;me</il>
+		<nous>ch&#244;mons</nous>
+		<vous>ch&#244;mez</vous>
+		<ils>ch&#244;ment</ils>
+	</present>
+	<imperative>
+		<tu>ch&#244;me</tu>
+		<nous>ch&#244;mons</nous>
+		<vous>ch&#244;mez</vous>
+	</imperative>
+	<imperfect>
+		<je>ch&#244;mais</je>
+		<tu>ch&#244;mais</tu>
+		<il>ch&#244;mait</il>
+		<nous>ch&#244;mions</nous>
+		<vous>ch&#244;miez</vous>
+		<ils>ch&#244;maient</ils>
+	</imperfect>
+	<future>
+		<je>ch&#244;merai</je>
+		<tu>ch&#244;meras</tu>
+		<il>ch&#244;mera</il>
+		<nous>ch&#244;merons</nous>
+		<vous>ch&#244;merez</vous>
+		<ils>ch&#244;meront</ils>
+	</future>
+	<subjunctive>
+		<je>ch&#244;me</je>
+		<tu>ch&#244;mes</tu>
+		<il>ch&#244;me</il>
+		<nous>ch&#244;mions</nous>
+		<vous>ch&#244;miez</vous>
+		<ils>ch&#244;ment</ils>
+	</subjunctive>
+	<conditional>
+		<je>ch&#244;merais</je>
+		<tu>ch&#244;merais</tu>
+		<il>ch&#244;merait</il>
+		<nous>ch&#244;merions</nous>
+		<vous>ch&#244;meriez</vous>
+		<ils>ch&#244;meraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

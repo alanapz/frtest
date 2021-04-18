@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>rédiger</infinitive>
+	<translation>to write</translation>
+	<spellingChange />
+	<presentParticiple>rédigeant</presentParticiple>
+	<pastParticiple>rédigé</pastParticiple>
+	<present>
+		<je>rédige</je>
+		<tu>rédiges</tu>
+		<il>rédige</il>
+		<nous>rédigeons</nous>
+		<vous>rédigez</vous>
+		<ils>rédigent</ils>
+	</present>
+	<imperative>
+		<tu>rédige</tu>
+		<nous>rédigeons</nous>
+		<vous>rédigez</vous>
+	</imperative>
+	<imperfect>
+		<je>rédigeais</je>
+		<tu>rédigeais</tu>
+		<il>rédigeait</il>
+		<nous>rédigions</nous>
+		<vous>rédigiez</vous>
+		<ils>rédigeaient</ils>
+	</imperfect>
+	<future>
+		<je>rédigerai</je>
+		<tu>rédigeras</tu>
+		<il>rédigera</il>
+		<nous>rédigerons</nous>
+		<vous>rédigerez</vous>
+		<ils>rédigeront</ils>
+	</future>
+	<subjunctive>
+		<je>rédige</je>
+		<tu>rédiges</tu>
+		<il>rédige</il>
+		<nous>rédigions</nous>
+		<vous>rédigiez</vous>
+		<ils>rédigent</ils>
+	</subjunctive>
+	<conditional>
+		<je>rédigerais</je>
+		<tu>rédigerais</tu>
+		<il>rédigerait</il>
+		<nous>rédigerions</nous>
+		<vous>rédigeriez</vous>
+		<ils>rédigeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

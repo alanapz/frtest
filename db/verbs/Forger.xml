@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>forger</infinitive>
+	<translation>to forge</translation>
+	<translation>form</translation>
+	<spellingChange />
+	<presentParticiple>forgeant</presentParticiple>
+	<pastParticiple>forgé</pastParticiple>
+	<present>
+		<je>forge</je>
+		<tu>forges</tu>
+		<il>forge</il>
+		<nous>forgeons</nous>
+		<vous>forgez</vous>
+		<ils>forgent</ils>
+	</present>
+	<imperative>
+		<tu>forge</tu>
+		<nous>forgeons</nous>
+		<vous>forgez</vous>
+	</imperative>
+	<imperfect>
+		<je>forgeais</je>
+		<tu>forgeais</tu>
+		<il>forgeait</il>
+		<nous>forgions</nous>
+		<vous>forgiez</vous>
+		<ils>forgeaient</ils>
+	</imperfect>
+	<future>
+		<je>forgerai</je>
+		<tu>forgeras</tu>
+		<il>forgera</il>
+		<nous>forgerons</nous>
+		<vous>forgerez</vous>
+		<ils>forgeront</ils>
+	</future>
+	<subjunctive>
+		<je>forge</je>
+		<tu>forges</tu>
+		<il>forge</il>
+		<nous>forgions</nous>
+		<vous>forgiez</vous>
+		<ils>forgent</ils>
+	</subjunctive>
+	<conditional>
+		<je>forgerais</je>
+		<tu>forgerais</tu>
+		<il>forgerait</il>
+		<nous>forgerions</nous>
+		<vous>forgeriez</vous>
+		<ils>forgeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

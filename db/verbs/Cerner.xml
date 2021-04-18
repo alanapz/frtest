@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>cerner</infinitive>
+	<translation>to encircle</translation>
+	<translation>surround</translation>
+	<presentParticiple>cernant</presentParticiple>
+	<pastParticiple>cerné</pastParticiple>
+	<present>
+		<je>cerne</je>
+		<tu>cernes</tu>
+		<il>cerne</il>
+		<nous>cernons</nous>
+		<vous>cernez</vous>
+		<ils>cernent</ils>
+	</present>
+	<imperative>
+		<tu>cerne</tu>
+		<nous>cernons</nous>
+		<vous>cernez</vous>
+	</imperative>
+	<imperfect>
+		<je>cernais</je>
+		<tu>cernais</tu>
+		<il>cernait</il>
+		<nous>cernions</nous>
+		<vous>cerniez</vous>
+		<ils>cernaient</ils>
+	</imperfect>
+	<future>
+		<je>cernerai</je>
+		<tu>cerneras</tu>
+		<il>cernera</il>
+		<nous>cernerons</nous>
+		<vous>cernerez</vous>
+		<ils>cerneront</ils>
+	</future>
+	<subjunctive>
+		<je>cerne</je>
+		<tu>cernes</tu>
+		<il>cerne</il>
+		<nous>cernions</nous>
+		<vous>cerniez</vous>
+		<ils>cernent</ils>
+	</subjunctive>
+	<conditional>
+		<je>cernerais</je>
+		<tu>cernerais</tu>
+		<il>cernerait</il>
+		<nous>cernerions</nous>
+		<vous>cerneriez</vous>
+		<ils>cerneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>nouer</infinitive>
+	<translation>to tie</translation>
+	<translation>knot</translation>
+	<presentParticiple>nouant</presentParticiple>
+	<pastParticiple>noué</pastParticiple>
+	<present>
+		<je>noue</je>
+		<tu>noues</tu>
+		<il>noue</il>
+		<nous>nouons</nous>
+		<vous>nouez</vous>
+		<ils>nouent</ils>
+	</present>
+	<imperative>
+		<tu>noue</tu>
+		<nous>nouons</nous>
+		<vous>nouez</vous>
+	</imperative>
+	<imperfect>
+		<je>nouais</je>
+		<tu>nouais</tu>
+		<il>nouait</il>
+		<nous>nouions</nous>
+		<vous>nouiez</vous>
+		<ils>nouaient</ils>
+	</imperfect>
+	<future>
+		<je>nouerai</je>
+		<tu>noueras</tu>
+		<il>nouera</il>
+		<nous>nouerons</nous>
+		<vous>nouerez</vous>
+		<ils>noueront</ils>
+	</future>
+	<subjunctive>
+		<je>noue</je>
+		<tu>noues</tu>
+		<il>noue</il>
+		<nous>nouions</nous>
+		<vous>nouiez</vous>
+		<ils>nouent</ils>
+	</subjunctive>
+	<conditional>
+		<je>nouerais</je>
+		<tu>nouerais</tu>
+		<il>nouerait</il>
+		<nous>nouerions</nous>
+		<vous>noueriez</vous>
+		<ils>noueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

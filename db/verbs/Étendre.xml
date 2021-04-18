@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>étendre</infinitive>
+	<translation>to stretch</translation>
+	<translation>spread out</translation>
+	<presentParticiple>étendant</presentParticiple>
+	<pastParticiple>étendu</pastParticiple>
+	<present>
+		<je>étends</je>
+		<tu>étends</tu>
+		<il>étend</il>
+		<nous>étendons</nous>
+		<vous>étendez</vous>
+		<ils>étendent</ils>
+	</present>
+	<imperative>
+		<tu>étends</tu>
+		<nous>étendons</nous>
+		<vous>étendez</vous>
+	</imperative>
+	<imperfect>
+		<je>étendais</je>
+		<tu>étendais</tu>
+		<il>étendait</il>
+		<nous>étendions</nous>
+		<vous>étendiez</vous>
+		<ils>étendaient</ils>
+	</imperfect>
+	<future>
+		<je>étendrai</je>
+		<tu>étendras</tu>
+		<il>étendra</il>
+		<nous>étendrons</nous>
+		<vous>étendrez</vous>
+		<ils>étendront</ils>
+	</future>
+	<subjunctive>
+		<je>étende</je>
+		<tu>étendes</tu>
+		<il>étende</il>
+		<nous>étendions</nous>
+		<vous>étendiez</vous>
+		<ils>étendent</ils>
+	</subjunctive>
+	<conditional>
+		<je>étendrais</je>
+		<tu>étendrais</tu>
+		<il>étendrait</il>
+		<nous>étendrions</nous>
+		<vous>étendriez</vous>
+		<ils>étendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>contenter</infinitive>
+	<translation>to satisfy</translation>
+	<translation>please</translation>
+	<presentParticiple>contentant</presentParticiple>
+	<pastParticiple>contenté</pastParticiple>
+	<present>
+		<je>contente</je>
+		<tu>contentes</tu>
+		<il>contente</il>
+		<nous>contentons</nous>
+		<vous>contentez</vous>
+		<ils>contentent</ils>
+	</present>
+	<imperative>
+		<tu>contente</tu>
+		<nous>contentons</nous>
+		<vous>contentez</vous>
+	</imperative>
+	<imperfect>
+		<je>contentais</je>
+		<tu>contentais</tu>
+		<il>contentait</il>
+		<nous>contentions</nous>
+		<vous>contentiez</vous>
+		<ils>contentaient</ils>
+	</imperfect>
+	<future>
+		<je>contenterai</je>
+		<tu>contenteras</tu>
+		<il>contentera</il>
+		<nous>contenterons</nous>
+		<vous>contenterez</vous>
+		<ils>contenteront</ils>
+	</future>
+	<subjunctive>
+		<je>contente</je>
+		<tu>contentes</tu>
+		<il>contente</il>
+		<nous>contentions</nous>
+		<vous>contentiez</vous>
+		<ils>contentent</ils>
+	</subjunctive>
+	<conditional>
+		<je>contenterais</je>
+		<tu>contenterais</tu>
+		<il>contenterait</il>
+		<nous>contenterions</nous>
+		<vous>contenteriez</vous>
+		<ils>contenteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

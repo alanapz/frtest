@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>afficher</infinitive>
+	<translation>to post</translation>
+	<translation>exhibit</translation>
+	<presentParticiple>affichant</presentParticiple>
+	<pastParticiple>affiché</pastParticiple>
+	<present>
+		<je>affiche</je>
+		<tu>affiches</tu>
+		<il>affiche</il>
+		<nous>affichons</nous>
+		<vous>affichez</vous>
+		<ils>affichent</ils>
+	</present>
+	<imperative>
+		<tu>affiche</tu>
+		<nous>affichons</nous>
+		<vous>affichez</vous>
+	</imperative>
+	<imperfect>
+		<je>affichais</je>
+		<tu>affichais</tu>
+		<il>affichait</il>
+		<nous>affichions</nous>
+		<vous>affichiez</vous>
+		<ils>affichaient</ils>
+	</imperfect>
+	<future>
+		<je>afficherai</je>
+		<tu>afficheras</tu>
+		<il>affichera</il>
+		<nous>afficherons</nous>
+		<vous>afficherez</vous>
+		<ils>afficheront</ils>
+	</future>
+	<subjunctive>
+		<je>affiche</je>
+		<tu>affiches</tu>
+		<il>affiche</il>
+		<nous>affichions</nous>
+		<vous>affichiez</vous>
+		<ils>affichent</ils>
+	</subjunctive>
+	<conditional>
+		<je>afficherais</je>
+		<tu>afficherais</tu>
+		<il>afficherait</il>
+		<nous>afficherions</nous>
+		<vous>afficheriez</vous>
+		<ils>afficheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

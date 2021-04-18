@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>attraper</infinitive>
+	<translation>to catch</translation>
+	<translation>pick up</translation>
+	<presentParticiple>attrapant</presentParticiple>
+	<pastParticiple>attrapé</pastParticiple>
+	<present>
+		<je>attrape</je>
+		<tu>attrapes</tu>
+		<il>attrape</il>
+		<nous>attrapons</nous>
+		<vous>attrapez</vous>
+		<ils>attrapent</ils>
+	</present>
+	<imperative>
+		<tu>attrape</tu>
+		<nous>attrapons</nous>
+		<vous>attrapez</vous>
+	</imperative>
+	<imperfect>
+		<je>attrapais</je>
+		<tu>attrapais</tu>
+		<il>attrapait</il>
+		<nous>attrapions</nous>
+		<vous>attrapiez</vous>
+		<ils>attrapaient</ils>
+	</imperfect>
+	<future>
+		<je>attraperai</je>
+		<tu>attraperas</tu>
+		<il>attrapera</il>
+		<nous>attraperons</nous>
+		<vous>attraperez</vous>
+		<ils>attraperont</ils>
+	</future>
+	<subjunctive>
+		<je>attrape</je>
+		<tu>attrapes</tu>
+		<il>attrape</il>
+		<nous>attrapions</nous>
+		<vous>attrapiez</vous>
+		<ils>attrapent</ils>
+	</subjunctive>
+	<conditional>
+		<je>attraperais</je>
+		<tu>attraperais</tu>
+		<il>attraperait</il>
+		<nous>attraperions</nous>
+		<vous>attraperiez</vous>
+		<ils>attraperaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>creuser</infinitive>
+	<translation>to hollow</translation>
+	<translation>dig</translation>
+	<translation>to go into thoroughly</translation>
+	<presentParticiple>creusant</presentParticiple>
+	<pastParticiple>creusé</pastParticiple>
+	<present>
+		<je>creuse</je>
+		<tu>creuses</tu>
+		<il>creuse</il>
+		<nous>creusons</nous>
+		<vous>creusez</vous>
+		<ils>creusent</ils>
+	</present>
+	<imperative>
+		<tu>creuse</tu>
+		<nous>creusons</nous>
+		<vous>creusez</vous>
+	</imperative>
+	<imperfect>
+		<je>creusais</je>
+		<tu>creusais</tu>
+		<il>creusait</il>
+		<nous>creusions</nous>
+		<vous>creusiez</vous>
+		<ils>creusaient</ils>
+	</imperfect>
+	<future>
+		<je>creuserai</je>
+		<tu>creuseras</tu>
+		<il>creusera</il>
+		<nous>creuserons</nous>
+		<vous>creuserez</vous>
+		<ils>creuseront</ils>
+	</future>
+	<subjunctive>
+		<je>creuse</je>
+		<tu>creuses</tu>
+		<il>creuse</il>
+		<nous>creusions</nous>
+		<vous>creusiez</vous>
+		<ils>creusent</ils>
+	</subjunctive>
+	<conditional>
+		<je>creuserais</je>
+		<tu>creuserais</tu>
+		<il>creuserait</il>
+		<nous>creuserions</nous>
+		<vous>creuseriez</vous>
+		<ils>creuseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

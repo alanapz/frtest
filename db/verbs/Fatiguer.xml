@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>fatiguer</infinitive>
+            <translation>to fatigue</translation>
+            <translation>to tire</translation>
+            <transitive />
+            <presentParticiple>fatiguant</presentParticiple>
+            <pastParticiple>fatigué</pastParticiple>
+            <present>
+                <je>fatigue</je>
+                <tu>fatigues</tu>
+                <il>fatigue</il>
+                <nous>fatiguons</nous>
+                <vous>fatiguez</vous>
+                <ils>fatiguent</ils>
+            </present>
+            <imperative>
+                <tu>fatigue</tu>
+                <nous>fatiguons</nous>
+                <vous>fatiguez</vous>
+            </imperative>
+            <imperfect>
+                <je>fatiguais</je>
+                <tu>fatiguais</tu>
+                <il>fatiguait</il>
+                <nous>fatiguions</nous>
+                <vous>fatiguiez</vous>
+                <ils>fatiguaient</ils>
+            </imperfect>
+            <future>
+                <je>fatiguerai</je>
+                <tu>fatigueras</tu>
+                <il>fatiguera</il>
+                <nous>fatiguerons</nous>
+                <vous>fatiguerez</vous>
+                <ils>fatigueront</ils>
+            </future>
+            <subjunctive>
+                <je>fatigue</je>
+                <tu>fatigues</tu>
+                <il>fatigue</il>
+                <nous>fatiguions</nous>
+                <vous>fatiguiez</vous>
+                <ils>fatiguent</ils>
+            </subjunctive>
+            <conditional>
+                <je>fatiguerais</je>
+                <tu>fatiguerais</tu>
+                <il>fatiguerait</il>
+                <nous>fatiguerions</nous>
+                <vous>fatigueriez</vous>
+                <ils>fatigueraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

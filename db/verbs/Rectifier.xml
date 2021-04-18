@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>rectifier</infinitive>
+	<translation>to rectify</translation>
+	<presentParticiple>rectifiant</presentParticiple>
+	<pastParticiple>rectifié</pastParticiple>
+	<present>
+		<je>rectifie</je>
+		<tu>rectifies</tu>
+		<il>rectifie</il>
+		<nous>rectifions</nous>
+		<vous>rectifiez</vous>
+		<ils>rectifient</ils>
+	</present>
+	<imperative>
+		<tu>rectifie</tu>
+		<nous>rectifions</nous>
+		<vous>rectifiez</vous>
+	</imperative>
+	<imperfect>
+		<je>rectifiais</je>
+		<tu>rectifiais</tu>
+		<il>rectifiait</il>
+		<nous>rectifiions</nous>
+		<vous>rectifiiez</vous>
+		<ils>rectifiaient</ils>
+	</imperfect>
+	<future>
+		<je>rectifierai</je>
+		<tu>rectifieras</tu>
+		<il>rectifiera</il>
+		<nous>rectifierons</nous>
+		<vous>rectifierez</vous>
+		<ils>rectifieront</ils>
+	</future>
+	<subjunctive>
+		<je>rectifie</je>
+		<tu>rectifies</tu>
+		<il>rectifie</il>
+		<nous>rectifiions</nous>
+		<vous>rectifiiez</vous>
+		<ils>rectifient</ils>
+	</subjunctive>
+	<conditional>
+		<je>rectifierais</je>
+		<tu>rectifierais</tu>
+		<il>rectifierait</il>
+		<nous>rectifierions</nous>
+		<vous>rectifieriez</vous>
+		<ils>rectifieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

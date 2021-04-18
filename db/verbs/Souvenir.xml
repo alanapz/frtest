@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>souvenir</infinitive>
+            <presentParticiple>souvenant</presentParticiple>
+            <pastParticiple>souvenu</pastParticiple>
+            <pronominal>
+                <translation>to remember</translation>
+            </pronominal>
+            <present>
+                <je>souviens</je>
+                <tu>souviens</tu>
+                <il>soutient</il>
+                <nous>souvenons</nous>
+                <vous>souvenez</vous>
+                <ils>souviennent</ils>
+            </present>
+            <imperative>
+                <tu>souviens</tu>
+                <nous>souvenons</nous>
+                <vous>souvenez</vous>
+            </imperative>
+            <imperfect>
+                <je>souvenais</je>
+                <tu>souvenais</tu>
+                <il>souvenait</il>
+                <nous>souvenions</nous>
+                <vous>souveniez</vous>
+                <ils>souvenaient</ils>
+            </imperfect>
+            <future>
+                <je>souviendrai</je>
+                <tu>souviendras</tu>
+                <il>souviendra</il>
+                <nous>souviendrons</nous>
+                <vous>souviendrez</vous>
+                <ils>souviendront</ils>
+            </future>
+            <subjunctive>
+                <je>souvienne</je>
+                <tu>souviennes</tu>
+                <il>souvienne</il>
+                <nous>souvenions</nous>
+                <vous>souveniez</vous>
+                <ils>souviennent</ils>
+            </subjunctive>
+            <conditional>
+                <je>souviendrais</je>
+                <tu>souviendrais</tu>
+                <il>souviendrait</il>
+                <nous>souviendrions</nous>
+                <vous>souviendriez</vous>
+                <ils>souviendraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

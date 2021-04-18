@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>influencer</infinitive>
+	<translation>to influence</translation>
+	<spellingChange />
+	<presentParticiple>influençant</presentParticiple>
+	<pastParticiple>influencé</pastParticiple>
+	<present>
+		<je>influence</je>
+		<tu>influences</tu>
+		<il>influence</il>
+		<nous>influençons</nous>
+		<vous>influencez</vous>
+		<ils>influencent</ils>
+	</present>
+	<imperative>
+		<tu>influence</tu>
+		<nous>influençons</nous>
+		<vous>influencez</vous>
+	</imperative>
+	<imperfect>
+		<je>influençais</je>
+		<tu>influençais</tu>
+		<il>influençait</il>
+		<nous>influencions</nous>
+		<vous>influenciez</vous>
+		<ils>influençaient</ils>
+	</imperfect>
+	<future>
+		<je>influencerai</je>
+		<tu>influenceras</tu>
+		<il>influencera</il>
+		<nous>influencerons</nous>
+		<vous>influencerez</vous>
+		<ils>influenceront</ils>
+	</future>
+	<subjunctive>
+		<je>influence</je>
+		<tu>influences</tu>
+		<il>influence</il>
+		<nous>influencions</nous>
+		<vous>influenciez</vous>
+		<ils>influencent</ils>
+	</subjunctive>
+	<conditional>
+		<je>influencerais</je>
+		<tu>influencerais</tu>
+		<il>influencerait</il>
+		<nous>influencerions</nous>
+		<vous>influenceriez</vous>
+		<ils>influenceraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

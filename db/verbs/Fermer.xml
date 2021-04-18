@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>fermer</infinitive>
+	<translation>to close</translation>
+	<presentParticiple>fermant</presentParticiple>
+	<pastParticiple>fermé</pastParticiple>
+	<present>
+		<je>ferme</je>
+		<tu>fermes</tu>
+		<il>ferme</il>
+		<nous>fermons</nous>
+		<vous>fermez</vous>
+		<ils>ferment</ils>
+	</present>
+	<imperative>
+		<tu>ferme</tu>
+		<nous>fermons</nous>
+		<vous>fermez</vous>
+	</imperative>
+	<imperfect>
+		<je>fermais</je>
+		<tu>fermais</tu>
+		<il>fermait</il>
+		<nous>fermions</nous>
+		<vous>fermiez</vous>
+		<ils>fermaient</ils>
+	</imperfect>
+	<future>
+		<je>fermerai</je>
+		<tu>fermeras</tu>
+		<il>fermera</il>
+		<nous>fermerons</nous>
+		<vous>fermerez</vous>
+		<ils>fermeront</ils>
+	</future>
+	<subjunctive>
+		<je>ferme</je>
+		<tu>fermes</tu>
+		<il>ferme</il>
+		<nous>fermions</nous>
+		<vous>fermiez</vous>
+		<ils>ferment</ils>
+	</subjunctive>
+	<conditional>
+		<je>fermerais</je>
+		<tu>fermerais</tu>
+		<il>fermerait</il>
+		<nous>fermerions</nous>
+		<vous>fermeriez</vous>
+		<ils>fermeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

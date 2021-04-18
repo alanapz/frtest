@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>appuyer</infinitive>
+	<translation>to support</translation>
+	<translation>back</translation>
+	<translation>to lean on</translation>
+	<stemChange />
+	<presentParticiple>appuyant</presentParticiple>
+	<pastParticiple>appuyé</pastParticiple>
+	<present>
+		<je>appuie</je>
+		<tu>appuies</tu>
+		<il>appuie</il>
+		<nous>appuyons</nous>
+		<vous>appuyez</vous>
+		<ils>appuient</ils>
+	</present>
+	<imperative>
+		<tu>appuie</tu>
+		<nous>appuyons</nous>
+		<vous>appuyez</vous>
+	</imperative>
+	<imperfect>
+		<je>appuyais</je>
+		<tu>appuyais</tu>
+		<il>appuyait</il>
+		<nous>appuyions</nous>
+		<vous>appuyiez</vous>
+		<ils>appuyaient</ils>
+	</imperfect>
+	<future>
+		<je>appuierai</je>
+		<tu>appuieras</tu>
+		<il>appuiera</il>
+		<nous>appuierons</nous>
+		<vous>appuierez</vous>
+		<ils>appuieront</ils>
+	</future>
+	<subjunctive>
+		<je>appuie</je>
+		<tu>appuies</tu>
+		<il>appuie</il>
+		<nous>appuyions</nous>
+		<vous>appuyiez</vous>
+		<ils>appuient</ils>
+	</subjunctive>
+	<conditional>
+		<je>appuierais</je>
+		<tu>appuierais</tu>
+		<il>appuierait</il>
+		<nous>appuierions</nous>
+		<vous>appuieriez</vous>
+		<ils>appuieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

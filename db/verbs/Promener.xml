@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>promener</infinitive>
+            <translation>to walk</translation>
+            <transitive />
+            <presentParticiple>promenant</presentParticiple>
+            <pastParticiple>promené</pastParticiple>
+            <present>
+                <je>promène</je>
+                <tu>promènes</tu>
+                <il>promène</il>
+                <nous>promenons</nous>
+                <vous>promenez</vous>
+                <ils>promènent</ils>
+            </present>
+            <imperative>
+                <tu>promène</tu>
+                <nous>promenons</nous>
+                <vous>promenez</vous>
+            </imperative>
+            <imperfect>
+                <je>promenais</je>
+                <tu>promenais</tu>
+                <il>promenait</il>
+                <nous>promenions</nous>
+                <vous>promeniez</vous>
+                <ils>promenaient</ils>
+            </imperfect>
+            <future>
+                <je>promènerai</je>
+                <tu>promèneras</tu>
+                <il>promènera</il>
+                <nous>promènerons</nous>
+                <vous>promènerez</vous>
+                <ils>promèneront</ils>
+            </future>
+            <subjunctive>
+                <je>promène</je>
+                <tu>promènes</tu>
+                <il>promène</il>
+                <nous>promenions</nous>
+                <vous>promeniez</vous>
+                <ils>promènent</ils>
+            </subjunctive>
+            <conditional>
+                <je>promènerais</je>
+                <tu>promènerais</tu>
+                <il>promènerait</il>
+                <nous>promènerions</nous>
+                <vous>promèneriez</vous>
+                <ils>promèneraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

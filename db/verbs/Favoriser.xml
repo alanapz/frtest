@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>favoriser</infinitive>
+	<translation>to favor</translation>
+	<presentParticiple>favorisant</presentParticiple>
+	<pastParticiple>favorisé</pastParticiple>
+	<present>
+		<je>favorise</je>
+		<tu>favorises</tu>
+		<il>favorise</il>
+		<nous>favorisons</nous>
+		<vous>favorisez</vous>
+		<ils>favorisent</ils>
+	</present>
+	<imperative>
+		<tu>favorise</tu>
+		<nous>favorisons</nous>
+		<vous>favorisez</vous>
+	</imperative>
+	<imperfect>
+		<je>favorisais</je>
+		<tu>favorisais</tu>
+		<il>favorisait</il>
+		<nous>favorisions</nous>
+		<vous>favorisiez</vous>
+		<ils>favorisaient</ils>
+	</imperfect>
+	<future>
+		<je>favoriserai</je>
+		<tu>favoriseras</tu>
+		<il>favorisera</il>
+		<nous>favoriserons</nous>
+		<vous>favoriserez</vous>
+		<ils>favoriseront</ils>
+	</future>
+	<subjunctive>
+		<je>favorise</je>
+		<tu>favorises</tu>
+		<il>favorise</il>
+		<nous>favorisions</nous>
+		<vous>favorisiez</vous>
+		<ils>favorisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>favoriserais</je>
+		<tu>favoriserais</tu>
+		<il>favoriserait</il>
+		<nous>favoriserions</nous>
+		<vous>favoriseriez</vous>
+		<ils>favoriseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>rompre</infinitive>
+            <translation>to snap</translation>
+            <translation>to break-up</translation>
+            <irregular />
+            <presentParticiple>rompant</presentParticiple>
+            <pastParticiple>rompu</pastParticiple>
+            <present>
+                <je>romps</je>
+                <tu>romps</tu>
+                <il>rompt</il>
+                <nous>rompons</nous>
+                <vous>rompez</vous>
+                <ils>rompent</ils>
+            </present>
+            <imperative>
+                <tu>romps</tu>
+                <nous>rompons</nous>
+                <vous>rompez</vous>
+            </imperative>
+            <imperfect>
+                <je>rompais</je>
+                <tu>rompais</tu>
+                <il>rompait</il>
+                <nous>rompions</nous>
+                <vous>rompiez</vous>
+                <ils>rompaient</ils>
+            </imperfect>
+            <future>
+                <je>romprai</je>
+                <tu>rompras</tu>
+                <il>rompra</il>
+                <nous>romprons</nous>
+                <vous>romprez</vous>
+                <ils>rompront</ils>
+            </future>
+            <subjunctive>
+                <je>rompe</je>
+                <tu>rompes</tu>
+                <il>rompe</il>
+                <nous>rompions</nous>
+                <vous>rompiez</vous>
+                <ils>rompent</ils>
+            </subjunctive>
+            <conditional>
+                <je>romprais</je>
+                <tu>romprais</tu>
+                <il>romprait</il>
+                <nous>romprions</nous>
+                <vous>rompriez</vous>
+                <ils>rompraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

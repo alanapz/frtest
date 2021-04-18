@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>prescrire</infinitive>
+	<translation>to prescribe</translation>
+	<irregular />
+	<presentParticiple>prescrivant</presentParticiple>
+	<pastParticiple>prescrit</pastParticiple>
+	<present>
+		<je>prescris</je>
+		<tu>prescris</tu>
+		<il>prescrit</il>
+		<nous>prescrivons</nous>
+		<vous>prescrivez</vous>
+		<ils>prescrivent</ils>
+	</present>
+	<imperative>
+		<tu>prescris</tu>
+		<nous>prescrivons</nous>
+		<vous>prescrivez</vous>
+	</imperative>
+	<imperfect>
+		<je>prescrivais</je>
+		<tu>prescrivais</tu>
+		<il>prescrivait</il>
+		<nous>prescrivions</nous>
+		<vous>prescriviez</vous>
+		<ils>prescrivaient</ils>
+	</imperfect>
+	<future>
+		<je>prescrirai</je>
+		<tu>prescriras</tu>
+		<il>prescrira</il>
+		<nous>prescrirons</nous>
+		<vous>prescrirez</vous>
+		<ils>prescriront</ils>
+	</future>
+	<subjunctive>
+		<je>prescrive</je>
+		<tu>prescrives</tu>
+		<il>prescrive</il>
+		<nous>prescrivions</nous>
+		<vous>prescriviez</vous>
+		<ils>prescrivent</ils>
+	</subjunctive>
+	<conditional>
+		<je>prescrirais</je>
+		<tu>prescrirais</tu>
+		<il>prescrirait</il>
+		<nous>prescririons</nous>
+		<vous>prescririez</vous>
+		<ils>prescriraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>joindre</infinitive>
+	<translation>to join</translation>
+	<irregular />
+	<presentParticiple>joignant</presentParticiple>
+	<pastParticiple>joint</pastParticiple>
+	<present>
+		<je>joins</je>
+		<tu>joins</tu>
+		<il>joint</il>
+		<nous>joignons</nous>
+		<vous>joignez</vous>
+		<ils>joignent</ils>
+	</present>
+	<imperative>
+		<tu>joins</tu>
+		<nous>joignons</nous>
+		<vous>joignez</vous>
+	</imperative>
+	<imperfect>
+		<je>joignais</je>
+		<tu>joignais</tu>
+		<il>joignait</il>
+		<nous>joignions</nous>
+		<vous>joigniez</vous>
+		<ils>joignaient</ils>
+	</imperfect>
+	<future>
+		<je>joindrai</je>
+		<tu>joindras</tu>
+		<il>joindra</il>
+		<nous>joindrons</nous>
+		<vous>joindrez</vous>
+		<ils>joindront</ils>
+	</future>
+	<subjunctive>
+		<je>joigne</je>
+		<tu>joignes</tu>
+		<il>joigne</il>
+		<nous>joignions</nous>
+		<vous>joigniez</vous>
+		<ils>joignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>joindrais</je>
+		<tu>joindrais</tu>
+		<il>joindrait</il>
+		<nous>joindrions</nous>
+		<vous>joindriez</vous>
+		<ils>joindraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

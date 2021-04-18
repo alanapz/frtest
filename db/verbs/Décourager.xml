@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>décourager</infinitive>
+	<translation>to discourage</translation>
+	<spellingChange />
+	<presentParticiple>décourageant</presentParticiple>
+	<pastParticiple>découragé</pastParticiple>
+	<present>
+		<je>décourage</je>
+		<tu>décourages</tu>
+		<il>décourage</il>
+		<nous>décourageons</nous>
+		<vous>découragez</vous>
+		<ils>découragent</ils>
+	</present>
+	<imperative>
+		<tu>décourage</tu>
+		<nous>décourageons</nous>
+		<vous>découragez</vous>
+	</imperative>
+	<imperfect>
+		<je>décourageais</je>
+		<tu>décourageais</tu>
+		<il>décourageait</il>
+		<nous>découragions</nous>
+		<vous>découragiez</vous>
+		<ils>décourageaient</ils>
+	</imperfect>
+	<future>
+		<je>découragerai</je>
+		<tu>décourageras</tu>
+		<il>découragera</il>
+		<nous>découragerons</nous>
+		<vous>découragerez</vous>
+		<ils>décourageront</ils>
+	</future>
+	<subjunctive>
+		<je>décourage</je>
+		<tu>décourages</tu>
+		<il>décourage</il>
+		<nous>découragions</nous>
+		<vous>découragiez</vous>
+		<ils>découragent</ils>
+	</subjunctive>
+	<conditional>
+		<je>découragerais</je>
+		<tu>découragerais</tu>
+		<il>découragerait</il>
+		<nous>découragerions</nous>
+		<vous>décourageriez</vous>
+		<ils>décourageraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

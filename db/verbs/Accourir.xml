@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>accourir</infinitive>
+	<translation>to hurry</translation>
+	<irregular />
+	<presentParticiple>accourant</presentParticiple>
+	<pastParticiple>accouru</pastParticiple>
+	<present>
+		<je>accours</je>
+		<tu>accours</tu>
+		<il>accourt</il>
+		<nous>accourons</nous>
+		<vous>accourez</vous>
+		<ils>accourent</ils>
+	</present>
+	<imperative>
+		<tu>accours</tu>
+		<nous>accourons</nous>
+		<vous>accourez</vous>
+	</imperative>
+	<imperfect>
+		<je>accourais</je>
+		<tu>accourais</tu>
+		<il>accourait</il>
+		<nous>accourions</nous>
+		<vous>accouriez</vous>
+		<ils>accouraient</ils>
+	</imperfect>
+	<future>
+		<je>accourrai</je>
+		<tu>accourras</tu>
+		<il>accourra</il>
+		<nous>accourrons</nous>
+		<vous>accourrez</vous>
+		<ils>accourront</ils>
+	</future>
+	<subjunctive>
+		<je>accoure</je>
+		<tu>accoures</tu>
+		<il>accoure</il>
+		<nous>accourions</nous>
+		<vous>accouriez</vous>
+		<ils>accourent</ils>
+	</subjunctive>
+	<conditional>
+		<je>accourrais</je>
+		<tu>accourrais</tu>
+		<il>accourrait</il>
+		<nous>accourrions</nous>
+		<vous>accourriez</vous>
+		<ils>accourraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>lancer</infinitive>
+	<translation>to throw</translation>
+	<spellingChange />
+	<presentParticiple>lançant</presentParticiple>
+	<pastParticiple>lancé</pastParticiple>
+	<present>
+		<je>lance</je>
+		<tu>lances</tu>
+		<il>lance</il>
+		<nous>lançons</nous>
+		<vous>lancez</vous>
+		<ils>lancent</ils>
+	</present>
+	<imperative>
+		<tu>lance</tu>
+		<nous>lançons</nous>
+		<vous>lancez</vous>
+	</imperative>
+	<imperfect>
+		<je>lançais</je>
+		<tu>lançais</tu>
+		<il>lançait</il>
+		<nous>lancions</nous>
+		<vous>lanciez</vous>
+		<ils>lançaient</ils>
+	</imperfect>
+	<future>
+		<je>lancerai</je>
+		<tu>lanceras</tu>
+		<il>lancera</il>
+		<nous>lancerons</nous>
+		<vous>lancerez</vous>
+		<ils>lanceront</ils>
+	</future>
+	<subjunctive>
+		<je>lance</je>
+		<tu>lances</tu>
+		<il>lance</il>
+		<nous>lancions</nous>
+		<vous>lanciez</vous>
+		<ils>lancent</ils>
+	</subjunctive>
+	<conditional>
+		<je>lancerais</je>
+		<tu>lancerais</tu>
+		<il>lancerait</il>
+		<nous>lancerions</nous>
+		<vous>lanceriez</vous>
+		<ils>lanceraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

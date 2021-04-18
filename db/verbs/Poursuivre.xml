@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>poursuivre</infinitive>
+	<translation>to pursue</translation>
+	<irregular />
+	<presentParticiple>poursuivant</presentParticiple>
+	<pastParticiple>poursuivi</pastParticiple>
+	<present>
+		<je>poursuis</je>
+		<tu>poursuis</tu>
+		<il>poursuit</il>
+		<nous>poursuivons</nous>
+		<vous>poursuivez</vous>
+		<ils>poursuivent</ils>
+	</present>
+	<imperative>
+		<tu>poursuis</tu>
+		<nous>poursuivons</nous>
+		<vous>poursuivez</vous>
+	</imperative>
+	<imperfect>
+		<je>poursuivais</je>
+		<tu>poursuivais</tu>
+		<il>poursuivait</il>
+		<nous>poursuivions</nous>
+		<vous>poursuiviez</vous>
+		<ils>poursuivaient</ils>
+	</imperfect>
+	<future>
+		<je>poursuivrai</je>
+		<tu>poursuivras</tu>
+		<il>poursuivra</il>
+		<nous>poursuivrons</nous>
+		<vous>poursuivrez</vous>
+		<ils>poursuivront</ils>
+	</future>
+	<subjunctive>
+		<je>poursuive</je>
+		<tu>poursuives</tu>
+		<il>poursuive</il>
+		<nous>poursuivions</nous>
+		<vous>poursuiviez</vous>
+		<ils>poursuivent</ils>
+	</subjunctive>
+	<conditional>
+		<je>poursuivrais</je>
+		<tu>poursuivrais</tu>
+		<il>poursuivrait</il>
+		<nous>poursuivrions</nous>
+		<vous>poursuivriez</vous>
+		<ils>poursuivraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

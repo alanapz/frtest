@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>faciliter</infinitive>
+	<translation>to facilitate</translation>
+	<presentParticiple>facilitant</presentParticiple>
+	<pastParticiple>facilité</pastParticiple>
+	<present>
+		<je>facilite</je>
+		<tu>facilites</tu>
+		<il>facilite</il>
+		<nous>facilitons</nous>
+		<vous>facilitez</vous>
+		<ils>facilitent</ils>
+	</present>
+	<imperative>
+		<tu>facilite</tu>
+		<nous>facilitons</nous>
+		<vous>facilitez</vous>
+	</imperative>
+	<imperfect>
+		<je>facilitais</je>
+		<tu>facilitais</tu>
+		<il>facilitait</il>
+		<nous>facilitions</nous>
+		<vous>facilitiez</vous>
+		<ils>facilitaient</ils>
+	</imperfect>
+	<future>
+		<je>faciliterai</je>
+		<tu>faciliteras</tu>
+		<il>facilitera</il>
+		<nous>faciliterons</nous>
+		<vous>faciliterez</vous>
+		<ils>faciliteront</ils>
+	</future>
+	<subjunctive>
+		<je>facilite</je>
+		<tu>facilites</tu>
+		<il>facilite</il>
+		<nous>facilitions</nous>
+		<vous>facilitiez</vous>
+		<ils>facilitent</ils>
+	</subjunctive>
+	<conditional>
+		<je>faciliterais</je>
+		<tu>faciliterais</tu>
+		<il>faciliterait</il>
+		<nous>faciliterions</nous>
+		<vous>faciliteriez</vous>
+		<ils>faciliteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

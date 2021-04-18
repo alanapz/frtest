@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>verser</infinitive>
+	<translation>to pour</translation>
+	<presentParticiple>versant</presentParticiple>
+	<pastParticiple>versé</pastParticiple>
+	<present>
+		<je>verse</je>
+		<tu>verses</tu>
+		<il>verse</il>
+		<nous>versons</nous>
+		<vous>versez</vous>
+		<ils>versent</ils>
+	</present>
+	<imperative>
+		<tu>verse</tu>
+		<nous>versons</nous>
+		<vous>versez</vous>
+	</imperative>
+	<imperfect>
+		<je>versais</je>
+		<tu>versais</tu>
+		<il>versait</il>
+		<nous>versions</nous>
+		<vous>versiez</vous>
+		<ils>versaient</ils>
+	</imperfect>
+	<future>
+		<je>verserai</je>
+		<tu>verseras</tu>
+		<il>versera</il>
+		<nous>verserons</nous>
+		<vous>verserez</vous>
+		<ils>verseront</ils>
+	</future>
+	<subjunctive>
+		<je>verse</je>
+		<tu>verses</tu>
+		<il>verse</il>
+		<nous>versions</nous>
+		<vous>versiez</vous>
+		<ils>versent</ils>
+	</subjunctive>
+	<conditional>
+		<je>verserais</je>
+		<tu>verserais</tu>
+		<il>verserait</il>
+		<nous>verserions</nous>
+		<vous>verseriez</vous>
+		<ils>verseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

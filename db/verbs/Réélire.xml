@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>réélire</infinitive>
+	<translation>to re-elect</translation>
+	<irregular />
+	<presentParticiple>réélisant</presentParticiple>
+	<pastParticiple>réélu</pastParticiple>
+	<present>
+		<je>réélis</je>
+		<tu>réélis</tu>
+		<il>réélit</il>
+		<nous>réélisons</nous>
+		<vous>réélisez</vous>
+		<ils>réélisent</ils>
+	</present>
+	<imperative>
+		<tu>réélis</tu>
+		<nous>réélisons</nous>
+		<vous>réélisez</vous>
+	</imperative>
+	<imperfect>
+		<je>réélisais</je>
+		<tu>réélisais</tu>
+		<il>réélisait</il>
+		<nous>réélisions</nous>
+		<vous>réélisiez</vous>
+		<ils>réélisaient</ils>
+	</imperfect>
+	<future>
+		<je>réélirai</je>
+		<tu>rééliras</tu>
+		<il>réélira</il>
+		<nous>réélirons</nous>
+		<vous>réélirez</vous>
+		<ils>rééliront</ils>
+	</future>
+	<subjunctive>
+		<je>réélise</je>
+		<tu>réélises</tu>
+		<il>réélise</il>
+		<nous>réélisions</nous>
+		<vous>réélisiez</vous>
+		<ils>réélisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>réélirais</je>
+		<tu>réélirais</tu>
+		<il>réélirait</il>
+		<nous>réélirions</nous>
+		<vous>rééliriez</vous>
+		<ils>rééliraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

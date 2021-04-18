@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>décrocher</infinitive>
+	<translation>to take down</translation>
+	<translation>undo</translation>
+	<translation>to pick up (phone)</translation>
+	<presentParticiple>décrochant</presentParticiple>
+	<pastParticiple>décroché</pastParticiple>
+	<present>
+		<je>décroche</je>
+		<tu>décroches</tu>
+		<il>décroche</il>
+		<nous>décrochons</nous>
+		<vous>décrochez</vous>
+		<ils>décrochent</ils>
+	</present>
+	<imperative>
+		<tu>décroche</tu>
+		<nous>décrochons</nous>
+		<vous>décrochez</vous>
+	</imperative>
+	<imperfect>
+		<je>décrochais</je>
+		<tu>décrochais</tu>
+		<il>décrochait</il>
+		<nous>décrochions</nous>
+		<vous>décrochiez</vous>
+		<ils>décrochaient</ils>
+	</imperfect>
+	<future>
+		<je>décrocherai</je>
+		<tu>décrocheras</tu>
+		<il>décrochera</il>
+		<nous>décrocherons</nous>
+		<vous>décrocherez</vous>
+		<ils>décrocheront</ils>
+	</future>
+	<subjunctive>
+		<je>décroche</je>
+		<tu>décroches</tu>
+		<il>décroche</il>
+		<nous>décrochions</nous>
+		<vous>décrochiez</vous>
+		<ils>décrochent</ils>
+	</subjunctive>
+	<conditional>
+		<je>décrocherais</je>
+		<tu>décrocherais</tu>
+		<il>décrocherait</il>
+		<nous>décrocherions</nous>
+		<vous>décrocheriez</vous>
+		<ils>décrocheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

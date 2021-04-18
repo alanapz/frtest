@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>reconstruire</infinitive>
+	<translation>to rebuild</translation>
+	<irregular />
+	<presentParticiple>reconstruisant</presentParticiple>
+	<pastParticiple>reconstruit</pastParticiple>
+	<present>
+		<je>reconstruis</je>
+		<tu>reconstruis</tu>
+		<il>reconstruit</il>
+		<nous>reconstruisons</nous>
+		<vous>reconstruisez</vous>
+		<ils>reconstruisent</ils>
+	</present>
+	<imperative>
+		<tu>reconstruis</tu>
+		<nous>reconstruisons</nous>
+		<vous>reconstruisez</vous>
+	</imperative>
+	<imperfect>
+		<je>reconstruisais</je>
+		<tu>reconstruisais</tu>
+		<il>reconstruisait</il>
+		<nous>reconstruisions</nous>
+		<vous>reconstruisiez</vous>
+		<ils>reconstruisaient</ils>
+	</imperfect>
+	<future>
+		<je>reconstruirai</je>
+		<tu>reconstruiras</tu>
+		<il>reconstruira</il>
+		<nous>reconstruirons</nous>
+		<vous>reconstruirez</vous>
+		<ils>reconstruiront</ils>
+	</future>
+	<subjunctive>
+		<je>reconstruise</je>
+		<tu>reconstruises</tu>
+		<il>reconstruise</il>
+		<nous>reconstruisions</nous>
+		<vous>reconstruisiez</vous>
+		<ils>reconstruisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>reconstruirais</je>
+		<tu>reconstruirais</tu>
+		<il>reconstruirait</il>
+		<nous>reconstruirions</nous>
+		<vous>reconstruiriez</vous>
+		<ils>reconstruiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

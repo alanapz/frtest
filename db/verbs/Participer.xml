@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>participer</infinitive>
+	<translation>to participate</translation>
+	<presentParticiple>participant</presentParticiple>
+	<pastParticiple>participé</pastParticiple>
+	<present>
+		<je>participe</je>
+		<tu>participes</tu>
+		<il>participe</il>
+		<nous>participons</nous>
+		<vous>participez</vous>
+		<ils>participent</ils>
+	</present>
+	<imperative>
+		<tu>participe</tu>
+		<nous>participons</nous>
+		<vous>participez</vous>
+	</imperative>
+	<imperfect>
+		<je>participais</je>
+		<tu>participais</tu>
+		<il>participait</il>
+		<nous>participions</nous>
+		<vous>participiez</vous>
+		<ils>participaient</ils>
+	</imperfect>
+	<future>
+		<je>participerai</je>
+		<tu>participeras</tu>
+		<il>participera</il>
+		<nous>participerons</nous>
+		<vous>participerez</vous>
+		<ils>participeront</ils>
+	</future>
+	<subjunctive>
+		<je>participe</je>
+		<tu>participes</tu>
+		<il>participe</il>
+		<nous>participions</nous>
+		<vous>participiez</vous>
+		<ils>participent</ils>
+	</subjunctive>
+	<conditional>
+		<je>participerais</je>
+		<tu>participerais</tu>
+		<il>participerait</il>
+		<nous>participerions</nous>
+		<vous>participeriez</vous>
+		<ils>participeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>souper</infinitive>
+	<translation>to have dinner</translation>
+	<presentParticiple>soupant</presentParticiple>
+	<pastParticiple>soupé</pastParticiple>
+	<present>
+		<je>soupe</je>
+		<tu>soupes</tu>
+		<il>soupe</il>
+		<nous>soupons</nous>
+		<vous>soupez</vous>
+		<ils>soupent</ils>
+	</present>
+	<imperative>
+		<tu>soupe</tu>
+		<nous>soupons</nous>
+		<vous>soupez</vous>
+	</imperative>
+	<imperfect>
+		<je>soupais</je>
+		<tu>soupais</tu>
+		<il>soupait</il>
+		<nous>soupions</nous>
+		<vous>soupiez</vous>
+		<ils>soupaient</ils>
+	</imperfect>
+	<future>
+		<je>souperai</je>
+		<tu>souperas</tu>
+		<il>soupera</il>
+		<nous>souperons</nous>
+		<vous>souperez</vous>
+		<ils>souperont</ils>
+	</future>
+	<subjunctive>
+		<je>soupe</je>
+		<tu>soupes</tu>
+		<il>soupe</il>
+		<nous>soupions</nous>
+		<vous>soupiez</vous>
+		<ils>soupent</ils>
+	</subjunctive>
+	<conditional>
+		<je>souperais</je>
+		<tu>souperais</tu>
+		<il>souperait</il>
+		<nous>souperions</nous>
+		<vous>souperiez</vous>
+		<ils>souperaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>geler</infinitive>
+	<translation>to freeze</translation>
+	<stemChange />
+	<presentParticiple>gelant</presentParticiple>
+	<pastParticiple>gelé</pastParticiple>
+	<present>
+		<je>gèle</je>
+		<tu>gèles</tu>
+		<il>gèle</il>
+		<nous>gelons</nous>
+		<vous>gelez</vous>
+		<ils>gèlent</ils>
+	</present>
+	<imperative>
+		<tu>gèle</tu>
+		<nous>gelons</nous>
+		<vous>gelez</vous>
+	</imperative>
+	<imperfect>
+		<je>gelais</je>
+		<tu>gelais</tu>
+		<il>gelait</il>
+		<nous>gelions</nous>
+		<vous>geliez</vous>
+		<ils>gelaient</ils>
+	</imperfect>
+	<future>
+		<je>gèlerai</je>
+		<tu>gèleras</tu>
+		<il>gèlera</il>
+		<nous>gèlerons</nous>
+		<vous>gèlerez</vous>
+		<ils>gèleront</ils>
+	</future>
+	<subjunctive>
+		<je>gèle</je>
+		<tu>gèles</tu>
+		<il>gèle</il>
+		<nous>gelions</nous>
+		<vous>geliez</vous>
+		<ils>gèlent</ils>
+	</subjunctive>
+	<conditional>
+		<je>gèlerais</je>
+		<tu>gèlerais</tu>
+		<il>gèlerait</il>
+		<nous>gèlerions</nous>
+		<vous>gèleriez</vous>
+		<ils>gèleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

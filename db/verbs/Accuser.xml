@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>accuser</infinitive>
+	<translation>to accuse</translation>
+	<presentParticiple>accusant</presentParticiple>
+	<pastParticiple>accusé</pastParticiple>
+	<present>
+		<je>accuse</je>
+		<tu>accuses</tu>
+		<il>accuse</il>
+		<nous>accusons</nous>
+		<vous>accusez</vous>
+		<ils>accusent</ils>
+	</present>
+	<imperative>
+		<tu>accuse</tu>
+		<nous>accusons</nous>
+		<vous>accusez</vous>
+	</imperative>
+	<imperfect>
+		<je>accusais</je>
+		<tu>accusais</tu>
+		<il>accusait</il>
+		<nous>accusions</nous>
+		<vous>accusiez</vous>
+		<ils>accusaient</ils>
+	</imperfect>
+	<future>
+		<je>accuserai</je>
+		<tu>accuseras</tu>
+		<il>accusera</il>
+		<nous>accuserons</nous>
+		<vous>accuserez</vous>
+		<ils>accuseront</ils>
+	</future>
+	<subjunctive>
+		<je>accuse</je>
+		<tu>accuses</tu>
+		<il>accuse</il>
+		<nous>accusions</nous>
+		<vous>accusiez</vous>
+		<ils>accusent</ils>
+	</subjunctive>
+	<conditional>
+		<je>accuserais</je>
+		<tu>accuserais</tu>
+		<il>accuserait</il>
+		<nous>accuserions</nous>
+		<vous>accuseriez</vous>
+		<ils>accuseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

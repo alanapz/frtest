@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>détenir</infinitive>
+	<translation>to hold</translation>
+	<translation>be in possessionof</translation>
+	<irregular />
+	<presentParticiple>détenant</presentParticiple>
+	<pastParticiple>détenu</pastParticiple>
+	<present>
+		<je>détiens</je>
+		<tu>détiens</tu>
+		<il>détient</il>
+		<nous>détenons</nous>
+		<vous>détenez</vous>
+		<ils>détiennent</ils>
+	</present>
+	<imperative>
+		<tu>détiens</tu>
+		<nous>détenons</nous>
+		<vous>détenez</vous>
+	</imperative>
+	<imperfect>
+		<je>détenais</je>
+		<tu>détenais</tu>
+		<il>détenait</il>
+		<nous>détenions</nous>
+		<vous>déteniez</vous>
+		<ils>détenaient</ils>
+	</imperfect>
+	<future>
+		<je>détiendrai</je>
+		<tu>détiendras</tu>
+		<il>détiendra</il>
+		<nous>détiendrons</nous>
+		<vous>détiendrez</vous>
+		<ils>détiendront</ils>
+	</future>
+	<subjunctive>
+		<je>détienne</je>
+		<tu>détiennes</tu>
+		<il>détienne</il>
+		<nous>détenions</nous>
+		<vous>déteniez</vous>
+		<ils>détiennent</ils>
+	</subjunctive>
+	<conditional>
+		<je>détiendrais</je>
+		<tu>détiendrais</tu>
+		<il>détiendrait</il>
+		<nous>détiendrions</nous>
+		<vous>détiendriez</vous>
+		<ils>détiendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

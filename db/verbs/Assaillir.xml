@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>assaillir</infinitive>
+	<translation>to assail</translation>
+	<translation>attack</translation>
+	<irregular />
+	<presentParticiple>assaillant</presentParticiple>
+	<pastParticiple> assailli</pastParticiple>
+	<present>
+		<je>assaille</je>
+		<tu>assailles</tu>
+		<il>assaille</il>
+		<nous>assaillons</nous>
+		<vous>assaillez</vous>
+		<ils>assaillent</ils>
+	</present>
+	<imperative>
+		<tu>assaille</tu>
+		<nous>assaillons</nous>
+		<vous>assaillez</vous>
+	</imperative>
+	<imperfect>
+		<je>assaillais</je>
+		<tu>assaillais</tu>
+		<il>assaillait</il>
+		<nous>assaillions</nous>
+		<vous>assailliez</vous>
+		<ils>assaillaient</ils>
+	</imperfect>
+	<future>
+		<je>assaillirai</je>
+		<tu>assailliras</tu>
+		<il>assaillira</il>
+		<nous>assaillirons</nous>
+		<vous>assaillirez</vous>
+		<ils>assailliront</ils>
+	</future>
+	<subjunctive>
+		<je>assaille</je>
+		<tu>assailles</tu>
+		<il>assaille</il>
+		<nous>assaillions</nous>
+		<vous>assailliez</vous>
+		<ils>assaillent</ils>
+	</subjunctive>
+	<conditional>
+		<je>assaillirais</je>
+		<tu>assaillirais</tu>
+		<il>assaillirait</il>
+		<nous>assaillirions</nous>
+		<vous>assailliriez</vous>
+		<ils>assailliraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

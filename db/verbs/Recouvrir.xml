@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>recouvrir</infinitive>
+	<translation>to re-cover</translation>
+	<translation>conceal</translation>
+	<irregular />
+	<presentParticiple>recouvrant</presentParticiple>
+	<pastParticiple>recouvert</pastParticiple>
+	<present>
+		<je>recouvre</je>
+		<tu>recouvres</tu>
+		<il>recouvre</il>
+		<nous>recouvrons</nous>
+		<vous>recouvrez</vous>
+		<ils>recouvrent</ils>
+	</present>
+	<imperative>
+		<tu>recouvre</tu>
+		<nous>recouvrons</nous>
+		<vous>recouvrez</vous>
+	</imperative>
+	<imperfect>
+		<je>recouvrais</je>
+		<tu>recouvrais</tu>
+		<il>recouvrait</il>
+		<nous>recouvrions</nous>
+		<vous>recouvriez</vous>
+		<ils>recouvraient</ils>
+	</imperfect>
+	<future>
+		<je>recouvrirai</je>
+		<tu>recouvriras</tu>
+		<il>recouvrira</il>
+		<nous>recouvrirons</nous>
+		<vous>recouvrirez</vous>
+		<ils>recouvriront</ils>
+	</future>
+	<subjunctive>
+		<je>recouvre</je>
+		<tu>recouvres</tu>
+		<il>recouvre</il>
+		<nous>recouvrions</nous>
+		<vous>recouvriez</vous>
+		<ils>recouvrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>recouvrirais</je>
+		<tu>recouvrirais</tu>
+		<il>recouvrirait</il>
+		<nous>recouvririons</nous>
+		<vous>recouvririez</vous>
+		<ils>recouvriraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

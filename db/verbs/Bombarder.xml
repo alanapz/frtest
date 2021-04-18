@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>bombarder</infinitive>
+	<translation>to bomb</translation>
+	<presentParticiple>bombardant</presentParticiple>
+	<pastParticiple>bombardé</pastParticiple>
+	<present>
+		<je>bombarde</je>
+		<tu>bombardes</tu>
+		<il>bombarde</il>
+		<nous>bombardons</nous>
+		<vous>bombardez</vous>
+		<ils>bombardent</ils>
+	</present>
+	<imperative>
+		<tu>bombarde</tu>
+		<nous>bombardons</nous>
+		<vous>bombardez</vous>
+	</imperative>
+	<imperfect>
+		<je>bombardais</je>
+		<tu>bombardais</tu>
+		<il>bombardait</il>
+		<nous>bombardions</nous>
+		<vous>bombardiez</vous>
+		<ils>bombardaient</ils>
+	</imperfect>
+	<future>
+		<je>bombarderai</je>
+		<tu>bombarderas</tu>
+		<il>bombardera</il>
+		<nous>bombarderons</nous>
+		<vous>bombarderez</vous>
+		<ils>bombarderont</ils>
+	</future>
+	<subjunctive>
+		<je>bombarde</je>
+		<tu>bombardes</tu>
+		<il>bombarde</il>
+		<nous>bombardions</nous>
+		<vous>bombardiez</vous>
+		<ils>bombardent</ils>
+	</subjunctive>
+	<conditional>
+		<je>bombarderais</je>
+		<tu>bombarderais</tu>
+		<il>bombarderait</il>
+		<nous>bombarderions</nous>
+		<vous>bombarderiez</vous>
+		<ils>bombarderaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

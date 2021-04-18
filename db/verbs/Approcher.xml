@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>approcher</infinitive>
+	<translation>to approach</translation>
+	<translation>move nearer</translation>
+	<presentParticiple>approchant</presentParticiple>
+	<pastParticiple>approché</pastParticiple>
+	<present>
+		<je>approche</je>
+		<tu>approches</tu>
+		<il>approche</il>
+		<nous>approchons</nous>
+		<vous>approchez</vous>
+		<ils>approchent</ils>
+	</present>
+	<imperative>
+		<tu>approche</tu>
+		<nous>approchons</nous>
+		<vous>approchez</vous>
+	</imperative>
+	<imperfect>
+		<je>approchais</je>
+		<tu>approchais</tu>
+		<il>approchait</il>
+		<nous>approchions</nous>
+		<vous>approchiez</vous>
+		<ils>approchaient</ils>
+	</imperfect>
+	<future>
+		<je>approcherai</je>
+		<tu>approcheras</tu>
+		<il>approchera</il>
+		<nous>approcherons</nous>
+		<vous>approcherez</vous>
+		<ils>approcheront</ils>
+	</future>
+	<subjunctive>
+		<je>approche</je>
+		<tu>approches</tu>
+		<il>approche</il>
+		<nous>approchions</nous>
+		<vous>approchiez</vous>
+		<ils>approchent</ils>
+	</subjunctive>
+	<conditional>
+		<je>approcherais</je>
+		<tu>approcherais</tu>
+		<il>approcherait</il>
+		<nous>approcherions</nous>
+		<vous>approcheriez</vous>
+		<ils>approcheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

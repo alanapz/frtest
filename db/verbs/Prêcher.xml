@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>prêcher</infinitive>
+	<translation>to preach</translation>
+	<presentParticiple>prêchant</presentParticiple>
+	<pastParticiple>prêché</pastParticiple>
+	<present>
+		<je>prêche</je>
+		<tu>prêches</tu>
+		<il>prêche</il>
+		<nous>prêchons</nous>
+		<vous>prêchez</vous>
+		<ils>prêchent</ils>
+	</present>
+	<imperative>
+		<tu>prêche</tu>
+		<nous>prêchons</nous>
+		<vous>prêchez</vous>
+	</imperative>
+	<imperfect>
+		<je>prêchais</je>
+		<tu>prêchais</tu>
+		<il>prêchait</il>
+		<nous>prêchions</nous>
+		<vous>prêchiez</vous>
+		<ils>prêchaient</ils>
+	</imperfect>
+	<future>
+		<je>prêcherai</je>
+		<tu>prêcheras</tu>
+		<il>prêchera</il>
+		<nous>prêcherons</nous>
+		<vous>prêcherez</vous>
+		<ils>prêcheront</ils>
+	</future>
+	<subjunctive>
+		<je>prêche</je>
+		<tu>prêches</tu>
+		<il>prêche</il>
+		<nous>prêchions</nous>
+		<vous>prêchiez</vous>
+		<ils>prêchent</ils>
+	</subjunctive>
+	<conditional>
+		<je>prêcherais</je>
+		<tu>prêcherais</tu>
+		<il>prêcherait</il>
+		<nous>prêcherions</nous>
+		<vous>prêcheriez</vous>
+		<ils>prêcheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

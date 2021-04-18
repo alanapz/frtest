@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>partager</infinitive>
+	<translation>to share</translation>
+	<spellingChange />
+	<presentParticiple>partageant</presentParticiple>
+	<pastParticiple>partagé</pastParticiple>
+	<present>
+		<je>partage</je>
+		<tu>partages</tu>
+		<il>partage</il>
+		<nous>partageons</nous>
+		<vous>partagez</vous>
+		<ils>partagent</ils>
+	</present>
+	<imperative>
+		<tu>partage</tu>
+		<nous>partageons</nous>
+		<vous>partagez</vous>
+	</imperative>
+	<imperfect>
+		<je>partageais</je>
+		<tu>partageais</tu>
+		<il>partageait</il>
+		<nous>partagions</nous>
+		<vous>partagiez</vous>
+		<ils>partageaient</ils>
+	</imperfect>
+	<future>
+		<je>partagerai</je>
+		<tu>partageras</tu>
+		<il>partagera</il>
+		<nous>partagerons</nous>
+		<vous>partagerez</vous>
+		<ils>partageront</ils>
+	</future>
+	<subjunctive>
+		<je>partage</je>
+		<tu>partages</tu>
+		<il>partage</il>
+		<nous>partagions</nous>
+		<vous>partagiez</vous>
+		<ils>partagent</ils>
+	</subjunctive>
+	<conditional>
+		<je>partagerais</je>
+		<tu>partagerais</tu>
+		<il>partagerait</il>
+		<nous>partagerions</nous>
+		<vous>partageriez</vous>
+		<ils>partageraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

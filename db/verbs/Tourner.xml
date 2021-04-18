@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>tourner</infinitive>
+	<translation>to turn</translation>
+	<presentParticiple>tournant</presentParticiple>
+	<pastParticiple>tourné</pastParticiple>
+	<present>
+		<je>tourne</je>
+		<tu>tournes</tu>
+		<il>tourne</il>
+		<nous>tournons</nous>
+		<vous>tournez</vous>
+		<ils>tournent</ils>
+	</present>
+	<imperative>
+		<tu>tourne</tu>
+		<nous>tournons</nous>
+		<vous>tournez</vous>
+	</imperative>
+	<imperfect>
+		<je>tournais</je>
+		<tu>tournais</tu>
+		<il>tournait</il>
+		<nous>tournions</nous>
+		<vous>tourniez</vous>
+		<ils>tournaient</ils>
+	</imperfect>
+	<future>
+		<je>tournerai</je>
+		<tu>tourneras</tu>
+		<il>tournera</il>
+		<nous>tournerons</nous>
+		<vous>tournerez</vous>
+		<ils>tourneront</ils>
+	</future>
+	<subjunctive>
+		<je>tourne</je>
+		<tu>tournes</tu>
+		<il>tourne</il>
+		<nous>tournions</nous>
+		<vous>tourniez</vous>
+		<ils>tournent</ils>
+	</subjunctive>
+	<conditional>
+		<je>tournerais</je>
+		<tu>tournerais</tu>
+		<il>tournerait</il>
+		<nous>tournerions</nous>
+		<vous>tourneriez</vous>
+		<ils>tourneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

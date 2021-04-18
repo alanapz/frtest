@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>passer</infinitive>
+	<translation>to pass</translation>
+	<takesEtreInPerfect />
+	<presentParticiple>passant</presentParticiple>
+	<pastParticiple>passé</pastParticiple>
+	<present>
+		<je>passe</je>
+		<tu>passes</tu>
+		<il>passe</il>
+		<nous>passons</nous>
+		<vous>passez</vous>
+		<ils>passent</ils>
+	</present>
+	<imperative>
+		<tu>passe</tu>
+		<nous>passons</nous>
+		<vous>passez</vous>
+	</imperative>
+	<imperfect>
+		<je>passais</je>
+		<tu>passais</tu>
+		<il>passait</il>
+		<nous>passions</nous>
+		<vous>passiez</vous>
+		<ils>passaient</ils>
+	</imperfect>
+	<future>
+		<je>passerai</je>
+		<tu>passeras</tu>
+		<il>passera</il>
+		<nous>passerons</nous>
+		<vous>passerez</vous>
+		<ils>passeront</ils>
+	</future>
+	<subjunctive>
+		<je>passe</je>
+		<tu>passes</tu>
+		<il>passe</il>
+		<nous>passions</nous>
+		<vous>passiez</vous>
+		<ils>passent</ils>
+	</subjunctive>
+	<conditional>
+		<je>passerais</je>
+		<tu>passerais</tu>
+		<il>passerait</il>
+		<nous>passerions</nous>
+		<vous>passeriez</vous>
+		<ils>passeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

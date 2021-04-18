@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>monter</infinitive>
+            <translation>to climb</translation>
+            <translation>to go up</translation>
+            <takesEtreInPerfect />
+            <presentParticiple>montant</presentParticiple>
+            <pastParticiple>monté</pastParticiple>
+            <present>
+                <je>monte</je>
+                <tu>montes</tu>
+                <il>monte</il>
+                <nous>montons</nous>
+                <vous>montez</vous>
+                <ils>montent</ils>
+            </present>
+            <imperative>
+                <tu>monte</tu>
+                <nous>montons</nous>
+                <vous>montez</vous>
+            </imperative>
+            <imperfect>
+                <je>montais</je>
+                <tu>montais</tu>
+                <il>montait</il>
+                <nous>montions</nous>
+                <vous>montiez</vous>
+                <ils>montaient</ils>
+            </imperfect>
+            <future>
+                <je>monterai</je>
+                <tu>monteras</tu>
+                <il>montera</il>
+                <nous>monterons</nous>
+                <vous>monterez</vous>
+                <ils>monteront</ils>
+            </future>
+            <subjunctive>
+                <je>monte</je>
+                <tu>montes</tu>
+                <il>monte</il>
+                <nous>montions</nous>
+                <vous>montiez</vous>
+                <ils>montent</ils>
+            </subjunctive>
+            <conditional>
+                <je>monterais</je>
+                <tu>monterais</tu>
+                <il>monterait</il>
+                <nous>monterions</nous>
+                <vous>monteriez</vous>
+                <ils>monteraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

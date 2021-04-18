@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>transparaître</infinitive>
+	<translation>to show through</translation>
+	<irregular />
+	<presentParticiple>transparaissant</presentParticiple>
+	<pastParticiple>transparu</pastParticiple>
+	<present>
+		<je>transparais</je>
+		<tu>transparais</tu>
+		<il>transparaît</il>
+		<nous>transparaissons</nous>
+		<vous>transparaissez</vous>
+		<ils>transparaissent</ils>
+	</present>
+	<imperative>
+		<tu>transparais</tu>
+		<nous>transparaissons</nous>
+		<vous>transparaissez</vous>
+	</imperative>
+	<imperfect>
+		<je>transparaissais</je>
+		<tu>transparaissais</tu>
+		<il>transparaissait</il>
+		<nous>transparaissions</nous>
+		<vous>transparaissiez</vous>
+		<ils>transparaissaient</ils>
+	</imperfect>
+	<future>
+		<je>transparaîtrai</je>
+		<tu>transparaîtras</tu>
+		<il>transparaîtra</il>
+		<nous>transparaîtrons</nous>
+		<vous>transparaîtrez</vous>
+		<ils>transparaîtront</ils>
+	</future>
+	<subjunctive>
+		<je>transparaisse</je>
+		<tu>transparaisses</tu>
+		<il>transparaisse</il>
+		<nous>transparaissions</nous>
+		<vous>transparaissiez</vous>
+		<ils>transparaissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>transparaîtrais</je>
+		<tu>transparaîtrais</tu>
+		<il>transparaîtrait</il>
+		<nous>transparaîtrions</nous>
+		<vous>transparaîtriez</vous>
+		<ils>transparaîtraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>lâcher</infinitive>
+	<translation>to loosen</translation>
+	<translation>to release</translation>
+	<translation>let go of</translation>
+	<presentParticiple>lâchant</presentParticiple>
+	<pastParticiple>lâché</pastParticiple>
+	<present>
+		<je>lâche</je>
+		<tu>lâches</tu>
+		<il>lâche</il>
+		<nous>lâchons</nous>
+		<vous>lâchez</vous>
+		<ils>lâchent</ils>
+	</present>
+	<imperative>
+		<tu>lâche</tu>
+		<nous>lâchons</nous>
+		<vous>lâchez</vous>
+	</imperative>
+	<imperfect>
+		<je>lâchais</je>
+		<tu>lâchais</tu>
+		<il>lâchait</il>
+		<nous>lâchions</nous>
+		<vous>lâchiez</vous>
+		<ils>lâchaient</ils>
+	</imperfect>
+	<future>
+		<je>lâcherai</je>
+		<tu>lâcheras</tu>
+		<il>lâchera</il>
+		<nous>lâcherons</nous>
+		<vous>lâcherez</vous>
+		<ils>lâcheront</ils>
+	</future>
+	<subjunctive>
+		<je>lâche</je>
+		<tu>lâches</tu>
+		<il>lâche</il>
+		<nous>lâchions</nous>
+		<vous>lâchiez</vous>
+		<ils>lâchent</ils>
+	</subjunctive>
+	<conditional>
+		<je>lâcherais</je>
+		<tu>lâcherais</tu>
+		<il>lâcherait</il>
+		<nous>lâcherions</nous>
+		<vous>lâcheriez</vous>
+		<ils>lâcheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

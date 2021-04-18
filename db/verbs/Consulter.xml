@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>consulter</infinitive>
+	<translation>to consult</translation>
+	<presentParticiple>consultant</presentParticiple>
+	<pastParticiple>consulté</pastParticiple>
+	<present>
+		<je>consulte</je>
+		<tu>consultes</tu>
+		<il>consulte</il>
+		<nous>consultons</nous>
+		<vous>consultez</vous>
+		<ils>consultent</ils>
+	</present>
+	<imperative>
+		<tu>consulte</tu>
+		<nous>consultons</nous>
+		<vous>consultez</vous>
+	</imperative>
+	<imperfect>
+		<je>consultais</je>
+		<tu>consultais</tu>
+		<il>consultait</il>
+		<nous>consultions</nous>
+		<vous>consultiez</vous>
+		<ils>consultaient</ils>
+	</imperfect>
+	<future>
+		<je>consulterai</je>
+		<tu>consulteras</tu>
+		<il>consultera</il>
+		<nous>consulterons</nous>
+		<vous>consulterez</vous>
+		<ils>consulteront</ils>
+	</future>
+	<subjunctive>
+		<je>consulte</je>
+		<tu>consultes</tu>
+		<il>consulte</il>
+		<nous>consultions</nous>
+		<vous>consultiez</vous>
+		<ils>consultent</ils>
+	</subjunctive>
+	<conditional>
+		<je>consulterais</je>
+		<tu>consulterais</tu>
+		<il>consulterait</il>
+		<nous>consulterions</nous>
+		<vous>consulteriez</vous>
+		<ils>consulteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

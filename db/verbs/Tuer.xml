@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>tuer</infinitive>
+	<translation>to kill</translation>
+	<presentParticiple>tuant</presentParticiple>
+	<pastParticiple>tué</pastParticiple>
+	<present>
+		<je>tue</je>
+		<tu>tues</tu>
+		<il>tue</il>
+		<nous>tuons</nous>
+		<vous>tuez</vous>
+		<ils>tuent</ils>
+	</present>
+	<imperative>
+		<tu>tue</tu>
+		<nous>tuons</nous>
+		<vous>tuez</vous>
+	</imperative>
+	<imperfect>
+		<je>tuais</je>
+		<tu>tuais</tu>
+		<il>tuait</il>
+		<nous>tuions</nous>
+		<vous>tuiez</vous>
+		<ils>tuaient</ils>
+	</imperfect>
+	<future>
+		<je>tuerai</je>
+		<tu>tueras</tu>
+		<il>tuera</il>
+		<nous>tuerons</nous>
+		<vous>tuerez</vous>
+		<ils>tueront</ils>
+	</future>
+	<subjunctive>
+		<je>tue</je>
+		<tu>tues</tu>
+		<il>tue</il>
+		<nous>tuions</nous>
+		<vous>tuiez</vous>
+		<ils>tuent</ils>
+	</subjunctive>
+	<conditional>
+		<je>tuerais</je>
+		<tu>tuerais</tu>
+		<il>tuerait</il>
+		<nous>tuerions</nous>
+		<vous>tueriez</vous>
+		<ils>tueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

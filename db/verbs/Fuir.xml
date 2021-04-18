@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>fuir</infinitive>
+	<translation>to flee</translation>
+	<irregular />
+	<presentParticiple>fuyant</presentParticiple>
+	<pastParticiple>fui</pastParticiple>
+	<present>
+		<je>fuis</je>
+		<tu>fuis</tu>
+		<il>fuit</il>
+		<nous>fuyons</nous>
+		<vous>fuyez</vous>
+		<ils>fuient</ils>
+	</present>
+	<imperative>
+		<tu>fuis</tu>
+		<nous>fuyons</nous>
+		<vous>fuyez</vous>
+	</imperative>
+	<imperfect>
+		<je>fuyais</je>
+		<tu>fuyais</tu>
+		<il>fuyait</il>
+		<nous>fuyions</nous>
+		<vous>fuyiez</vous>
+		<ils>fuyaient</ils>
+	</imperfect>
+	<future>
+		<je>fuirai</je>
+		<tu>fuiras</tu>
+		<il>fuira</il>
+		<nous>fuirons</nous>
+		<vous>fuirez</vous>
+		<ils>fuiront</ils>
+	</future>
+	<subjunctive>
+		<je>fuie</je>
+		<tu>fuies</tu>
+		<il>fuie</il>
+		<nous>fuyions</nous>
+		<vous>fuyiez</vous>
+		<ils>fuient</ils>
+	</subjunctive>
+	<conditional>
+		<je>fuirais</je>
+		<tu>fuirais</tu>
+		<il>fuirait</il>
+		<nous>fuirions</nous>
+		<vous>fuiriez</vous>
+		<ils>fuiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

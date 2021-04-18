@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>abolir</infinitive>
+	<translation>to abolish</translation>
+	<presentParticiple>abolissant</presentParticiple>
+	<pastParticiple>aboli</pastParticiple>
+	<present>
+		<je>abolis</je>
+		<tu>abolis</tu>
+		<il>abolit</il>
+		<nous>abolissons</nous>
+		<vous>abolissez</vous>
+		<ils>abolissent</ils>
+	</present>
+	<imperative>
+		<tu>abolis</tu>
+		<nous>abolissons</nous>
+		<vous>abolissez</vous>
+	</imperative>
+	<imperfect>
+		<je>abolissais</je>
+		<tu>abolissais</tu>
+		<il>abolissait</il>
+		<nous>abolissions</nous>
+		<vous>abolissiez</vous>
+		<ils>abolissaient</ils>
+	</imperfect>
+	<future>
+		<je>abolirai</je>
+		<tu>aboliras</tu>
+		<il>abolira</il>
+		<nous>abolirons</nous>
+		<vous>abolirez</vous>
+		<ils>aboliront</ils>
+	</future>
+	<subjunctive>
+		<je>abolisse</je>
+		<tu>abolisses</tu>
+		<il>abolisse</il>
+		<nous>abolissions</nous>
+		<vous>abolissiez</vous>
+		<ils>abolissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>abolirais</je>
+		<tu>abolirais</tu>
+		<il>abolirait</il>
+		<nous>abolirions</nous>
+		<vous>aboliriez</vous>
+		<ils>aboliraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

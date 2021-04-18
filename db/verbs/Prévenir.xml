@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>prévenir</infinitive>
+	<translation>to warn</translation>
+	<translation>prevent</translation>
+	<irregular />
+	<presentParticiple>prévenant</presentParticiple>
+	<pastParticiple>prévenu</pastParticiple>
+	<present>
+		<je>préviens</je>
+		<tu>préviens</tu>
+		<il>prévient</il>
+		<nous>prévenons</nous>
+		<vous>prévenez</vous>
+		<ils>préviennent</ils>
+	</present>
+	<imperative>
+		<tu>préviens</tu>
+		<nous>prévenons</nous>
+		<vous>prévenez</vous>
+	</imperative>
+	<imperfect>
+		<je>prévenais</je>
+		<tu>prévenais</tu>
+		<il>prévenait</il>
+		<nous>prévenions</nous>
+		<vous>préveniez</vous>
+		<ils>prévenaient</ils>
+	</imperfect>
+	<future>
+		<je>préviendrai</je>
+		<tu>préviendras</tu>
+		<il>préviendra</il>
+		<nous>préviendrons</nous>
+		<vous>préviendrez</vous>
+		<ils>préviendront</ils>
+	</future>
+	<subjunctive>
+		<je>prévienne</je>
+		<tu>préviennes</tu>
+		<il>prévienne</il>
+		<nous>prévenions</nous>
+		<vous>préveniez</vous>
+		<ils>préviennent</ils>
+	</subjunctive>
+	<conditional>
+		<je>préviendrais</je>
+		<tu>préviendrais</tu>
+		<il>préviendrait</il>
+		<nous>préviendrions</nous>
+		<vous>préviendriez</vous>
+		<ils>préviendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>comprendre</infinitive>
+	<translation>to understand</translation>
+	<irregular />
+	<presentParticiple>comprenant</presentParticiple>
+	<pastParticiple>compris</pastParticiple>
+	<present>
+		<je>comprends</je>
+		<tu>comprends</tu>
+		<il>comprend</il>
+		<nous>comprenons</nous>
+		<vous>comprenez</vous>
+		<ils>comprennent</ils>
+	</present>
+	<imperative>
+		<tu>comprends</tu>
+		<nous>comprenons</nous>
+		<vous>comprenez</vous>
+	</imperative>
+	<imperfect>
+		<je>comprenais</je>
+		<tu>comprenais</tu>
+		<il>comprenait</il>
+		<nous>comprenions</nous>
+		<vous>compreniez</vous>
+		<ils>comprenaient</ils>
+	</imperfect>
+	<future>
+		<je>comprendrai</je>
+		<tu>comprendras</tu>
+		<il>comprendra</il>
+		<nous>comprendrons</nous>
+		<vous>comprendrez</vous>
+		<ils>comprendront</ils>
+	</future>
+	<subjunctive>
+		<je>comprenne</je>
+		<tu>comprennes</tu>
+		<il>comprenne</il>
+		<nous>comprenions</nous>
+		<vous>compreniez</vous>
+		<ils>comprennent</ils>
+	</subjunctive>
+	<conditional>
+		<je>comprendrais</je>
+		<tu>comprendrais</tu>
+		<il>comprendrait</il>
+		<nous>comprendrions</nous>
+		<vous>comprendriez</vous>
+		<ils>comprendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

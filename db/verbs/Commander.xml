@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>commander</infinitive>
+	<translation>to order</translation>
+	<presentParticiple>commandant</presentParticiple>
+	<pastParticiple>commandé</pastParticiple>
+	<present>
+		<je>commande</je>
+		<tu>commandes</tu>
+		<il>commande</il>
+		<nous>commandons</nous>
+		<vous>commandez</vous>
+		<ils>commandent</ils>
+	</present>
+	<imperative>
+		<tu>commande</tu>
+		<nous>commandons</nous>
+		<vous>commandez</vous>
+	</imperative>
+	<imperfect>
+		<je>commandais</je>
+		<tu>commandais</tu>
+		<il>commandait</il>
+		<nous>commandions</nous>
+		<vous>commandiez</vous>
+		<ils>commandaient</ils>
+	</imperfect>
+	<future>
+		<je>commanderai</je>
+		<tu>commanderas</tu>
+		<il>commandera</il>
+		<nous>commanderons</nous>
+		<vous>commanderez</vous>
+		<ils>commanderont</ils>
+	</future>
+	<subjunctive>
+		<je>commande</je>
+		<tu>commandes</tu>
+		<il>commande</il>
+		<nous>commandions</nous>
+		<vous>commandiez</vous>
+		<ils>commandent</ils>
+	</subjunctive>
+	<conditional>
+		<je>commanderais</je>
+		<tu>commanderais</tu>
+		<il>commanderait</il>
+		<nous>commanderions</nous>
+		<vous>commanderiez</vous>
+		<ils>commanderaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

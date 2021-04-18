@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>coordonner</infinitive>
+	<translation>to coordinate</translation>
+	<presentParticiple>coordonnant</presentParticiple>
+	<pastParticiple>coordonné</pastParticiple>
+	<present>
+		<je>coordonne</je>
+		<tu>coordonnes</tu>
+		<il>coordonne</il>
+		<nous>coordonnons</nous>
+		<vous>coordonnez</vous>
+		<ils>coordonnent</ils>
+	</present>
+	<imperative>
+		<tu>coordonne</tu>
+		<nous>coordonnons</nous>
+		<vous>coordonnez</vous>
+	</imperative>
+	<imperfect>
+		<je>coordonnais</je>
+		<tu>coordonnais</tu>
+		<il>coordonnait</il>
+		<nous>coordonnions</nous>
+		<vous>coordonniez</vous>
+		<ils>coordonnaient</ils>
+	</imperfect>
+	<future>
+		<je>coordonnerai</je>
+		<tu>coordonneras</tu>
+		<il>coordonnera</il>
+		<nous>coordonnerons</nous>
+		<vous>coordonnerez</vous>
+		<ils>coordonneront</ils>
+	</future>
+	<subjunctive>
+		<je>coordonne</je>
+		<tu>coordonnes</tu>
+		<il>coordonne</il>
+		<nous>coordonnions</nous>
+		<vous>coordonniez</vous>
+		<ils>coordonnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>coordonnerais</je>
+		<tu>coordonnerais</tu>
+		<il>coordonnerait</il>
+		<nous>coordonnerions</nous>
+		<vous>coordonneriez</vous>
+		<ils>coordonneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

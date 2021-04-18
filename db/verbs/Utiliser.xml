@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>utiliser</infinitive>
+	<translation>to use</translation>
+	<presentParticiple>utilisant</presentParticiple>
+	<pastParticiple>utilisé</pastParticiple>
+	<present>
+		<je>utilise</je>
+		<tu>utilises</tu>
+		<il>utilise</il>
+		<nous>utilisons</nous>
+		<vous>utilisez</vous>
+		<ils>utilisent</ils>
+	</present>
+	<imperative>
+		<tu>utilise</tu>
+		<nous>utilisons</nous>
+		<vous>utilisez</vous>
+	</imperative>
+	<imperfect>
+		<je>utilisais</je>
+		<tu>utilisais</tu>
+		<il>utilisait</il>
+		<nous>utilisions</nous>
+		<vous>utilisiez</vous>
+		<ils>utilisaient</ils>
+	</imperfect>
+	<future>
+		<je>utiliserai</je>
+		<tu>utiliseras</tu>
+		<il>utilisera</il>
+		<nous>utiliserons</nous>
+		<vous>utiliserez</vous>
+		<ils>utiliseront</ils>
+	</future>
+	<subjunctive>
+		<je>utilise</je>
+		<tu>utilises</tu>
+		<il>utilise</il>
+		<nous>utilisions</nous>
+		<vous>utilisiez</vous>
+		<ils>utilisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>utiliserais</je>
+		<tu>utiliserais</tu>
+		<il>utiliserait</il>
+		<nous>utiliserions</nous>
+		<vous>utiliseriez</vous>
+		<ils>utiliseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

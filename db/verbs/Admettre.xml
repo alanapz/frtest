@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>admettre</infinitive>
+	<translation>to admit</translation>
+	<irregular />
+	<presentParticiple>admettant</presentParticiple>
+	<pastParticiple>admis</pastParticiple>
+	<present>
+		<je>admets</je>
+		<tu>admets</tu>
+		<il>admet</il>
+		<nous>admettons</nous>
+		<vous>admettez</vous>
+		<ils>admettent</ils>
+	</present>
+	<imperative>
+		<tu>admets</tu>
+		<nous>admettons</nous>
+		<vous>admettez</vous>
+	</imperative>
+	<imperfect>
+		<je>admettais</je>
+		<tu>admettais</tu>
+		<il>admettait</il>
+		<nous>admettions</nous>
+		<vous>admettiez</vous>
+		<ils>admettaient</ils>
+	</imperfect>
+	<future>
+		<je>admettrai</je>
+		<tu>admettras</tu>
+		<il>admettra</il>
+		<nous>admettrons</nous>
+		<vous>admettrez</vous>
+		<ils>admettront</ils>
+	</future>
+	<subjunctive>
+		<je>admette</je>
+		<tu>admettes</tu>
+		<il>admette</il>
+		<nous>admettions</nous>
+		<vous>admettiez</vous>
+		<ils>admettent</ils>
+	</subjunctive>
+	<conditional>
+		<je>admettrais</je>
+		<tu>admettrais</tu>
+		<il>admettrait</il>
+		<nous>admettrions</nous>
+		<vous>admettriez</vous>
+		<ils>admettraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

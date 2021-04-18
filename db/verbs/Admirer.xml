@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>admirer</infinitive>
+	<translation>to admire</translation>
+	<presentParticiple>admirant</presentParticiple>
+	<pastParticiple>admiré</pastParticiple>
+	<present>
+		<je>admire</je>
+		<tu>admires</tu>
+		<il>admire</il>
+		<nous>admirons</nous>
+		<vous>admirez</vous>
+		<ils>admirent</ils>
+	</present>
+	<imperative>
+		<tu>admire</tu>
+		<nous>admirons</nous>
+		<vous>admirez</vous>
+	</imperative>
+	<imperfect>
+		<je>admirais</je>
+		<tu>admirais</tu>
+		<il>admirait</il>
+		<nous>admirions</nous>
+		<vous>admiriez</vous>
+		<ils>admiraient</ils>
+	</imperfect>
+	<future>
+		<je>admirerai</je>
+		<tu>admireras</tu>
+		<il>admirera</il>
+		<nous>admirerons</nous>
+		<vous>admirerez</vous>
+		<ils>admireront</ils>
+	</future>
+	<subjunctive>
+		<je>admire</je>
+		<tu>admires</tu>
+		<il>admire</il>
+		<nous>admirions</nous>
+		<vous>admiriez</vous>
+		<ils>admirent</ils>
+	</subjunctive>
+	<conditional>
+		<je>admirerais</je>
+		<tu>admirerais</tu>
+		<il>admirerait</il>
+		<nous>admirerions</nous>
+		<vous>admireriez</vous>
+		<ils>admireraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

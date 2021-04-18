@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>conjoindre</infinitive>
+	<translation>to unite</translation>
+	<irregular />
+	<presentParticiple>conjoignant</presentParticiple>
+	<pastParticiple>conjoint</pastParticiple>
+	<present>
+		<je>conjoins</je>
+		<tu>conjoins</tu>
+		<il>conjoint</il>
+		<nous>conjoignons</nous>
+		<vous>conjoignez</vous>
+		<ils>conjoignent</ils>
+	</present>
+	<imperative>
+		<tu>conjoins</tu>
+		<nous>conjoignons</nous>
+		<vous>conjoignez</vous>
+	</imperative>
+	<imperfect>
+		<je>conjoignais</je>
+		<tu>conjoignais</tu>
+		<il>conjoignait</il>
+		<nous>conjoignions</nous>
+		<vous>conjoigniez</vous>
+		<ils>conjoignaient</ils>
+	</imperfect>
+	<future>
+		<je>conjoindrai</je>
+		<tu>conjoindras</tu>
+		<il>conjoindra</il>
+		<nous>conjoindrons</nous>
+		<vous>conjoindrez</vous>
+		<ils>conjoindront</ils>
+	</future>
+	<subjunctive>
+		<je>conjoigne</je>
+		<tu>conjoignes</tu>
+		<il>conjoigne</il>
+		<nous>conjoignions</nous>
+		<vous>conjoigniez</vous>
+		<ils>conjoignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>conjoindrais</je>
+		<tu>conjoindrais</tu>
+		<il>conjoindrait</il>
+		<nous>conjoindrions</nous>
+		<vous>conjoindriez</vous>
+		<ils>conjoindraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

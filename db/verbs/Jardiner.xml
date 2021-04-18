@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>jardiner</infinitive>
+	<translation>to garden</translation>
+	<presentParticiple>jardinant</presentParticiple>
+	<pastParticiple>jardiné</pastParticiple>
+	<present>
+		<je>jardine</je>
+		<tu>jardines</tu>
+		<il>jardine</il>
+		<nous>jardinons</nous>
+		<vous>jardinez</vous>
+		<ils>jardinent</ils>
+	</present>
+	<imperative>
+		<tu>jardine</tu>
+		<nous>jardinons</nous>
+		<vous>jardinez</vous>
+	</imperative>
+	<imperfect>
+		<je>jardinais</je>
+		<tu>jardinais</tu>
+		<il>jardinait</il>
+		<nous>jardinions</nous>
+		<vous>jardiniez</vous>
+		<ils>jardinaient</ils>
+	</imperfect>
+	<future>
+		<je>jardinerai</je>
+		<tu>jardineras</tu>
+		<il>jardinera</il>
+		<nous>jardinerons</nous>
+		<vous>jardinerez</vous>
+		<ils>jardineront</ils>
+	</future>
+	<subjunctive>
+		<je>jardine</je>
+		<tu>jardines</tu>
+		<il>jardine</il>
+		<nous>jardinions</nous>
+		<vous>jardiniez</vous>
+		<ils>jardinent</ils>
+	</subjunctive>
+	<conditional>
+		<je>jardinerais</je>
+		<tu>jardinerais</tu>
+		<il>jardinerait</il>
+		<nous>jardinerions</nous>
+		<vous>jardineriez</vous>
+		<ils>jardineraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

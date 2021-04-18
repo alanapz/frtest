@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dominer</infinitive>
+	<translation>to dominate</translation>
+	<presentParticiple>dominant</presentParticiple>
+	<pastParticiple>dominé</pastParticiple>
+	<present>
+		<je>domine</je>
+		<tu>domines</tu>
+		<il>domine</il>
+		<nous>dominons</nous>
+		<vous>dominez</vous>
+		<ils>dominent</ils>
+	</present>
+	<imperative>
+		<tu>domine</tu>
+		<nous>dominons</nous>
+		<vous>dominez</vous>
+	</imperative>
+	<imperfect>
+		<je>dominais</je>
+		<tu>dominais</tu>
+		<il>dominait</il>
+		<nous>dominions</nous>
+		<vous>dominiez</vous>
+		<ils>dominaient</ils>
+	</imperfect>
+	<future>
+		<je>dominerai</je>
+		<tu>domineras</tu>
+		<il>dominera</il>
+		<nous>dominerons</nous>
+		<vous>dominerez</vous>
+		<ils>domineront</ils>
+	</future>
+	<subjunctive>
+		<je>domine</je>
+		<tu>domines</tu>
+		<il>domine</il>
+		<nous>dominions</nous>
+		<vous>dominiez</vous>
+		<ils>dominent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dominerais</je>
+		<tu>dominerais</tu>
+		<il>dominerait</il>
+		<nous>dominerions</nous>
+		<vous>domineriez</vous>
+		<ils>domineraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

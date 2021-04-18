@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>taper</infinitive>
+	<translation>to type</translation>
+	<translation>to knock</translation>
+	<translation>to beat</translation>
+	<translation>slap</translation>
+	<presentParticiple>tapant</presentParticiple>
+	<pastParticiple>tapé</pastParticiple>
+	<present>
+		<je>tape</je>
+		<tu>tapes</tu>
+		<il>tape</il>
+		<nous>tapons</nous>
+		<vous>tapez</vous>
+		<ils>tapent</ils>
+	</present>
+	<imperative>
+		<tu>tape</tu>
+		<nous>tapons</nous>
+		<vous>tapez</vous>
+	</imperative>
+	<imperfect>
+		<je>tapais</je>
+		<tu>tapais</tu>
+		<il>tapait</il>
+		<nous>tapions</nous>
+		<vous>tapiez</vous>
+		<ils>tapaient</ils>
+	</imperfect>
+	<future>
+		<je>taperai</je>
+		<tu>taperas</tu>
+		<il>tapera</il>
+		<nous>taperons</nous>
+		<vous>taperez</vous>
+		<ils>taperont</ils>
+	</future>
+	<subjunctive>
+		<je>tape</je>
+		<tu>tapes</tu>
+		<il>tape</il>
+		<nous>tapions</nous>
+		<vous>tapiez</vous>
+		<ils>tapent</ils>
+	</subjunctive>
+	<conditional>
+		<je>taperais</je>
+		<tu>taperais</tu>
+		<il>taperait</il>
+		<nous>taperions</nous>
+		<vous>taperiez</vous>
+		<ils>taperaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

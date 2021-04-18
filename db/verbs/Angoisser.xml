@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>angoisser</infinitive>
+	<translation>to distress</translation>
+	<presentParticiple>angoissant</presentParticiple>
+	<pastParticiple>angoissé</pastParticiple>
+	<present>
+		<je>angoisse</je>
+		<tu>angoisses</tu>
+		<il>angoisse</il>
+		<nous>angoissons</nous>
+		<vous>angoissez</vous>
+		<ils>angoissent</ils>
+	</present>
+	<imperative>
+		<tu>angoisse</tu>
+		<nous>angoissons</nous>
+		<vous>angoissez</vous>
+	</imperative>
+	<imperfect>
+		<je>angoissais</je>
+		<tu>angoissais</tu>
+		<il>angoissait</il>
+		<nous>angoissions</nous>
+		<vous>angoissiez</vous>
+		<ils>angoissaient</ils>
+	</imperfect>
+	<future>
+		<je>angoisserai</je>
+		<tu>angoisseras</tu>
+		<il>angoissera</il>
+		<nous>angoisserons</nous>
+		<vous>angoisserez</vous>
+		<ils>angoisseront</ils>
+	</future>
+	<subjunctive>
+		<je>angoisse</je>
+		<tu>angoisses</tu>
+		<il>angoisse</il>
+		<nous>angoissions</nous>
+		<vous>angoissiez</vous>
+		<ils>angoissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>angoisserais</je>
+		<tu>angoisserais</tu>
+		<il>angoisserait</il>
+		<nous>angoisserions</nous>
+		<vous>angoisseriez</vous>
+		<ils>angoisseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

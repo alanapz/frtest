@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>clignoter</infinitive>
+	<translation>to blink</translation>
+	<translation>twinkle</translation>
+	<translation>flash</translation>
+	<translation>flicker</translation>
+	<presentParticiple>clignotant</presentParticiple>
+	<pastParticiple>clignoté</pastParticiple>
+	<present>
+		<je>clignote</je>
+		<tu>clignotes</tu>
+		<il>clignote</il>
+		<nous>clignotons</nous>
+		<vous>clignotez</vous>
+		<ils>clignotent</ils>
+	</present>
+	<imperative>
+		<tu>clignote</tu>
+		<nous>clignotons</nous>
+		<vous>clignotez</vous>
+	</imperative>
+	<imperfect>
+		<je>clignotais</je>
+		<tu>clignotais</tu>
+		<il>clignotait</il>
+		<nous>clignotions</nous>
+		<vous>clignotiez</vous>
+		<ils>clignotaient</ils>
+	</imperfect>
+	<future>
+		<je>clignoterai</je>
+		<tu>clignoteras</tu>
+		<il>clignotera</il>
+		<nous>clignoterons</nous>
+		<vous>clignoterez</vous>
+		<ils>clignoteront</ils>
+	</future>
+	<subjunctive>
+		<je>clignote</je>
+		<tu>clignotes</tu>
+		<il>clignote</il>
+		<nous>clignotions</nous>
+		<vous>clignotiez</vous>
+		<ils>clignotent</ils>
+	</subjunctive>
+	<conditional>
+		<je>clignoterais</je>
+		<tu>clignoterais</tu>
+		<il>clignoterait</il>
+		<nous>clignoterions</nous>
+		<vous>clignoteriez</vous>
+		<ils>clignoteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

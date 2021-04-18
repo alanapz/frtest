@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>voyager</infinitive>
+	<translation>to travel</translation>
+	<spellingChange />
+	<presentParticiple>voyageant</presentParticiple>
+	<pastParticiple>voyagé</pastParticiple>
+	<present>
+		<je>voyage</je>
+		<tu>voyages</tu>
+		<il>voyage</il>
+		<nous>voyageons</nous>
+		<vous>voyagez</vous>
+		<ils>voyagent</ils>
+	</present>
+	<imperative>
+		<tu>voyage</tu>
+		<nous>voyageons</nous>
+		<vous>voyagez</vous>
+	</imperative>
+	<imperfect>
+		<je>voyageais</je>
+		<tu>voyageais</tu>
+		<il>voyageait</il>
+		<nous>voyagions</nous>
+		<vous>voyagiez</vous>
+		<ils>voyageaient</ils>
+	</imperfect>
+	<future>
+		<je>voyagerai</je>
+		<tu>voyageras</tu>
+		<il>voyagera</il>
+		<nous>voyagerons</nous>
+		<vous>voyagerez</vous>
+		<ils>voyageront</ils>
+	</future>
+	<subjunctive>
+		<je>voyage</je>
+		<tu>voyages</tu>
+		<il>voyage</il>
+		<nous>voyagions</nous>
+		<vous>voyagiez</vous>
+		<ils>voyagent</ils>
+	</subjunctive>
+	<conditional>
+		<je>voyagerais</je>
+		<tu>voyagerais</tu>
+		<il>voyagerait</il>
+		<nous>voyagerions</nous>
+		<vous>voyageriez</vous>
+		<ils>voyageraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

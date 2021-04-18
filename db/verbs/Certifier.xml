@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>certifier</infinitive>
+	<translation>to certify</translation>
+	<presentParticiple>certifiant</presentParticiple>
+	<pastParticiple>certifié</pastParticiple>
+	<present>
+		<je>certifie</je>
+		<tu>certifies</tu>
+		<il>certifie</il>
+		<nous>certifions</nous>
+		<vous>certifiez</vous>
+		<ils>certifient</ils>
+	</present>
+	<imperative>
+		<tu>certifie</tu>
+		<nous>certifions</nous>
+		<vous>certifiez</vous>
+	</imperative>
+	<imperfect>
+		<je>certifiais</je>
+		<tu>certifiais</tu>
+		<il>certifiait</il>
+		<nous>certifiions</nous>
+		<vous>certifiiez</vous>
+		<ils>certifiaient</ils>
+	</imperfect>
+	<future>
+		<je>certifierai</je>
+		<tu>certifieras</tu>
+		<il>certifiera</il>
+		<nous>certifierons</nous>
+		<vous>certifierez</vous>
+		<ils>certifieront</ils>
+	</future>
+	<subjunctive>
+		<je>certifie</je>
+		<tu>certifies</tu>
+		<il>certifie</il>
+		<nous>certifiions</nous>
+		<vous>certifiiez</vous>
+		<ils>certifient</ils>
+	</subjunctive>
+	<conditional>
+		<je>certifierais</je>
+		<tu>certifierais</tu>
+		<il>certifierait</il>
+		<nous>certifierions</nous>
+		<vous>certifieriez</vous>
+		<ils>certifieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

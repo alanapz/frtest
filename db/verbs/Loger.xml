@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>loger</infinitive>
+	<translation>to lodge</translation>
+	<spellingChange />
+	<presentParticiple>logeant</presentParticiple>
+	<pastParticiple>logé</pastParticiple>
+	<present>
+		<je>loge</je>
+		<tu>loges</tu>
+		<il>loge</il>
+		<nous>logeons</nous>
+		<vous>logez</vous>
+		<ils>logent</ils>
+	</present>
+	<imperative>
+		<tu>loge</tu>
+		<nous>logeons</nous>
+		<vous>logez</vous>
+	</imperative>
+	<imperfect>
+		<je>logeais</je>
+		<tu>logeais</tu>
+		<il>logeait</il>
+		<nous>logions</nous>
+		<vous>logiez</vous>
+		<ils>logeaient</ils>
+	</imperfect>
+	<future>
+		<je>logerai</je>
+		<tu>logeras</tu>
+		<il>logera</il>
+		<nous>logerons</nous>
+		<vous>logerez</vous>
+		<ils>logeront</ils>
+	</future>
+	<subjunctive>
+		<je>loge</je>
+		<tu>loges</tu>
+		<il>loge</il>
+		<nous>logions</nous>
+		<vous>logiez</vous>
+		<ils>logent</ils>
+	</subjunctive>
+	<conditional>
+		<je>logerais</je>
+		<tu>logerais</tu>
+		<il>logerait</il>
+		<nous>logerions</nous>
+		<vous>logeriez</vous>
+		<ils>logeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

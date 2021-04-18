@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>photocopier</infinitive>
+	<translation>to photocopy</translation>
+	<presentParticiple>photocopiant</presentParticiple>
+	<pastParticiple>photocopié</pastParticiple>
+	<present>
+		<je>photocopie</je>
+		<tu>photocopies</tu>
+		<il>photocopie</il>
+		<nous>photocopions</nous>
+		<vous>photocopiez</vous>
+		<ils>photocopient</ils>
+	</present>
+	<imperative>
+		<tu>photocopie</tu>
+		<nous>photocopions</nous>
+		<vous>photocopiez</vous>
+	</imperative>
+	<imperfect>
+		<je>photocopiais</je>
+		<tu>photocopiais</tu>
+		<il>photocopiait</il>
+		<nous>photocopiions</nous>
+		<vous>photocopiiez</vous>
+		<ils>photocopiaient</ils>
+	</imperfect>
+	<future>
+		<je>photocopierai</je>
+		<tu>photocopieras</tu>
+		<il>photocopiera</il>
+		<nous>photocopierons</nous>
+		<vous>photocopierez</vous>
+		<ils>photocopieront</ils>
+	</future>
+	<subjunctive>
+		<je>photocopie</je>
+		<tu>photocopies</tu>
+		<il>photocopie</il>
+		<nous>photocopiions</nous>
+		<vous>photocopiiez</vous>
+		<ils>photocopient</ils>
+	</subjunctive>
+	<conditional>
+		<je>photocopierais</je>
+		<tu>photocopierais</tu>
+		<il>photocopierait</il>
+		<nous>photocopierions</nous>
+		<vous>photocopieriez</vous>
+		<ils>photocopieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

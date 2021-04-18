@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>limiter</infinitive>
+	<translation>to limit</translation>
+	<presentParticiple>limitant</presentParticiple>
+	<pastParticiple>limité</pastParticiple>
+	<present>
+		<je>limite</je>
+		<tu>limites</tu>
+		<il>limite</il>
+		<nous>limitons</nous>
+		<vous>limitez</vous>
+		<ils>limitent</ils>
+	</present>
+	<imperative>
+		<tu>limite</tu>
+		<nous>limitons</nous>
+		<vous>limitez</vous>
+	</imperative>
+	<imperfect>
+		<je>limitais</je>
+		<tu>limitais</tu>
+		<il>limitait</il>
+		<nous>limitions</nous>
+		<vous>limitiez</vous>
+		<ils>limitaient</ils>
+	</imperfect>
+	<future>
+		<je>limiterai</je>
+		<tu>limiteras</tu>
+		<il>limitera</il>
+		<nous>limiterons</nous>
+		<vous>limiterez</vous>
+		<ils>limiteront</ils>
+	</future>
+	<subjunctive>
+		<je>limite</je>
+		<tu>limites</tu>
+		<il>limite</il>
+		<nous>limitions</nous>
+		<vous>limitiez</vous>
+		<ils>limitent</ils>
+	</subjunctive>
+	<conditional>
+		<je>limiterais</je>
+		<tu>limiterais</tu>
+		<il>limiterait</il>
+		<nous>limiterions</nous>
+		<vous>limiteriez</vous>
+		<ils>limiteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

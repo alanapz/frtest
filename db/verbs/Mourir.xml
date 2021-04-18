@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>mourir</infinitive>
+            <translation>to die</translation>
+            <irregular />
+            <takesEtreInPerfect />
+            <presentParticiple>mourant</presentParticiple>
+            <pastParticiple>mort</pastParticiple>
+            <present>
+                <je>meurs</je>
+                <tu>meurs</tu>
+                <il>meurt</il>
+                <nous>mourons</nous>
+                <vous>mourez</vous>
+                <ils>meurent</ils>
+            </present>
+            <imperative>
+                <tu>meurs</tu>
+                <nous>mourons</nous>
+                <vous>mourez</vous>
+            </imperative>
+            <imperfect>
+                <je>mourais</je>
+                <tu>mourais</tu>
+                <il>mourait</il>
+                <nous>mourions</nous>
+                <vous>mouriez</vous>
+                <ils>mouraient</ils>
+            </imperfect>
+            <future>
+                <je>mourrai</je>
+                <tu>mourras</tu>
+                <il>mourra</il>
+                <nous>mourrons</nous>
+                <vous>mourrez</vous>
+                <ils>mourront</ils>
+            </future>
+            <subjunctive>
+                <je>meure</je>
+                <tu>meures</tu>
+                <il>meure</il>
+                <nous>mourions</nous>
+                <vous>mouriez</vous>
+                <ils>meurent</ils>
+            </subjunctive>
+            <conditional>
+                <je>mourrais</je>
+                <tu>mourrais</tu>
+                <il>mourrait</il>
+                <nous>mourrions</nous>
+                <vous>mourriez</vous>
+                <ils>mourraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>vaincre</infinitive>
+	<translation>to defeat</translation>
+	<translation>overcome</translation>
+	<translation>conquer</translation>
+	<irregular />
+	<presentParticiple>vainquant</presentParticiple>
+	<pastParticiple>vaincu</pastParticiple>
+	<present>
+		<je>vaincs</je>
+		<tu>vaincs</tu>
+		<il>vainc</il>
+		<nous>vainquons</nous>
+		<vous>vainquez</vous>
+		<ils>vainquent</ils>
+	</present>
+	<imperative>
+		<tu>vaincs</tu>
+		<nous>vainquons</nous>
+		<vous>vainquez</vous>
+	</imperative>
+	<imperfect>
+		<je>vainquais</je>
+		<tu>vainquais</tu>
+		<il>vainquait</il>
+		<nous>vainquions</nous>
+		<vous>vainquiez</vous>
+		<ils>vainquaient</ils>
+	</imperfect>
+	<future>
+		<je>vaincrai</je>
+		<tu>vaincras</tu>
+		<il>vaincra</il>
+		<nous>vaincrons</nous>
+		<vous>vaincrez</vous>
+		<ils>vaincront</ils>
+	</future>
+	<subjunctive>
+		<je>vainque</je>
+		<tu>vainques</tu>
+		<il>vainque</il>
+		<nous>vainquions</nous>
+		<vous>vainquiez</vous>
+		<ils>vainquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>vaincrais</je>
+		<tu>vaincrais</tu>
+		<il>vaincrait</il>
+		<nous>vaincrions</nous>
+		<vous>vaincriez</vous>
+		<ils>vaincraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

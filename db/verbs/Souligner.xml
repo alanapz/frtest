@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>souligner</infinitive>
+	<translation>to underline</translation>
+	<translation>stress</translation>
+	<presentParticiple>soulignant</presentParticiple>
+	<pastParticiple>souligné</pastParticiple>
+	<present>
+		<je>souligne</je>
+		<tu>soulignes</tu>
+		<il>souligne</il>
+		<nous>soulignons</nous>
+		<vous>soulignez</vous>
+		<ils>soulignent</ils>
+	</present>
+	<imperative>
+		<tu>souligne</tu>
+		<nous>soulignons</nous>
+		<vous>soulignez</vous>
+	</imperative>
+	<imperfect>
+		<je>soulignais</je>
+		<tu>soulignais</tu>
+		<il>soulignait</il>
+		<nous>soulignions</nous>
+		<vous>souligniez</vous>
+		<ils>soulignaient</ils>
+	</imperfect>
+	<future>
+		<je>soulignerai</je>
+		<tu>souligneras</tu>
+		<il>soulignera</il>
+		<nous>soulignerons</nous>
+		<vous>soulignerez</vous>
+		<ils>souligneront</ils>
+	</future>
+	<subjunctive>
+		<je>souligne</je>
+		<tu>soulignes</tu>
+		<il>souligne</il>
+		<nous>soulignions</nous>
+		<vous>souligniez</vous>
+		<ils>soulignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>soulignerais</je>
+		<tu>soulignerais</tu>
+		<il>soulignerait</il>
+		<nous>soulignerions</nous>
+		<vous>souligneriez</vous>
+		<ils>souligneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

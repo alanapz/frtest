@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>rechercher</infinitive>
+	<translation>to look for</translation>
+	<translation>seek</translation>
+	<presentParticiple>recherchant</presentParticiple>
+	<pastParticiple>recherché</pastParticiple>
+	<present>
+		<je>recherche</je>
+		<tu>recherches</tu>
+		<il>recherche</il>
+		<nous>recherchons</nous>
+		<vous>recherchez</vous>
+		<ils>recherchent</ils>
+	</present>
+	<imperative>
+		<tu>recherche</tu>
+		<nous>recherchons</nous>
+		<vous>recherchez</vous>
+	</imperative>
+	<imperfect>
+		<je>recherchais</je>
+		<tu>recherchais</tu>
+		<il>recherchait</il>
+		<nous>recherchions</nous>
+		<vous>recherchiez</vous>
+		<ils>recherchaient</ils>
+	</imperfect>
+	<future>
+		<je>rechercherai</je>
+		<tu>rechercheras</tu>
+		<il>recherchera</il>
+		<nous>rechercherons</nous>
+		<vous>rechercherez</vous>
+		<ils>rechercheront</ils>
+	</future>
+	<subjunctive>
+		<je>recherche</je>
+		<tu>recherches</tu>
+		<il>recherche</il>
+		<nous>recherchions</nous>
+		<vous>recherchiez</vous>
+		<ils>recherchent</ils>
+	</subjunctive>
+	<conditional>
+		<je>rechercherais</je>
+		<tu>rechercherais</tu>
+		<il>rechercherait</il>
+		<nous>rechercherions</nous>
+		<vous>rechercheriez</vous>
+		<ils>rechercheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

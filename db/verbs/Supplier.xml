@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>supplier</infinitive>
+	<translation>to beg</translation>
+	<translation>implore</translation>
+	<translation>beseech</translation>
+	<presentParticiple>suppliant</presentParticiple>
+	<pastParticiple>supplié</pastParticiple>
+	<present>
+		<je>supplie</je>
+		<tu>supplies</tu>
+		<il>supplie</il>
+		<nous>supplions</nous>
+		<vous>suppliez</vous>
+		<ils>supplient</ils>
+	</present>
+	<imperative>
+		<tu>supplie</tu>
+		<nous>supplions</nous>
+		<vous>suppliez</vous>
+	</imperative>
+	<imperfect>
+		<je>suppliais</je>
+		<tu>suppliais</tu>
+		<il>suppliait</il>
+		<nous>suppliions</nous>
+		<vous>suppliiez</vous>
+		<ils>suppliaient</ils>
+	</imperfect>
+	<future>
+		<je>supplierai</je>
+		<tu>supplieras</tu>
+		<il>suppliera</il>
+		<nous>supplierons</nous>
+		<vous>supplierez</vous>
+		<ils>supplieront</ils>
+	</future>
+	<subjunctive>
+		<je>supplie</je>
+		<tu>supplies</tu>
+		<il>supplie</il>
+		<nous>suppliions</nous>
+		<vous>suppliiez</vous>
+		<ils>supplient</ils>
+	</subjunctive>
+	<conditional>
+		<je>supplierais</je>
+		<tu>supplierais</tu>
+		<il>supplierait</il>
+		<nous>supplierions</nous>
+		<vous>supplieriez</vous>
+		<ils>supplieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

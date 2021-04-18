@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>descendre</infinitive>
+            <translation>to go down</translation>
+            <translation>descend</translation>
+            <takesEtreInPerfect />
+            <presentParticiple>descendant</presentParticiple>
+            <pastParticiple>descendu</pastParticiple>
+            <present>
+                <je>descends</je>
+                <tu>descends</tu>
+                <il>descend</il>
+                <nous>descendons</nous>
+                <vous>descendez</vous>
+                <ils>descendent</ils>
+            </present>
+            <imperative>
+                <tu>descends</tu>
+                <nous>descendons</nous>
+                <vous>descendez</vous>
+            </imperative>
+            <imperfect>
+                <je>descendais</je>
+                <tu>descendais</tu>
+                <il>descendait</il>
+                <nous>descendions</nous>
+                <vous>descendiez</vous>
+                <ils>descendaient</ils>
+            </imperfect>
+            <future>
+                <je>descendrai</je>
+                <tu>descendras</tu>
+                <il>descendra</il>
+                <nous>descendrons</nous>
+                <vous>descendrez</vous>
+                <ils>descendront</ils>
+            </future>
+            <subjunctive>
+                <je>descende</je>
+                <tu>descendes</tu>
+                <il>descende</il>
+                <nous>descendions</nous>
+                <vous>descendiez</vous>
+                <ils>descendent</ils>
+            </subjunctive>
+            <conditional>
+                <je>descendrais</je>
+                <tu>descendrais</tu>
+                <il>descendrait</il>
+                <nous>descendrions</nous>
+                <vous>descendriez</vous>
+                <ils>descendraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

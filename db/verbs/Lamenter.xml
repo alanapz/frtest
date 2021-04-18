@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>lamenter</infinitive>
+	<translation>to lament</translation>
+	<presentParticiple>lamentant</presentParticiple>
+	<pastParticiple>lamenté</pastParticiple>
+	<present>
+		<je>lamente</je>
+		<tu>lamentes</tu>
+		<il>lamente</il>
+		<nous>lamentons</nous>
+		<vous>lamentez</vous>
+		<ils>lamentent</ils>
+	</present>
+	<imperative>
+		<tu>lamente</tu>
+		<nous>lamentons</nous>
+		<vous>lamentez</vous>
+	</imperative>
+	<imperfect>
+		<je>lamentais</je>
+		<tu>lamentais</tu>
+		<il>lamentait</il>
+		<nous>lamentions</nous>
+		<vous>lamentiez</vous>
+		<ils>lamentaient</ils>
+	</imperfect>
+	<future>
+		<je>lamenterai</je>
+		<tu>lamenteras</tu>
+		<il>lamentera</il>
+		<nous>lamenterons</nous>
+		<vous>lamenterez</vous>
+		<ils>lamenteront</ils>
+	</future>
+	<subjunctive>
+		<je>lamente</je>
+		<tu>lamentes</tu>
+		<il>lamente</il>
+		<nous>lamentions</nous>
+		<vous>lamentiez</vous>
+		<ils>lamentent</ils>
+	</subjunctive>
+	<conditional>
+		<je>lamenterais</je>
+		<tu>lamenterais</tu>
+		<il>lamenterait</il>
+		<nous>lamenterions</nous>
+		<vous>lamenteriez</vous>
+		<ils>lamenteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

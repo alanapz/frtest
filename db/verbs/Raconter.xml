@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>raconter</infinitive>
+	<translation>to tell</translation>
+	<translation>recount</translation>
+	<presentParticiple>racontant</presentParticiple>
+	<pastParticiple>raconté</pastParticiple>
+	<present>
+		<je>raconte</je>
+		<tu>racontes</tu>
+		<il>raconte</il>
+		<nous>racontons</nous>
+		<vous>racontez</vous>
+		<ils>racontent</ils>
+	</present>
+	<imperative>
+		<tu>raconte</tu>
+		<nous>racontons</nous>
+		<vous>racontez</vous>
+	</imperative>
+	<imperfect>
+		<je>racontais</je>
+		<tu>racontais</tu>
+		<il>racontait</il>
+		<nous>racontions</nous>
+		<vous>racontiez</vous>
+		<ils>racontaient</ils>
+	</imperfect>
+	<future>
+		<je>raconterai</je>
+		<tu>raconteras</tu>
+		<il>racontera</il>
+		<nous>raconterons</nous>
+		<vous>raconterez</vous>
+		<ils>raconteront</ils>
+	</future>
+	<subjunctive>
+		<je>raconte</je>
+		<tu>racontes</tu>
+		<il>raconte</il>
+		<nous>racontions</nous>
+		<vous>racontiez</vous>
+		<ils>racontent</ils>
+	</subjunctive>
+	<conditional>
+		<je>raconterais</je>
+		<tu>raconterais</tu>
+		<il>raconterait</il>
+		<nous>raconterions</nous>
+		<vous>raconteriez</vous>
+		<ils>raconteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

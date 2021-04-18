@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>examiner</infinitive>
+	<translation>to examine</translation>
+	<presentParticiple>examinant</presentParticiple>
+	<pastParticiple>examiné</pastParticiple>
+	<present>
+		<je>examine</je>
+		<tu>examines</tu>
+		<il>examine</il>
+		<nous>examinons</nous>
+		<vous>examinez</vous>
+		<ils>examinent</ils>
+	</present>
+	<imperative>
+		<tu>examine</tu>
+		<nous>examinons</nous>
+		<vous>examinez</vous>
+	</imperative>
+	<imperfect>
+		<je>examinais</je>
+		<tu>examinais</tu>
+		<il>examinait</il>
+		<nous>examinions</nous>
+		<vous>examiniez</vous>
+		<ils>examinaient</ils>
+	</imperfect>
+	<future>
+		<je>examinerai</je>
+		<tu>examineras</tu>
+		<il>examinera</il>
+		<nous>examinerons</nous>
+		<vous>examinerez</vous>
+		<ils>examineront</ils>
+	</future>
+	<subjunctive>
+		<je>examine</je>
+		<tu>examines</tu>
+		<il>examine</il>
+		<nous>examinions</nous>
+		<vous>examiniez</vous>
+		<ils>examinent</ils>
+	</subjunctive>
+	<conditional>
+		<je>examinerais</je>
+		<tu>examinerais</tu>
+		<il>examinerait</il>
+		<nous>examinerions</nous>
+		<vous>examineriez</vous>
+		<ils>examineraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

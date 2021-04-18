@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>presser</infinitive>
+	<translation>to squeeze</translation>
+	<presentParticiple>pressant</presentParticiple>
+	<pastParticiple>pressé</pastParticiple>
+	<present>
+		<je>presse</je>
+		<tu>presses</tu>
+		<il>presse</il>
+		<nous>pressons</nous>
+		<vous>pressez</vous>
+		<ils>pressent</ils>
+	</present>
+	<imperative>
+		<tu>presse</tu>
+		<nous>pressons</nous>
+		<vous>pressez</vous>
+	</imperative>
+	<imperfect>
+		<je>pressais</je>
+		<tu>pressais</tu>
+		<il>pressait</il>
+		<nous>pressions</nous>
+		<vous>pressiez</vous>
+		<ils>pressaient</ils>
+	</imperfect>
+	<future>
+		<je>presserai</je>
+		<tu>presseras</tu>
+		<il>pressera</il>
+		<nous>presserons</nous>
+		<vous>presserez</vous>
+		<ils>presseront</ils>
+	</future>
+	<subjunctive>
+		<je>presse</je>
+		<tu>presses</tu>
+		<il>presse</il>
+		<nous>pressions</nous>
+		<vous>pressiez</vous>
+		<ils>pressent</ils>
+	</subjunctive>
+	<conditional>
+		<je>presserais</je>
+		<tu>presserais</tu>
+		<il>presserait</il>
+		<nous>presserions</nous>
+		<vous>presseriez</vous>
+		<ils>presseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

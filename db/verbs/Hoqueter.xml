@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>hoqueter</infinitive>
+	<translation>to hiccup</translation>
+	<stemChange />
+	<presentParticiple>hoquetant</presentParticiple>
+	<pastParticiple>hoqueté</pastParticiple>
+	<present>
+		<je>hoquette</je>
+		<tu>hoquettes</tu>
+		<il>hoquette</il>
+		<nous>hoquetons</nous>
+		<vous>hoquetez</vous>
+		<ils>hoquettent</ils>
+	</present>
+	<imperative>
+		<tu>hoquette</tu>
+		<nous>hoquetons</nous>
+		<vous>hoquetez</vous>
+	</imperative>
+	<imperfect>
+		<je>hoquetais</je>
+		<tu>hoquetais</tu>
+		<il>hoquetait</il>
+		<nous>hoquetions</nous>
+		<vous>hoquetiez</vous>
+		<ils>hoquetaient</ils>
+	</imperfect>
+	<future>
+		<je>hoquetterai</je>
+		<tu>hoquetteras</tu>
+		<il>hoquettera</il>
+		<nous>hoquetterons</nous>
+		<vous>hoquetterez</vous>
+		<ils>hoquetteront</ils>
+	</future>
+	<subjunctive>
+		<je>hoquette</je>
+		<tu>hoquettes</tu>
+		<il>hoquette</il>
+		<nous>hoquetions</nous>
+		<vous>hoquetiez</vous>
+		<ils>hoquettent</ils>
+	</subjunctive>
+	<conditional>
+		<je>hoquetterais</je>
+		<tu>hoquetterais</tu>
+		<il>hoquetterait</il>
+		<nous>hoquetterions</nous>
+		<vous>hoquetteriez</vous>
+		<ils>hoquetteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

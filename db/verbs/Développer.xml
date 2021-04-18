@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>développer</infinitive>
+	<translation>to develop</translation>
+	<presentParticiple>développant</presentParticiple>
+	<pastParticiple>développé</pastParticiple>
+	<present>
+		<je>développe</je>
+		<tu>développes</tu>
+		<il>développe</il>
+		<nous>développons</nous>
+		<vous>développez</vous>
+		<ils>développent</ils>
+	</present>
+	<imperative>
+		<tu>développe</tu>
+		<nous>développons</nous>
+		<vous>développez</vous>
+	</imperative>
+	<imperfect>
+		<je>développais</je>
+		<tu>développais</tu>
+		<il>développait</il>
+		<nous>développions</nous>
+		<vous>développiez</vous>
+		<ils>développaient</ils>
+	</imperfect>
+	<future>
+		<je>développerai</je>
+		<tu>développeras</tu>
+		<il>développera</il>
+		<nous>développerons</nous>
+		<vous>développerez</vous>
+		<ils>développeront</ils>
+	</future>
+	<subjunctive>
+		<je>développe</je>
+		<tu>développes</tu>
+		<il>développe</il>
+		<nous>développions</nous>
+		<vous>développiez</vous>
+		<ils>développent</ils>
+	</subjunctive>
+	<conditional>
+		<je>développerais</je>
+		<tu>développerais</tu>
+		<il>développerait</il>
+		<nous>développerions</nous>
+		<vous>développeriez</vous>
+		<ils>développeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

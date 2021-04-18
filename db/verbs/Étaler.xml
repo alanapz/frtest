@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>étaler</infinitive>
+	<translation>to spread</translation>
+	<translation>strew</translation>
+	<presentParticiple>étalant</presentParticiple>
+	<pastParticiple>étalé</pastParticiple>
+	<present>
+		<je>étale</je>
+		<tu>étales</tu>
+		<il>étale</il>
+		<nous>étalons</nous>
+		<vous>étalez</vous>
+		<ils>étalent</ils>
+	</present>
+	<imperative>
+		<tu>étale</tu>
+		<nous>étalons</nous>
+		<vous>étalez</vous>
+	</imperative>
+	<imperfect>
+		<je>étalais</je>
+		<tu>étalais</tu>
+		<il>étalait</il>
+		<nous>étalions</nous>
+		<vous>étaliez</vous>
+		<ils>étalaient</ils>
+	</imperfect>
+	<future>
+		<je>étalerai</je>
+		<tu>étaleras</tu>
+		<il>étalera</il>
+		<nous>étalerons</nous>
+		<vous>étalerez</vous>
+		<ils>étaleront</ils>
+	</future>
+	<subjunctive>
+		<je>étale</je>
+		<tu>étales</tu>
+		<il>étale</il>
+		<nous>étalions</nous>
+		<vous>étaliez</vous>
+		<ils>étalent</ils>
+	</subjunctive>
+	<conditional>
+		<je>étalerais</je>
+		<tu>étalerais</tu>
+		<il>étalerait</il>
+		<nous>étalerions</nous>
+		<vous>étaleriez</vous>
+		<ils>étaleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

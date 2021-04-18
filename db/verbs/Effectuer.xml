@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>effectuer</infinitive>
+	<translation>to carry out</translation>
+	<translation>make happen</translation>
+	<presentParticiple>effectuant</presentParticiple>
+	<pastParticiple>effectué</pastParticiple>
+	<present>
+		<je>effectue</je>
+		<tu>effectues</tu>
+		<il>effectue</il>
+		<nous>effectuons</nous>
+		<vous>effectuez</vous>
+		<ils>effectuent</ils>
+	</present>
+	<imperative>
+		<tu>effectue</tu>
+		<nous>effectuons</nous>
+		<vous>effectuez</vous>
+	</imperative>
+	<imperfect>
+		<je>effectuais</je>
+		<tu>effectuais</tu>
+		<il>effectuait</il>
+		<nous>effectuions</nous>
+		<vous>effectuiez</vous>
+		<ils>effectuaient</ils>
+	</imperfect>
+	<future>
+		<je>effectuerai</je>
+		<tu>effectueras</tu>
+		<il>effectuera</il>
+		<nous>effectuerons</nous>
+		<vous>effectuerez</vous>
+		<ils>effectueront</ils>
+	</future>
+	<subjunctive>
+		<je>effectue</je>
+		<tu>effectues</tu>
+		<il>effectue</il>
+		<nous>effectuions</nous>
+		<vous>effectuiez</vous>
+		<ils>effectuent</ils>
+	</subjunctive>
+	<conditional>
+		<je>effectuerais</je>
+		<tu>effectuerais</tu>
+		<il>effectuerait</il>
+		<nous>effectuerions</nous>
+		<vous>effectueriez</vous>
+		<ils>effectueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

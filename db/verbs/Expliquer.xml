@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>expliquer</infinitive>
+	<translation>to explain</translation>
+	<presentParticiple>expliquant</presentParticiple>
+	<pastParticiple>expliqué</pastParticiple>
+	<present>
+		<je>explique</je>
+		<tu>expliques</tu>
+		<il>explique</il>
+		<nous>expliquons</nous>
+		<vous>expliquez</vous>
+		<ils>expliquent</ils>
+	</present>
+	<imperative>
+		<tu>explique</tu>
+		<nous>expliquons</nous>
+		<vous>expliquez</vous>
+	</imperative>
+	<imperfect>
+		<je>expliquais</je>
+		<tu>expliquais</tu>
+		<il>expliquait</il>
+		<nous>expliquions</nous>
+		<vous>expliquiez</vous>
+		<ils>expliquaient</ils>
+	</imperfect>
+	<future>
+		<je>expliquerai</je>
+		<tu>expliqueras</tu>
+		<il>expliquera</il>
+		<nous>expliquerons</nous>
+		<vous>expliquerez</vous>
+		<ils>expliqueront</ils>
+	</future>
+	<subjunctive>
+		<je>explique</je>
+		<tu>expliques</tu>
+		<il>explique</il>
+		<nous>expliquions</nous>
+		<vous>expliquiez</vous>
+		<ils>expliquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>expliquerais</je>
+		<tu>expliquerais</tu>
+		<il>expliquerait</il>
+		<nous>expliquerions</nous>
+		<vous>expliqueriez</vous>
+		<ils>expliqueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

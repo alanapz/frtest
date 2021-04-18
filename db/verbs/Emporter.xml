@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>emporter</infinitive>
+	<translation>to take</translation>
+	<presentParticiple>emportant</presentParticiple>
+	<pastParticiple>emporté</pastParticiple>
+	<present>
+		<je>emporte</je>
+		<tu>emportes</tu>
+		<il>emporte</il>
+		<nous>emportons</nous>
+		<vous>emportez</vous>
+		<ils>emportent</ils>
+	</present>
+	<imperative>
+		<tu>emporte</tu>
+		<nous>emportons</nous>
+		<vous>emportez</vous>
+	</imperative>
+	<imperfect>
+		<je>emportais</je>
+		<tu>emportais</tu>
+		<il>emportait</il>
+		<nous>emportions</nous>
+		<vous>emportiez</vous>
+		<ils>emportaient</ils>
+	</imperfect>
+	<future>
+		<je>emporterai</je>
+		<tu>emporteras</tu>
+		<il>emportera</il>
+		<nous>emporterons</nous>
+		<vous>emporterez</vous>
+		<ils>emporteront</ils>
+	</future>
+	<subjunctive>
+		<je>emporte</je>
+		<tu>emportes</tu>
+		<il>emporte</il>
+		<nous>emportions</nous>
+		<vous>emportiez</vous>
+		<ils>emportent</ils>
+	</subjunctive>
+	<conditional>
+		<je>emporterais</je>
+		<tu>emporterais</tu>
+		<il>emporterait</il>
+		<nous>emporterions</nous>
+		<vous>emporteriez</vous>
+		<ils>emporteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

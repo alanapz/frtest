@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>répondre</infinitive>
+            <translation>to answer</translation>
+            <presentParticiple>répondant</presentParticiple>
+            <pastParticiple>répondu</pastParticiple>
+            <present>
+                <je>réponds</je>
+                <tu>réponds</tu>
+                <il>répond</il>
+                <nous>répondons</nous>
+                <vous>répondez</vous>
+                <ils>répondent</ils>
+            </present>
+            <imperative>
+                <tu>réponds</tu>
+                <nous>répondons</nous>
+                <vous>répondez</vous>
+            </imperative>
+            <imperfect>
+                <je>répondais</je>
+                <tu>répondais</tu>
+                <il>répondait</il>
+                <nous>répondions</nous>
+                <vous>répondiez</vous>
+                <ils>répondaient</ils>
+            </imperfect>
+            <future>
+                <je>répondrai</je>
+                <tu>répondras</tu>
+                <il>répondra</il>
+                <nous>répondrons</nous>
+                <vous>répondrez</vous>
+                <ils>répondront</ils>
+            </future>
+            <subjunctive>
+                <je>réponde</je>
+                <tu>répondes</tu>
+                <il>réponde</il>
+                <nous>répondions</nous>
+                <vous>répondiez</vous>
+                <ils>répondent</ils>
+            </subjunctive>
+            <conditional>
+                <je>répondrais</je>
+                <tu>répondrais</tu>
+                <il>répondrait</il>
+                <nous>répondrions</nous>
+                <vous>répondriez</vous>
+                <ils>répondraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

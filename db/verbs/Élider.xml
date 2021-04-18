@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>élider</infinitive>
+	<translation>to elide</translation>
+	<presentParticiple>élidant</presentParticiple>
+	<pastParticiple>élidé</pastParticiple>
+	<present>
+		<je>élide</je>
+		<tu>élides</tu>
+		<il>élide</il>
+		<nous>élidons</nous>
+		<vous>élidez</vous>
+		<ils>élident</ils>
+	</present>
+	<imperative>
+		<tu>élide</tu>
+		<nous>élidons</nous>
+		<vous>élidez</vous>
+	</imperative>
+	<imperfect>
+		<je>élidais</je>
+		<tu>élidais</tu>
+		<il>élidait</il>
+		<nous>élidions</nous>
+		<vous>élidiez</vous>
+		<ils>élidaient</ils>
+	</imperfect>
+	<future>
+		<je>éliderai</je>
+		<tu>élideras</tu>
+		<il>élidera</il>
+		<nous>éliderons</nous>
+		<vous>éliderez</vous>
+		<ils>élideront</ils>
+	</future>
+	<subjunctive>
+		<je>élide</je>
+		<tu>élides</tu>
+		<il>élide</il>
+		<nous>élidions</nous>
+		<vous>élidiez</vous>
+		<ils>élident</ils>
+	</subjunctive>
+	<conditional>
+		<je>éliderais</je>
+		<tu>éliderais</tu>
+		<il>éliderait</il>
+		<nous>éliderions</nous>
+		<vous>élideriez</vous>
+		<ils>élideraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

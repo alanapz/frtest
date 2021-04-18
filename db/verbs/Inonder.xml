@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>inonder</infinitive>
+	<translation>to flood</translation>
+	<presentParticiple>inondant</presentParticiple>
+	<pastParticiple>inondé</pastParticiple>
+	<present>
+		<je>inonde</je>
+		<tu>inondes</tu>
+		<il>inonde</il>
+		<nous>inondons</nous>
+		<vous>inondez</vous>
+		<ils>inondent</ils>
+	</present>
+	<imperative>
+		<tu>inonde</tu>
+		<nous>inondons</nous>
+		<vous>inondez</vous>
+	</imperative>
+	<imperfect>
+		<je>inondais</je>
+		<tu>inondais</tu>
+		<il>inondait</il>
+		<nous>inondions</nous>
+		<vous>inondiez</vous>
+		<ils>inondaient</ils>
+	</imperfect>
+	<future>
+		<je>inonderai</je>
+		<tu>inonderas</tu>
+		<il>inondera</il>
+		<nous>inonderons</nous>
+		<vous>inonderez</vous>
+		<ils>inonderont</ils>
+	</future>
+	<subjunctive>
+		<je>inonde</je>
+		<tu>inondes</tu>
+		<il>inonde</il>
+		<nous>inondions</nous>
+		<vous>inondiez</vous>
+		<ils>inondent</ils>
+	</subjunctive>
+	<conditional>
+		<je>inonderais</je>
+		<tu>inonderais</tu>
+		<il>inonderait</il>
+		<nous>inonderions</nous>
+		<vous>inonderiez</vous>
+		<ils>inonderaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

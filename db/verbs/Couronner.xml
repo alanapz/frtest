@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>couronner</infinitive>
+	<translation>to crown</translation>
+	<translation>award</translation>
+	<presentParticiple>couronnant</presentParticiple>
+	<pastParticiple>couronné</pastParticiple>
+	<present>
+		<je>couronne</je>
+		<tu>couronnes</tu>
+		<il>couronne</il>
+		<nous>couronnons</nous>
+		<vous>couronnez</vous>
+		<ils>couronnent</ils>
+	</present>
+	<imperative>
+		<tu>couronne</tu>
+		<nous>couronnons</nous>
+		<vous>couronnez</vous>
+	</imperative>
+	<imperfect>
+		<je>couronnais</je>
+		<tu>couronnais</tu>
+		<il>couronnait</il>
+		<nous>couronnions</nous>
+		<vous>couronniez</vous>
+		<ils>couronnaient</ils>
+	</imperfect>
+	<future>
+		<je>couronnerai</je>
+		<tu>couronneras</tu>
+		<il>couronnera</il>
+		<nous>couronnerons</nous>
+		<vous>couronnerez</vous>
+		<ils>couronneront</ils>
+	</future>
+	<subjunctive>
+		<je>couronne</je>
+		<tu>couronnes</tu>
+		<il>couronne</il>
+		<nous>couronnions</nous>
+		<vous>couronniez</vous>
+		<ils>couronnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>couronnerais</je>
+		<tu>couronnerais</tu>
+		<il>couronnerait</il>
+		<nous>couronnerions</nous>
+		<vous>couronneriez</vous>
+		<ils>couronneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

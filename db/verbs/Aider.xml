@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>aider</infinitive>
+	<translation>to help</translation>
+	<presentParticiple>aidant</presentParticiple>
+	<pastParticiple>aidé</pastParticiple>
+	<present>
+		<je>aide</je>
+		<tu>aides</tu>
+		<il>aide</il>
+		<nous>aidons</nous>
+		<vous>aidez</vous>
+		<ils>aident</ils>
+	</present>
+	<imperative>
+		<tu>aide</tu>
+		<nous>aidons</nous>
+		<vous>aidez</vous>
+	</imperative>
+	<imperfect>
+		<je>aidais</je>
+		<tu>aidais</tu>
+		<il>aidait</il>
+		<nous>aidions</nous>
+		<vous>aidiez</vous>
+		<ils>aidaient</ils>
+	</imperfect>
+	<future>
+		<je>aiderai</je>
+		<tu>aideras</tu>
+		<il>aidera</il>
+		<nous>aiderons</nous>
+		<vous>aiderez</vous>
+		<ils>aideront</ils>
+	</future>
+	<subjunctive>
+		<je>aide</je>
+		<tu>aides</tu>
+		<il>aide</il>
+		<nous>aidions</nous>
+		<vous>aidiez</vous>
+		<ils>aident</ils>
+	</subjunctive>
+	<conditional>
+		<je>aiderais</je>
+		<tu>aiderais</tu>
+		<il>aiderait</il>
+		<nous>aiderions</nous>
+		<vous>aideriez</vous>
+		<ils>aideraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

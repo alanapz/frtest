@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>omettre</infinitive>
+	<translation>to omit</translation>
+	<irregular />
+	<presentParticiple>omettant</presentParticiple>
+	<pastParticiple>omis</pastParticiple>
+	<present>
+		<je>omets</je>
+		<tu>omets</tu>
+		<il>omet</il>
+		<nous>omettons</nous>
+		<vous>omettez</vous>
+		<ils>omettent</ils>
+	</present>
+	<imperative>
+		<tu>omets</tu>
+		<nous>omettons</nous>
+		<vous>omettez</vous>
+	</imperative>
+	<imperfect>
+		<je>omettais</je>
+		<tu>omettais</tu>
+		<il>omettait</il>
+		<nous>omettions</nous>
+		<vous>omettiez</vous>
+		<ils>omettaient</ils>
+	</imperfect>
+	<future>
+		<je>omettrai</je>
+		<tu>omettras</tu>
+		<il>omettra</il>
+		<nous>omettrons</nous>
+		<vous>omettrez</vous>
+		<ils>omettront</ils>
+	</future>
+	<subjunctive>
+		<je>omette</je>
+		<tu>omettes</tu>
+		<il>omette</il>
+		<nous>omettions</nous>
+		<vous>omettiez</vous>
+		<ils>omettent</ils>
+	</subjunctive>
+	<conditional>
+		<je>omettrais</je>
+		<tu>omettrais</tu>
+		<il>omettrait</il>
+		<nous>omettrions</nous>
+		<vous>omettriez</vous>
+		<ils>omettraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

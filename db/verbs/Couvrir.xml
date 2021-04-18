@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>couvrir</infinitive>
+	<translation>to cover</translation>
+	<irregular />
+	<presentParticiple>couvrant</presentParticiple>
+	<pastParticiple>couvert</pastParticiple>
+	<present>
+		<je>couvre</je>
+		<tu>couvres</tu>
+		<il>couvre</il>
+		<nous>couvrons</nous>
+		<vous>couvrez</vous>
+		<ils>couvrent</ils>
+	</present>
+	<imperative>
+		<tu>couvre</tu>
+		<nous>couvrons</nous>
+		<vous>couvrez</vous>
+	</imperative>
+	<imperfect>
+		<je>couvrais</je>
+		<tu>couvrais</tu>
+		<il>couvrait</il>
+		<nous>couvrions</nous>
+		<vous>couvriez</vous>
+		<ils>couvraient</ils>
+	</imperfect>
+	<future>
+		<je>couvrirai</je>
+		<tu>couvriras</tu>
+		<il>couvrira</il>
+		<nous>couvrirons</nous>
+		<vous>couvrirez</vous>
+		<ils>couvriront</ils>
+	</future>
+	<subjunctive>
+		<je>couvre</je>
+		<tu>couvres</tu>
+		<il>couvre</il>
+		<nous>couvrions</nous>
+		<vous>couvriez</vous>
+		<ils>couvrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>couvrirais</je>
+		<tu>couvrirais</tu>
+		<il>couvrirait</il>
+		<nous>couvririons</nous>
+		<vous>couvririez</vous>
+		<ils>couvriraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

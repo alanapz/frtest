@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>réserver</infinitive>
+            <translation>to reserve</translation>
+            <presentParticiple>réservant</presentParticiple>
+            <pastParticiple>réservé</pastParticiple>
+            <present>
+                <je>réserve</je>
+                <tu>réserves</tu>
+                <il>réserve</il>
+                <nous>réservons</nous>
+                <vous>réservez</vous>
+                <ils>réservent</ils>
+            </present>
+            <imperative>
+                <tu>réserve</tu>
+                <nous>réservons</nous>
+                <vous>réservez</vous>
+            </imperative>
+            <imperfect>
+                <je>réservais</je>
+                <tu>réservais</tu>
+                <il>réservait</il>
+                <nous>réservions</nous>
+                <vous>réserviez</vous>
+                <ils>réservaient</ils>
+            </imperfect>
+            <future>
+                <je>réserverai</je>
+                <tu>réserveras</tu>
+                <il>réservera</il>
+                <nous>réserverons</nous>
+                <vous>réserverez</vous>
+                <ils>réserveront</ils>
+            </future>
+            <subjunctive>
+                <je>réserve</je>
+                <tu>réserves</tu>
+                <il>réserve</il>
+                <nous>réservions</nous>
+                <vous>réserviez</vous>
+                <ils>réservent</ils>
+            </subjunctive>
+            <conditional>
+                <je>réserverais</je>
+                <tu>réserverais</tu>
+                <il>réserverait</il>
+                <nous>réserverions</nous>
+                <vous>réserveriez</vous>
+                <ils>réserveraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

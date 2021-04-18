@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>combler</infinitive>
+	<translation>to fill in</translation>
+	<translation>to fulfill</translation>
+	<translation>make up</translation>
+	<presentParticiple>comblant</presentParticiple>
+	<pastParticiple>comblé</pastParticiple>
+	<present>
+		<je>comble</je>
+		<tu>combles</tu>
+		<il>comble</il>
+		<nous>comblons</nous>
+		<vous>comblez</vous>
+		<ils>comblent</ils>
+	</present>
+	<imperative>
+		<tu>comble</tu>
+		<nous>comblons</nous>
+		<vous>comblez</vous>
+	</imperative>
+	<imperfect>
+		<je>comblais</je>
+		<tu>comblais</tu>
+		<il>comblait</il>
+		<nous>comblions</nous>
+		<vous>combliez</vous>
+		<ils>comblaient</ils>
+	</imperfect>
+	<future>
+		<je>comblerai</je>
+		<tu>combleras</tu>
+		<il>comblera</il>
+		<nous>comblerons</nous>
+		<vous>comblerez</vous>
+		<ils>combleront</ils>
+	</future>
+	<subjunctive>
+		<je>comble</je>
+		<tu>combles</tu>
+		<il>comble</il>
+		<nous>comblions</nous>
+		<vous>combliez</vous>
+		<ils>comblent</ils>
+	</subjunctive>
+	<conditional>
+		<je>comblerais</je>
+		<tu>comblerais</tu>
+		<il>comblerait</il>
+		<nous>comblerions</nous>
+		<vous>combleriez</vous>
+		<ils>combleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>circonscrire</infinitive>
+	<translation>to contain</translation>
+	<translation>to confine</translation>
+	<irregular />
+	<presentParticiple>circonscrivant</presentParticiple>
+	<pastParticiple>circonscrit</pastParticiple>
+	<present>
+		<je>circonscris</je>
+		<tu>circonscris</tu>
+		<il>circonscrit</il>
+		<nous>circonscrivons</nous>
+		<vous>circonscrivez</vous>
+		<ils>circonscrivent</ils>
+	</present>
+	<imperative>
+		<tu>circonscris</tu>
+		<nous>circonscrivons</nous>
+		<vous>circonscrivez</vous>
+	</imperative>
+	<imperfect>
+		<je>circonscrivais</je>
+		<tu>circonscrivais</tu>
+		<il>circonscrivait</il>
+		<nous>circonscrivions</nous>
+		<vous>circonscriviez</vous>
+		<ils>circonscrivaient</ils>
+	</imperfect>
+	<future>
+		<je>circonscrirai</je>
+		<tu>circonscriras</tu>
+		<il>circonscrira</il>
+		<nous>circonscrirons</nous>
+		<vous>circonscrirez</vous>
+		<ils>circonscriront</ils>
+	</future>
+	<subjunctive>
+		<je>circonscrive</je>
+		<tu>circonscrives</tu>
+		<il>circonscrive</il>
+		<nous>circonscrivions</nous>
+		<vous>circonscriviez</vous>
+		<ils>circonscrivent</ils>
+	</subjunctive>
+	<conditional>
+		<je>circonscrirais</je>
+		<tu>circonscrirais</tu>
+		<il>circonscrirait</il>
+		<nous>circonscririons</nous>
+		<vous>circonscririez</vous>
+		<ils>circonscriraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

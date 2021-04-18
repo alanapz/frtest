@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>relever</infinitive>
+            <translation>to re-stand-up</translation>
+            <stemChange />
+            <presentParticiple>relevant</presentParticiple>
+            <pastParticiple>relevé</pastParticiple>
+            <present>
+                <je>relève</je>
+                <tu>relèves</tu>
+                <il>relève</il>
+                <nous>relevons</nous>
+                <vous>relevez</vous>
+                <ils>relèvent</ils>
+            </present>
+            <imperative>
+                <tu>relève</tu>
+                <nous>relevons</nous>
+                <vous>relevez</vous>
+            </imperative>
+            <imperfect>
+                <je>relevais</je>
+                <tu>relevais</tu>
+                <il>relevait</il>
+                <nous>relevions</nous>
+                <vous>releviez</vous>
+                <ils>relevaient</ils>
+            </imperfect>
+            <future>
+                <je>relèverai</je>
+                <tu>relèveras</tu>
+                <il>relèvera</il>
+                <nous>relèverons</nous>
+                <vous>relèverez</vous>
+                <ils>relèveront</ils>
+            </future>
+            <subjunctive>
+                <je>relève</je>
+                <tu>relèves</tu>
+                <il>relève</il>
+                <nous>relevions</nous>
+                <vous>releviez</vous>
+                <ils>relèvent</ils>
+            </subjunctive>
+            <conditional>
+                <je>relèverais</je>
+                <tu>relèverais</tu>
+                <il>relèverait</il>
+                <nous>relèverions</nous>
+                <vous>relèveriez</vous>
+                <ils>relèveraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>tenter</infinitive>
+	<translation>to try</translation>
+	<translation>attempt</translation>
+	<presentParticiple>tentant</presentParticiple>
+	<pastParticiple>tenté</pastParticiple>
+	<present>
+		<je>tente</je>
+		<tu>tentes</tu>
+		<il>tente</il>
+		<nous>tentons</nous>
+		<vous>tentez</vous>
+		<ils>tentent</ils>
+	</present>
+	<imperative>
+		<tu>tente</tu>
+		<nous>tentons</nous>
+		<vous>tentez</vous>
+	</imperative>
+	<imperfect>
+		<je>tentais</je>
+		<tu>tentais</tu>
+		<il>tentait</il>
+		<nous>tentions</nous>
+		<vous>tentiez</vous>
+		<ils>tentaient</ils>
+	</imperfect>
+	<future>
+		<je>tenterai</je>
+		<tu>tenteras</tu>
+		<il>tentera</il>
+		<nous>tenterons</nous>
+		<vous>tenterez</vous>
+		<ils>tenteront</ils>
+	</future>
+	<subjunctive>
+		<je>tente</je>
+		<tu>tentes</tu>
+		<il>tente</il>
+		<nous>tentions</nous>
+		<vous>tentiez</vous>
+		<ils>tentent</ils>
+	</subjunctive>
+	<conditional>
+		<je>tenterais</je>
+		<tu>tenterais</tu>
+		<il>tenterait</il>
+		<nous>tenterions</nous>
+		<vous>tenteriez</vous>
+		<ils>tenteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

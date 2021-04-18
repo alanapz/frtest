@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>naviguer</infinitive>
+	<translation>to navigate</translation>
+	<presentParticiple>naviguant</presentParticiple>
+	<pastParticiple>navigué</pastParticiple>
+	<present>
+		<je>navigue</je>
+		<tu>navigues</tu>
+		<il>navigue</il>
+		<nous>naviguons</nous>
+		<vous>naviguez</vous>
+		<ils>naviguent</ils>
+	</present>
+	<imperative>
+		<tu>navigue</tu>
+		<nous>naviguons</nous>
+		<vous>naviguez</vous>
+	</imperative>
+	<imperfect>
+		<je>naviguais</je>
+		<tu>naviguais</tu>
+		<il>naviguait</il>
+		<nous>naviguions</nous>
+		<vous>naviguiez</vous>
+		<ils>naviguaient</ils>
+	</imperfect>
+	<future>
+		<je>naviguerai</je>
+		<tu>navigueras</tu>
+		<il>naviguera</il>
+		<nous>naviguerons</nous>
+		<vous>naviguerez</vous>
+		<ils>navigueront</ils>
+	</future>
+	<subjunctive>
+		<je>navigue</je>
+		<tu>navigues</tu>
+		<il>navigue</il>
+		<nous>naviguions</nous>
+		<vous>naviguiez</vous>
+		<ils>naviguent</ils>
+	</subjunctive>
+	<conditional>
+		<je>naviguerais</je>
+		<tu>naviguerais</tu>
+		<il>naviguerait</il>
+		<nous>naviguerions</nous>
+		<vous>navigueriez</vous>
+		<ils>navigueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

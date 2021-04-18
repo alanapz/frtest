@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>bondir</infinitive>
+	<translation>to jump up</translation>
+	<translation>bounce</translation>
+	<presentParticiple>bondissant</presentParticiple>
+	<pastParticiple>bondi</pastParticiple>
+	<present>
+		<je>bondis</je>
+		<tu>bondis</tu>
+		<il>bondit</il>
+		<nous>bondissons</nous>
+		<vous>bondissez</vous>
+		<ils>bondissent</ils>
+	</present>
+	<imperative>
+		<tu>bondis</tu>
+		<nous>bondissons</nous>
+		<vous>bondissez</vous>
+	</imperative>
+	<imperfect>
+		<je>bondissais</je>
+		<tu>bondissais</tu>
+		<il>bondissait</il>
+		<nous>bondissions</nous>
+		<vous>bondissiez</vous>
+		<ils>bondissaient</ils>
+	</imperfect>
+	<future>
+		<je>bondirai</je>
+		<tu>bondiras</tu>
+		<il>bondira</il>
+		<nous>bondirons</nous>
+		<vous>bondirez</vous>
+		<ils>bondiront</ils>
+	</future>
+	<subjunctive>
+		<je>bondisse</je>
+		<tu>bondisses</tu>
+		<il>bondisse</il>
+		<nous>bondissions</nous>
+		<vous>bondissiez</vous>
+		<ils>bondissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>bondirais</je>
+		<tu>bondirais</tu>
+		<il>bondirait</il>
+		<nous>bondirions</nous>
+		<vous>bondiriez</vous>
+		<ils>bondiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

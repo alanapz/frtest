@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>inspecter</infinitive>
+	<translation>to inspect</translation>
+	<presentParticiple>inspectant</presentParticiple>
+	<pastParticiple>inspecté</pastParticiple>
+	<present>
+		<je>inspecte</je>
+		<tu>inspectes</tu>
+		<il>inspecte</il>
+		<nous>inspectons</nous>
+		<vous>inspectez</vous>
+		<ils>inspectent</ils>
+	</present>
+	<imperative>
+		<tu>inspecte</tu>
+		<nous>inspectons</nous>
+		<vous>inspectez</vous>
+	</imperative>
+	<imperfect>
+		<je>inspectais</je>
+		<tu>inspectais</tu>
+		<il>inspectait</il>
+		<nous>inspections</nous>
+		<vous>inspectiez</vous>
+		<ils>inspectaient</ils>
+	</imperfect>
+	<future>
+		<je>inspecterai</je>
+		<tu>inspecteras</tu>
+		<il>inspectera</il>
+		<nous>inspecterons</nous>
+		<vous>inspecterez</vous>
+		<ils>inspecteront</ils>
+	</future>
+	<subjunctive>
+		<je>inspecte</je>
+		<tu>inspectes</tu>
+		<il>inspecte</il>
+		<nous>inspections</nous>
+		<vous>inspectiez</vous>
+		<ils>inspectent</ils>
+	</subjunctive>
+	<conditional>
+		<je>inspecterais</je>
+		<tu>inspecterais</tu>
+		<il>inspecterait</il>
+		<nous>inspecterions</nous>
+		<vous>inspecteriez</vous>
+		<ils>inspecteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

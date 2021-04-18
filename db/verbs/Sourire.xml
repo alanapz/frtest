@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>sourire</infinitive>
+	<translation>to smile</translation>
+	<irregular />
+	<presentParticiple>souriant</presentParticiple>
+	<pastParticiple>souri</pastParticiple>
+	<present>
+		<je>souris</je>
+		<tu>souris</tu>
+		<il>sourit</il>
+		<nous>sourions</nous>
+		<vous>souriez</vous>
+		<ils>sourient</ils>
+	</present>
+	<imperative>
+		<tu>souris</tu>
+		<nous>sourions</nous>
+		<vous>souriez</vous>
+	</imperative>
+	<imperfect>
+		<je>souriais</je>
+		<tu>souriais</tu>
+		<il>souriait</il>
+		<nous>souriions</nous>
+		<vous>souriiez</vous>
+		<ils>souriaient</ils>
+	</imperfect>
+	<future>
+		<je>sourirai</je>
+		<tu>souriras</tu>
+		<il>sourira</il>
+		<nous>sourirons</nous>
+		<vous>sourirez</vous>
+		<ils>souriront</ils>
+	</future>
+	<subjunctive>
+		<je>sourie</je>
+		<tu>souries</tu>
+		<il>sourie</il>
+		<nous>souriions</nous>
+		<vous>souriiez</vous>
+		<ils>sourient</ils>
+	</subjunctive>
+	<conditional>
+		<je>sourirais</je>
+		<tu>sourirais</tu>
+		<il>sourirait</il>
+		<nous>souririons</nous>
+		<vous>souririez</vous>
+		<ils>souriraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

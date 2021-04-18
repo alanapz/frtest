@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dénoter</infinitive>
+	<translation>to indicate</translation>
+	<translation>denote</translation>
+	<presentParticiple>dénotant</presentParticiple>
+	<pastParticiple>dénoté</pastParticiple>
+	<present>
+		<je>dénote</je>
+		<tu>dénotes</tu>
+		<il>dénote</il>
+		<nous>dénotons</nous>
+		<vous>dénotez</vous>
+		<ils>dénotent</ils>
+	</present>
+	<imperative>
+		<tu>dénote</tu>
+		<nous>dénotons</nous>
+		<vous>dénotez</vous>
+	</imperative>
+	<imperfect>
+		<je>dénotais</je>
+		<tu>dénotais</tu>
+		<il>dénotait</il>
+		<nous>dénotions</nous>
+		<vous>dénotiez</vous>
+		<ils>dénotaient</ils>
+	</imperfect>
+	<future>
+		<je>dénoterai</je>
+		<tu>dénoteras</tu>
+		<il>dénotera</il>
+		<nous>dénoterons</nous>
+		<vous>dénoterez</vous>
+		<ils>dénoteront</ils>
+	</future>
+	<subjunctive>
+		<je>dénote</je>
+		<tu>dénotes</tu>
+		<il>dénote</il>
+		<nous>dénotions</nous>
+		<vous>dénotiez</vous>
+		<ils>dénotent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dénoterais</je>
+		<tu>dénoterais</tu>
+		<il>dénoterait</il>
+		<nous>dénoterions</nous>
+		<vous>dénoteriez</vous>
+		<ils>dénoteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

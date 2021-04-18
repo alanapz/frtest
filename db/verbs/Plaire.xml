@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>plaire</infinitive>
+	<translation>to please</translation>
+	<irregular />
+	<presentParticiple>plaisant</presentParticiple>
+	<pastParticiple>plu</pastParticiple>
+	<present>
+		<je>plais</je>
+		<tu>plais</tu>
+		<il>plaît</il>
+		<nous>plaisons</nous>
+		<vous>plaisez</vous>
+		<ils>plaisent</ils>
+	</present>
+	<imperative>
+		<tu>plais</tu>
+		<nous>plaisons</nous>
+		<vous>plaisez</vous>
+	</imperative>
+	<imperfect>
+		<je>plaisais</je>
+		<tu>plaisais</tu>
+		<il>plaisait</il>
+		<nous>plaisions</nous>
+		<vous>plaisiez</vous>
+		<ils>plaisaient</ils>
+	</imperfect>
+	<future>
+		<je>plairai</je>
+		<tu>plairas</tu>
+		<il>plaira</il>
+		<nous>plairons</nous>
+		<vous>plairez</vous>
+		<ils>plairont</ils>
+	</future>
+	<subjunctive>
+		<je>plaise</je>
+		<tu>plaises</tu>
+		<il>plaise</il>
+		<nous>plaisions</nous>
+		<vous>plaisiez</vous>
+		<ils>plaisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>plairais</je>
+		<tu>plairais</tu>
+		<il>plairait</il>
+		<nous>plairions</nous>
+		<vous>plairiez</vous>
+		<ils>plairaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

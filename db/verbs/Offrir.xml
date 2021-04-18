@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>offrir</infinitive>
+	<translation>to offer</translation>
+	<irregular />
+	<presentParticiple>offrant</presentParticiple>
+	<pastParticiple>offert</pastParticiple>
+	<present>
+		<je>offre</je>
+		<tu>offres</tu>
+		<il>offre</il>
+		<nous>offrons</nous>
+		<vous>offrez</vous>
+		<ils>offrent</ils>
+	</present>
+	<imperative>
+		<tu>offre</tu>
+		<nous>offrons</nous>
+		<vous>offrez</vous>
+	</imperative>
+	<imperfect>
+		<je>offrais</je>
+		<tu>offrais</tu>
+		<il>offrait</il>
+		<nous>offrions</nous>
+		<vous>offriez</vous>
+		<ils>offraient</ils>
+	</imperfect>
+	<future>
+		<je>offrirai</je>
+		<tu>offriras</tu>
+		<il>offrira</il>
+		<nous>offrirons</nous>
+		<vous>offrirez</vous>
+		<ils>offriront</ils>
+	</future>
+	<subjunctive>
+		<je>offre</je>
+		<tu>offres</tu>
+		<il>offre</il>
+		<nous>offrions</nous>
+		<vous>offriez</vous>
+		<ils>offrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>offrirais</je>
+		<tu>offrirais</tu>
+		<il>offrirait</il>
+		<nous>offririons</nous>
+		<vous>offririez</vous>
+		<ils>offriraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

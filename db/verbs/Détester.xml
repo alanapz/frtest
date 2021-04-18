@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>détester</infinitive>
+	<translation>to hate</translation>
+	<presentParticiple>détestant</presentParticiple>
+	<pastParticiple>détesté</pastParticiple>
+	<present>
+		<je>déteste</je>
+		<tu>détestes</tu>
+		<il>déteste</il>
+		<nous>détestons</nous>
+		<vous>détestez</vous>
+		<ils>détestent</ils>
+	</present>
+	<imperative>
+		<tu>déteste</tu>
+		<nous>détestons</nous>
+		<vous>détestez</vous>
+	</imperative>
+	<imperfect>
+		<je>détestais</je>
+		<tu>détestais</tu>
+		<il>détestait</il>
+		<nous>détestions</nous>
+		<vous>détestiez</vous>
+		<ils>détestaient</ils>
+	</imperfect>
+	<future>
+		<je>détesterai</je>
+		<tu>détesteras</tu>
+		<il>détestera</il>
+		<nous>détesterons</nous>
+		<vous>détesterez</vous>
+		<ils>détesteront</ils>
+	</future>
+	<subjunctive>
+		<je>déteste</je>
+		<tu>détestes</tu>
+		<il>déteste</il>
+		<nous>détestions</nous>
+		<vous>détestiez</vous>
+		<ils>détestent</ils>
+	</subjunctive>
+	<conditional>
+		<je>détesterais</je>
+		<tu>détesterais</tu>
+		<il>détesterait</il>
+		<nous>détesterions</nous>
+		<vous>détesteriez</vous>
+		<ils>détesteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

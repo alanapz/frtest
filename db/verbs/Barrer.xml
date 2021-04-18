@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>barrer</infinitive>
+	<translation>to bar</translation>
+	<translation>block</translation>
+	<translation>close</translation>
+	<translation>cross out</translation>
+	<presentParticiple>barrant</presentParticiple>
+	<pastParticiple>barré</pastParticiple>
+	<present>
+		<je>barre</je>
+		<tu>barres</tu>
+		<il>barre</il>
+		<nous>barrons</nous>
+		<vous>barrez</vous>
+		<ils>barrent</ils>
+	</present>
+	<imperative>
+		<tu>barre</tu>
+		<nous>barrons</nous>
+		<vous>barrez</vous>
+	</imperative>
+	<imperfect>
+		<je>barrais</je>
+		<tu>barrais</tu>
+		<il>barrait</il>
+		<nous>barrions</nous>
+		<vous>barriez</vous>
+		<ils>barraient</ils>
+	</imperfect>
+	<future>
+		<je>barrerai</je>
+		<tu>barreras</tu>
+		<il>barrera</il>
+		<nous>barrerons</nous>
+		<vous>barrerez</vous>
+		<ils>barreront</ils>
+	</future>
+	<subjunctive>
+		<je>barre</je>
+		<tu>barres</tu>
+		<il>barre</il>
+		<nous>barrions</nous>
+		<vous>barriez</vous>
+		<ils>barrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>barrerais</je>
+		<tu>barrerais</tu>
+		<il>barrerait</il>
+		<nous>barrerions</nous>
+		<vous>barreriez</vous>
+		<ils>barreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

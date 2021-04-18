@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>relire</infinitive>
+            <translation>to reread</translation>
+            <irregular />
+            <presentParticiple>relisant</presentParticiple>
+            <pastParticiple>relu</pastParticiple>
+            <present>
+                <je>relis</je>
+                <tu>relis</tu>
+                <il>relit</il>
+                <nous>relisons</nous>
+                <vous>relisez</vous>
+                <ils>relisent</ils>
+            </present>
+            <imperative>
+                <tu>relis</tu>
+                <nous>relisons</nous>
+                <vous>relisez</vous>
+            </imperative>
+            <imperfect>
+                <je>relisais</je>
+                <tu>relisais</tu>
+                <il>relisait</il>
+                <nous>relisions</nous>
+                <vous>relisiez</vous>
+                <ils>relisaient</ils>
+            </imperfect>
+            <future>
+                <je>relirai</je>
+                <tu>reliras</tu>
+                <il>relira</il>
+                <nous>relirons</nous>
+                <vous>relirez</vous>
+                <ils>reliront</ils>
+            </future>
+            <subjunctive>
+                <je>relise</je>
+                <tu>relises</tu>
+                <il>relise</il>
+                <nous>relisions</nous>
+                <vous>relisiez</vous>
+                <ils>relisent</ils>
+            </subjunctive>
+            <conditional>
+                <je>relirais</je>
+                <tu>relirais</tu>
+                <il>relirait</il>
+                <nous>relirions</nous>
+                <vous>reliriez</vous>
+                <ils>reliraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

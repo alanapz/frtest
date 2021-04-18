@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>procurer</infinitive>
+	<translation>to procure</translation>
+	<presentParticiple>procurant</presentParticiple>
+	<pastParticiple>procuré</pastParticiple>
+	<present>
+		<je>procure</je>
+		<tu>procures</tu>
+		<il>procure</il>
+		<nous>procurons</nous>
+		<vous>procurez</vous>
+		<ils>procurent</ils>
+	</present>
+	<imperative>
+		<tu>procure</tu>
+		<nous>procurons</nous>
+		<vous>procurez</vous>
+	</imperative>
+	<imperfect>
+		<je>procurais</je>
+		<tu>procurais</tu>
+		<il>procurait</il>
+		<nous>procurions</nous>
+		<vous>procuriez</vous>
+		<ils>procuraient</ils>
+	</imperfect>
+	<future>
+		<je>procurerai</je>
+		<tu>procureras</tu>
+		<il>procurera</il>
+		<nous>procurerons</nous>
+		<vous>procurerez</vous>
+		<ils>procureront</ils>
+	</future>
+	<subjunctive>
+		<je>procure</je>
+		<tu>procures</tu>
+		<il>procure</il>
+		<nous>procurions</nous>
+		<vous>procuriez</vous>
+		<ils>procurent</ils>
+	</subjunctive>
+	<conditional>
+		<je>procurerais</je>
+		<tu>procurerais</tu>
+		<il>procurerait</il>
+		<nous>procurerions</nous>
+		<vous>procureriez</vous>
+		<ils>procureraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

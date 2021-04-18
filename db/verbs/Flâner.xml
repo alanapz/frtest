@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>flâner</infinitive>
+	<translation>to stroll</translation>
+	<translation>to lounge around</translation>
+	<presentParticiple>flânant</presentParticiple>
+	<pastParticiple>flâné</pastParticiple>
+	<present>
+		<je>flâne</je>
+		<tu>flânes</tu>
+		<il>flâne</il>
+		<nous>flânons</nous>
+		<vous>flânez</vous>
+		<ils>flânent</ils>
+	</present>
+	<imperative>
+		<tu>flâne</tu>
+		<nous>flânons</nous>
+		<vous>flânez</vous>
+	</imperative>
+	<imperfect>
+		<je>flânais</je>
+		<tu>flânais</tu>
+		<il>flânait</il>
+		<nous>flânions</nous>
+		<vous>flâniez</vous>
+		<ils>flânaient</ils>
+	</imperfect>
+	<future>
+		<je>flânerai</je>
+		<tu>flâneras</tu>
+		<il>flânera</il>
+		<nous>flânerons</nous>
+		<vous>flânerez</vous>
+		<ils>flâneront</ils>
+	</future>
+	<subjunctive>
+		<je>flâne</je>
+		<tu>flânes</tu>
+		<il>flâne</il>
+		<nous>flânions</nous>
+		<vous>flâniez</vous>
+		<ils>flânent</ils>
+	</subjunctive>
+	<conditional>
+		<je>flânerais</je>
+		<tu>flânerais</tu>
+		<il>flânerait</il>
+		<nous>flânerions</nous>
+		<vous>flâneriez</vous>
+		<ils>flâneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

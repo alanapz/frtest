@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>baptiser</infinitive>
+	<translation>to baptize</translation>
+	<presentParticiple>baptisant</presentParticiple>
+	<pastParticiple>baptisé</pastParticiple>
+	<present>
+		<je>baptise</je>
+		<tu>baptises</tu>
+		<il>baptise</il>
+		<nous>baptisons</nous>
+		<vous>baptisez</vous>
+		<ils>baptisent</ils>
+	</present>
+	<imperative>
+		<tu>baptise</tu>
+		<nous>baptisons</nous>
+		<vous>baptisez</vous>
+	</imperative>
+	<imperfect>
+		<je>baptisais</je>
+		<tu>baptisais</tu>
+		<il>baptisait</il>
+		<nous>baptisions</nous>
+		<vous>baptisiez</vous>
+		<ils>baptisaient</ils>
+	</imperfect>
+	<future>
+		<je>baptiserai</je>
+		<tu>baptiseras</tu>
+		<il>baptisera</il>
+		<nous>baptiserons</nous>
+		<vous>baptiserez</vous>
+		<ils>baptiseront</ils>
+	</future>
+	<subjunctive>
+		<je>baptise</je>
+		<tu>baptises</tu>
+		<il>baptise</il>
+		<nous>baptisions</nous>
+		<vous>baptisiez</vous>
+		<ils>baptisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>baptiserais</je>
+		<tu>baptiserais</tu>
+		<il>baptiserait</il>
+		<nous>baptiserions</nous>
+		<vous>baptiseriez</vous>
+		<ils>baptiseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

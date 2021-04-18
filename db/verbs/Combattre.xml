@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>combattre</infinitive>
+	<translation>to fight</translation>
+	<translation>combat</translation>
+	<irregular />
+	<presentParticiple>combattant</presentParticiple>
+	<pastParticiple>combattu</pastParticiple>
+	<present>
+		<je>combats</je>
+		<tu>combats</tu>
+		<il>combat</il>
+		<nous>combattons</nous>
+		<vous>combattez</vous>
+		<ils>combattent</ils>
+	</present>
+	<imperative>
+		<tu>combats</tu>
+		<nous>combattons</nous>
+		<vous>combattez</vous>
+	</imperative>
+	<imperfect>
+		<je>combattais</je>
+		<tu>combattais</tu>
+		<il>combattait</il>
+		<nous>combattions</nous>
+		<vous>combattiez</vous>
+		<ils>combattaient</ils>
+	</imperfect>
+	<future>
+		<je>combattrai</je>
+		<tu>combattras</tu>
+		<il>combattra</il>
+		<nous>combattrons</nous>
+		<vous>combattrez</vous>
+		<ils>combattront</ils>
+	</future>
+	<subjunctive>
+		<je>combatte</je>
+		<tu>combattes</tu>
+		<il>combatte</il>
+		<nous>combattions</nous>
+		<vous>combattiez</vous>
+		<ils>combattent</ils>
+	</subjunctive>
+	<conditional>
+		<je>combattrais</je>
+		<tu>combattrais</tu>
+		<il>combattrait</il>
+		<nous>combattrions</nous>
+		<vous>combattriez</vous>
+		<ils>combattraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

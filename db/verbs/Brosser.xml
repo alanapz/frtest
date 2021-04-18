@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>brosser</infinitive>
+            <translation>to brush</translation>
+            <transitive />
+            <presentParticiple>brossant</presentParticiple>
+            <pastParticiple>brossé</pastParticiple>
+            <present>
+                <je>brosse</je>
+                <tu>brosses</tu>
+                <il>brosse</il>
+                <nous>brossons</nous>
+                <vous>brossez</vous>
+                <ils>brossent</ils>
+            </present>
+            <imperative>
+                <tu>brosse</tu>
+                <nous>brossons</nous>
+                <vous>brossez</vous>
+            </imperative>
+            <imperfect>
+                <je>brossais</je>
+                <tu>brossais</tu>
+                <il>brossait</il>
+                <nous>brossions</nous>
+                <vous>brossiez</vous>
+                <ils>brossaient</ils>
+            </imperfect>
+            <future>
+                <je>brosserai</je>
+                <tu>brosseras</tu>
+                <il>brossera</il>
+                <nous>brosserons</nous>
+                <vous>brosserez</vous>
+                <ils>brosseront</ils>
+            </future>
+            <subjunctive>
+                <je>brosse</je>
+                <tu>brosses</tu>
+                <il>brosse</il>
+                <nous>brossions</nous>
+                <vous>brossiez</vous>
+                <ils>brossent</ils>
+            </subjunctive>
+            <conditional>
+                <je>brosserais</je>
+                <tu>brosserais</tu>
+                <il>brosserait</il>
+                <nous>brosserions</nous>
+                <vous>brosseriez</vous>
+                <ils>brosseraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

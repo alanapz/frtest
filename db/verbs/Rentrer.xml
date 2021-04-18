@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>rentrer</infinitive>
+            <translation>to return(home)</translation>
+            <takesEtreInPerfect />
+            <presentParticiple>rentrant</presentParticiple>
+            <pastParticiple>rentré</pastParticiple>
+            <present>
+                <je>rentre</je>
+                <tu>rentres</tu>
+                <il>rentre</il>
+                <nous>rentrons</nous>
+                <vous>rentrez</vous>
+                <ils>rentrent</ils>
+            </present>
+            <imperative>
+                <tu>rentre</tu>
+                <nous>rentrons</nous>
+                <vous>rentrez</vous>
+            </imperative>
+            <imperfect>
+                <je>rentrais</je>
+                <tu>rentrais</tu>
+                <il>rentrait</il>
+                <nous>rentrions</nous>
+                <vous>rentriez</vous>
+                <ils>rentraient</ils>
+            </imperfect>
+            <future>
+                <je>rentrerai</je>
+                <tu>rentreras</tu>
+                <il>rentrera</il>
+                <nous>rentrerons</nous>
+                <vous>rentrerez</vous>
+                <ils>rentreront</ils>
+            </future>
+            <subjunctive>
+                <je>rentre</je>
+                <tu>rentres</tu>
+                <il>rentre</il>
+                <nous>rentrions</nous>
+                <vous>rentriez</vous>
+                <ils>rentrent</ils>
+            </subjunctive>
+            <conditional>
+                <je>rentrerais</je>
+                <tu>rentrerais</tu>
+                <il>rentrerait</il>
+                <nous>rentrerions</nous>
+                <vous>rentreriez</vous>
+                <ils>rentreraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>débattre</infinitive>
+	<translation>to debate</translation>
+	<irregular />
+	<presentParticiple>débattant</presentParticiple>
+	<pastParticiple>débattu</pastParticiple>
+	<present>
+		<je>débats</je>
+		<tu>débats</tu>
+		<il>débat</il>
+		<nous>débattons</nous>
+		<vous>débattez</vous>
+		<ils>débattent</ils>
+	</present>
+	<imperative>
+		<tu>débats</tu>
+		<nous>débattons</nous>
+		<vous>débattez</vous>
+	</imperative>
+	<imperfect>
+		<je>débattais</je>
+		<tu>débattais</tu>
+		<il>débattait</il>
+		<nous>débattions</nous>
+		<vous>débattiez</vous>
+		<ils>débattaient</ils>
+	</imperfect>
+	<future>
+		<je>débattrai</je>
+		<tu>débattras</tu>
+		<il>débattra</il>
+		<nous>débattrons</nous>
+		<vous>débattrez</vous>
+		<ils>débattront</ils>
+	</future>
+	<subjunctive>
+		<je>débatte</je>
+		<tu>débattes</tu>
+		<il>débatte</il>
+		<nous>débattions</nous>
+		<vous>débattiez</vous>
+		<ils>débattent</ils>
+	</subjunctive>
+	<conditional>
+		<je>débattrais</je>
+		<tu>débattrais</tu>
+		<il>débattrait</il>
+		<nous>débattrions</nous>
+		<vous>débattriez</vous>
+		<ils>débattraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

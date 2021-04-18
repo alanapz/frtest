@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>entreprendre</infinitive>
+	<translation>to undertake</translation>
+	<irregular />
+	<presentParticiple>entreprenant</presentParticiple>
+	<pastParticiple>entrepris</pastParticiple>
+	<present>
+		<je>entreprends</je>
+		<tu>entreprends</tu>
+		<il>entreprend</il>
+		<nous>entreprenons</nous>
+		<vous>entreprenez</vous>
+		<ils>entreprennent</ils>
+	</present>
+	<imperative>
+		<tu>entreprends</tu>
+		<nous>entreprenons</nous>
+		<vous>entreprenez</vous>
+	</imperative>
+	<imperfect>
+		<je>entreprenais</je>
+		<tu>entreprenais</tu>
+		<il>entreprenait</il>
+		<nous>entreprenions</nous>
+		<vous>entrepreniez</vous>
+		<ils>entreprenaient</ils>
+	</imperfect>
+	<future>
+		<je>entreprendrai</je>
+		<tu>entreprendras</tu>
+		<il>entreprendra</il>
+		<nous>entreprendrons</nous>
+		<vous>entreprendrez</vous>
+		<ils>entreprendront</ils>
+	</future>
+	<subjunctive>
+		<je>entreprenne</je>
+		<tu>entreprennes</tu>
+		<il>entreprenne</il>
+		<nous>entreprenions</nous>
+		<vous>entrepreniez</vous>
+		<ils>entreprennent</ils>
+	</subjunctive>
+	<conditional>
+		<je>entreprendrais</je>
+		<tu>entreprendrais</tu>
+		<il>entreprendrait</il>
+		<nous>entreprendrions</nous>
+		<vous>entreprendriez</vous>
+		<ils>entreprendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

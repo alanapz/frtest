@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>débarrasser</infinitive>
+	<translation>to clear</translation>
+	<translation>rid (s.o.) of</translation>
+	<presentParticiple>débarrassant</presentParticiple>
+	<pastParticiple>débarrassé</pastParticiple>
+	<present>
+		<je>débarrasse</je>
+		<tu>débarrasses</tu>
+		<il>débarrasse</il>
+		<nous>débarrassons</nous>
+		<vous>débarrassez</vous>
+		<ils>débarrassent</ils>
+	</present>
+	<imperative>
+		<tu>débarrasse</tu>
+		<nous>débarrassons</nous>
+		<vous>débarrassez</vous>
+	</imperative>
+	<imperfect>
+		<je>débarrassais</je>
+		<tu>débarrassais</tu>
+		<il>débarrassait</il>
+		<nous>débarrassions</nous>
+		<vous>débarrassiez</vous>
+		<ils>débarrassaient</ils>
+	</imperfect>
+	<future>
+		<je>débarrasserai</je>
+		<tu>débarrasseras</tu>
+		<il>débarrassera</il>
+		<nous>débarrasserons</nous>
+		<vous>débarrasserez</vous>
+		<ils>débarrasseront</ils>
+	</future>
+	<subjunctive>
+		<je>débarrasse</je>
+		<tu>débarrasses</tu>
+		<il>débarrasse</il>
+		<nous>débarrassions</nous>
+		<vous>débarrassiez</vous>
+		<ils>débarrassent</ils>
+	</subjunctive>
+	<conditional>
+		<je>débarrasserais</je>
+		<tu>débarrasserais</tu>
+		<il>débarrasserait</il>
+		<nous>débarrasserions</nous>
+		<vous>débarrasseriez</vous>
+		<ils>débarrasseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

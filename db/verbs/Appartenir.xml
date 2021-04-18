@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>appartenir</infinitive>
+	<translation>to belong</translation>
+	<irregular />
+	<presentParticiple>appartenant</presentParticiple>
+	<pastParticiple>appartenu</pastParticiple>
+	<present>
+		<je>appartiens</je>
+		<tu>appartiens</tu>
+		<il>appartient</il>
+		<nous>appartenons</nous>
+		<vous>appartenez</vous>
+		<ils>appartiennent</ils>
+	</present>
+	<imperative>
+		<tu>appartiens</tu>
+		<nous>appartenons</nous>
+		<vous>appartenez</vous>
+	</imperative>
+	<imperfect>
+		<je>appartenais</je>
+		<tu>appartenais</tu>
+		<il>appartenait</il>
+		<nous>appartenions</nous>
+		<vous>apparteniez</vous>
+		<ils>appartenaient</ils>
+	</imperfect>
+	<future>
+		<je>appartiendrai</je>
+		<tu>appartiendras</tu>
+		<il>appartiendra</il>
+		<nous>appartiendrons</nous>
+		<vous>appartiendrez</vous>
+		<ils>appartiendront</ils>
+	</future>
+	<subjunctive>
+		<je>appartienne</je>
+		<tu>appartiennes</tu>
+		<il>appartienne</il>
+		<nous>appartenions</nous>
+		<vous>apparteniez</vous>
+		<ils>appartiennent</ils>
+	</subjunctive>
+	<conditional>
+		<je>appartiendrais</je>
+		<tu>appartiendrais</tu>
+		<il>appartiendrait</il>
+		<nous>appartiendrions</nous>
+		<vous>appartiendriez</vous>
+		<ils>appartiendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

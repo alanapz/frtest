@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>actualiser</infinitive>
+	<translation>to update</translation>
+	<translation>actualize</translation>
+	<presentParticiple>actualisant</presentParticiple>
+	<pastParticiple>actualisé</pastParticiple>
+	<present>
+		<je>actualise</je>
+		<tu>actualises</tu>
+		<il>actualise</il>
+		<nous>actualisons</nous>
+		<vous>actualisez</vous>
+		<ils>actualisent</ils>
+	</present>
+	<imperative>
+		<tu>actualise</tu>
+		<nous>actualisons</nous>
+		<vous>actualisez</vous>
+	</imperative>
+	<imperfect>
+		<je>actualisais</je>
+		<tu>actualisais</tu>
+		<il>actualisait</il>
+		<nous>actualisions</nous>
+		<vous>actualisiez</vous>
+		<ils>actualisaient</ils>
+	</imperfect>
+	<future>
+		<je>actualiserai</je>
+		<tu>actualiseras</tu>
+		<il>actualisera</il>
+		<nous>actualiserons</nous>
+		<vous>actualiserez</vous>
+		<ils>actualiseront</ils>
+	</future>
+	<subjunctive>
+		<je>actualise</je>
+		<tu>actualises</tu>
+		<il>actualise</il>
+		<nous>actualisions</nous>
+		<vous>actualisiez</vous>
+		<ils>actualisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>actualiserais</je>
+		<tu>actualiserais</tu>
+		<il>actualiserait</il>
+		<nous>actualiserions</nous>
+		<vous>actualiseriez</vous>
+		<ils>actualiseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

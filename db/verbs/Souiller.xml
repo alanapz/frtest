@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>souiller</infinitive>
+	<translation>to soil</translation>
+	<presentParticiple>souillant</presentParticiple>
+	<pastParticiple>souillé</pastParticiple>
+	<present>
+		<je>souille</je>
+		<tu>souilles</tu>
+		<il>souille</il>
+		<nous>souillons</nous>
+		<vous>souillez</vous>
+		<ils>souillent</ils>
+	</present>
+	<imperative>
+		<tu>souille</tu>
+		<nous>souillons</nous>
+		<vous>souillez</vous>
+	</imperative>
+	<imperfect>
+		<je>souillais</je>
+		<tu>souillais</tu>
+		<il>souillait</il>
+		<nous>souillions</nous>
+		<vous>souilliez</vous>
+		<ils>souillaient</ils>
+	</imperfect>
+	<future>
+		<je>souillerai</je>
+		<tu>souilleras</tu>
+		<il>souillera</il>
+		<nous>souillerons</nous>
+		<vous>souillerez</vous>
+		<ils>souilleront</ils>
+	</future>
+	<subjunctive>
+		<je>souille</je>
+		<tu>souilles</tu>
+		<il>souille</il>
+		<nous>souillions</nous>
+		<vous>souilliez</vous>
+		<ils>souillent</ils>
+	</subjunctive>
+	<conditional>
+		<je>souillerais</je>
+		<tu>souillerais</tu>
+		<il>souillerait</il>
+		<nous>souillerions</nous>
+		<vous>souilleriez</vous>
+		<ils>souilleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

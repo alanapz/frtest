@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>adopter</infinitive>
+	<translation>to adopt</translation>
+	<presentParticiple>adoptant</presentParticiple>
+	<pastParticiple>adopté</pastParticiple>
+	<present>
+		<je>adopte</je>
+		<tu>adoptes</tu>
+		<il>adopte</il>
+		<nous>adoptons</nous>
+		<vous>adoptez</vous>
+		<ils>adoptent</ils>
+	</present>
+	<imperative>
+		<tu>adopte</tu>
+		<nous>adoptons</nous>
+		<vous>adoptez</vous>
+	</imperative>
+	<imperfect>
+		<je>adoptais</je>
+		<tu>adoptais</tu>
+		<il>adoptait</il>
+		<nous>adoptions</nous>
+		<vous>adoptiez</vous>
+		<ils>adoptaient</ils>
+	</imperfect>
+	<future>
+		<je>adopterai</je>
+		<tu>adopteras</tu>
+		<il>adoptera</il>
+		<nous>adopterons</nous>
+		<vous>adopterez</vous>
+		<ils>adopteront</ils>
+	</future>
+	<subjunctive>
+		<je>adopte</je>
+		<tu>adoptes</tu>
+		<il>adopte</il>
+		<nous>adoptions</nous>
+		<vous>adoptiez</vous>
+		<ils>adoptent</ils>
+	</subjunctive>
+	<conditional>
+		<je>adopterais</je>
+		<tu>adopterais</tu>
+		<il>adopterait</il>
+		<nous>adopterions</nous>
+		<vous>adopteriez</vous>
+		<ils>adopteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

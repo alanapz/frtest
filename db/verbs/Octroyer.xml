@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>octroyer</infinitive>
+	<translation>to grant</translation>
+	<translation>bestow</translation>
+	<stemChange />
+	<presentParticiple>octroyant</presentParticiple>
+	<pastParticiple>octroyé</pastParticiple>
+	<present>
+		<je>octroie</je>
+		<tu>octroies</tu>
+		<il>octroie</il>
+		<nous>octroyons</nous>
+		<vous>octroyez</vous>
+		<ils>octroient</ils>
+	</present>
+	<imperative>
+		<tu>octroie</tu>
+		<nous>octroyons</nous>
+		<vous>octroyez</vous>
+	</imperative>
+	<imperfect>
+		<je>octroyais</je>
+		<tu>octroyais</tu>
+		<il>octroyait</il>
+		<nous>octroyions</nous>
+		<vous>octroyiez</vous>
+		<ils>octroyaient</ils>
+	</imperfect>
+	<future>
+		<je>octroierai</je>
+		<tu>octroieras</tu>
+		<il>octroiera</il>
+		<nous>octroierons</nous>
+		<vous>octroierez</vous>
+		<ils>octroieront</ils>
+	</future>
+	<subjunctive>
+		<je>octroie</je>
+		<tu>octroies</tu>
+		<il>octroie</il>
+		<nous>octroyions</nous>
+		<vous>octroyiez</vous>
+		<ils>octroient</ils>
+	</subjunctive>
+	<conditional>
+		<je>octroierais</je>
+		<tu>octroierais</tu>
+		<il>octroierait</il>
+		<nous>octroierions</nous>
+		<vous>octroieriez</vous>
+		<ils>octroieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

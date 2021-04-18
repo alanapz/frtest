@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>personnifier</infinitive>
+	<translation>to personify</translation>
+	<presentParticiple>personnifiant</presentParticiple>
+	<pastParticiple>personnifié</pastParticiple>
+	<present>
+		<je>personnifie</je>
+		<tu>personnifies</tu>
+		<il>personnifie</il>
+		<nous>personnifions</nous>
+		<vous>personnifiez</vous>
+		<ils>personnifient</ils>
+	</present>
+	<imperative>
+		<tu>personnifie</tu>
+		<nous>personnifions</nous>
+		<vous>personnifiez</vous>
+	</imperative>
+	<imperfect>
+		<je>personnifiais</je>
+		<tu>personnifiais</tu>
+		<il>personnifiait</il>
+		<nous>personnifiions</nous>
+		<vous>personnifiiez</vous>
+		<ils>personnifiaient</ils>
+	</imperfect>
+	<future>
+		<je>personnifierai</je>
+		<tu>personnifieras</tu>
+		<il>personnifiera</il>
+		<nous>personnifierons</nous>
+		<vous>personnifierez</vous>
+		<ils>personnifieront</ils>
+	</future>
+	<subjunctive>
+		<je>personnifie</je>
+		<tu>personnifies</tu>
+		<il>personnifie</il>
+		<nous>personnifiions</nous>
+		<vous>personnifiiez</vous>
+		<ils>personnifient</ils>
+	</subjunctive>
+	<conditional>
+		<je>personnifierais</je>
+		<tu>personnifierais</tu>
+		<il>personnifierait</il>
+		<nous>personnifierions</nous>
+		<vous>personnifieriez</vous>
+		<ils>personnifieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>parler</infinitive>
+            <translation>to speak</translation>
+            <translation>to talk</translation>
+            <presentParticiple>parlant</presentParticiple>
+            <pastParticiple>parlé</pastParticiple>
+            <present>
+                <je>parle</je>
+                <tu>parles</tu>
+                <il>parle</il>
+                <nous>parlons</nous>
+                <vous>parlez</vous>
+                <ils>parlent</ils>
+            </present>
+            <imperative>
+                <tu>parle</tu>
+                <nous>parlons</nous>
+                <vous>parlez</vous>
+            </imperative>
+            <imperfect>
+                <je>parlais</je>
+                <tu>parlais</tu>
+                <il>parlait</il>
+                <nous>parlions</nous>
+                <vous>parliez</vous>
+                <ils>parlaient</ils>
+            </imperfect>
+            <future>
+                <je>parlerai</je>
+                <tu>parleras</tu>
+                <il>parlera</il>
+                <nous>parlerons</nous>
+                <vous>parlerez</vous>
+                <ils>parleront</ils>
+            </future>
+            <subjunctive>
+                <je>parle</je>
+                <tu>parles</tu>
+                <il>parle</il>
+                <nous>parlions</nous>
+                <vous>parliez</vous>
+                <ils>parlent</ils>
+            </subjunctive>
+            <conditional>
+                <je>parlerais</je>
+                <tu>parlerais</tu>
+                <il>parlerait</il>
+                <nous>parlerions</nous>
+                <vous>parleriez</vous>
+                <ils>parleraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

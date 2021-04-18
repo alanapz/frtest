@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>douer</infinitive>
+	<translation>to endow s.o. with</translation>
+	<presentParticiple>douant</presentParticiple>
+	<pastParticiple>doué</pastParticiple>
+	<present>
+		<je>doue</je>
+		<tu>doues</tu>
+		<il>doue</il>
+		<nous>douons</nous>
+		<vous>douez</vous>
+		<ils>douent</ils>
+	</present>
+	<imperative>
+		<tu>doue</tu>
+		<nous>douons</nous>
+		<vous>douez</vous>
+	</imperative>
+	<imperfect>
+		<je>douais</je>
+		<tu>douais</tu>
+		<il>douait</il>
+		<nous>douions</nous>
+		<vous>douiez</vous>
+		<ils>douaient</ils>
+	</imperfect>
+	<future>
+		<je>douerai</je>
+		<tu>doueras</tu>
+		<il>douera</il>
+		<nous>douerons</nous>
+		<vous>douerez</vous>
+		<ils>doueront</ils>
+	</future>
+	<subjunctive>
+		<je>doue</je>
+		<tu>doues</tu>
+		<il>doue</il>
+		<nous>douions</nous>
+		<vous>douiez</vous>
+		<ils>douent</ils>
+	</subjunctive>
+	<conditional>
+		<je>douerais</je>
+		<tu>douerais</tu>
+		<il>douerait</il>
+		<nous>douerions</nous>
+		<vous>doueriez</vous>
+		<ils>doueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

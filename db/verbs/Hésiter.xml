@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>hésiter</infinitive>
+            <translation>to hesitate</translation>
+            <presentParticiple>hésitant</presentParticiple>
+            <pastParticiple>hésité</pastParticiple>
+            <present>
+                <je>hésite</je>
+                <tu>hésites</tu>
+                <il>hésite</il>
+                <nous>hésitons</nous>
+                <vous>hésitez</vous>
+                <ils>hésitent</ils>
+            </present>
+            <imperative>
+                <tu>hésite</tu>
+                <nous>hésitons</nous>
+                <vous>hésitez</vous>
+            </imperative>
+            <imperfect>
+                <je>hésitais</je>
+                <tu>hésitais</tu>
+                <il>hésitait</il>
+                <nous>hésitions</nous>
+                <vous>hésitiez</vous>
+                <ils>hésitaient</ils>
+            </imperfect>
+            <future>
+                <je>hésiterai</je>
+                <tu>hésiteras</tu>
+                <il>hésitera</il>
+                <nous>hésiterons</nous>
+                <vous>hésiterez</vous>
+                <ils>hésiteront</ils>
+            </future>
+            <subjunctive>
+                <je>hésite</je>
+                <tu>hésites</tu>
+                <il>hésite</il>
+                <nous>hésitions</nous>
+                <vous>hésitiez</vous>
+                <ils>hésitent</ils>
+            </subjunctive>
+            <conditional>
+                <je>hésiterais</je>
+                <tu>hésiterais</tu>
+                <il>hésiterait</il>
+                <nous>hésiterions</nous>
+                <vous>hésiteriez</vous>
+                <ils>hésiteraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>quérir</infinitive>
+	<translation>to summon</translation>
+	<irregular />
+	<presentParticiple>quérant</presentParticiple>
+	<pastParticiple> quis</pastParticiple>
+	<present>
+		<je>quiers</je>
+		<tu>quiers</tu>
+		<il>quiert</il>
+		<nous>quérons</nous>
+		<vous>quérez</vous>
+		<ils>quièrent</ils>
+	</present>
+	<imperative>
+		<tu>quiers</tu>
+		<nous>quérons</nous>
+		<vous>quérez</vous>
+	</imperative>
+	<imperfect>
+		<je>quérais</je>
+		<tu>quérais</tu>
+		<il>quérait</il>
+		<nous>quérions</nous>
+		<vous>quériez</vous>
+		<ils>quéraient</ils>
+	</imperfect>
+	<future>
+		<je>querrai</je>
+		<tu>querras</tu>
+		<il>querra</il>
+		<nous>querrons</nous>
+		<vous>querrez</vous>
+		<ils>querront</ils>
+	</future>
+	<subjunctive>
+		<je>quière</je>
+		<tu>quières</tu>
+		<il>quière</il>
+		<nous>quérions</nous>
+		<vous>quériez</vous>
+		<ils>quièrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>querrais</je>
+		<tu>querrais</tu>
+		<il>querrait</il>
+		<nous>querrions</nous>
+		<vous>querriez</vous>
+		<ils>querraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

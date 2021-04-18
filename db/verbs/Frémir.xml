@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>frémir</infinitive>
+	<translation>to shudder</translation>
+	<presentParticiple>frémissant</presentParticiple>
+	<pastParticiple>frémi</pastParticiple>
+	<present>
+		<je>frémis</je>
+		<tu>frémis</tu>
+		<il>frémit</il>
+		<nous>frémissons</nous>
+		<vous>frémissez</vous>
+		<ils>frémissent</ils>
+	</present>
+	<imperative>
+		<tu>frémis</tu>
+		<nous>frémissons</nous>
+		<vous>frémissez</vous>
+	</imperative>
+	<imperfect>
+		<je>frémissais</je>
+		<tu>frémissais</tu>
+		<il>frémissait</il>
+		<nous>frémissions</nous>
+		<vous>frémissiez</vous>
+		<ils>frémissaient</ils>
+	</imperfect>
+	<future>
+		<je>frémirai</je>
+		<tu>frémiras</tu>
+		<il>frémira</il>
+		<nous>frémirons</nous>
+		<vous>frémirez</vous>
+		<ils>frémiront</ils>
+	</future>
+	<subjunctive>
+		<je>frémisse</je>
+		<tu>frémisses</tu>
+		<il>frémisse</il>
+		<nous>frémissions</nous>
+		<vous>frémissiez</vous>
+		<ils>frémissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>frémirais</je>
+		<tu>frémirais</tu>
+		<il>frémirait</il>
+		<nous>frémirions</nous>
+		<vous>frémiriez</vous>
+		<ils>frémiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

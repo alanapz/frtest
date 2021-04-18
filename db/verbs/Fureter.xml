@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>fureter</infinitive>
+	<translation>to rummage</translation>
+	<translation>nose around</translation>
+	<stemChange />
+	<presentParticiple>furetant</presentParticiple>
+	<pastParticiple>fureté</pastParticiple>
+	<present>
+		<je>furète</je>
+		<tu>furètes</tu>
+		<il>furète</il>
+		<nous>furetons</nous>
+		<vous>furetez</vous>
+		<ils>furètent</ils>
+	</present>
+	<imperative>
+		<tu>furète</tu>
+		<nous>furetons</nous>
+		<vous>furetez</vous>
+	</imperative>
+	<imperfect>
+		<je>furetais</je>
+		<tu>furetais</tu>
+		<il>furetait</il>
+		<nous>furetions</nous>
+		<vous>furetiez</vous>
+		<ils>furetaient</ils>
+	</imperfect>
+	<future>
+		<je>furèterai</je>
+		<tu>furèteras</tu>
+		<il>furètera</il>
+		<nous>furèterons</nous>
+		<vous>furèterez</vous>
+		<ils>furèteront</ils>
+	</future>
+	<subjunctive>
+		<je>furète</je>
+		<tu>furètes</tu>
+		<il>furète</il>
+		<nous>furetions</nous>
+		<vous>furetiez</vous>
+		<ils>furètent</ils>
+	</subjunctive>
+	<conditional>
+		<je>furèterais</je>
+		<tu>furèterais</tu>
+		<il>furèterait</il>
+		<nous>furèterions</nous>
+		<vous>furèteriez</vous>
+		<ils>furèteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

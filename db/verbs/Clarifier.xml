@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>clarifier</infinitive>
+	<translation>to clarify</translation>
+	<presentParticiple>clarifiant</presentParticiple>
+	<pastParticiple>clarifié</pastParticiple>
+	<present>
+		<je>clarifie</je>
+		<tu>clarifies</tu>
+		<il>clarifie</il>
+		<nous>clarifions</nous>
+		<vous>clarifiez</vous>
+		<ils>clarifient</ils>
+	</present>
+	<imperative>
+		<tu>clarifie</tu>
+		<nous>clarifions</nous>
+		<vous>clarifiez</vous>
+	</imperative>
+	<imperfect>
+		<je>clarifiais</je>
+		<tu>clarifiais</tu>
+		<il>clarifiait</il>
+		<nous>clarifiions</nous>
+		<vous>clarifiiez</vous>
+		<ils>clarifiaient</ils>
+	</imperfect>
+	<future>
+		<je>clarifierai</je>
+		<tu>clarifieras</tu>
+		<il>clarifiera</il>
+		<nous>clarifierons</nous>
+		<vous>clarifierez</vous>
+		<ils>clarifieront</ils>
+	</future>
+	<subjunctive>
+		<je>clarifie</je>
+		<tu>clarifies</tu>
+		<il>clarifie</il>
+		<nous>clarifiions</nous>
+		<vous>clarifiiez</vous>
+		<ils>clarifient</ils>
+	</subjunctive>
+	<conditional>
+		<je>clarifierais</je>
+		<tu>clarifierais</tu>
+		<il>clarifierait</il>
+		<nous>clarifierions</nous>
+		<vous>clarifieriez</vous>
+		<ils>clarifieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

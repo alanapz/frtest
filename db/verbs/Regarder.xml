@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>regarder</infinitive>
+            <translation>to look at</translation>
+            <translation>to watch</translation>
+            <transitive />
+            <presentParticiple>regardant</presentParticiple>
+            <pastParticiple>regardé</pastParticiple>
+            <present>
+                <je>regarde</je>
+                <tu>regardes</tu>
+                <il>regarde</il>
+                <nous>regardons</nous>
+                <vous>regardez</vous>
+                <ils>regardent</ils>
+            </present>
+            <imperative>
+                <tu>regarde</tu>
+                <nous>regardons</nous>
+                <vous>regardez</vous>
+            </imperative>
+            <imperfect>
+                <je>regardais</je>
+                <tu>regardais</tu>
+                <il>regardait</il>
+                <nous>regardions</nous>
+                <vous>regardiez</vous>
+                <ils>regardaient</ils>
+            </imperfect>
+            <future>
+                <je>regarderai</je>
+                <tu>regarderas</tu>
+                <il>regardera</il>
+                <nous>regarderons</nous>
+                <vous>regarderez</vous>
+                <ils>regarderont</ils>
+            </future>
+            <subjunctive>
+                <je>regarde</je>
+                <tu>regardes</tu>
+                <il>regarde</il>
+                <nous>regardions</nous>
+                <vous>regardiez</vous>
+                <ils>regardent</ils>
+            </subjunctive>
+            <conditional>
+                <je>regarderais</je>
+                <tu>regarderais</tu>
+                <il>regarderait</il>
+                <nous>regarderions</nous>
+                <vous>regarderiez</vous>
+                <ils>regarderaient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

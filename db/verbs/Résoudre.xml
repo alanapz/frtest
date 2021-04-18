@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>résoudre</infinitive>
+            <translation>to resolve</translation>
+            <irregular />
+            <presentParticiple>résolvant</presentParticiple>
+            <pastParticiple>résolu, résous</pastParticiple>
+            <present>
+                <je>résous</je>
+                <tu>résous</tu>
+                <il>résout</il>
+                <nous>résolvons</nous>
+                <vous>résolvez</vous>
+                <ils>résolvent</ils>
+            </present>
+            <imperative>
+                <tu>résous</tu>
+                <nous>résolvons</nous>
+                <vous>résolvez</vous>
+            </imperative>
+            <imperfect>
+                <je>résolvais</je>
+                <tu>résolvais</tu>
+                <il>résolvait</il>
+                <nous>résolvions</nous>
+                <vous>résolviez</vous>
+                <ils>résolvaient</ils>
+            </imperfect>
+            <future>
+                <je>résoudrai</je>
+                <tu>résoudras</tu>
+                <il>résoudra</il>
+                <nous>résoudrons</nous>
+                <vous>résoudrez</vous>
+                <ils>résoudront</ils>
+            </future>
+            <subjunctive>
+                <je>résolve</je>
+                <tu>résolves</tu>
+                <il>résolve</il>
+                <nous>résolvions</nous>
+                <vous>résolviez</vous>
+                <ils>résolvent</ils>
+            </subjunctive>
+            <conditional>
+                <je>résoudrais</je>
+                <tu>résoudrais</tu>
+                <il>résoudrait</il>
+                <nous>résoudrions</nous>
+                <vous>résoudriez</vous>
+                <ils>résoudraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

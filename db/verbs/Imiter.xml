@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>imiter</infinitive>
+	<translation>to imitate</translation>
+	<presentParticiple>imitant</presentParticiple>
+	<pastParticiple>imité</pastParticiple>
+	<present>
+		<je>imite</je>
+		<tu>imites</tu>
+		<il>imite</il>
+		<nous>imitons</nous>
+		<vous>imitez</vous>
+		<ils>imitent</ils>
+	</present>
+	<imperative>
+		<tu>imite</tu>
+		<nous>imitons</nous>
+		<vous>imitez</vous>
+	</imperative>
+	<imperfect>
+		<je>imitais</je>
+		<tu>imitais</tu>
+		<il>imitait</il>
+		<nous>imitions</nous>
+		<vous>imitiez</vous>
+		<ils>imitaient</ils>
+	</imperfect>
+	<future>
+		<je>imiterai</je>
+		<tu>imiteras</tu>
+		<il>imitera</il>
+		<nous>imiterons</nous>
+		<vous>imiterez</vous>
+		<ils>imiteront</ils>
+	</future>
+	<subjunctive>
+		<je>imite</je>
+		<tu>imites</tu>
+		<il>imite</il>
+		<nous>imitions</nous>
+		<vous>imitiez</vous>
+		<ils>imitent</ils>
+	</subjunctive>
+	<conditional>
+		<je>imiterais</je>
+		<tu>imiterais</tu>
+		<il>imiterait</il>
+		<nous>imiterions</nous>
+		<vous>imiteriez</vous>
+		<ils>imiteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>tousser</infinitive>
+	<translation>to cough</translation>
+	<presentParticiple>toussant</presentParticiple>
+	<pastParticiple>toussé</pastParticiple>
+	<present>
+		<je>tousse</je>
+		<tu>tousses</tu>
+		<il>tousse</il>
+		<nous>toussons</nous>
+		<vous>toussez</vous>
+		<ils>toussent</ils>
+	</present>
+	<imperative>
+		<tu>tousse</tu>
+		<nous>toussons</nous>
+		<vous>toussez</vous>
+	</imperative>
+	<imperfect>
+		<je>toussais</je>
+		<tu>toussais</tu>
+		<il>toussait</il>
+		<nous>toussions</nous>
+		<vous>toussiez</vous>
+		<ils>toussaient</ils>
+	</imperfect>
+	<future>
+		<je>tousserai</je>
+		<tu>tousseras</tu>
+		<il>toussera</il>
+		<nous>tousserons</nous>
+		<vous>tousserez</vous>
+		<ils>tousseront</ils>
+	</future>
+	<subjunctive>
+		<je>tousse</je>
+		<tu>tousses</tu>
+		<il>tousse</il>
+		<nous>toussions</nous>
+		<vous>toussiez</vous>
+		<ils>toussent</ils>
+	</subjunctive>
+	<conditional>
+		<je>tousserais</je>
+		<tu>tousserais</tu>
+		<il>tousserait</il>
+		<nous>tousserions</nous>
+		<vous>tousseriez</vous>
+		<ils>tousseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>semer</infinitive>
+	<translation>to sow</translation>
+	<translation>spread</translation>
+	<stemChange />
+	<presentParticiple>semant</presentParticiple>
+	<pastParticiple>semé</pastParticiple>
+	<present>
+		<je>sème</je>
+		<tu>sèmes</tu>
+		<il>sème</il>
+		<nous>semons</nous>
+		<vous>semez</vous>
+		<ils>sèment</ils>
+	</present>
+	<imperative>
+		<tu>sème</tu>
+		<nous>semons</nous>
+		<vous>semez</vous>
+	</imperative>
+	<imperfect>
+		<je>semais</je>
+		<tu>semais</tu>
+		<il>semait</il>
+		<nous>semions</nous>
+		<vous>semiez</vous>
+		<ils>semaient</ils>
+	</imperfect>
+	<future>
+		<je>sèmerai</je>
+		<tu>sèmeras</tu>
+		<il>sèmera</il>
+		<nous>sèmerons</nous>
+		<vous>sèmerez</vous>
+		<ils>sèmeront</ils>
+	</future>
+	<subjunctive>
+		<je>sème</je>
+		<tu>sèmes</tu>
+		<il>sème</il>
+		<nous>semions</nous>
+		<vous>semiez</vous>
+		<ils>sèment</ils>
+	</subjunctive>
+	<conditional>
+		<je>sèmerais</je>
+		<tu>sèmerais</tu>
+		<il>sèmerait</il>
+		<nous>sèmerions</nous>
+		<vous>sèmeriez</vous>
+		<ils>sèmeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

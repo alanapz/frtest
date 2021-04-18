@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>noliser</infinitive>
+	<translation>to charter</translation>
+	<presentParticiple>nolisant</presentParticiple>
+	<pastParticiple>nolisé</pastParticiple>
+	<present>
+		<je>nolise</je>
+		<tu>nolises</tu>
+		<il>nolise</il>
+		<nous>nolisons</nous>
+		<vous>nolisez</vous>
+		<ils>nolisent</ils>
+	</present>
+	<imperative>
+		<tu>nolise</tu>
+		<nous>nolisons</nous>
+		<vous>nolisez</vous>
+	</imperative>
+	<imperfect>
+		<je>nolisais</je>
+		<tu>nolisais</tu>
+		<il>nolisait</il>
+		<nous>nolisions</nous>
+		<vous>nolisiez</vous>
+		<ils>nolisaient</ils>
+	</imperfect>
+	<future>
+		<je>noliserai</je>
+		<tu>noliseras</tu>
+		<il>nolisera</il>
+		<nous>noliserons</nous>
+		<vous>noliserez</vous>
+		<ils>noliseront</ils>
+	</future>
+	<subjunctive>
+		<je>nolise</je>
+		<tu>nolises</tu>
+		<il>nolise</il>
+		<nous>nolisions</nous>
+		<vous>nolisiez</vous>
+		<ils>nolisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>noliserais</je>
+		<tu>noliserais</tu>
+		<il>noliserait</il>
+		<nous>noliserions</nous>
+		<vous>noliseriez</vous>
+		<ils>noliseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

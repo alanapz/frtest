@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>unir</infinitive>
+	<translation>to unite</translation>
+	<presentParticiple>unissant</presentParticiple>
+	<pastParticiple>uni</pastParticiple>
+	<present>
+		<je>unis</je>
+		<tu>unis</tu>
+		<il>unit</il>
+		<nous>unissons</nous>
+		<vous>unissez</vous>
+		<ils>unissent</ils>
+	</present>
+	<imperative>
+		<tu>unis</tu>
+		<nous>unissons</nous>
+		<vous>unissez</vous>
+	</imperative>
+	<imperfect>
+		<je>unissais</je>
+		<tu>unissais</tu>
+		<il>unissait</il>
+		<nous>unissions</nous>
+		<vous>unissiez</vous>
+		<ils>unissaient</ils>
+	</imperfect>
+	<future>
+		<je>unirai</je>
+		<tu>uniras</tu>
+		<il>unira</il>
+		<nous>unirons</nous>
+		<vous>unirez</vous>
+		<ils>uniront</ils>
+	</future>
+	<subjunctive>
+		<je>unisse</je>
+		<tu>unisses</tu>
+		<il>unisse</il>
+		<nous>unissions</nous>
+		<vous>unissiez</vous>
+		<ils>unissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>unirais</je>
+		<tu>unirais</tu>
+		<il>unirait</il>
+		<nous>unirions</nous>
+		<vous>uniriez</vous>
+		<ils>uniraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

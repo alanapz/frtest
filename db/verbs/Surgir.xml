@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>surgir</infinitive>
+	<translation>to appear suddenly</translation>
+	<translation>to arise</translation>
+	<translation>crop up</translation>
+	<presentParticiple>surgissant</presentParticiple>
+	<pastParticiple>surgi</pastParticiple>
+	<present>
+		<je>surgis</je>
+		<tu>surgis</tu>
+		<il>surgit</il>
+		<nous>surgissons</nous>
+		<vous>surgissez</vous>
+		<ils>surgissent</ils>
+	</present>
+	<imperative>
+		<tu>surgis</tu>
+		<nous>surgissons</nous>
+		<vous>surgissez</vous>
+	</imperative>
+	<imperfect>
+		<je>surgissais</je>
+		<tu>surgissais</tu>
+		<il>surgissait</il>
+		<nous>surgissions</nous>
+		<vous>surgissiez</vous>
+		<ils>surgissaient</ils>
+	</imperfect>
+	<future>
+		<je>surgirai</je>
+		<tu>surgiras</tu>
+		<il>surgira</il>
+		<nous>surgirons</nous>
+		<vous>surgirez</vous>
+		<ils>surgiront</ils>
+	</future>
+	<subjunctive>
+		<je>surgisse</je>
+		<tu>surgisses</tu>
+		<il>surgisse</il>
+		<nous>surgissions</nous>
+		<vous>surgissiez</vous>
+		<ils>surgissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>surgirais</je>
+		<tu>surgirais</tu>
+		<il>surgirait</il>
+		<nous>surgirions</nous>
+		<vous>surgiriez</vous>
+		<ils>surgiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

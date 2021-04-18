@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>implorer</infinitive>
+	<translation>to implore</translation>
+	<presentParticiple>implorant</presentParticiple>
+	<pastParticiple>imploré</pastParticiple>
+	<present>
+		<je>implore</je>
+		<tu>implores</tu>
+		<il>implore</il>
+		<nous>implorons</nous>
+		<vous>implorez</vous>
+		<ils>implorent</ils>
+	</present>
+	<imperative>
+		<tu>implore</tu>
+		<nous>implorons</nous>
+		<vous>implorez</vous>
+	</imperative>
+	<imperfect>
+		<je>implorais</je>
+		<tu>implorais</tu>
+		<il>implorait</il>
+		<nous>implorions</nous>
+		<vous>imploriez</vous>
+		<ils>imploraient</ils>
+	</imperfect>
+	<future>
+		<je>implorerai</je>
+		<tu>imploreras</tu>
+		<il>implorera</il>
+		<nous>implorerons</nous>
+		<vous>implorerez</vous>
+		<ils>imploreront</ils>
+	</future>
+	<subjunctive>
+		<je>implore</je>
+		<tu>implores</tu>
+		<il>implore</il>
+		<nous>implorions</nous>
+		<vous>imploriez</vous>
+		<ils>implorent</ils>
+	</subjunctive>
+	<conditional>
+		<je>implorerais</je>
+		<tu>implorerais</tu>
+		<il>implorerait</il>
+		<nous>implorerions</nous>
+		<vous>imploreriez</vous>
+		<ils>imploreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

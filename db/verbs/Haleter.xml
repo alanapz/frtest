@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>haleter</infinitive>
+	<translation>to pant</translation>
+	<stemChange />
+	<presentParticiple>haletant</presentParticiple>
+	<pastParticiple>haleté</pastParticiple>
+	<present>
+		<je>halète</je>
+		<tu>halètes</tu>
+		<il>halète</il>
+		<nous>haletons</nous>
+		<vous>haletez</vous>
+		<ils>halètent</ils>
+	</present>
+	<imperative>
+		<tu>halète</tu>
+		<nous>haletons</nous>
+		<vous>haletez</vous>
+	</imperative>
+	<imperfect>
+		<je>haletais</je>
+		<tu>haletais</tu>
+		<il>haletait</il>
+		<nous>haletions</nous>
+		<vous>haletiez</vous>
+		<ils>haletaient</ils>
+	</imperfect>
+	<future>
+		<je>halèterai</je>
+		<tu>halèteras</tu>
+		<il>halètera</il>
+		<nous>halèterons</nous>
+		<vous>halèterez</vous>
+		<ils>halèteront</ils>
+	</future>
+	<subjunctive>
+		<je>halète</je>
+		<tu>halètes</tu>
+		<il>halète</il>
+		<nous>haletions</nous>
+		<vous>haletiez</vous>
+		<ils>halètent</ils>
+	</subjunctive>
+	<conditional>
+		<je>halèterais</je>
+		<tu>halèterais</tu>
+		<il>halèterait</il>
+		<nous>halèterions</nous>
+		<vous>halèteriez</vous>
+		<ils>halèteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

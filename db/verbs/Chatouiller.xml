@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>chatouiller</infinitive>
+	<translation>to tickle</translation>
+	<presentParticiple>chatouillant</presentParticiple>
+	<pastParticiple>chatouillé</pastParticiple>
+	<present>
+		<je>chatouille</je>
+		<tu>chatouilles</tu>
+		<il>chatouille</il>
+		<nous>chatouillons</nous>
+		<vous>chatouillez</vous>
+		<ils>chatouillent</ils>
+	</present>
+	<imperative>
+		<tu>chatouille</tu>
+		<nous>chatouillons</nous>
+		<vous>chatouillez</vous>
+	</imperative>
+	<imperfect>
+		<je>chatouillais</je>
+		<tu>chatouillais</tu>
+		<il>chatouillait</il>
+		<nous>chatouillions</nous>
+		<vous>chatouilliez</vous>
+		<ils>chatouillaient</ils>
+	</imperfect>
+	<future>
+		<je>chatouillerai</je>
+		<tu>chatouilleras</tu>
+		<il>chatouillera</il>
+		<nous>chatouillerons</nous>
+		<vous>chatouillerez</vous>
+		<ils>chatouilleront</ils>
+	</future>
+	<subjunctive>
+		<je>chatouille</je>
+		<tu>chatouilles</tu>
+		<il>chatouille</il>
+		<nous>chatouillions</nous>
+		<vous>chatouilliez</vous>
+		<ils>chatouillent</ils>
+	</subjunctive>
+	<conditional>
+		<je>chatouillerais</je>
+		<tu>chatouillerais</tu>
+		<il>chatouillerait</il>
+		<nous>chatouillerions</nous>
+		<vous>chatouilleriez</vous>
+		<ils>chatouilleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

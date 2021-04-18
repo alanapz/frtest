@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>deviner</infinitive>
+            <translation>to guess</translation>
+            <presentParticiple>devinant</presentParticiple>
+            <pastParticiple>deviné</pastParticiple>
+            <present>
+                <je>devine</je>
+                <tu>devines</tu>
+                <il>devine</il>
+                <nous>devinons</nous>
+                <vous>devinez</vous>
+                <ils>devinent</ils>
+            </present>
+            <imperative>
+                <tu>devine</tu>
+                <nous>devinons</nous>
+                <vous>devinez</vous>
+            </imperative>
+            <imperfect>
+                <je>devinais</je>
+                <tu>devinais</tu>
+                <il>devinait</il>
+                <nous>devinions</nous>
+                <vous>deviniez</vous>
+                <ils>devinaient</ils>
+            </imperfect>
+            <future>
+                <je>devinerai</je>
+                <tu>devineras</tu>
+                <il>devinera</il>
+                <nous>devinerons</nous>
+                <vous>devinerez</vous>
+                <ils>devineront</ils>
+            </future>
+            <subjunctive>
+                <je>devine</je>
+                <tu>devines</tu>
+                <il>devine</il>
+                <nous>devinions</nous>
+                <vous>deviniez</vous>
+                <ils>devinent</ils>
+            </subjunctive>
+            <conditional>
+                <je>devinerais</je>
+                <tu>devinerais</tu>
+                <il>devinerait</il>
+                <nous>devinerions</nous>
+                <vous>devineriez</vous>
+                <ils>devineraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

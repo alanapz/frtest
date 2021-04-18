@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>raccrocher</infinitive>
+	<translation>to hang up</translation>
+	<translation>to solicit</translation>
+	<translation>to waylay</translation>
+	<presentParticiple>raccrochant</presentParticiple>
+	<pastParticiple>raccroché</pastParticiple>
+	<present>
+		<je>raccroche</je>
+		<tu>raccroches</tu>
+		<il>raccroche</il>
+		<nous>raccrochons</nous>
+		<vous>raccrochez</vous>
+		<ils>raccrochent</ils>
+	</present>
+	<imperative>
+		<tu>raccroche</tu>
+		<nous>raccrochons</nous>
+		<vous>raccrochez</vous>
+	</imperative>
+	<imperfect>
+		<je>raccrochais</je>
+		<tu>raccrochais</tu>
+		<il>raccrochait</il>
+		<nous>raccrochions</nous>
+		<vous>raccrochiez</vous>
+		<ils>raccrochaient</ils>
+	</imperfect>
+	<future>
+		<je>raccrocherai</je>
+		<tu>raccrocheras</tu>
+		<il>raccrochera</il>
+		<nous>raccrocherons</nous>
+		<vous>raccrocherez</vous>
+		<ils>raccrocheront</ils>
+	</future>
+	<subjunctive>
+		<je>raccroche</je>
+		<tu>raccroches</tu>
+		<il>raccroche</il>
+		<nous>raccrochions</nous>
+		<vous>raccrochiez</vous>
+		<ils>raccrochent</ils>
+	</subjunctive>
+	<conditional>
+		<je>raccrocherais</je>
+		<tu>raccrocherais</tu>
+		<il>raccrocherait</il>
+		<nous>raccrocherions</nous>
+		<vous>raccrocheriez</vous>
+		<ils>raccrocheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

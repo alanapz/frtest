@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>qualifier</infinitive>
+	<translation>to qualilfy</translation>
+	<presentParticiple>qualifiant</presentParticiple>
+	<pastParticiple>qualifié</pastParticiple>
+	<present>
+		<je>qualifie</je>
+		<tu>qualifies</tu>
+		<il>qualifie</il>
+		<nous>qualifions</nous>
+		<vous>qualifiez</vous>
+		<ils>qualifient</ils>
+	</present>
+	<imperative>
+		<tu>qualifie</tu>
+		<nous>qualifions</nous>
+		<vous>qualifiez</vous>
+	</imperative>
+	<imperfect>
+		<je>qualifiais</je>
+		<tu>qualifiais</tu>
+		<il>qualifiait</il>
+		<nous>qualifiions</nous>
+		<vous>qualifiiez</vous>
+		<ils>qualifiaient</ils>
+	</imperfect>
+	<future>
+		<je>qualifierai</je>
+		<tu>qualifieras</tu>
+		<il>qualifiera</il>
+		<nous>qualifierons</nous>
+		<vous>qualifierez</vous>
+		<ils>qualifieront</ils>
+	</future>
+	<subjunctive>
+		<je>qualifie</je>
+		<tu>qualifies</tu>
+		<il>qualifie</il>
+		<nous>qualifiions</nous>
+		<vous>qualifiiez</vous>
+		<ils>qualifient</ils>
+	</subjunctive>
+	<conditional>
+		<je>qualifierais</je>
+		<tu>qualifierais</tu>
+		<il>qualifierait</il>
+		<nous>qualifierions</nous>
+		<vous>qualifieriez</vous>
+		<ils>qualifieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

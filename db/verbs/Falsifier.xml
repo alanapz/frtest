@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>falsifier</infinitive>
+	<translation>to falsify</translation>
+	<presentParticiple>falsifiant</presentParticiple>
+	<pastParticiple>falsifié</pastParticiple>
+	<present>
+		<je>falsifie</je>
+		<tu>falsifies</tu>
+		<il>falsifie</il>
+		<nous>falsifions</nous>
+		<vous>falsifiez</vous>
+		<ils>falsifient</ils>
+	</present>
+	<imperative>
+		<tu>falsifie</tu>
+		<nous>falsifions</nous>
+		<vous>falsifiez</vous>
+	</imperative>
+	<imperfect>
+		<je>falsifiais</je>
+		<tu>falsifiais</tu>
+		<il>falsifiait</il>
+		<nous>falsifiions</nous>
+		<vous>falsifiiez</vous>
+		<ils>falsifiaient</ils>
+	</imperfect>
+	<future>
+		<je>falsifierai</je>
+		<tu>falsifieras</tu>
+		<il>falsifiera</il>
+		<nous>falsifierons</nous>
+		<vous>falsifierez</vous>
+		<ils>falsifieront</ils>
+	</future>
+	<subjunctive>
+		<je>falsifie</je>
+		<tu>falsifies</tu>
+		<il>falsifie</il>
+		<nous>falsifiions</nous>
+		<vous>falsifiiez</vous>
+		<ils>falsifient</ils>
+	</subjunctive>
+	<conditional>
+		<je>falsifierais</je>
+		<tu>falsifierais</tu>
+		<il>falsifierait</il>
+		<nous>falsifierions</nous>
+		<vous>falsifieriez</vous>
+		<ils>falsifieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

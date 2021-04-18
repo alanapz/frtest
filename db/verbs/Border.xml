@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>border</infinitive>
+	<translation>to edge</translation>
+	<translation>trim</translation>
+	<translation>hem</translation>
+	<translation>to run alongside</translation>
+	<translation>border</translation>
+	<presentParticiple>bordant</presentParticiple>
+	<pastParticiple>bordé</pastParticiple>
+	<present>
+		<je>borde</je>
+		<tu>bordes</tu>
+		<il>borde</il>
+		<nous>bordons</nous>
+		<vous>bordez</vous>
+		<ils>bordent</ils>
+	</present>
+	<imperative>
+		<tu>borde</tu>
+		<nous>bordons</nous>
+		<vous>bordez</vous>
+	</imperative>
+	<imperfect>
+		<je>bordais</je>
+		<tu>bordais</tu>
+		<il>bordait</il>
+		<nous>bordions</nous>
+		<vous>bordiez</vous>
+		<ils>bordaient</ils>
+	</imperfect>
+	<future>
+		<je>borderai</je>
+		<tu>borderas</tu>
+		<il>bordera</il>
+		<nous>borderons</nous>
+		<vous>borderez</vous>
+		<ils>borderont</ils>
+	</future>
+	<subjunctive>
+		<je>borde</je>
+		<tu>bordes</tu>
+		<il>borde</il>
+		<nous>bordions</nous>
+		<vous>bordiez</vous>
+		<ils>bordent</ils>
+	</subjunctive>
+	<conditional>
+		<je>borderais</je>
+		<tu>borderais</tu>
+		<il>borderait</il>
+		<nous>borderions</nous>
+		<vous>borderiez</vous>
+		<ils>borderaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

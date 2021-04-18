@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>signifier</infinitive>
+	<translation>to signify</translation>
+	<translation>mean</translation>
+	<presentParticiple>signifiant</presentParticiple>
+	<pastParticiple>signifié</pastParticiple>
+	<present>
+		<je>signifie</je>
+		<tu>signifies</tu>
+		<il>signifie</il>
+		<nous>signifions</nous>
+		<vous>signifiez</vous>
+		<ils>signifient</ils>
+	</present>
+	<imperative>
+		<tu>signifie</tu>
+		<nous>signifions</nous>
+		<vous>signifiez</vous>
+	</imperative>
+	<imperfect>
+		<je>signifiais</je>
+		<tu>signifiais</tu>
+		<il>signifiait</il>
+		<nous>signifiions</nous>
+		<vous>signifiiez</vous>
+		<ils>signifiaient</ils>
+	</imperfect>
+	<future>
+		<je>signifierai</je>
+		<tu>signifieras</tu>
+		<il>signifiera</il>
+		<nous>signifierons</nous>
+		<vous>signifierez</vous>
+		<ils>signifieront</ils>
+	</future>
+	<subjunctive>
+		<je>signifie</je>
+		<tu>signifies</tu>
+		<il>signifie</il>
+		<nous>signifiions</nous>
+		<vous>signifiiez</vous>
+		<ils>signifient</ils>
+	</subjunctive>
+	<conditional>
+		<je>signifierais</je>
+		<tu>signifierais</tu>
+		<il>signifierait</il>
+		<nous>signifierions</nous>
+		<vous>signifieriez</vous>
+		<ils>signifieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

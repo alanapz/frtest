@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>stimuler</infinitive>
+	<translation>to stimulate</translation>
+	<presentParticiple>stimulant</presentParticiple>
+	<pastParticiple>stimulé</pastParticiple>
+	<present>
+		<je>stimule</je>
+		<tu>stimules</tu>
+		<il>stimule</il>
+		<nous>stimulons</nous>
+		<vous>stimulez</vous>
+		<ils>stimulent</ils>
+	</present>
+	<imperative>
+		<tu>stimule</tu>
+		<nous>stimulons</nous>
+		<vous>stimulez</vous>
+	</imperative>
+	<imperfect>
+		<je>stimulais</je>
+		<tu>stimulais</tu>
+		<il>stimulait</il>
+		<nous>stimulions</nous>
+		<vous>stimuliez</vous>
+		<ils>stimulaient</ils>
+	</imperfect>
+	<future>
+		<je>stimulerai</je>
+		<tu>stimuleras</tu>
+		<il>stimulera</il>
+		<nous>stimulerons</nous>
+		<vous>stimulerez</vous>
+		<ils>stimuleront</ils>
+	</future>
+	<subjunctive>
+		<je>stimule</je>
+		<tu>stimules</tu>
+		<il>stimule</il>
+		<nous>stimulions</nous>
+		<vous>stimuliez</vous>
+		<ils>stimulent</ils>
+	</subjunctive>
+	<conditional>
+		<je>stimulerais</je>
+		<tu>stimulerais</tu>
+		<il>stimulerait</il>
+		<nous>stimulerions</nous>
+		<vous>stimuleriez</vous>
+		<ils>stimuleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

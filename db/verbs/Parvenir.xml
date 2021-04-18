@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>parvenir</infinitive>
+	<translation>to reach</translation>
+	<translation>achieve</translation>
+	<irregular />
+	<takesEtreInPerfect />
+	<presentParticiple>parvenant</presentParticiple>
+	<pastParticiple>parvenu</pastParticiple>
+	<present>
+		<je>parviens</je>
+		<tu>parviens</tu>
+		<il>parvient</il>
+		<nous>parvenons</nous>
+		<vous>parvenez</vous>
+		<ils>parviennent</ils>
+	</present>
+	<imperative>
+		<tu>parviens</tu>
+		<nous>parvenons</nous>
+		<vous>parvenez</vous>
+	</imperative>
+	<imperfect>
+		<je>parvenais</je>
+		<tu>parvenais</tu>
+		<il>parvenait</il>
+		<nous>parvenions</nous>
+		<vous>parveniez</vous>
+		<ils>parvenaient</ils>
+	</imperfect>
+	<future>
+		<je>parviendrai</je>
+		<tu>parviendras</tu>
+		<il>parviendra</il>
+		<nous>parviendrons</nous>
+		<vous>parviendrez</vous>
+		<ils>parviendront</ils>
+	</future>
+	<subjunctive>
+		<je>parvienne</je>
+		<tu>parviennes</tu>
+		<il>parvienne</il>
+		<nous>parvenions</nous>
+		<vous>parveniez</vous>
+		<ils>parviennent</ils>
+	</subjunctive>
+	<conditional>
+		<je>parviendrais</je>
+		<tu>parviendrais</tu>
+		<il>parviendrait</il>
+		<nous>parviendrions</nous>
+		<vous>parviendriez</vous>
+		<ils>parviendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

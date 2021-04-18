@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>retourner</infinitive>
+            <translation>to return</translation>
+            <takesEtreInPerfect />
+            <presentParticiple>retournant</presentParticiple>
+            <pastParticiple>retourné</pastParticiple>
+            <present>
+                <je>retourne</je>
+                <tu>retournes</tu>
+                <il>retourne</il>
+                <nous>retournons</nous>
+                <vous>retournez</vous>
+                <ils>retournent</ils>
+            </present>
+            <imperative>
+                <tu>retourne</tu>
+                <nous>retournons</nous>
+                <vous>retournez</vous>
+            </imperative>
+            <imperfect>
+                <je>retournais</je>
+                <tu>retournais</tu>
+                <il>retournait</il>
+                <nous>retournions</nous>
+                <vous>retourniez</vous>
+                <ils>retournaient</ils>
+            </imperfect>
+            <future>
+                <je>retournerai</je>
+                <tu>retourneras</tu>
+                <il>retournera</il>
+                <nous>retournerons</nous>
+                <vous>retournerez</vous>
+                <ils>retourneront</ils>
+            </future>
+            <subjunctive>
+                <je>retourne</je>
+                <tu>retournes</tu>
+                <il>retourne</il>
+                <nous>retournions</nous>
+                <vous>retourniez</vous>
+                <ils>retournent</ils>
+            </subjunctive>
+            <conditional>
+                <je>retournerais</je>
+                <tu>retournerais</tu>
+                <il>retournerait</il>
+                <nous>retournerions</nous>
+                <vous>retourneriez</vous>
+                <ils>retourneraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

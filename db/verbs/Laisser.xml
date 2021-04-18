@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>laisser</infinitive>
+	<translation>to let</translation>
+	<presentParticiple>laissant</presentParticiple>
+	<pastParticiple>laissé</pastParticiple>
+	<present>
+		<je>laisse</je>
+		<tu>laisses</tu>
+		<il>laisse</il>
+		<nous>laissons</nous>
+		<vous>laissez</vous>
+		<ils>laissent</ils>
+	</present>
+	<imperative>
+		<tu>laisse</tu>
+		<nous>laissons</nous>
+		<vous>laissez</vous>
+	</imperative>
+	<imperfect>
+		<je>laissais</je>
+		<tu>laissais</tu>
+		<il>laissait</il>
+		<nous>laissions</nous>
+		<vous>laissiez</vous>
+		<ils>laissaient</ils>
+	</imperfect>
+	<future>
+		<je>laisserai</je>
+		<tu>laisseras</tu>
+		<il>laissera</il>
+		<nous>laisserons</nous>
+		<vous>laisserez</vous>
+		<ils>laisseront</ils>
+	</future>
+	<subjunctive>
+		<je>laisse</je>
+		<tu>laisses</tu>
+		<il>laisse</il>
+		<nous>laissions</nous>
+		<vous>laissiez</vous>
+		<ils>laissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>laisserais</je>
+		<tu>laisserais</tu>
+		<il>laisserait</il>
+		<nous>laisserions</nous>
+		<vous>laisseriez</vous>
+		<ils>laisseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

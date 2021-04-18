@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>représenter</infinitive>
+            <translation>to represent</translation>
+            <translation>to depict</translation>
+            <presentParticiple>représentant</presentParticiple>
+            <pastParticiple>représenté</pastParticiple>
+            <present>
+                <je>représente</je>
+                <tu>représentes</tu>
+                <il>représente</il>
+                <nous>représentons</nous>
+                <vous>représentez</vous>
+                <ils>représentent</ils>
+            </present>
+            <imperative>
+                <tu>représente</tu>
+                <nous>représentons</nous>
+                <vous>représentez</vous>
+            </imperative>
+            <imperfect>
+                <je>représentais</je>
+                <tu>représentais</tu>
+                <il>représentait</il>
+                <nous>représentions</nous>
+                <vous>représentiez</vous>
+                <ils>représentaient</ils>
+            </imperfect>
+            <future>
+                <je>représenterai</je>
+                <tu>représenteras</tu>
+                <il>représentera</il>
+                <nous>représenterons</nous>
+                <vous>représenterez</vous>
+                <ils>représenteront</ils>
+            </future>
+            <subjunctive>
+                <je>représente</je>
+                <tu>représentes</tu>
+                <il>représente</il>
+                <nous>représentions</nous>
+                <vous>représentiez</vous>
+                <ils>représentent</ils>
+            </subjunctive>
+            <conditional>
+                <je>représenterais</je>
+                <tu>représenterais</tu>
+                <il>représenterait</il>
+                <nous>représenterions</nous>
+                <vous>représenteriez</vous>
+                <ils>représenteraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>exprimer</infinitive>
+            <translation>to express</translation>
+            <presentParticiple>exprimant</presentParticiple>
+            <pastParticiple>exprimé</pastParticiple>
+            <present>
+                <je>exprime</je>
+                <tu>exprimes</tu>
+                <il>exprime</il>
+                <nous>exprimons</nous>
+                <vous>exprimez</vous>
+                <ils>expriment</ils>
+            </present>
+            <imperative>
+                <tu>exprime</tu>
+                <nous>exprimons</nous>
+                <vous>exprimez</vous>
+            </imperative>
+            <imperfect>
+                <je>exprimais</je>
+                <tu>exprimais</tu>
+                <il>exprimait</il>
+                <nous>exprimions</nous>
+                <vous>exprimiez</vous>
+                <ils>exprimaient</ils>
+            </imperfect>
+            <future>
+                <je>exprimerai</je>
+                <tu>exprimeras</tu>
+                <il>exprimera</il>
+                <nous>exprimerons</nous>
+                <vous>exprimerez</vous>
+                <ils>exprimeront</ils>
+            </future>
+            <subjunctive>
+                <je>exprime</je>
+                <tu>exprimes</tu>
+                <il>exprime</il>
+                <nous>exprimions</nous>
+                <vous>exprimiez</vous>
+                <ils>expriment</ils>
+            </subjunctive>
+            <conditional>
+                <je>exprimerais</je>
+                <tu>exprimerais</tu>
+                <il>exprimerait</il>
+                <nous>exprimerions</nous>
+                <vous>exprimeriez</vous>
+                <ils>exprimeraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>neutraliser</infinitive>
+	<translation>to neutralize</translation>
+	<presentParticiple>neutralisant</presentParticiple>
+	<pastParticiple>neutralisé</pastParticiple>
+	<present>
+		<je>neutralise</je>
+		<tu>neutralises</tu>
+		<il>neutralise</il>
+		<nous>neutralisons</nous>
+		<vous>neutralisez</vous>
+		<ils>neutralisent</ils>
+	</present>
+	<imperative>
+		<tu>neutralise</tu>
+		<nous>neutralisons</nous>
+		<vous>neutralisez</vous>
+	</imperative>
+	<imperfect>
+		<je>neutralisais</je>
+		<tu>neutralisais</tu>
+		<il>neutralisait</il>
+		<nous>neutralisions</nous>
+		<vous>neutralisiez</vous>
+		<ils>neutralisaient</ils>
+	</imperfect>
+	<future>
+		<je>neutraliserai</je>
+		<tu>neutraliseras</tu>
+		<il>neutralisera</il>
+		<nous>neutraliserons</nous>
+		<vous>neutraliserez</vous>
+		<ils>neutraliseront</ils>
+	</future>
+	<subjunctive>
+		<je>neutralise</je>
+		<tu>neutralises</tu>
+		<il>neutralise</il>
+		<nous>neutralisions</nous>
+		<vous>neutralisiez</vous>
+		<ils>neutralisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>neutraliserais</je>
+		<tu>neutraliserais</tu>
+		<il>neutraliserait</il>
+		<nous>neutraliserions</nous>
+		<vous>neutraliseriez</vous>
+		<ils>neutraliseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>ciseler</infinitive>
+	<translation>to chisel</translation>
+	<translation>carve</translation>
+	<stemChange />
+	<presentParticiple>ciselant</presentParticiple>
+	<pastParticiple>ciselé</pastParticiple>
+	<present>
+		<je>cisèle</je>
+		<tu>cisèles</tu>
+		<il>cisèle</il>
+		<nous>ciselons</nous>
+		<vous>ciselez</vous>
+		<ils>cisèlent</ils>
+	</present>
+	<imperative>
+		<tu>cisèle</tu>
+		<nous>ciselons</nous>
+		<vous>ciselez</vous>
+	</imperative>
+	<imperfect>
+		<je>ciselais</je>
+		<tu>ciselais</tu>
+		<il>ciselait</il>
+		<nous>ciselions</nous>
+		<vous>ciseliez</vous>
+		<ils>ciselaient</ils>
+	</imperfect>
+	<future>
+		<je>cisèlerai</je>
+		<tu>cisèleras</tu>
+		<il>cisèlera</il>
+		<nous>cisèlerons</nous>
+		<vous>cisèlerez</vous>
+		<ils>cisèleront</ils>
+	</future>
+	<subjunctive>
+		<je>cisèle</je>
+		<tu>cisèles</tu>
+		<il>cisèle</il>
+		<nous>ciselions</nous>
+		<vous>ciseliez</vous>
+		<ils>cisèlent</ils>
+	</subjunctive>
+	<conditional>
+		<je>cisèlerais</je>
+		<tu>cisèlerais</tu>
+		<il>cisèlerait</il>
+		<nous>cisèlerions</nous>
+		<vous>cisèleriez</vous>
+		<ils>cisèleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

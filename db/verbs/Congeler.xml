@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>congeler</infinitive>
+	<translation>to freeze</translation>
+	<stemChange />
+	<presentParticiple>congelant</presentParticiple>
+	<pastParticiple>congelé</pastParticiple>
+	<present>
+		<je>congèle</je>
+		<tu>congèles</tu>
+		<il>congèle</il>
+		<nous>congelons</nous>
+		<vous>congelez</vous>
+		<ils>congèlent</ils>
+	</present>
+	<imperative>
+		<tu>congèle</tu>
+		<nous>congelons</nous>
+		<vous>congelez</vous>
+	</imperative>
+	<imperfect>
+		<je>congelais</je>
+		<tu>congelais</tu>
+		<il>congelait</il>
+		<nous>congelions</nous>
+		<vous>congeliez</vous>
+		<ils>congelaient</ils>
+	</imperfect>
+	<future>
+		<je>congèlerai</je>
+		<tu>congèleras</tu>
+		<il>congèlera</il>
+		<nous>congèlerons</nous>
+		<vous>congèlerez</vous>
+		<ils>congèleront</ils>
+	</future>
+	<subjunctive>
+		<je>congèle</je>
+		<tu>congèles</tu>
+		<il>congèle</il>
+		<nous>congelions</nous>
+		<vous>congeliez</vous>
+		<ils>congèlent</ils>
+	</subjunctive>
+	<conditional>
+		<je>congèlerais</je>
+		<tu>congèlerais</tu>
+		<il>congèlerait</il>
+		<nous>congèlerions</nous>
+		<vous>congèleriez</vous>
+		<ils>congèleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

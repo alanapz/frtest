@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>déjeuner</infinitive>
+	<translation>to have lunch</translation>
+	<presentParticiple>déjeunant</presentParticiple>
+	<pastParticiple>déjeuné</pastParticiple>
+	<present>
+		<je>déjeune</je>
+		<tu>déjeunes</tu>
+		<il>déjeune</il>
+		<nous>déjeunons</nous>
+		<vous>déjeunez</vous>
+		<ils>déjeunent</ils>
+	</present>
+	<imperative>
+		<tu>déjeune</tu>
+		<nous>déjeunons</nous>
+		<vous>déjeunez</vous>
+	</imperative>
+	<imperfect>
+		<je>déjeunais</je>
+		<tu>déjeunais</tu>
+		<il>déjeunait</il>
+		<nous>déjeunions</nous>
+		<vous>déjeuniez</vous>
+		<ils>déjeunaient</ils>
+	</imperfect>
+	<future>
+		<je>déjeunerai</je>
+		<tu>déjeuneras</tu>
+		<il>déjeunera</il>
+		<nous>déjeunerons</nous>
+		<vous>déjeunerez</vous>
+		<ils>déjeuneront</ils>
+	</future>
+	<subjunctive>
+		<je>déjeune</je>
+		<tu>déjeunes</tu>
+		<il>déjeune</il>
+		<nous>déjeunions</nous>
+		<vous>déjeuniez</vous>
+		<ils>déjeunent</ils>
+	</subjunctive>
+	<conditional>
+		<je>déjeunerais</je>
+		<tu>déjeunerais</tu>
+		<il>déjeunerait</il>
+		<nous>déjeunerions</nous>
+		<vous>déjeuneriez</vous>
+		<ils>déjeuneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

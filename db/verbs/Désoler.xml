@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>désoler</infinitive>
+	<translation>to distress</translation>
+	<translation>sadden</translation>
+	<presentParticiple>désolant</presentParticiple>
+	<pastParticiple>désolé</pastParticiple>
+	<present>
+		<je>désole</je>
+		<tu>désoles</tu>
+		<il>désole</il>
+		<nous>désolons</nous>
+		<vous>désolez</vous>
+		<ils>désolent</ils>
+	</present>
+	<imperative>
+		<tu>désole</tu>
+		<nous>désolons</nous>
+		<vous>désolez</vous>
+	</imperative>
+	<imperfect>
+		<je>désolais</je>
+		<tu>désolais</tu>
+		<il>désolait</il>
+		<nous>désolions</nous>
+		<vous>désoliez</vous>
+		<ils>désolaient</ils>
+	</imperfect>
+	<future>
+		<je>désolerai</je>
+		<tu>désoleras</tu>
+		<il>désolera</il>
+		<nous>désolerons</nous>
+		<vous>désolerez</vous>
+		<ils>désoleront</ils>
+	</future>
+	<subjunctive>
+		<je>désole</je>
+		<tu>désoles</tu>
+		<il>désole</il>
+		<nous>désolions</nous>
+		<vous>désoliez</vous>
+		<ils>désolent</ils>
+	</subjunctive>
+	<conditional>
+		<je>désolerais</je>
+		<tu>désolerais</tu>
+		<il>désolerait</il>
+		<nous>désolerions</nous>
+		<vous>désoleriez</vous>
+		<ils>désoleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>dessiner</infinitive>
+            <translation>to draw</translation>
+            <presentParticiple>dessinant</presentParticiple>
+            <pastParticiple>dessiné</pastParticiple>
+            <present>
+                <je>dessine</je>
+                <tu>dessines</tu>
+                <il>dessine</il>
+                <nous>dessinons</nous>
+                <vous>dessinez</vous>
+                <ils>dessinent</ils>
+            </present>
+            <imperative>
+                <tu>dessine</tu>
+                <nous>dessinons</nous>
+                <vous>dessinez</vous>
+            </imperative>
+            <imperfect>
+                <je>dessinais</je>
+                <tu>dessinais</tu>
+                <il>dessinait</il>
+                <nous>dessinions</nous>
+                <vous>dessiniez</vous>
+                <ils>dessinaient</ils>
+            </imperfect>
+            <future>
+                <je>dessinerai</je>
+                <tu>dessineras</tu>
+                <il>dessinera</il>
+                <nous>dessinerons</nous>
+                <vous>dessinerez</vous>
+                <ils>dessineront</ils>
+            </future>
+            <subjunctive>
+                <je>dessine</je>
+                <tu>dessines</tu>
+                <il>dessine</il>
+                <nous>dessinions</nous>
+                <vous>dessiniez</vous>
+                <ils>dessinent</ils>
+            </subjunctive>
+            <conditional>
+                <je>dessinerais</je>
+                <tu>dessinerais</tu>
+                <il>dessinerait</il>
+                <nous>dessinerions</nous>
+                <vous>dessineriez</vous>
+                <ils>dessineraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>décrire</infinitive>
+	<translation>to describe</translation>
+	<irregular />
+	<presentParticiple>décrivant</presentParticiple>
+	<pastParticiple>décrit</pastParticiple>
+	<present>
+		<je>décris</je>
+		<tu>décris</tu>
+		<il>décrit</il>
+		<nous>décrivons</nous>
+		<vous>décrivez</vous>
+		<ils>décrivent</ils>
+	</present>
+	<imperative>
+		<tu>décris</tu>
+		<nous>décrivons</nous>
+		<vous>décrivez</vous>
+	</imperative>
+	<imperfect>
+		<je>décrivais</je>
+		<tu>décrivais</tu>
+		<il>décrivait</il>
+		<nous>décrivions</nous>
+		<vous>décriviez</vous>
+		<ils>décrivaient</ils>
+	</imperfect>
+	<future>
+		<je>décrirai</je>
+		<tu>décriras</tu>
+		<il>décrira</il>
+		<nous>décrirons</nous>
+		<vous>décrirez</vous>
+		<ils>décriront</ils>
+	</future>
+	<subjunctive>
+		<je>décrive</je>
+		<tu>décrives</tu>
+		<il>décrive</il>
+		<nous>décrivions</nous>
+		<vous>décriviez</vous>
+		<ils>décrivent</ils>
+	</subjunctive>
+	<conditional>
+		<je>décrirais</je>
+		<tu>décrirais</tu>
+		<il>décrirait</il>
+		<nous>décririons</nous>
+		<vous>décririez</vous>
+		<ils>décriraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

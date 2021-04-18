@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>envoyer</infinitive>
+	<translation>to send</translation>
+	<irregular />
+	<presentParticiple>envoyant</presentParticiple>
+	<pastParticiple>envoyé</pastParticiple>
+	<present>
+		<je>envoie</je>
+		<tu>envoies</tu>
+		<il>envoie</il>
+		<nous>envoyons</nous>
+		<vous>envoyez</vous>
+		<ils>envoient</ils>
+	</present>
+	<imperative>
+		<tu>envoie</tu>
+		<nous>envoyons</nous>
+		<vous>envoyez</vous>
+	</imperative>
+	<imperfect>
+		<je>envoyais</je>
+		<tu>envoyais</tu>
+		<il>envoyait</il>
+		<nous>envoyions</nous>
+		<vous>envoyiez</vous>
+		<ils>envoyaient</ils>
+	</imperfect>
+	<future>
+		<je>enverrai</je>
+		<tu>enverras</tu>
+		<il>enverra</il>
+		<nous>enverrons</nous>
+		<vous>enverrez</vous>
+		<ils>enverront</ils>
+	</future>
+	<subjunctive>
+		<je>envoie</je>
+		<tu>envoies</tu>
+		<il>envoie</il>
+		<nous>envoyions</nous>
+		<vous>envoyiez</vous>
+		<ils>envoient</ils>
+	</subjunctive>
+	<conditional>
+		<je>enverrais</je>
+		<tu>enverrais</tu>
+		<il>enverrait</il>
+		<nous>enverrions</nous>
+		<vous>enverriez</vous>
+		<ils>enverraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

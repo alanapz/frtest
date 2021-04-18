@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>nager</infinitive>
+	<translation>to swim</translation>
+	<spellingChange />
+	<presentParticiple>nageant</presentParticiple>
+	<pastParticiple>nagé</pastParticiple>
+	<present>
+		<je>nage</je>
+		<tu>nages</tu>
+		<il>nage</il>
+		<nous>nageons</nous>
+		<vous>nagez</vous>
+		<ils>nagent</ils>
+	</present>
+	<imperative>
+		<tu>nage</tu>
+		<nous>nageons</nous>
+		<vous>nagez</vous>
+	</imperative>
+	<imperfect>
+		<je>nageais</je>
+		<tu>nageais</tu>
+		<il>nageait</il>
+		<nous>nagions</nous>
+		<vous>nagiez</vous>
+		<ils>nageaient</ils>
+	</imperfect>
+	<future>
+		<je>nagerai</je>
+		<tu>nageras</tu>
+		<il>nagera</il>
+		<nous>nagerons</nous>
+		<vous>nagerez</vous>
+		<ils>nageront</ils>
+	</future>
+	<subjunctive>
+		<je>nage</je>
+		<tu>nages</tu>
+		<il>nage</il>
+		<nous>nagions</nous>
+		<vous>nagiez</vous>
+		<ils>nagent</ils>
+	</subjunctive>
+	<conditional>
+		<je>nagerais</je>
+		<tu>nagerais</tu>
+		<il>nagerait</il>
+		<nous>nagerions</nous>
+		<vous>nageriez</vous>
+		<ils>nageraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

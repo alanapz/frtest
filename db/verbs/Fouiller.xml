@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>fouiller</infinitive>
+	<translation>to dig deeply</translation>
+	<presentParticiple>fouillant</presentParticiple>
+	<pastParticiple>fouillé</pastParticiple>
+	<present>
+		<je>fouille</je>
+		<tu>fouilles</tu>
+		<il>fouille</il>
+		<nous>fouillons</nous>
+		<vous>fouillez</vous>
+		<ils>fouillent</ils>
+	</present>
+	<imperative>
+		<tu>fouille</tu>
+		<nous>fouillons</nous>
+		<vous>fouillez</vous>
+	</imperative>
+	<imperfect>
+		<je>fouillais</je>
+		<tu>fouillais</tu>
+		<il>fouillait</il>
+		<nous>fouillions</nous>
+		<vous>fouilliez</vous>
+		<ils>fouillaient</ils>
+	</imperfect>
+	<future>
+		<je>fouillerai</je>
+		<tu>fouilleras</tu>
+		<il>fouillera</il>
+		<nous>fouillerons</nous>
+		<vous>fouillerez</vous>
+		<ils>fouilleront</ils>
+	</future>
+	<subjunctive>
+		<je>fouille</je>
+		<tu>fouilles</tu>
+		<il>fouille</il>
+		<nous>fouillions</nous>
+		<vous>fouilliez</vous>
+		<ils>fouillent</ils>
+	</subjunctive>
+	<conditional>
+		<je>fouillerais</je>
+		<tu>fouillerais</tu>
+		<il>fouillerait</il>
+		<nous>fouillerions</nous>
+		<vous>fouilleriez</vous>
+		<ils>fouilleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

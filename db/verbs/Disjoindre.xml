@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>disjoindre</infinitive>
+	<translation>to disconnect</translation>
+	<translation>separate</translation>
+	<irregular />
+	<presentParticiple>disjoignant</presentParticiple>
+	<pastParticiple>disjoint</pastParticiple>
+	<present>
+		<je>disjoins</je>
+		<tu>disjoins</tu>
+		<il>disjoint</il>
+		<nous>disjoignons</nous>
+		<vous>disjoignez</vous>
+		<ils>disjoignent</ils>
+	</present>
+	<imperative>
+		<tu>disjoins</tu>
+		<nous>disjoignons</nous>
+		<vous>disjoignez</vous>
+	</imperative>
+	<imperfect>
+		<je>disjoignais</je>
+		<tu>disjoignais</tu>
+		<il>disjoignait</il>
+		<nous>disjoignions</nous>
+		<vous>disjoigniez</vous>
+		<ils>disjoignaient</ils>
+	</imperfect>
+	<future>
+		<je>disjoindrai</je>
+		<tu>disjoindras</tu>
+		<il>disjoindra</il>
+		<nous>disjoindrons</nous>
+		<vous>disjoindrez</vous>
+		<ils>disjoindront</ils>
+	</future>
+	<subjunctive>
+		<je>disjoigne</je>
+		<tu>disjoignes</tu>
+		<il>disjoigne</il>
+		<nous>disjoignions</nous>
+		<vous>disjoigniez</vous>
+		<ils>disjoignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>disjoindrais</je>
+		<tu>disjoindrais</tu>
+		<il>disjoindrait</il>
+		<nous>disjoindrions</nous>
+		<vous>disjoindriez</vous>
+		<ils>disjoindraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

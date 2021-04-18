@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>remarquer</infinitive>
+            <translation>to notice</translation>
+            <translation>to remark</translation>
+            <presentParticiple>remarquant</presentParticiple>
+            <pastParticiple>remarqué</pastParticiple>
+            <present>
+                <je>remarque</je>
+                <tu>remarques</tu>
+                <il>remarque</il>
+                <nous>remarquons</nous>
+                <vous>remarquez</vous>
+                <ils>remarquent</ils>
+            </present>
+            <imperative>
+                <tu>remarque</tu>
+                <nous>remarquons</nous>
+                <vous>remarquez</vous>
+            </imperative>
+            <imperfect>
+                <je>remarquais</je>
+                <tu>remarquais</tu>
+                <il>remarquait</il>
+                <nous>remarquions</nous>
+                <vous>remarquiez</vous>
+                <ils>remarquaient</ils>
+            </imperfect>
+            <future>
+                <je>remarquerai</je>
+                <tu>remarqueras</tu>
+                <il>remarquera</il>
+                <nous>remarquerons</nous>
+                <vous>remarquerez</vous>
+                <ils>remarqueront</ils>
+            </future>
+            <subjunctive>
+                <je>remarque</je>
+                <tu>remarques</tu>
+                <il>remarque</il>
+                <nous>remarquions</nous>
+                <vous>remarquiez</vous>
+                <ils>remarquent</ils>
+            </subjunctive>
+            <conditional>
+                <je>remarquerais</je>
+                <tu>remarquerais</tu>
+                <il>remarquerait</il>
+                <nous>remarquerions</nous>
+                <vous>remarqueriez</vous>
+                <ils>remarqueraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>embarquer</infinitive>
+	<translation>to embark</translation>
+	<translation>load</translation>
+	<translation>(fam) to steal</translation>
+	<presentParticiple>embarquant</presentParticiple>
+	<pastParticiple>embarqué</pastParticiple>
+	<present>
+		<je>embarque</je>
+		<tu>embarques</tu>
+		<il>embarque</il>
+		<nous>embarquons</nous>
+		<vous>embarquez</vous>
+		<ils>embarquent</ils>
+	</present>
+	<imperative>
+		<tu>embarque</tu>
+		<nous>embarquons</nous>
+		<vous>embarquez</vous>
+	</imperative>
+	<imperfect>
+		<je>embarquais</je>
+		<tu>embarquais</tu>
+		<il>embarquait</il>
+		<nous>embarquions</nous>
+		<vous>embarquiez</vous>
+		<ils>embarquaient</ils>
+	</imperfect>
+	<future>
+		<je>embarquerai</je>
+		<tu>embarqueras</tu>
+		<il>embarquera</il>
+		<nous>embarquerons</nous>
+		<vous>embarquerez</vous>
+		<ils>embarqueront</ils>
+	</future>
+	<subjunctive>
+		<je>embarque</je>
+		<tu>embarques</tu>
+		<il>embarque</il>
+		<nous>embarquions</nous>
+		<vous>embarquiez</vous>
+		<ils>embarquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>embarquerais</je>
+		<tu>embarquerais</tu>
+		<il>embarquerait</il>
+		<nous>embarquerions</nous>
+		<vous>embarqueriez</vous>
+		<ils>embarqueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

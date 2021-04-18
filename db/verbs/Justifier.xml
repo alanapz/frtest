@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>justifier</infinitive>
+	<translation>to justify</translation>
+	<presentParticiple>justifiant</presentParticiple>
+	<pastParticiple>justifié</pastParticiple>
+	<present>
+		<je>justifie</je>
+		<tu>justifies</tu>
+		<il>justifie</il>
+		<nous>justifions</nous>
+		<vous>justifiez</vous>
+		<ils>justifient</ils>
+	</present>
+	<imperative>
+		<tu>justifie</tu>
+		<nous>justifions</nous>
+		<vous>justifiez</vous>
+	</imperative>
+	<imperfect>
+		<je>justifiais</je>
+		<tu>justifiais</tu>
+		<il>justifiait</il>
+		<nous>justifiions</nous>
+		<vous>justifiiez</vous>
+		<ils>justifiaient</ils>
+	</imperfect>
+	<future>
+		<je>justifierai</je>
+		<tu>justifieras</tu>
+		<il>justifiera</il>
+		<nous>justifierons</nous>
+		<vous>justifierez</vous>
+		<ils>justifieront</ils>
+	</future>
+	<subjunctive>
+		<je>justifie</je>
+		<tu>justifies</tu>
+		<il>justifie</il>
+		<nous>justifiions</nous>
+		<vous>justifiiez</vous>
+		<ils>justifient</ils>
+	</subjunctive>
+	<conditional>
+		<je>justifierais</je>
+		<tu>justifierais</tu>
+		<il>justifierait</il>
+		<nous>justifierions</nous>
+		<vous>justifieriez</vous>
+		<ils>justifieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

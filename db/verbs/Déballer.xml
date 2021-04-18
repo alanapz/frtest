@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>déballer</infinitive>
+	<translation>to unpack</translation>
+	<translation>to let out</translation>
+	<presentParticiple>déballant</presentParticiple>
+	<pastParticiple>déballé</pastParticiple>
+	<present>
+		<je>déballe</je>
+		<tu>déballes</tu>
+		<il>déballe</il>
+		<nous>déballons</nous>
+		<vous>déballez</vous>
+		<ils>déballent</ils>
+	</present>
+	<imperative>
+		<tu>déballe</tu>
+		<nous>déballons</nous>
+		<vous>déballez</vous>
+	</imperative>
+	<imperfect>
+		<je>déballais</je>
+		<tu>déballais</tu>
+		<il>déballait</il>
+		<nous>déballions</nous>
+		<vous>déballiez</vous>
+		<ils>déballaient</ils>
+	</imperfect>
+	<future>
+		<je>déballerai</je>
+		<tu>déballeras</tu>
+		<il>déballera</il>
+		<nous>déballerons</nous>
+		<vous>déballerez</vous>
+		<ils>déballeront</ils>
+	</future>
+	<subjunctive>
+		<je>déballe</je>
+		<tu>déballes</tu>
+		<il>déballe</il>
+		<nous>déballions</nous>
+		<vous>déballiez</vous>
+		<ils>déballent</ils>
+	</subjunctive>
+	<conditional>
+		<je>déballerais</je>
+		<tu>déballerais</tu>
+		<il>déballerait</il>
+		<nous>déballerions</nous>
+		<vous>déballeriez</vous>
+		<ils>déballeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

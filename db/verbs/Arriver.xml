@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>arriver</infinitive>
+	<translation>to arrive</translation>
+	<takesEtreInPerfect />
+	<presentParticiple>arrivant</presentParticiple>
+	<pastParticiple>arrivé</pastParticiple>
+	<present>
+		<je>arrive</je>
+		<tu>arrives</tu>
+		<il>arrive</il>
+		<nous>arrivons</nous>
+		<vous>arrivez</vous>
+		<ils>arrivent</ils>
+	</present>
+	<imperative>
+		<tu>arrive</tu>
+		<nous>arrivons</nous>
+		<vous>arrivez</vous>
+	</imperative>
+	<imperfect>
+		<je>arrivais</je>
+		<tu>arrivais</tu>
+		<il>arrivait</il>
+		<nous>arrivions</nous>
+		<vous>arriviez</vous>
+		<ils>arrivaient</ils>
+	</imperfect>
+	<future>
+		<je>arriverai</je>
+		<tu>arriveras</tu>
+		<il>arrivera</il>
+		<nous>arriverons</nous>
+		<vous>arriverez</vous>
+		<ils>arriveront</ils>
+	</future>
+	<subjunctive>
+		<je>arrive</je>
+		<tu>arrives</tu>
+		<il>arrive</il>
+		<nous>arrivions</nous>
+		<vous>arriviez</vous>
+		<ils>arrivent</ils>
+	</subjunctive>
+	<conditional>
+		<je>arriverais</je>
+		<tu>arriverais</tu>
+		<il>arriverait</il>
+		<nous>arriverions</nous>
+		<vous>arriveriez</vous>
+		<ils>arriveraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

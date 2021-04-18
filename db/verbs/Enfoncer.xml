@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>enfoncer</infinitive>
+	<translation>to thrust/stick/drive in</translation>
+	<translation>to break open</translation>
+	<spellingChange />
+	<presentParticiple>enfonçant</presentParticiple>
+	<pastParticiple>enfoncé</pastParticiple>
+	<present>
+		<je>enfonce</je>
+		<tu>enfonces</tu>
+		<il>enfonce</il>
+		<nous>enfonçons</nous>
+		<vous>enfoncez</vous>
+		<ils>enfoncent</ils>
+	</present>
+	<imperative>
+		<tu>enfonce</tu>
+		<nous>enfonçons</nous>
+		<vous>enfoncez</vous>
+	</imperative>
+	<imperfect>
+		<je>enfonçais</je>
+		<tu>enfonçais</tu>
+		<il>enfonçait</il>
+		<nous>enfoncions</nous>
+		<vous>enfonciez</vous>
+		<ils>enfonçaient</ils>
+	</imperfect>
+	<future>
+		<je>enfoncerai</je>
+		<tu>enfonceras</tu>
+		<il>enfoncera</il>
+		<nous>enfoncerons</nous>
+		<vous>enfoncerez</vous>
+		<ils>enfonceront</ils>
+	</future>
+	<subjunctive>
+		<je>enfonce</je>
+		<tu>enfonces</tu>
+		<il>enfonce</il>
+		<nous>enfoncions</nous>
+		<vous>enfonciez</vous>
+		<ils>enfoncent</ils>
+	</subjunctive>
+	<conditional>
+		<je>enfoncerais</je>
+		<tu>enfoncerais</tu>
+		<il>enfoncerait</il>
+		<nous>enfoncerions</nous>
+		<vous>enfonceriez</vous>
+		<ils>enfonceraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

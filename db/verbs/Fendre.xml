@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>fendre</infinitive>
+	<translation>to split</translation>
+	<translation>cleave</translation>
+	<presentParticiple>fendant</presentParticiple>
+	<pastParticiple>fendu</pastParticiple>
+	<present>
+		<je>fends</je>
+		<tu>fends</tu>
+		<il>fend</il>
+		<nous>fendons</nous>
+		<vous>fendez</vous>
+		<ils>fendent</ils>
+	</present>
+	<imperative>
+		<tu>fends</tu>
+		<nous>fendons</nous>
+		<vous>fendez</vous>
+	</imperative>
+	<imperfect>
+		<je>fendais</je>
+		<tu>fendais</tu>
+		<il>fendait</il>
+		<nous>fendions</nous>
+		<vous>fendiez</vous>
+		<ils>fendaient</ils>
+	</imperfect>
+	<future>
+		<je>fendrai</je>
+		<tu>fendras</tu>
+		<il>fendra</il>
+		<nous>fendrons</nous>
+		<vous>fendrez</vous>
+		<ils>fendront</ils>
+	</future>
+	<subjunctive>
+		<je>fende</je>
+		<tu>fendes</tu>
+		<il>fende</il>
+		<nous>fendions</nous>
+		<vous>fendiez</vous>
+		<ils>fendent</ils>
+	</subjunctive>
+	<conditional>
+		<je>fendrais</je>
+		<tu>fendrais</tu>
+		<il>fendrait</il>
+		<nous>fendrions</nous>
+		<vous>fendriez</vous>
+		<ils>fendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

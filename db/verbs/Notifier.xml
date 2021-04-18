@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>notifier</infinitive>
+	<translation>to notify</translation>
+	<presentParticiple>notifiant</presentParticiple>
+	<pastParticiple>notifié</pastParticiple>
+	<present>
+		<je>notifie</je>
+		<tu>notifies</tu>
+		<il>notifie</il>
+		<nous>notifions</nous>
+		<vous>notifiez</vous>
+		<ils>notifient</ils>
+	</present>
+	<imperative>
+		<tu>notifie</tu>
+		<nous>notifions</nous>
+		<vous>notifiez</vous>
+	</imperative>
+	<imperfect>
+		<je>notifiais</je>
+		<tu>notifiais</tu>
+		<il>notifiait</il>
+		<nous>notifiions</nous>
+		<vous>notifiiez</vous>
+		<ils>notifiaient</ils>
+	</imperfect>
+	<future>
+		<je>notifierai</je>
+		<tu>notifieras</tu>
+		<il>notifiera</il>
+		<nous>notifierons</nous>
+		<vous>notifierez</vous>
+		<ils>notifieront</ils>
+	</future>
+	<subjunctive>
+		<je>notifie</je>
+		<tu>notifies</tu>
+		<il>notifie</il>
+		<nous>notifiions</nous>
+		<vous>notifiiez</vous>
+		<ils>notifient</ils>
+	</subjunctive>
+	<conditional>
+		<je>notifierais</je>
+		<tu>notifierais</tu>
+		<il>notifierait</il>
+		<nous>notifierions</nous>
+		<vous>notifieriez</vous>
+		<ils>notifieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

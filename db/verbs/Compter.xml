@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>compter</infinitive>
+	<translation>to count</translation>
+	<translation>to intend</translation>
+	<presentParticiple>comptant</presentParticiple>
+	<pastParticiple>compté</pastParticiple>
+	<present>
+		<je>compte</je>
+		<tu>comptes</tu>
+		<il>compte</il>
+		<nous>comptons</nous>
+		<vous>comptez</vous>
+		<ils>comptent</ils>
+	</present>
+	<imperative>
+		<tu>compte</tu>
+		<nous>comptons</nous>
+		<vous>comptez</vous>
+	</imperative>
+	<imperfect>
+		<je>comptais</je>
+		<tu>comptais</tu>
+		<il>comptait</il>
+		<nous>comptions</nous>
+		<vous>comptiez</vous>
+		<ils>comptaient</ils>
+	</imperfect>
+	<future>
+		<je>compterai</je>
+		<tu>compteras</tu>
+		<il>comptera</il>
+		<nous>compterons</nous>
+		<vous>compterez</vous>
+		<ils>compteront</ils>
+	</future>
+	<subjunctive>
+		<je>compte</je>
+		<tu>comptes</tu>
+		<il>compte</il>
+		<nous>comptions</nous>
+		<vous>comptiez</vous>
+		<ils>comptent</ils>
+	</subjunctive>
+	<conditional>
+		<je>compterais</je>
+		<tu>compterais</tu>
+		<il>compterait</il>
+		<nous>compterions</nous>
+		<vous>compteriez</vous>
+		<ils>compteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

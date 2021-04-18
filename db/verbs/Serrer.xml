@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>serrer</infinitive>
+            <translation>to tighten</translation>
+            <translation>to shake hands</translation>
+            <translation>to squeeze</translation>
+            <presentParticiple>serrant</presentParticiple>
+            <pastParticiple>serré</pastParticiple>
+            <present>
+                <je>serre</je>
+                <tu>serres</tu>
+                <il>serre</il>
+                <nous>serrons</nous>
+                <vous>serrez</vous>
+                <ils>serrent</ils>
+            </present>
+            <imperative>
+                <tu>serre</tu>
+                <nous>serrons</nous>
+                <vous>serrez</vous>
+            </imperative>
+            <imperfect>
+                <je>serrais</je>
+                <tu>serrais</tu>
+                <il>serrait</il>
+                <nous>serrions</nous>
+                <vous>serriez</vous>
+                <ils>serraient</ils>
+            </imperfect>
+            <future>
+                <je>serrerai</je>
+                <tu>serreras</tu>
+                <il>serrera</il>
+                <nous>serrerons</nous>
+                <vous>serrerez</vous>
+                <ils>serreront</ils>
+            </future>
+            <subjunctive>
+                <je>serre</je>
+                <tu>serres</tu>
+                <il>serre</il>
+                <nous>serrions</nous>
+                <vous>serriez</vous>
+                <ils>serrent</ils>
+            </subjunctive>
+            <conditional>
+                <je>serrerais</je>
+                <tu>serrerais</tu>
+                <il>serrerait</il>
+                <nous>serrerions</nous>
+                <vous>serreriez</vous>
+                <ils>serreraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

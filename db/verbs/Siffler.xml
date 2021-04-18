@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>siffler</infinitive>
+	<translation>to whistle</translation>
+	<presentParticiple>sifflant</presentParticiple>
+	<pastParticiple>sifflé</pastParticiple>
+	<present>
+		<je>siffle</je>
+		<tu>siffles</tu>
+		<il>siffle</il>
+		<nous>sifflons</nous>
+		<vous>sifflez</vous>
+		<ils>sifflent</ils>
+	</present>
+	<imperative>
+		<tu>siffle</tu>
+		<nous>sifflons</nous>
+		<vous>sifflez</vous>
+	</imperative>
+	<imperfect>
+		<je>sifflais</je>
+		<tu>sifflais</tu>
+		<il>sifflait</il>
+		<nous>sifflions</nous>
+		<vous>siffliez</vous>
+		<ils>sifflaient</ils>
+	</imperfect>
+	<future>
+		<je>sifflerai</je>
+		<tu>siffleras</tu>
+		<il>sifflera</il>
+		<nous>sifflerons</nous>
+		<vous>sifflerez</vous>
+		<ils>siffleront</ils>
+	</future>
+	<subjunctive>
+		<je>siffle</je>
+		<tu>siffles</tu>
+		<il>siffle</il>
+		<nous>sifflions</nous>
+		<vous>siffliez</vous>
+		<ils>sifflent</ils>
+	</subjunctive>
+	<conditional>
+		<je>sifflerais</je>
+		<tu>sifflerais</tu>
+		<il>sifflerait</il>
+		<nous>sifflerions</nous>
+		<vous>siffleriez</vous>
+		<ils>siffleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

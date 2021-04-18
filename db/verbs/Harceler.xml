@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>harceler</infinitive>
+    <hAspire />
+	<translation>to harass</translation>
+	<presentParticiple>harcelant</presentParticiple>
+	<pastParticiple>harcelé</pastParticiple>
+	<present>
+		<je>harcèle</je>
+		<tu>harcèles</tu>
+		<il>harcèle</il>
+		<nous>harcelons</nous>
+		<vous>harcelez</vous>
+		<ils>harcèlent</ils>
+	</present>
+	<imperative>
+		<tu>harcèle</tu>
+		<nous>harcelons</nous>
+		<vous>harcelez</vous>
+	</imperative>
+	<imperfect>
+		<je>harcelais</je>
+		<tu>harcelais</tu>
+		<il>harcelait</il>
+		<nous>harcelions</nous>
+		<vous>harceliez</vous>
+		<ils>harcelaient</ils>
+	</imperfect>
+	<future>
+		<je>harcèlerai</je>
+		<tu>harcèleras</tu>
+		<il>harcèlera</il>
+		<nous>harcèlerons</nous>
+		<vous>harcèlerez</vous>
+		<ils>harcèleront</ils>
+	</future>
+	<subjunctive>
+		<je>harcèle</je>
+		<tu>harcèles</tu>
+		<il>harcèle</il>
+		<nous>harcelions</nous>
+		<vous>harceliez</vous>
+		<ils>harcèlent</ils>
+	</subjunctive>
+	<conditional>
+		<je>harcèlerais</je>
+		<tu>harcèlerais</tu>
+		<il>harcèlerait</il>
+		<nous>harcèlerions</nous>
+		<vous>harcèleriez</vous>
+		<ils>harcèleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

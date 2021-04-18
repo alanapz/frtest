@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>contenir</infinitive>
+	<translation>tocontain</translation>
+	<irregular />
+	<presentParticiple>contenant</presentParticiple>
+	<pastParticiple>contenu</pastParticiple>
+	<present>
+		<je>contiens</je>
+		<tu>contiens</tu>
+		<il>contient</il>
+		<nous>contenons</nous>
+		<vous>contenez</vous>
+		<ils>contiennent</ils>
+	</present>
+	<imperative>
+		<tu>contiens</tu>
+		<nous>contenons</nous>
+		<vous>contenez</vous>
+	</imperative>
+	<imperfect>
+		<je>contenais</je>
+		<tu>contenais</tu>
+		<il>contenait</il>
+		<nous>contenions</nous>
+		<vous>conteniez</vous>
+		<ils>contenaient</ils>
+	</imperfect>
+	<future>
+		<je>contiendrai</je>
+		<tu>contiendras</tu>
+		<il>contiendra</il>
+		<nous>contiendrons</nous>
+		<vous>contiendrez</vous>
+		<ils>contiendront</ils>
+	</future>
+	<subjunctive>
+		<je>contienne</je>
+		<tu>contiennes</tu>
+		<il>contienne</il>
+		<nous>contenions</nous>
+		<vous>conteniez</vous>
+		<ils>contiennent</ils>
+	</subjunctive>
+	<conditional>
+		<je>contiendrais</je>
+		<tu>contiendrais</tu>
+		<il>contiendrait</il>
+		<nous>contiendrions</nous>
+		<vous>contiendriez</vous>
+		<ils>contiendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

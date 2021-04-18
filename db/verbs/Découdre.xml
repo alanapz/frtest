@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>découdre</infinitive>
+	<translation>to unpick</translation>
+	<translation>take out stitches</translation>
+	<irregular />
+	<presentParticiple>décousant</presentParticiple>
+	<pastParticiple>décousu</pastParticiple>
+	<present>
+		<je>découds</je>
+		<tu>découds</tu>
+		<il>découd</il>
+		<nous>décousons</nous>
+		<vous>décousez</vous>
+		<ils>décousent</ils>
+	</present>
+	<imperative>
+		<tu>découds</tu>
+		<nous>décousons</nous>
+		<vous>décousez</vous>
+	</imperative>
+	<imperfect>
+		<je>décousais</je>
+		<tu>décousais</tu>
+		<il>décousait</il>
+		<nous>décousions</nous>
+		<vous>décousiez</vous>
+		<ils>décousaient</ils>
+	</imperfect>
+	<future>
+		<je>découdrai</je>
+		<tu>découdras</tu>
+		<il>découdra</il>
+		<nous>découdrons</nous>
+		<vous>découdrez</vous>
+		<ils>découdront</ils>
+	</future>
+	<subjunctive>
+		<je>découse</je>
+		<tu>découses</tu>
+		<il>découse</il>
+		<nous>décousions</nous>
+		<vous>décousiez</vous>
+		<ils>décousent</ils>
+	</subjunctive>
+	<conditional>
+		<je>découdrais</je>
+		<tu>découdrais</tu>
+		<il>découdrait</il>
+		<nous>découdrions</nous>
+		<vous>découdriez</vous>
+		<ils>découdraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

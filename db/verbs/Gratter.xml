@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>gratter</infinitive>
+	<translation>to scrape</translation>
+	<translation>scratch</translation>
+	<translation>grate</translation>
+	<presentParticiple>grattant</presentParticiple>
+	<pastParticiple>gratté</pastParticiple>
+	<present>
+		<je>gratte</je>
+		<tu>grattes</tu>
+		<il>gratte</il>
+		<nous>grattons</nous>
+		<vous>grattez</vous>
+		<ils>grattent</ils>
+	</present>
+	<imperative>
+		<tu>gratte</tu>
+		<nous>grattons</nous>
+		<vous>grattez</vous>
+	</imperative>
+	<imperfect>
+		<je>grattais</je>
+		<tu>grattais</tu>
+		<il>grattait</il>
+		<nous>grattions</nous>
+		<vous>grattiez</vous>
+		<ils>grattaient</ils>
+	</imperfect>
+	<future>
+		<je>gratterai</je>
+		<tu>gratteras</tu>
+		<il>grattera</il>
+		<nous>gratterons</nous>
+		<vous>gratterez</vous>
+		<ils>gratteront</ils>
+	</future>
+	<subjunctive>
+		<je>gratte</je>
+		<tu>grattes</tu>
+		<il>gratte</il>
+		<nous>grattions</nous>
+		<vous>grattiez</vous>
+		<ils>grattent</ils>
+	</subjunctive>
+	<conditional>
+		<je>gratterais</je>
+		<tu>gratterais</tu>
+		<il>gratterait</il>
+		<nous>gratterions</nous>
+		<vous>gratteriez</vous>
+		<ils>gratteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

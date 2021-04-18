@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>exister</infinitive>
+	<translation>to exist</translation>
+	<presentParticiple>existant</presentParticiple>
+	<pastParticiple>existé</pastParticiple>
+	<present>
+		<je>existe</je>
+		<tu>existes</tu>
+		<il>existe</il>
+		<nous>existons</nous>
+		<vous>existez</vous>
+		<ils>existent</ils>
+	</present>
+	<imperative>
+		<tu>existe</tu>
+		<nous>existons</nous>
+		<vous>existez</vous>
+	</imperative>
+	<imperfect>
+		<je>existais</je>
+		<tu>existais</tu>
+		<il>existait</il>
+		<nous>existions</nous>
+		<vous>existiez</vous>
+		<ils>existaient</ils>
+	</imperfect>
+	<future>
+		<je>existerai</je>
+		<tu>existeras</tu>
+		<il>existera</il>
+		<nous>existerons</nous>
+		<vous>existerez</vous>
+		<ils>existeront</ils>
+	</future>
+	<subjunctive>
+		<je>existe</je>
+		<tu>existes</tu>
+		<il>existe</il>
+		<nous>existions</nous>
+		<vous>existiez</vous>
+		<ils>existent</ils>
+	</subjunctive>
+	<conditional>
+		<je>existerais</je>
+		<tu>existerais</tu>
+		<il>existerait</il>
+		<nous>existerions</nous>
+		<vous>existeriez</vous>
+		<ils>existeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

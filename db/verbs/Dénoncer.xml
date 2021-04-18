@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dénoncer</infinitive>
+	<translation>to denounce</translation>
+	<spellingChange />
+	<presentParticiple>dénonçant</presentParticiple>
+	<pastParticiple>dénoncé</pastParticiple>
+	<present>
+		<je>dénonce</je>
+		<tu>dénonces</tu>
+		<il>dénonce</il>
+		<nous>dénonçons</nous>
+		<vous>dénoncez</vous>
+		<ils>dénoncent</ils>
+	</present>
+	<imperative>
+		<tu>dénonce</tu>
+		<nous>dénonçons</nous>
+		<vous>dénoncez</vous>
+	</imperative>
+	<imperfect>
+		<je>dénonçais</je>
+		<tu>dénonçais</tu>
+		<il>dénonçait</il>
+		<nous>dénoncions</nous>
+		<vous>dénonciez</vous>
+		<ils>dénonçaient</ils>
+	</imperfect>
+	<future>
+		<je>dénoncerai</je>
+		<tu>dénonceras</tu>
+		<il>dénoncera</il>
+		<nous>dénoncerons</nous>
+		<vous>dénoncerez</vous>
+		<ils>dénonceront</ils>
+	</future>
+	<subjunctive>
+		<je>dénonce</je>
+		<tu>dénonces</tu>
+		<il>dénonce</il>
+		<nous>dénoncions</nous>
+		<vous>dénonciez</vous>
+		<ils>dénoncent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dénoncerais</je>
+		<tu>dénoncerais</tu>
+		<il>dénoncerait</il>
+		<nous>dénoncerions</nous>
+		<vous>dénonceriez</vous>
+		<ils>dénonceraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>interdire</infinitive>
+	<translation>to forbid</translation>
+	<irregular />
+	<presentParticiple>interdisant</presentParticiple>
+	<pastParticiple>interdit</pastParticiple>
+	<present>
+		<je>interdis</je>
+		<tu>interdis</tu>
+		<il>interdit</il>
+		<nous>interdisons</nous>
+		<vous>interdisez</vous>
+		<ils>interdisent</ils>
+	</present>
+	<imperative>
+		<tu>interdis</tu>
+		<nous>interdisons</nous>
+		<vous>interdisez</vous>
+	</imperative>
+	<imperfect>
+		<je>interdisais</je>
+		<tu>interdisais</tu>
+		<il>interdisait</il>
+		<nous>interdisions</nous>
+		<vous>interdisiez</vous>
+		<ils>interdisaient</ils>
+	</imperfect>
+	<future>
+		<je>interdirai</je>
+		<tu>interdiras</tu>
+		<il>interdira</il>
+		<nous>interdirons</nous>
+		<vous>interdirez</vous>
+		<ils>interdiront</ils>
+	</future>
+	<subjunctive>
+		<je>interdise</je>
+		<tu>interdises</tu>
+		<il>interdise</il>
+		<nous>interdisions</nous>
+		<vous>interdisiez</vous>
+		<ils>interdisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>interdirais</je>
+		<tu>interdirais</tu>
+		<il>interdirait</il>
+		<nous>interdirions</nous>
+		<vous>interdiriez</vous>
+		<ils>interdiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

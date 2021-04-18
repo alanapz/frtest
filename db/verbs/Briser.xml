@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>briser</infinitive>
+	<translation>to break</translation>
+	<translation>smash</translation>
+	<translation>to ruin</translation>
+	<translation>to tire out</translation>
+	<presentParticiple>brisant</presentParticiple>
+	<pastParticiple>brisé</pastParticiple>
+	<present>
+		<je>brise</je>
+		<tu>brises</tu>
+		<il>brise</il>
+		<nous>brisons</nous>
+		<vous>brisez</vous>
+		<ils>brisent</ils>
+	</present>
+	<imperative>
+		<tu>brise</tu>
+		<nous>brisons</nous>
+		<vous>brisez</vous>
+	</imperative>
+	<imperfect>
+		<je>brisais</je>
+		<tu>brisais</tu>
+		<il>brisait</il>
+		<nous>brisions</nous>
+		<vous>brisiez</vous>
+		<ils>brisaient</ils>
+	</imperfect>
+	<future>
+		<je>briserai</je>
+		<tu>briseras</tu>
+		<il>brisera</il>
+		<nous>briserons</nous>
+		<vous>briserez</vous>
+		<ils>briseront</ils>
+	</future>
+	<subjunctive>
+		<je>brise</je>
+		<tu>brises</tu>
+		<il>brise</il>
+		<nous>brisions</nous>
+		<vous>brisiez</vous>
+		<ils>brisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>briserais</je>
+		<tu>briserais</tu>
+		<il>briserait</il>
+		<nous>briserions</nous>
+		<vous>briseriez</vous>
+		<ils>briseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

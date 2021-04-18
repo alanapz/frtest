@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>contribuer</infinitive>
+	<translation>to contribute</translation>
+	<presentParticiple>contribuant</presentParticiple>
+	<pastParticiple>contribué</pastParticiple>
+	<present>
+		<je>contribue</je>
+		<tu>contribues</tu>
+		<il>contribue</il>
+		<nous>contribuons</nous>
+		<vous>contribuez</vous>
+		<ils>contribuent</ils>
+	</present>
+	<imperative>
+		<tu>contribue</tu>
+		<nous>contribuons</nous>
+		<vous>contribuez</vous>
+	</imperative>
+	<imperfect>
+		<je>contribuais</je>
+		<tu>contribuais</tu>
+		<il>contribuait</il>
+		<nous>contribuions</nous>
+		<vous>contribuiez</vous>
+		<ils>contribuaient</ils>
+	</imperfect>
+	<future>
+		<je>contribuerai</je>
+		<tu>contribueras</tu>
+		<il>contribuera</il>
+		<nous>contribuerons</nous>
+		<vous>contribuerez</vous>
+		<ils>contribueront</ils>
+	</future>
+	<subjunctive>
+		<je>contribue</je>
+		<tu>contribues</tu>
+		<il>contribue</il>
+		<nous>contribuions</nous>
+		<vous>contribuiez</vous>
+		<ils>contribuent</ils>
+	</subjunctive>
+	<conditional>
+		<je>contribuerais</je>
+		<tu>contribuerais</tu>
+		<il>contribuerait</il>
+		<nous>contribuerions</nous>
+		<vous>contribueriez</vous>
+		<ils>contribueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

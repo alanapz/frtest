@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>aborder</infinitive>
+	<translation>to approach</translation>
+	<translation>reach</translation>
+	<presentParticiple>abordant</presentParticiple>
+	<pastParticiple>abordé</pastParticiple>
+	<present>
+		<je>aborde</je>
+		<tu>abordes</tu>
+		<il>aborde</il>
+		<nous>abordons</nous>
+		<vous>abordez</vous>
+		<ils>abordent</ils>
+	</present>
+	<imperative>
+		<tu>aborde</tu>
+		<nous>abordons</nous>
+		<vous>abordez</vous>
+	</imperative>
+	<imperfect>
+		<je>abordais</je>
+		<tu>abordais</tu>
+		<il>abordait</il>
+		<nous>abordions</nous>
+		<vous>abordiez</vous>
+		<ils>abordaient</ils>
+	</imperfect>
+	<future>
+		<je>aborderai</je>
+		<tu>aborderas</tu>
+		<il>abordera</il>
+		<nous>aborderons</nous>
+		<vous>aborderez</vous>
+		<ils>aborderont</ils>
+	</future>
+	<subjunctive>
+		<je>aborde</je>
+		<tu>abordes</tu>
+		<il>aborde</il>
+		<nous>abordions</nous>
+		<vous>abordiez</vous>
+		<ils>abordent</ils>
+	</subjunctive>
+	<conditional>
+		<je>aborderais</je>
+		<tu>aborderais</tu>
+		<il>aborderait</il>
+		<nous>aborderions</nous>
+		<vous>aborderiez</vous>
+		<ils>aborderaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

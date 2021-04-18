@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>transcrire</infinitive>
+	<translation>to transcribe</translation>
+	<irregular />
+	<presentParticiple>transcrivant</presentParticiple>
+	<pastParticiple>transcrit</pastParticiple>
+	<present>
+		<je>transcris</je>
+		<tu>transcris</tu>
+		<il>transcrit</il>
+		<nous>transcrivons</nous>
+		<vous>transcrivez</vous>
+		<ils>transcrivent</ils>
+	</present>
+	<imperative>
+		<tu>transcris</tu>
+		<nous>transcrivons</nous>
+		<vous>transcrivez</vous>
+	</imperative>
+	<imperfect>
+		<je>transcrivais</je>
+		<tu>transcrivais</tu>
+		<il>transcrivait</il>
+		<nous>transcrivions</nous>
+		<vous>transcriviez</vous>
+		<ils>transcrivaient</ils>
+	</imperfect>
+	<future>
+		<je>transcrirai</je>
+		<tu>transcriras</tu>
+		<il>transcrira</il>
+		<nous>transcrirons</nous>
+		<vous>transcrirez</vous>
+		<ils>transcriront</ils>
+	</future>
+	<subjunctive>
+		<je>transcrive</je>
+		<tu>transcrives</tu>
+		<il>transcrive</il>
+		<nous>transcrivions</nous>
+		<vous>transcriviez</vous>
+		<ils>transcrivent</ils>
+	</subjunctive>
+	<conditional>
+		<je>transcrirais</je>
+		<tu>transcrirais</tu>
+		<il>transcrirait</il>
+		<nous>transcririons</nous>
+		<vous>transcririez</vous>
+		<ils>transcriraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>enterrer</infinitive>
+	<translation>to bury</translation>
+	<translation>inter</translation>
+	<presentParticiple>enterrant</presentParticiple>
+	<pastParticiple>enterré</pastParticiple>
+	<present>
+		<je>enterre</je>
+		<tu>enterres</tu>
+		<il>enterre</il>
+		<nous>enterrons</nous>
+		<vous>enterrez</vous>
+		<ils>enterrent</ils>
+	</present>
+	<imperative>
+		<tu>enterre</tu>
+		<nous>enterrons</nous>
+		<vous>enterrez</vous>
+	</imperative>
+	<imperfect>
+		<je>enterrais</je>
+		<tu>enterrais</tu>
+		<il>enterrait</il>
+		<nous>enterrions</nous>
+		<vous>enterriez</vous>
+		<ils>enterraient</ils>
+	</imperfect>
+	<future>
+		<je>enterrerai</je>
+		<tu>enterreras</tu>
+		<il>enterrera</il>
+		<nous>enterrerons</nous>
+		<vous>enterrerez</vous>
+		<ils>enterreront</ils>
+	</future>
+	<subjunctive>
+		<je>enterre</je>
+		<tu>enterres</tu>
+		<il>enterre</il>
+		<nous>enterrions</nous>
+		<vous>enterriez</vous>
+		<ils>enterrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>enterrerais</je>
+		<tu>enterrerais</tu>
+		<il>enterrerait</il>
+		<nous>enterrerions</nous>
+		<vous>enterreriez</vous>
+		<ils>enterreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

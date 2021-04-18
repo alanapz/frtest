@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>adresser</infinitive>
+	<translation>to address</translation>
+	<presentParticiple>adressant</presentParticiple>
+	<pastParticiple>adressé</pastParticiple>
+	<present>
+		<je>adresse</je>
+		<tu>adresses</tu>
+		<il>adresse</il>
+		<nous>adressons</nous>
+		<vous>adressez</vous>
+		<ils>adressent</ils>
+	</present>
+	<imperative>
+		<tu>adresse</tu>
+		<nous>adressons</nous>
+		<vous>adressez</vous>
+	</imperative>
+	<imperfect>
+		<je>adressais</je>
+		<tu>adressais</tu>
+		<il>adressait</il>
+		<nous>adressions</nous>
+		<vous>adressiez</vous>
+		<ils>adressaient</ils>
+	</imperfect>
+	<future>
+		<je>adresserai</je>
+		<tu>adresseras</tu>
+		<il>adressera</il>
+		<nous>adresserons</nous>
+		<vous>adresserez</vous>
+		<ils>adresseront</ils>
+	</future>
+	<subjunctive>
+		<je>adresse</je>
+		<tu>adresses</tu>
+		<il>adresse</il>
+		<nous>adressions</nous>
+		<vous>adressiez</vous>
+		<ils>adressent</ils>
+	</subjunctive>
+	<conditional>
+		<je>adresserais</je>
+		<tu>adresserais</tu>
+		<il>adresserait</il>
+		<nous>adresserions</nous>
+		<vous>adresseriez</vous>
+		<ils>adresseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

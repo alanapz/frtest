@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>grincer</infinitive>
+	<translation>to grate</translation>
+	<translation>creak</translation>
+	<spellingChange />
+	<presentParticiple>grinçant</presentParticiple>
+	<pastParticiple>grincé</pastParticiple>
+	<present>
+		<je>grince</je>
+		<tu>grinces</tu>
+		<il>grince</il>
+		<nous>grinçons</nous>
+		<vous>grincez</vous>
+		<ils>grincent</ils>
+	</present>
+	<imperative>
+		<tu>grince</tu>
+		<nous>grinçons</nous>
+		<vous>grincez</vous>
+	</imperative>
+	<imperfect>
+		<je>grinçais</je>
+		<tu>grinçais</tu>
+		<il>grinçait</il>
+		<nous>grincions</nous>
+		<vous>grinciez</vous>
+		<ils>grinçaient</ils>
+	</imperfect>
+	<future>
+		<je>grincerai</je>
+		<tu>grinceras</tu>
+		<il>grincera</il>
+		<nous>grincerons</nous>
+		<vous>grincerez</vous>
+		<ils>grinceront</ils>
+	</future>
+	<subjunctive>
+		<je>grince</je>
+		<tu>grinces</tu>
+		<il>grince</il>
+		<nous>grincions</nous>
+		<vous>grinciez</vous>
+		<ils>grincent</ils>
+	</subjunctive>
+	<conditional>
+		<je>grincerais</je>
+		<tu>grincerais</tu>
+		<il>grincerait</il>
+		<nous>grincerions</nous>
+		<vous>grinceriez</vous>
+		<ils>grinceraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

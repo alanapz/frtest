@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>tacher</infinitive>
+	<translation>to stain</translation>
+	<translation>mark</translation>
+	<translation>spot</translation>
+	<presentParticiple>tachant</presentParticiple>
+	<pastParticiple>taché</pastParticiple>
+	<present>
+		<je>tache</je>
+		<tu>taches</tu>
+		<il>tache</il>
+		<nous>tachons</nous>
+		<vous>tachez</vous>
+		<ils>tachent</ils>
+	</present>
+	<imperative>
+		<tu>tache</tu>
+		<nous>tachons</nous>
+		<vous>tachez</vous>
+	</imperative>
+	<imperfect>
+		<je>tachais</je>
+		<tu>tachais</tu>
+		<il>tachait</il>
+		<nous>tachions</nous>
+		<vous>tachiez</vous>
+		<ils>tachaient</ils>
+	</imperfect>
+	<future>
+		<je>tacherai</je>
+		<tu>tacheras</tu>
+		<il>tachera</il>
+		<nous>tacherons</nous>
+		<vous>tacherez</vous>
+		<ils>tacheront</ils>
+	</future>
+	<subjunctive>
+		<je>tache</je>
+		<tu>taches</tu>
+		<il>tache</il>
+		<nous>tachions</nous>
+		<vous>tachiez</vous>
+		<ils>tachent</ils>
+	</subjunctive>
+	<conditional>
+		<je>tacherais</je>
+		<tu>tacherais</tu>
+		<il>tacherait</il>
+		<nous>tacherions</nous>
+		<vous>tacheriez</vous>
+		<ils>tacheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

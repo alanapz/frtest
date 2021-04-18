@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>approuver</infinitive>
+	<translation>to approve of</translation>
+	<presentParticiple>approuvant</presentParticiple>
+	<pastParticiple>approuvé</pastParticiple>
+	<present>
+		<je>approuve</je>
+		<tu>approuves</tu>
+		<il>approuve</il>
+		<nous>approuvons</nous>
+		<vous>approuvez</vous>
+		<ils>approuvent</ils>
+	</present>
+	<imperative>
+		<tu>approuve</tu>
+		<nous>approuvons</nous>
+		<vous>approuvez</vous>
+	</imperative>
+	<imperfect>
+		<je>approuvais</je>
+		<tu>approuvais</tu>
+		<il>approuvait</il>
+		<nous>approuvions</nous>
+		<vous>approuviez</vous>
+		<ils>approuvaient</ils>
+	</imperfect>
+	<future>
+		<je>approuverai</je>
+		<tu>approuveras</tu>
+		<il>approuvera</il>
+		<nous>approuverons</nous>
+		<vous>approuverez</vous>
+		<ils>approuveront</ils>
+	</future>
+	<subjunctive>
+		<je>approuve</je>
+		<tu>approuves</tu>
+		<il>approuve</il>
+		<nous>approuvions</nous>
+		<vous>approuviez</vous>
+		<ils>approuvent</ils>
+	</subjunctive>
+	<conditional>
+		<je>approuverais</je>
+		<tu>approuverais</tu>
+		<il>approuverait</il>
+		<nous>approuverions</nous>
+		<vous>approuveriez</vous>
+		<ils>approuveraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

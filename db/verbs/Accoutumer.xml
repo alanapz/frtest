@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>accoutumer</infinitive>
+	<translation>to accustom (someone to something)</translation>
+	<presentParticiple>accoutumant</presentParticiple>
+	<pastParticiple>accoutumé</pastParticiple>
+	<present>
+		<je>accoutume</je>
+		<tu>accoutumes</tu>
+		<il>accoutume</il>
+		<nous>accoutumons</nous>
+		<vous>accoutumez</vous>
+		<ils>accoutument</ils>
+	</present>
+	<imperative>
+		<tu>accoutume</tu>
+		<nous>accoutumons</nous>
+		<vous>accoutumez</vous>
+	</imperative>
+	<imperfect>
+		<je>accoutumais</je>
+		<tu>accoutumais</tu>
+		<il>accoutumait</il>
+		<nous>accoutumions</nous>
+		<vous>accoutumiez</vous>
+		<ils>accoutumaient</ils>
+	</imperfect>
+	<future>
+		<je>accoutumerai</je>
+		<tu>accoutumeras</tu>
+		<il>accoutumera</il>
+		<nous>accoutumerons</nous>
+		<vous>accoutumerez</vous>
+		<ils>accoutumeront</ils>
+	</future>
+	<subjunctive>
+		<je>accoutume</je>
+		<tu>accoutumes</tu>
+		<il>accoutume</il>
+		<nous>accoutumions</nous>
+		<vous>accoutumiez</vous>
+		<ils>accoutument</ils>
+	</subjunctive>
+	<conditional>
+		<je>accoutumerais</je>
+		<tu>accoutumerais</tu>
+		<il>accoutumerait</il>
+		<nous>accoutumerions</nous>
+		<vous>accoutumeriez</vous>
+		<ils>accoutumeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

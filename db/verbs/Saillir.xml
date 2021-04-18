@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>saillir</infinitive>
+	<translation>to protrude</translation>
+	<irregular />
+	<presentParticiple>saillant</presentParticiple>
+	<pastParticiple> sailli</pastParticiple>
+	<present>
+		<je>saille</je>
+		<tu>sailles</tu>
+		<il>saille</il>
+		<nous>saillons</nous>
+		<vous>saillez</vous>
+		<ils>saillent</ils>
+	</present>
+	<imperative>
+		<tu>saille</tu>
+		<nous>saillons</nous>
+		<vous>saillez</vous>
+	</imperative>
+	<imperfect>
+		<je>saillais</je>
+		<tu>saillais</tu>
+		<il>saillait</il>
+		<nous>saillions</nous>
+		<vous>sailliez</vous>
+		<ils>saillaient</ils>
+	</imperfect>
+	<future>
+		<je>saillirai</je>
+		<tu>sailliras</tu>
+		<il>saillera</il>
+		<nous>saillirons</nous>
+		<vous>saillirez</vous>
+		<ils>sailleront</ils>
+	</future>
+	<subjunctive>
+		<je>saille</je>
+		<tu>sailles</tu>
+		<il>saille</il>
+		<nous>saillions</nous>
+		<vous>sailliez</vous>
+		<ils>saillent</ils>
+	</subjunctive>
+	<conditional>
+		<je>saillirais</je>
+		<tu>saillirais</tu>
+		<il>saillirait</il>
+		<nous>saillirions</nous>
+		<vous>sailliriez</vous>
+		<ils>sailliraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

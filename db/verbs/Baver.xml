@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>baver</infinitive>
+	<translation>to dribble</translation>
+	<translation>leak</translation>
+	<translation>(fam) to have a hard time</translation>
+	<presentParticiple>bavant</presentParticiple>
+	<pastParticiple>bavé</pastParticiple>
+	<present>
+		<je>bave</je>
+		<tu>baves</tu>
+		<il>bave</il>
+		<nous>bavons</nous>
+		<vous>bavez</vous>
+		<ils>bavent</ils>
+	</present>
+	<imperative>
+		<tu>bave</tu>
+		<nous>bavons</nous>
+		<vous>bavez</vous>
+	</imperative>
+	<imperfect>
+		<je>bavais</je>
+		<tu>bavais</tu>
+		<il>bavait</il>
+		<nous>bavions</nous>
+		<vous>baviez</vous>
+		<ils>bavaient</ils>
+	</imperfect>
+	<future>
+		<je>baverai</je>
+		<tu>baveras</tu>
+		<il>bavera</il>
+		<nous>baverons</nous>
+		<vous>baverez</vous>
+		<ils>baveront</ils>
+	</future>
+	<subjunctive>
+		<je>bave</je>
+		<tu>baves</tu>
+		<il>bave</il>
+		<nous>bavions</nous>
+		<vous>baviez</vous>
+		<ils>bavent</ils>
+	</subjunctive>
+	<conditional>
+		<je>baverais</je>
+		<tu>baverais</tu>
+		<il>baverait</il>
+		<nous>baverions</nous>
+		<vous>baveriez</vous>
+		<ils>baveraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

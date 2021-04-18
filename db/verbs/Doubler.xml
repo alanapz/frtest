@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>doubler</infinitive>
+	<translation>to pass</translation>
+	<translation>overtake</translation>
+	<translation>to double</translation>
+	<presentParticiple>doublant</presentParticiple>
+	<pastParticiple>doublé</pastParticiple>
+	<present>
+		<je>double</je>
+		<tu>doubles</tu>
+		<il>double</il>
+		<nous>doublons</nous>
+		<vous>doublez</vous>
+		<ils>doublent</ils>
+	</present>
+	<imperative>
+		<tu>double</tu>
+		<nous>doublons</nous>
+		<vous>doublez</vous>
+	</imperative>
+	<imperfect>
+		<je>doublais</je>
+		<tu>doublais</tu>
+		<il>doublait</il>
+		<nous>doublions</nous>
+		<vous>doubliez</vous>
+		<ils>doublaient</ils>
+	</imperfect>
+	<future>
+		<je>doublerai</je>
+		<tu>doubleras</tu>
+		<il>doublera</il>
+		<nous>doublerons</nous>
+		<vous>doublerez</vous>
+		<ils>doubleront</ils>
+	</future>
+	<subjunctive>
+		<je>double</je>
+		<tu>doubles</tu>
+		<il>double</il>
+		<nous>doublions</nous>
+		<vous>doubliez</vous>
+		<ils>doublent</ils>
+	</subjunctive>
+	<conditional>
+		<je>doublerais</je>
+		<tu>doublerais</tu>
+		<il>doublerait</il>
+		<nous>doublerions</nous>
+		<vous>doubleriez</vous>
+		<ils>doubleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

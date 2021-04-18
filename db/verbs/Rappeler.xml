@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>rappeler</infinitive>
+            <translation>to call back</translation>
+            <presentParticiple>rappelant</presentParticiple>
+            <pastParticiple>rappelé</pastParticiple>
+            <pronominal>
+                <translation>to recall</translation>
+            </pronominal>
+            <present>
+                <je>rappelle</je>
+                <tu>rappelles</tu>
+                <il>rappelle</il>
+                <nous>rappelons</nous>
+                <vous>rappelez</vous>
+                <ils>rappellent</ils>
+            </present>
+            <imperative>
+                <tu>rappelle</tu>
+                <nous>rappelons</nous>
+                <vous>rappelez</vous>
+            </imperative>
+            <imperfect>
+                <je>rappelais</je>
+                <tu>rappelais</tu>
+                <il>rappelait</il>
+                <nous>rappelions</nous>
+                <vous>rappeliez</vous>
+                <ils>rappelaient</ils>
+            </imperfect>
+            <future>
+                <je>rappellerai</je>
+                <tu>rappelleras</tu>
+                <il>rappellera</il>
+                <nous>rappellerons</nous>
+                <vous>rappellerez</vous>
+                <ils>rappelleront</ils>
+            </future>
+            <subjunctive>
+                <je>rappelle</je>
+                <tu>rappelles</tu>
+                <il>rappelle</il>
+                <nous>rappelions</nous>
+                <vous>rappeliez</vous>
+                <ils>rappellent</ils>
+            </subjunctive>
+            <conditional>
+                <je>rappellerais</je>
+                <tu>rappellerais</tu>
+                <il>rappellerait</il>
+                <nous>rappellerions</nous>
+                <vous>rappelleriez</vous>
+                <ils>rappelleraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

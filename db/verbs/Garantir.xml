@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>garantir</infinitive>
+	<translation>to guarantee</translation>
+	<presentParticiple>garantissant</presentParticiple>
+	<pastParticiple>garanti</pastParticiple>
+	<present>
+		<je>garantis</je>
+		<tu>garantis</tu>
+		<il>garantit</il>
+		<nous>garantissons</nous>
+		<vous>garantissez</vous>
+		<ils>garantissent</ils>
+	</present>
+	<imperative>
+		<tu>garantis</tu>
+		<nous>garantissons</nous>
+		<vous>garantissez</vous>
+	</imperative>
+	<imperfect>
+		<je>garantissais</je>
+		<tu>garantissais</tu>
+		<il>garantissait</il>
+		<nous>garantissions</nous>
+		<vous>garantissiez</vous>
+		<ils>garantissaient</ils>
+	</imperfect>
+	<future>
+		<je>garantirai</je>
+		<tu>garantiras</tu>
+		<il>garantira</il>
+		<nous>garantirons</nous>
+		<vous>garantirez</vous>
+		<ils>garantiront</ils>
+	</future>
+	<subjunctive>
+		<je>garantisse</je>
+		<tu>garantisses</tu>
+		<il>garantisse</il>
+		<nous>garantissions</nous>
+		<vous>garantissiez</vous>
+		<ils>garantissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>garantirais</je>
+		<tu>garantirais</tu>
+		<il>garantirait</il>
+		<nous>garantirions</nous>
+		<vous>garantiriez</vous>
+		<ils>garantiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

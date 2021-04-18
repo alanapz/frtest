@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>bloquer</infinitive>
+	<translation>to jam</translation>
+	<translation>block</translation>
+	<translation>stop</translation>
+	<presentParticiple>bloquant</presentParticiple>
+	<pastParticiple>bloqué</pastParticiple>
+	<present>
+		<je>bloque</je>
+		<tu>bloques</tu>
+		<il>bloque</il>
+		<nous>bloquons</nous>
+		<vous>bloquez</vous>
+		<ils>bloquent</ils>
+	</present>
+	<imperative>
+		<tu>bloque</tu>
+		<nous>bloquons</nous>
+		<vous>bloquez</vous>
+	</imperative>
+	<imperfect>
+		<je>bloquais</je>
+		<tu>bloquais</tu>
+		<il>bloquait</il>
+		<nous>bloquions</nous>
+		<vous>bloquiez</vous>
+		<ils>bloquaient</ils>
+	</imperfect>
+	<future>
+		<je>bloquerai</je>
+		<tu>bloqueras</tu>
+		<il>bloquera</il>
+		<nous>bloquerons</nous>
+		<vous>bloquerez</vous>
+		<ils>bloqueront</ils>
+	</future>
+	<subjunctive>
+		<je>bloque</je>
+		<tu>bloques</tu>
+		<il>bloque</il>
+		<nous>bloquions</nous>
+		<vous>bloquiez</vous>
+		<ils>bloquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>bloquerais</je>
+		<tu>bloquerais</tu>
+		<il>bloquerait</il>
+		<nous>bloquerions</nous>
+		<vous>bloqueriez</vous>
+		<ils>bloqueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

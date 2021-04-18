@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>entraîner</infinitive>
+	<translation>to carry along</translation>
+	<translation>drag</translation>
+	<translation>to lead</translation>
+	<translation>to cause</translation>
+	<presentParticiple>entraînant</presentParticiple>
+	<pastParticiple>entraîné</pastParticiple>
+	<present>
+		<je>entraîne</je>
+		<tu>entraînes</tu>
+		<il>entraîne</il>
+		<nous>entraînons</nous>
+		<vous>entraînez</vous>
+		<ils>entraînent</ils>
+	</present>
+	<imperative>
+		<tu>entraîne</tu>
+		<nous>entraînons</nous>
+		<vous>entraînez</vous>
+	</imperative>
+	<imperfect>
+		<je>entraînais</je>
+		<tu>entraînais</tu>
+		<il>entraînait</il>
+		<nous>entraînions</nous>
+		<vous>entraîniez</vous>
+		<ils>entraînaient</ils>
+	</imperfect>
+	<future>
+		<je>entraînerai</je>
+		<tu>entraîneras</tu>
+		<il>entraînera</il>
+		<nous>entraînerons</nous>
+		<vous>entraînerez</vous>
+		<ils>entraîneront</ils>
+	</future>
+	<subjunctive>
+		<je>entraîne</je>
+		<tu>entraînes</tu>
+		<il>entraîne</il>
+		<nous>entraînions</nous>
+		<vous>entraîniez</vous>
+		<ils>entraînent</ils>
+	</subjunctive>
+	<conditional>
+		<je>entraînerais</je>
+		<tu>entraînerais</tu>
+		<il>entraînerait</il>
+		<nous>entraînerions</nous>
+		<vous>entraîneriez</vous>
+		<ils>entraîneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

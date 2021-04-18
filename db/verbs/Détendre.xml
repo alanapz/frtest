@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>détendre</infinitive>
+	<translation>to release</translation>
+	<translation>slacken</translation>
+	<translation>loosen</translation>
+	<presentParticiple>détendant</presentParticiple>
+	<pastParticiple>détendu</pastParticiple>
+	<present>
+		<je>détends</je>
+		<tu>détends</tu>
+		<il>détend</il>
+		<nous>détendons</nous>
+		<vous>détendez</vous>
+		<ils>détendent</ils>
+	</present>
+	<imperative>
+		<tu>détends</tu>
+		<nous>détendons</nous>
+		<vous>détendez</vous>
+	</imperative>
+	<imperfect>
+		<je>détendais</je>
+		<tu>détendais</tu>
+		<il>détendait</il>
+		<nous>détendions</nous>
+		<vous>détendiez</vous>
+		<ils>détendaient</ils>
+	</imperfect>
+	<future>
+		<je>détendrai</je>
+		<tu>détendras</tu>
+		<il>détendra</il>
+		<nous>détendrons</nous>
+		<vous>détendrez</vous>
+		<ils>détendront</ils>
+	</future>
+	<subjunctive>
+		<je>détende</je>
+		<tu>détendes</tu>
+		<il>détende</il>
+		<nous>détendions</nous>
+		<vous>détendiez</vous>
+		<ils>détendent</ils>
+	</subjunctive>
+	<conditional>
+		<je>détendrais</je>
+		<tu>détendrais</tu>
+		<il>détendrait</il>
+		<nous>détendrions</nous>
+		<vous>détendriez</vous>
+		<ils>détendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

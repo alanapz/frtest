@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>ignorer</infinitive>
+	<translation>to be unaware of</translation>
+	<translation>to not know</translation>
+	<presentParticiple>ignorant</presentParticiple>
+	<pastParticiple>ignoré</pastParticiple>
+	<present>
+		<je>ignore</je>
+		<tu>ignores</tu>
+		<il>ignore</il>
+		<nous>ignorons</nous>
+		<vous>ignorez</vous>
+		<ils>ignorent</ils>
+	</present>
+	<imperative>
+		<tu>ignore</tu>
+		<nous>ignorons</nous>
+		<vous>ignorez</vous>
+	</imperative>
+	<imperfect>
+		<je>ignorais</je>
+		<tu>ignorais</tu>
+		<il>ignorait</il>
+		<nous>ignorions</nous>
+		<vous>ignoriez</vous>
+		<ils>ignoraient</ils>
+	</imperfect>
+	<future>
+		<je>ignorerai</je>
+		<tu>ignoreras</tu>
+		<il>ignorera</il>
+		<nous>ignorerons</nous>
+		<vous>ignorerez</vous>
+		<ils>ignoreront</ils>
+	</future>
+	<subjunctive>
+		<je>ignore</je>
+		<tu>ignores</tu>
+		<il>ignore</il>
+		<nous>ignorions</nous>
+		<vous>ignoriez</vous>
+		<ils>ignorent</ils>
+	</subjunctive>
+	<conditional>
+		<je>ignorerais</je>
+		<tu>ignorerais</tu>
+		<il>ignorerait</il>
+		<nous>ignorerions</nous>
+		<vous>ignoreriez</vous>
+		<ils>ignoreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

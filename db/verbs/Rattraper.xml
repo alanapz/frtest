@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>rattraper</infinitive>
+	<translation>to catch</translation>
+	<translation>recapture</translation>
+	<translation>to recover</translation>
+	<presentParticiple>rattrapant</presentParticiple>
+	<pastParticiple>rattrapé</pastParticiple>
+	<present>
+		<je>rattrape</je>
+		<tu>rattrapes</tu>
+		<il>rattrape</il>
+		<nous>rattrapons</nous>
+		<vous>rattrapez</vous>
+		<ils>rattrapent</ils>
+	</present>
+	<imperative>
+		<tu>rattrape</tu>
+		<nous>rattrapons</nous>
+		<vous>rattrapez</vous>
+	</imperative>
+	<imperfect>
+		<je>rattrapais</je>
+		<tu>rattrapais</tu>
+		<il>rattrapait</il>
+		<nous>rattrapions</nous>
+		<vous>rattrapiez</vous>
+		<ils>rattrapaient</ils>
+	</imperfect>
+	<future>
+		<je>rattraperai</je>
+		<tu>rattraperas</tu>
+		<il>rattrapera</il>
+		<nous>rattraperons</nous>
+		<vous>rattraperez</vous>
+		<ils>rattraperont</ils>
+	</future>
+	<subjunctive>
+		<je>rattrape</je>
+		<tu>rattrapes</tu>
+		<il>rattrape</il>
+		<nous>rattrapions</nous>
+		<vous>rattrapiez</vous>
+		<ils>rattrapent</ils>
+	</subjunctive>
+	<conditional>
+		<je>rattraperais</je>
+		<tu>rattraperais</tu>
+		<il>rattraperait</il>
+		<nous>rattraperions</nous>
+		<vous>rattraperiez</vous>
+		<ils>rattraperaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

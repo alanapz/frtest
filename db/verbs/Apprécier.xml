@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>apprécier</infinitive>
+	<translation>to appreciate</translation>
+	<presentParticiple>appréciant</presentParticiple>
+	<pastParticiple>apprécié</pastParticiple>
+	<present>
+		<je>apprécie</je>
+		<tu>apprécies</tu>
+		<il>apprécie</il>
+		<nous>apprécions</nous>
+		<vous>appréciez</vous>
+		<ils>apprécient</ils>
+	</present>
+	<imperative>
+		<tu>apprécie</tu>
+		<nous>apprécions</nous>
+		<vous>appréciez</vous>
+	</imperative>
+	<imperfect>
+		<je>appréciais</je>
+		<tu>appréciais</tu>
+		<il>appréciait</il>
+		<nous>appréciions</nous>
+		<vous>appréciiez</vous>
+		<ils>appréciaient</ils>
+	</imperfect>
+	<future>
+		<je>apprécierai</je>
+		<tu>apprécieras</tu>
+		<il>appréciera</il>
+		<nous>apprécierons</nous>
+		<vous>apprécierez</vous>
+		<ils>apprécieront</ils>
+	</future>
+	<subjunctive>
+		<je>apprécie</je>
+		<tu>apprécies</tu>
+		<il>apprécie</il>
+		<nous>appréciions</nous>
+		<vous>appréciiez</vous>
+		<ils>apprécient</ils>
+	</subjunctive>
+	<conditional>
+		<je>apprécierais</je>
+		<tu>apprécierais</tu>
+		<il>apprécierait</il>
+		<nous>apprécierions</nous>
+		<vous>apprécieriez</vous>
+		<ils>apprécieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

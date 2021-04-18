@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>initier</infinitive>
+	<translation>to initiate</translation>
+	<presentParticiple>initiant</presentParticiple>
+	<pastParticiple>initié</pastParticiple>
+	<present>
+		<je>initie</je>
+		<tu>inities</tu>
+		<il>initie</il>
+		<nous>initions</nous>
+		<vous>initiez</vous>
+		<ils>initient</ils>
+	</present>
+	<imperative>
+		<tu>initie</tu>
+		<nous>initions</nous>
+		<vous>initiez</vous>
+	</imperative>
+	<imperfect>
+		<je>initiais</je>
+		<tu>initiais</tu>
+		<il>initiait</il>
+		<nous>initiions</nous>
+		<vous>initiiez</vous>
+		<ils>initiaient</ils>
+	</imperfect>
+	<future>
+		<je>initierai</je>
+		<tu>initieras</tu>
+		<il>initiera</il>
+		<nous>initierons</nous>
+		<vous>initierez</vous>
+		<ils>initieront</ils>
+	</future>
+	<subjunctive>
+		<je>initie</je>
+		<tu>inities</tu>
+		<il>initie</il>
+		<nous>initiions</nous>
+		<vous>initiiez</vous>
+		<ils>initient</ils>
+	</subjunctive>
+	<conditional>
+		<je>initierais</je>
+		<tu>initierais</tu>
+		<il>initierait</il>
+		<nous>initierions</nous>
+		<vous>initieriez</vous>
+		<ils>initieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

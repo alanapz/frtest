@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>rassurer</infinitive>
+	<translation>to reassure</translation>
+	<presentParticiple>rassurant</presentParticiple>
+	<pastParticiple>rassuré</pastParticiple>
+	<present>
+		<je>rassure</je>
+		<tu>rassures</tu>
+		<il>rassure</il>
+		<nous>rassurons</nous>
+		<vous>rassurez</vous>
+		<ils>rassurent</ils>
+	</present>
+	<imperative>
+		<tu>rassure</tu>
+		<nous>rassurons</nous>
+		<vous>rassurez</vous>
+	</imperative>
+	<imperfect>
+		<je>rassurais</je>
+		<tu>rassurais</tu>
+		<il>rassurait</il>
+		<nous>rassurions</nous>
+		<vous>rassuriez</vous>
+		<ils>rassuraient</ils>
+	</imperfect>
+	<future>
+		<je>rassurerai</je>
+		<tu>rassureras</tu>
+		<il>rassurera</il>
+		<nous>rassurerons</nous>
+		<vous>rassurerez</vous>
+		<ils>rassureront</ils>
+	</future>
+	<subjunctive>
+		<je>rassure</je>
+		<tu>rassures</tu>
+		<il>rassure</il>
+		<nous>rassurions</nous>
+		<vous>rassuriez</vous>
+		<ils>rassurent</ils>
+	</subjunctive>
+	<conditional>
+		<je>rassurerais</je>
+		<tu>rassurerais</tu>
+		<il>rassurerait</il>
+		<nous>rassurerions</nous>
+		<vous>rassureriez</vous>
+		<ils>rassureraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

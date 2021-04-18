@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>ravager</infinitive>
+	<translation>to ravage</translation>
+	<translation>devastate</translation>
+	<spellingChange />
+	<presentParticiple>ravageant</presentParticiple>
+	<pastParticiple>ravagé</pastParticiple>
+	<present>
+		<je>ravage</je>
+		<tu>ravages</tu>
+		<il>ravage</il>
+		<nous>ravageons</nous>
+		<vous>ravagez</vous>
+		<ils>ravagent</ils>
+	</present>
+	<imperative>
+		<tu>ravage</tu>
+		<nous>ravageons</nous>
+		<vous>ravagez</vous>
+	</imperative>
+	<imperfect>
+		<je>ravageais</je>
+		<tu>ravageais</tu>
+		<il>ravageait</il>
+		<nous>ravagions</nous>
+		<vous>ravagiez</vous>
+		<ils>ravageaient</ils>
+	</imperfect>
+	<future>
+		<je>ravagerai</je>
+		<tu>ravageras</tu>
+		<il>ravagera</il>
+		<nous>ravagerons</nous>
+		<vous>ravagerez</vous>
+		<ils>ravageront</ils>
+	</future>
+	<subjunctive>
+		<je>ravage</je>
+		<tu>ravages</tu>
+		<il>ravage</il>
+		<nous>ravagions</nous>
+		<vous>ravagiez</vous>
+		<ils>ravagent</ils>
+	</subjunctive>
+	<conditional>
+		<je>ravagerais</je>
+		<tu>ravagerais</tu>
+		<il>ravagerait</il>
+		<nous>ravagerions</nous>
+		<vous>ravageriez</vous>
+		<ils>ravageraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

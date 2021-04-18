@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>attendre</infinitive>
+            <translation>to wait for</translation>
+            <translation>to expect</translation>
+            <presentParticiple>attendant</presentParticiple>
+            <pastParticiple>attendu</pastParticiple>
+            <present>
+                <je>attends</je>
+                <tu>attends</tu>
+                <il>attend</il>
+                <nous>attendons</nous>
+                <vous>attendez</vous>
+                <ils>attendent</ils>
+            </present>
+            <imperative>
+                <tu>attends</tu>
+                <nous>attendons</nous>
+                <vous>attendez</vous>
+            </imperative>
+            <imperfect>
+                <je>attendais</je>
+                <tu>attendais</tu>
+                <il>attendait</il>
+                <nous>attendions</nous>
+                <vous>attendiez</vous>
+                <ils>attendaient</ils>
+            </imperfect>
+            <future>
+                <je>attendrai</je>
+                <tu>attendras</tu>
+                <il>attendra</il>
+                <nous>attendrons</nous>
+                <vous>attendrez</vous>
+                <ils>attendront</ils>
+            </future>
+            <subjunctive>
+                <je>attende</je>
+                <tu>attendes</tu>
+                <il>attende</il>
+                <nous>attendions</nous>
+                <vous>attendiez</vous>
+                <ils>attendent</ils>
+            </subjunctive>
+            <conditional>
+                <je>attendrais</je>
+                <tu>attendrais</tu>
+                <il>attendrait</il>
+                <nous>attendrions</nous>
+                <vous>attendriez</vous>
+                <ils>attendraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

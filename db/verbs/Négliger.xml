@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>négliger</infinitive>
+            <translation>to neglect</translation>
+            <spellingChange />
+            <presentParticiple>négligeant</presentParticiple>
+            <pastParticiple>négligé</pastParticiple>
+            <present>
+                <je>néglige</je>
+                <tu>négliges</tu>
+                <il>néglige</il>
+                <nous>négligeons</nous>
+                <vous>négligez</vous>
+                <ils>négligent</ils>
+            </present>
+            <imperative>
+                <tu>néglige</tu>
+                <nous>négligeons</nous>
+                <vous>négligez</vous>
+            </imperative>
+            <imperfect>
+                <je>négligeais</je>
+                <tu>négligeais</tu>
+                <il>négligeait</il>
+                <nous>négligions</nous>
+                <vous>négligiez</vous>
+                <ils>négligeaient</ils>
+            </imperfect>
+            <future>
+                <je>négligerai</je>
+                <tu>négligeras</tu>
+                <il>négligera</il>
+                <nous>négligerons</nous>
+                <vous>négligerez</vous>
+                <ils>négligeront</ils>
+            </future>
+            <subjunctive>
+                <je>néglige</je>
+                <tu>négliges</tu>
+                <il>néglige</il>
+                <nous>négligions</nous>
+                <vous>négligiez</vous>
+                <ils>négligent</ils>
+            </subjunctive>
+            <conditional>
+                <je>négligerais</je>
+                <tu>négligerais</tu>
+                <il>négligerait</il>
+                <nous>négligerions</nous>
+                <vous>négligeriez</vous>
+                <ils>négligeraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>cracher</infinitive>
+	<translation>to spit</translation>
+	<presentParticiple>crachant</presentParticiple>
+	<pastParticiple>craché</pastParticiple>
+	<present>
+		<je>crache</je>
+		<tu>craches</tu>
+		<il>crache</il>
+		<nous>crachons</nous>
+		<vous>crachez</vous>
+		<ils>crachent</ils>
+	</present>
+	<imperative>
+		<tu>crache</tu>
+		<nous>crachons</nous>
+		<vous>crachez</vous>
+	</imperative>
+	<imperfect>
+		<je>crachais</je>
+		<tu>crachais</tu>
+		<il>crachait</il>
+		<nous>crachions</nous>
+		<vous>crachiez</vous>
+		<ils>crachaient</ils>
+	</imperfect>
+	<future>
+		<je>cracherai</je>
+		<tu>cracheras</tu>
+		<il>crachera</il>
+		<nous>cracherons</nous>
+		<vous>cracherez</vous>
+		<ils>cracheront</ils>
+	</future>
+	<subjunctive>
+		<je>crache</je>
+		<tu>craches</tu>
+		<il>crache</il>
+		<nous>crachions</nous>
+		<vous>crachiez</vous>
+		<ils>crachent</ils>
+	</subjunctive>
+	<conditional>
+		<je>cracherais</je>
+		<tu>cracherais</tu>
+		<il>cracherait</il>
+		<nous>cracherions</nous>
+		<vous>cracheriez</vous>
+		<ils>cracheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

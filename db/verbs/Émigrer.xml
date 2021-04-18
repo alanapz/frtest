@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>émigrer</infinitive>
+	<translation>to emigrate</translation>
+	<presentParticiple>émigrant</presentParticiple>
+	<pastParticiple>émigré</pastParticiple>
+	<present>
+		<je>émigre</je>
+		<tu>émigres</tu>
+		<il>émigre</il>
+		<nous>émigrons</nous>
+		<vous>émigrez</vous>
+		<ils>émigrent</ils>
+	</present>
+	<imperative>
+		<tu>émigre</tu>
+		<nous>émigrons</nous>
+		<vous>émigrez</vous>
+	</imperative>
+	<imperfect>
+		<je>émigrais</je>
+		<tu>émigrais</tu>
+		<il>émigrait</il>
+		<nous>émigrions</nous>
+		<vous>émigriez</vous>
+		<ils>émigraient</ils>
+	</imperfect>
+	<future>
+		<je>émigrerai</je>
+		<tu>émigreras</tu>
+		<il>émigrera</il>
+		<nous>émigrerons</nous>
+		<vous>émigrerez</vous>
+		<ils>émigreront</ils>
+	</future>
+	<subjunctive>
+		<je>émigre</je>
+		<tu>émigres</tu>
+		<il>émigre</il>
+		<nous>émigrions</nous>
+		<vous>émigriez</vous>
+		<ils>émigrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>émigrerais</je>
+		<tu>émigrerais</tu>
+		<il>émigrerait</il>
+		<nous>émigrerions</nous>
+		<vous>émigreriez</vous>
+		<ils>émigreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

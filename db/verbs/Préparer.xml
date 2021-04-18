@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>préparer</infinitive>
+	<translation>to prepare</translation>
+	<presentParticiple>préparant</presentParticiple>
+	<pastParticiple>préparé</pastParticiple>
+	<present>
+		<je>prépare</je>
+		<tu>prépares</tu>
+		<il>prépare</il>
+		<nous>préparons</nous>
+		<vous>préparez</vous>
+		<ils>préparent</ils>
+	</present>
+	<imperative>
+		<tu>prépare</tu>
+		<nous>préparons</nous>
+		<vous>préparez</vous>
+	</imperative>
+	<imperfect>
+		<je>préparais</je>
+		<tu>préparais</tu>
+		<il>préparait</il>
+		<nous>préparions</nous>
+		<vous>prépariez</vous>
+		<ils>préparaient</ils>
+	</imperfect>
+	<future>
+		<je>préparerai</je>
+		<tu>prépareras</tu>
+		<il>préparera</il>
+		<nous>préparerons</nous>
+		<vous>préparerez</vous>
+		<ils>prépareront</ils>
+	</future>
+	<subjunctive>
+		<je>prépare</je>
+		<tu>prépares</tu>
+		<il>prépare</il>
+		<nous>préparions</nous>
+		<vous>prépariez</vous>
+		<ils>préparent</ils>
+	</subjunctive>
+	<conditional>
+		<je>préparerais</je>
+		<tu>préparerais</tu>
+		<il>préparerait</il>
+		<nous>préparerions</nous>
+		<vous>prépareriez</vous>
+		<ils>prépareraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

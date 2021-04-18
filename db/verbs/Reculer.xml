@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>reculer</infinitive>
+	<translation>to move back/away</translation>
+	<translation>recede</translation>
+	<translation>to decline</translation>
+	<presentParticiple>reculant</presentParticiple>
+	<pastParticiple>reculé</pastParticiple>
+	<present>
+		<je>recule</je>
+		<tu>recules</tu>
+		<il>recule</il>
+		<nous>reculons</nous>
+		<vous>reculez</vous>
+		<ils>reculent</ils>
+	</present>
+	<imperative>
+		<tu>recule</tu>
+		<nous>reculons</nous>
+		<vous>reculez</vous>
+	</imperative>
+	<imperfect>
+		<je>reculais</je>
+		<tu>reculais</tu>
+		<il>reculait</il>
+		<nous>reculions</nous>
+		<vous>reculiez</vous>
+		<ils>reculaient</ils>
+	</imperfect>
+	<future>
+		<je>reculerai</je>
+		<tu>reculeras</tu>
+		<il>reculera</il>
+		<nous>reculerons</nous>
+		<vous>reculerez</vous>
+		<ils>reculeront</ils>
+	</future>
+	<subjunctive>
+		<je>recule</je>
+		<tu>recules</tu>
+		<il>recule</il>
+		<nous>reculions</nous>
+		<vous>reculiez</vous>
+		<ils>reculent</ils>
+	</subjunctive>
+	<conditional>
+		<je>reculerais</je>
+		<tu>reculerais</tu>
+		<il>reculerait</il>
+		<nous>reculerions</nous>
+		<vous>reculeriez</vous>
+		<ils>reculeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

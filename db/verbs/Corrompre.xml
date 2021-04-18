@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>corrompre</infinitive>
+	<translation>to corrupt</translation>
+	<irregular />
+	<presentParticiple>corrompant</presentParticiple>
+	<pastParticiple>corrompu</pastParticiple>
+	<present>
+		<je>corromps</je>
+		<tu>corromps</tu>
+		<il>corrompt</il>
+		<nous>corrompons</nous>
+		<vous>corrompez</vous>
+		<ils>corrompent</ils>
+	</present>
+	<imperative>
+		<tu>corromps</tu>
+		<nous>corrompons</nous>
+		<vous>corrompez</vous>
+	</imperative>
+	<imperfect>
+		<je>corrompais</je>
+		<tu>corrompais</tu>
+		<il>corrompait</il>
+		<nous>corrompions</nous>
+		<vous>corrompiez</vous>
+		<ils>corrompaient</ils>
+	</imperfect>
+	<future>
+		<je>corromprai</je>
+		<tu>corrompras</tu>
+		<il>corrompra</il>
+		<nous>corromprons</nous>
+		<vous>corromprez</vous>
+		<ils>corrompront</ils>
+	</future>
+	<subjunctive>
+		<je>corrompe</je>
+		<tu>corrompes</tu>
+		<il>corrompe</il>
+		<nous>corrompions</nous>
+		<vous>corrompiez</vous>
+		<ils>corrompent</ils>
+	</subjunctive>
+	<conditional>
+		<je>corromprais</je>
+		<tu>corromprais</tu>
+		<il>corromprait</il>
+		<nous>corromprions</nous>
+		<vous>corrompriez</vous>
+		<ils>corrompraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

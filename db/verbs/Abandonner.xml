@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>abandonner</infinitive>
+            <translation>to desert</translation>
+            <translation>to abandon</translation>
+            <presentParticiple>abandonnant</presentParticiple>
+            <pastParticiple>abandonné</pastParticiple>
+            <present>
+                <je>abandonne</je>
+                <tu>abandonnes</tu>
+                <il>abandonne</il>
+                <nous>abandonnons</nous>
+                <vous>abandonnez</vous>
+                <ils>abandonnent</ils>
+            </present>
+            <imperative>
+                <tu>abandonne</tu>
+                <nous>abandonnons</nous>
+                <vous>abandonnez</vous>
+            </imperative>
+            <imperfect>
+                <je>abandonnais</je>
+                <tu>abandonnais</tu>
+                <il>abandonnait</il>
+                <nous>abandonnions</nous>
+                <vous>abandonniez</vous>
+                <ils>abandonnaient</ils>
+            </imperfect>
+            <future>
+                <je>abandonnerai</je>
+                <tu>abandonneras</tu>
+                <il>abandonnera</il>
+                <nous>abandonnerons</nous>
+                <vous>abandonnerez</vous>
+                <ils>abandonneront</ils>
+            </future>
+            <subjunctive>
+                <je>abandonne</je>
+                <tu>abandonnes</tu>
+                <il>abandonne</il>
+                <nous>abandonnions</nous>
+                <vous>abandonniez</vous>
+                <ils>abandonnent</ils>
+            </subjunctive>
+            <conditional>
+                <je>abandonnerais</je>
+                <tu>abandonnerais</tu>
+                <il>abandonnerait</il>
+                <nous>abandonnerions</nous>
+                <vous>abandonneriez</vous>
+                <ils>abandonneraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

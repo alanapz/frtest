@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>sacrifier</infinitive>
+	<translation>to sacrifice</translation>
+	<presentParticiple>sacrifiant</presentParticiple>
+	<pastParticiple>sacrifié</pastParticiple>
+	<present>
+		<je>sacrifie</je>
+		<tu>sacrifies</tu>
+		<il>sacrifie</il>
+		<nous>sacrifions</nous>
+		<vous>sacrifiez</vous>
+		<ils>sacrifient</ils>
+	</present>
+	<imperative>
+		<tu>sacrifie</tu>
+		<nous>sacrifions</nous>
+		<vous>sacrifiez</vous>
+	</imperative>
+	<imperfect>
+		<je>sacrifiais</je>
+		<tu>sacrifiais</tu>
+		<il>sacrifiait</il>
+		<nous>sacrifiions</nous>
+		<vous>sacrifiiez</vous>
+		<ils>sacrifiaient</ils>
+	</imperfect>
+	<future>
+		<je>sacrifierai</je>
+		<tu>sacrifieras</tu>
+		<il>sacrifiera</il>
+		<nous>sacrifierons</nous>
+		<vous>sacrifierez</vous>
+		<ils>sacrifieront</ils>
+	</future>
+	<subjunctive>
+		<je>sacrifie</je>
+		<tu>sacrifies</tu>
+		<il>sacrifie</il>
+		<nous>sacrifiions</nous>
+		<vous>sacrifiiez</vous>
+		<ils>sacrifient</ils>
+	</subjunctive>
+	<conditional>
+		<je>sacrifierais</je>
+		<tu>sacrifierais</tu>
+		<il>sacrifierait</il>
+		<nous>sacrifierions</nous>
+		<vous>sacrifieriez</vous>
+		<ils>sacrifieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>remettre</infinitive>
+            <translation>to re-put</translation>
+            <irregular />
+            <presentParticiple>remettant</presentParticiple>
+            <pastParticiple>remis</pastParticiple>
+            <present>
+                <je>remets</je>
+                <tu>remets</tu>
+                <il>remet</il>
+                <nous>remettons</nous>
+                <vous>remettez</vous>
+                <ils>remettent</ils>
+            </present>
+            <imperative>
+                <tu>remets</tu>
+                <nous>remettons</nous>
+                <vous>remettez</vous>
+            </imperative>
+            <imperfect>
+                <je>remettais</je>
+                <tu>remettais</tu>
+                <il>remettait</il>
+                <nous>remettions</nous>
+                <vous>remettiez</vous>
+                <ils>remettaient</ils>
+            </imperfect>
+            <future>
+                <je>remettrai</je>
+                <tu>remettras</tu>
+                <il>remettra</il>
+                <nous>remettrons</nous>
+                <vous>remettrez</vous>
+                <ils>remettront</ils>
+            </future>
+            <subjunctive>
+                <je>remette</je>
+                <tu>remettes</tu>
+                <il>remette</il>
+                <nous>remettions</nous>
+                <vous>remettiez</vous>
+                <ils>remettent</ils>
+            </subjunctive>
+            <conditional>
+                <je>remettrais</je>
+                <tu>remettrais</tu>
+                <il>remettrait</il>
+                <nous>remettrions</nous>
+                <vous>remettriez</vous>
+                <ils>remettraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

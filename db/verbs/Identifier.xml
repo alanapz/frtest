@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>identifier</infinitive>
+	<translation>to identify</translation>
+	<presentParticiple>identifiant</presentParticiple>
+	<pastParticiple>identifié</pastParticiple>
+	<present>
+		<je>identifie</je>
+		<tu>identifies</tu>
+		<il>identifie</il>
+		<nous>identifions</nous>
+		<vous>identifiez</vous>
+		<ils>identifient</ils>
+	</present>
+	<imperative>
+		<tu>identifie</tu>
+		<nous>identifions</nous>
+		<vous>identifiez</vous>
+	</imperative>
+	<imperfect>
+		<je>identifiais</je>
+		<tu>identifiais</tu>
+		<il>identifiait</il>
+		<nous>identifiions</nous>
+		<vous>identifiiez</vous>
+		<ils>identifiaient</ils>
+	</imperfect>
+	<future>
+		<je>identifierai</je>
+		<tu>identifieras</tu>
+		<il>identifiera</il>
+		<nous>identifierons</nous>
+		<vous>identifierez</vous>
+		<ils>identifieront</ils>
+	</future>
+	<subjunctive>
+		<je>identifie</je>
+		<tu>identifies</tu>
+		<il>identifie</il>
+		<nous>identifiions</nous>
+		<vous>identifiiez</vous>
+		<ils>identifient</ils>
+	</subjunctive>
+	<conditional>
+		<je>identifierais</je>
+		<tu>identifierais</tu>
+		<il>identifierait</il>
+		<nous>identifierions</nous>
+		<vous>identifieriez</vous>
+		<ils>identifieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

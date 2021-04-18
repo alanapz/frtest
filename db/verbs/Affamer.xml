@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>affamer</infinitive>
+	<translation>to starve</translation>
+	<presentParticiple>affamant</presentParticiple>
+	<pastParticiple>affamé</pastParticiple>
+	<present>
+		<je>affame</je>
+		<tu>affames</tu>
+		<il>affame</il>
+		<nous>affamons</nous>
+		<vous>affamez</vous>
+		<ils>affament</ils>
+	</present>
+	<imperative>
+		<tu>affame</tu>
+		<nous>affamons</nous>
+		<vous>affamez</vous>
+	</imperative>
+	<imperfect>
+		<je>affamais</je>
+		<tu>affamais</tu>
+		<il>affamait</il>
+		<nous>affamions</nous>
+		<vous>affamiez</vous>
+		<ils>affamaient</ils>
+	</imperfect>
+	<future>
+		<je>affamerai</je>
+		<tu>affameras</tu>
+		<il>affamera</il>
+		<nous>affamerons</nous>
+		<vous>affamerez</vous>
+		<ils>affameront</ils>
+	</future>
+	<subjunctive>
+		<je>affame</je>
+		<tu>affames</tu>
+		<il>affame</il>
+		<nous>affamions</nous>
+		<vous>affamiez</vous>
+		<ils>affament</ils>
+	</subjunctive>
+	<conditional>
+		<je>affamerais</je>
+		<tu>affamerais</tu>
+		<il>affamerait</il>
+		<nous>affamerions</nous>
+		<vous>affameriez</vous>
+		<ils>affameraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

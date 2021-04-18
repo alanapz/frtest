@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>désobéir</infinitive>
+	<translation>to disobey</translation>
+	<presentParticiple>désobéissant</presentParticiple>
+	<pastParticiple>désobéi</pastParticiple>
+	<present>
+		<je>désobéis</je>
+		<tu>désobéis</tu>
+		<il>désobéit</il>
+		<nous>désobéissons</nous>
+		<vous>désobéissez</vous>
+		<ils>désobéissent</ils>
+	</present>
+	<imperative>
+		<tu>désobéis</tu>
+		<nous>désobéissons</nous>
+		<vous>désobéissez</vous>
+	</imperative>
+	<imperfect>
+		<je>désobéissais</je>
+		<tu>désobéissais</tu>
+		<il>désobéissait</il>
+		<nous>désobéissions</nous>
+		<vous>désobéissiez</vous>
+		<ils>désobéissaient</ils>
+	</imperfect>
+	<future>
+		<je>désobéirai</je>
+		<tu>désobéiras</tu>
+		<il>désobéira</il>
+		<nous>désobéirons</nous>
+		<vous>désobéirez</vous>
+		<ils>désobéiront</ils>
+	</future>
+	<subjunctive>
+		<je>désobéisse</je>
+		<tu>désobéisses</tu>
+		<il>désobéisse</il>
+		<nous>désobéissions</nous>
+		<vous>désobéissiez</vous>
+		<ils>désobéissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>désobéirais</je>
+		<tu>désobéirais</tu>
+		<il>désobéirait</il>
+		<nous>désobéirions</nous>
+		<vous>désobéiriez</vous>
+		<ils>désobéiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>repeindre</infinitive>
+            <translation>to repaint</translation>
+            <irregular />
+            <presentParticiple>repeignant</presentParticiple>
+            <pastParticiple>repeint</pastParticiple>
+            <present>
+                <je>repeins</je>
+                <tu>repeins</tu>
+                <il>repeint</il>
+                <nous>repeignons</nous>
+                <vous>repeignez</vous>
+                <ils>repeignent</ils>
+            </present>
+            <imperative>
+                <tu>repeins</tu>
+                <nous>repeignons</nous>
+                <vous>repeignez</vous>
+            </imperative>
+            <imperfect>
+                <je>repeignais</je>
+                <tu>repeignais</tu>
+                <il>repeignait</il>
+                <nous>repeignions</nous>
+                <vous>repeigniez</vous>
+                <ils>repeignaient</ils>
+            </imperfect>
+            <future>
+                <je>repeindrai</je>
+                <tu>repeindras</tu>
+                <il>repeindra</il>
+                <nous>repeindrons</nous>
+                <vous>repeindrez</vous>
+                <ils>repeindront</ils>
+            </future>
+            <subjunctive>
+                <je>repeigne</je>
+                <tu>repeignes</tu>
+                <il>repeigne</il>
+                <nous>repeignions</nous>
+                <vous>repeigniez</vous>
+                <ils>repeignent</ils>
+            </subjunctive>
+            <conditional>
+                <je>repeindrais</je>
+                <tu>repeindrais</tu>
+                <il>repeindrait</il>
+                <nous>repeindrions</nous>
+                <vous>repeindriez</vous>
+                <ils>repeindraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

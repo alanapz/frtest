@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>organiser</infinitive>
+	<translation>to organize</translation>
+	<presentParticiple>organisant</presentParticiple>
+	<pastParticiple>organisé</pastParticiple>
+	<present>
+		<je>organise</je>
+		<tu>organises</tu>
+		<il>organise</il>
+		<nous>organisons</nous>
+		<vous>organisez</vous>
+		<ils>organisent</ils>
+	</present>
+	<imperative>
+		<tu>organise</tu>
+		<nous>organisons</nous>
+		<vous>organisez</vous>
+	</imperative>
+	<imperfect>
+		<je>organisais</je>
+		<tu>organisais</tu>
+		<il>organisait</il>
+		<nous>organisions</nous>
+		<vous>organisiez</vous>
+		<ils>organisaient</ils>
+	</imperfect>
+	<future>
+		<je>organiserai</je>
+		<tu>organiseras</tu>
+		<il>organisera</il>
+		<nous>organiserons</nous>
+		<vous>organiserez</vous>
+		<ils>organiseront</ils>
+	</future>
+	<subjunctive>
+		<je>organise</je>
+		<tu>organises</tu>
+		<il>organise</il>
+		<nous>organisions</nous>
+		<vous>organisiez</vous>
+		<ils>organisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>organiserais</je>
+		<tu>organiserais</tu>
+		<il>organiserait</il>
+		<nous>organiserions</nous>
+		<vous>organiseriez</vous>
+		<ils>organiseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>faire</infinitive>
+            <translation>to do</translation>
+            <translation>to make</translation>
+            <presentParticiple>faisant</presentParticiple>
+            <pastParticiple>fait</pastParticiple>
+            <present>
+                <je>fais</je>
+                <tu>fais</tu>
+                <il>fait</il>
+                <nous>faisons</nous>
+                <vous>faites</vous>
+                <ils>font</ils>
+            </present>
+            <imperative>
+                <tu>fais</tu>
+                <nous>faisons</nous>
+                <vous>faites</vous>
+            </imperative>
+            <imperfect>
+                <je>faisais</je>
+                <tu>faisais</tu>
+                <il>faisait</il>
+                <nous>faisions</nous>
+                <vous>faisiez</vous>
+                <ils>faisaient</ils>
+            </imperfect>
+            <future>
+                <je>ferai</je>
+                <tu>feras</tu>
+                <il>fera</il>
+                <nous>ferons</nous>
+                <vous>ferez</vous>
+                <ils>feront</ils>
+            </future>
+            <subjunctive>
+                <je>fasse</je>
+                <tu>fasses</tu>
+                <il>fasse</il>
+                <nous>fassions</nous>
+                <vous>fassiez</vous>
+                <ils>fassent</ils>
+            </subjunctive>
+            <conditional>
+                <je>ferais</je>
+                <tu>ferais</tu>
+                <il>ferait</il>
+                <nous>ferions</nous>
+                <vous>feriez</vous>
+                <ils>feraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

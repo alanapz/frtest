@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>inscrire</infinitive>
+            <translation>to write down</translation>
+            <irregular />
+            <presentParticiple>inscrivant</presentParticiple>
+            <pastParticiple>inscrit</pastParticiple>
+            <present>
+                <je>inscris</je>
+                <tu>inscris</tu>
+                <il>inscrit</il>
+                <nous>inscrivons</nous>
+                <vous>inscrivez</vous>
+                <ils>inscrivent</ils>
+            </present>
+            <imperative>
+                <tu>inscris</tu>
+                <nous>inscrivons</nous>
+                <vous>inscrivez</vous>
+            </imperative>
+            <imperfect>
+                <je>inscrivais</je>
+                <tu>inscrivais</tu>
+                <il>inscrivait</il>
+                <nous>inscrivions</nous>
+                <vous>inscriviez</vous>
+                <ils>inscrivaient</ils>
+            </imperfect>
+            <future>
+                <je>inscrirai</je>
+                <tu>inscriras</tu>
+                <il>inscrira</il>
+                <nous>inscrirons</nous>
+                <vous>inscrirez</vous>
+                <ils>inscriront</ils>
+            </future>
+            <subjunctive>
+                <je>inscrive</je>
+                <tu>inscrives</tu>
+                <il>inscrive</il>
+                <nous>inscrivions</nous>
+                <vous>inscriviez</vous>
+                <ils>inscrivent</ils>
+            </subjunctive>
+            <conditional>
+                <je>inscrirais</je>
+                <tu>inscrirais</tu>
+                <il>inscrirait</il>
+                <nous>inscririons</nous>
+                <vous>inscririez</vous>
+                <ils>inscriraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

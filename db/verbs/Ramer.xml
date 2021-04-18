@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>ramer</infinitive>
+	<translation>to row (boat)</translation>
+	<translation>(inf) to work hard</translation>
+	<presentParticiple>ramant</presentParticiple>
+	<pastParticiple>ramé</pastParticiple>
+	<present>
+		<je>rame</je>
+		<tu>rames</tu>
+		<il>rame</il>
+		<nous>ramons</nous>
+		<vous>ramez</vous>
+		<ils>rament</ils>
+	</present>
+	<imperative>
+		<tu>rame</tu>
+		<nous>ramons</nous>
+		<vous>ramez</vous>
+	</imperative>
+	<imperfect>
+		<je>ramais</je>
+		<tu>ramais</tu>
+		<il>ramait</il>
+		<nous>ramions</nous>
+		<vous>ramiez</vous>
+		<ils>ramaient</ils>
+	</imperfect>
+	<future>
+		<je>ramerai</je>
+		<tu>rameras</tu>
+		<il>ramera</il>
+		<nous>ramerons</nous>
+		<vous>ramerez</vous>
+		<ils>rameront</ils>
+	</future>
+	<subjunctive>
+		<je>rame</je>
+		<tu>rames</tu>
+		<il>rame</il>
+		<nous>ramions</nous>
+		<vous>ramiez</vous>
+		<ils>rament</ils>
+	</subjunctive>
+	<conditional>
+		<je>ramerais</je>
+		<tu>ramerais</tu>
+		<il>ramerait</il>
+		<nous>ramerions</nous>
+		<vous>rameriez</vous>
+		<ils>rameraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>gâter</infinitive>
+	<translation>to spoil</translation>
+	<presentParticiple>gâtant</presentParticiple>
+	<pastParticiple>gâté</pastParticiple>
+	<present>
+		<je>gâte</je>
+		<tu>gâtes</tu>
+		<il>gâte</il>
+		<nous>gâtons</nous>
+		<vous>gâtez</vous>
+		<ils>gâtent</ils>
+	</present>
+	<imperative>
+		<tu>gâte</tu>
+		<nous>gâtons</nous>
+		<vous>gâtez</vous>
+	</imperative>
+	<imperfect>
+		<je>gâtais</je>
+		<tu>gâtais</tu>
+		<il>gâtait</il>
+		<nous>gâtions</nous>
+		<vous>gâtiez</vous>
+		<ils>gâtaient</ils>
+	</imperfect>
+	<future>
+		<je>gâterai</je>
+		<tu>gâteras</tu>
+		<il>gâtera</il>
+		<nous>gâterons</nous>
+		<vous>gâterez</vous>
+		<ils>gâteront</ils>
+	</future>
+	<subjunctive>
+		<je>gâte</je>
+		<tu>gâtes</tu>
+		<il>gâte</il>
+		<nous>gâtions</nous>
+		<vous>gâtiez</vous>
+		<ils>gâtent</ils>
+	</subjunctive>
+	<conditional>
+		<je>gâterais</je>
+		<tu>gâterais</tu>
+		<il>gâterait</il>
+		<nous>gâterions</nous>
+		<vous>gâteriez</vous>
+		<ils>gâteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>concentrer</infinitive>
+            <translation>to concentrate</translation>
+            <transitive />
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>centraliser</infinitive>
+	<translation>to centralize</translation>
+	<presentParticiple>centralisant</presentParticiple>
+	<pastParticiple>centralisé</pastParticiple>
+	<present>
+		<je>centralise</je>
+		<tu>centralises</tu>
+		<il>centralise</il>
+		<nous>centralisons</nous>
+		<vous>centralisez</vous>
+		<ils>centralisent</ils>
+	</present>
+	<imperative>
+		<tu>centralise</tu>
+		<nous>centralisons</nous>
+		<vous>centralisez</vous>
+	</imperative>
+	<imperfect>
+		<je>centralisais</je>
+		<tu>centralisais</tu>
+		<il>centralisait</il>
+		<nous>centralisions</nous>
+		<vous>centralisiez</vous>
+		<ils>centralisaient</ils>
+	</imperfect>
+	<future>
+		<je>centraliserai</je>
+		<tu>centraliseras</tu>
+		<il>centralisera</il>
+		<nous>centraliserons</nous>
+		<vous>centraliserez</vous>
+		<ils>centraliseront</ils>
+	</future>
+	<subjunctive>
+		<je>centralise</je>
+		<tu>centralises</tu>
+		<il>centralise</il>
+		<nous>centralisions</nous>
+		<vous>centralisiez</vous>
+		<ils>centralisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>centraliserais</je>
+		<tu>centraliserais</tu>
+		<il>centraliserait</il>
+		<nous>centraliserions</nous>
+		<vous>centraliseriez</vous>
+		<ils>centraliseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

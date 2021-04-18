@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>valoriser</infinitive>
+	<translation>to develop/increase the value of</translation>
+	<translation>to value</translation>
+	<presentParticiple>valorisant</presentParticiple>
+	<pastParticiple>valorisé</pastParticiple>
+	<present>
+		<je>valorise</je>
+		<tu>valorises</tu>
+		<il>valorise</il>
+		<nous>valorisons</nous>
+		<vous>valorisez</vous>
+		<ils>valorisent</ils>
+	</present>
+	<imperative>
+		<tu>valorise</tu>
+		<nous>valorisons</nous>
+		<vous>valorisez</vous>
+	</imperative>
+	<imperfect>
+		<je>valorisais</je>
+		<tu>valorisais</tu>
+		<il>valorisait</il>
+		<nous>valorisions</nous>
+		<vous>valorisiez</vous>
+		<ils>valorisaient</ils>
+	</imperfect>
+	<future>
+		<je>valoriserai</je>
+		<tu>valoriseras</tu>
+		<il>valorisera</il>
+		<nous>valoriserons</nous>
+		<vous>valoriserez</vous>
+		<ils>valoriseront</ils>
+	</future>
+	<subjunctive>
+		<je>valorise</je>
+		<tu>valorises</tu>
+		<il>valorise</il>
+		<nous>valorisions</nous>
+		<vous>valorisiez</vous>
+		<ils>valorisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>valoriserais</je>
+		<tu>valoriserais</tu>
+		<il>valoriserait</il>
+		<nous>valoriserions</nous>
+		<vous>valoriseriez</vous>
+		<ils>valoriseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

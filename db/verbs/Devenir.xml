@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>devenir</infinitive>
+            <translation>to become</translation>
+            <takesEtreInPerfect />
+            <presentParticiple>devenant</presentParticiple>
+            <pastParticiple>devenu</pastParticiple>
+            <present>
+                <je>deviens</je>
+                <tu>deviens</tu>
+                <il>devient</il>
+                <nous>devenons</nous>
+                <vous>devenez</vous>
+                <ils>deviennent</ils>
+            </present>
+            <imperative>
+                <tu>deviens</tu>
+                <nous>devenons</nous>
+                <vous>devenez</vous>
+            </imperative>
+            <imperfect>
+                <je>devenais</je>
+                <tu>devenais</tu>
+                <il>devenait</il>
+                <nous>devenions</nous>
+                <vous>deveniez</vous>
+                <ils>devenaient</ils>
+            </imperfect>
+            <future>
+                <je>deviendrai</je>
+                <tu>deviendras</tu>
+                <il>deviendra</il>
+                <nous>deviendrons</nous>
+                <vous>deviendrez</vous>
+                <ils>deviendront</ils>
+            </future>
+            <subjunctive>
+                <je>devienne</je>
+                <tu>deviennes</tu>
+                <il>devienne</il>
+                <nous>devenions</nous>
+                <vous>deveniez</vous>
+                <ils>deviennent</ils>
+            </subjunctive>
+            <conditional>
+                <je>deviendrais</je>
+                <tu>deviendrais</tu>
+                <il>deviendrait</il>
+                <nous>deviendrions</nous>
+                <vous>deviendriez</vous>
+                <ils>deviendraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

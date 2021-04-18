@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>recueillir</infinitive>
+	<translation>to collect</translation>
+	<irregular />
+	<presentParticiple>recueillant</presentParticiple>
+	<pastParticiple>recueilli</pastParticiple>
+	<present>
+		<je>recueille</je>
+		<tu>recueilles</tu>
+		<il>recueille</il>
+		<nous>recueillons</nous>
+		<vous>recueillez</vous>
+		<ils>recueillent</ils>
+	</present>
+	<imperative>
+		<tu>recueille</tu>
+		<nous>recueillons</nous>
+		<vous>recueillez</vous>
+	</imperative>
+	<imperfect>
+		<je>recueillais</je>
+		<tu>recueillais</tu>
+		<il>recueillait</il>
+		<nous>recueillions</nous>
+		<vous>recueilliez</vous>
+		<ils>recueillaient</ils>
+	</imperfect>
+	<future>
+		<je>recueillerai</je>
+		<tu>recueilleras</tu>
+		<il>recueillera</il>
+		<nous>recueillerons</nous>
+		<vous>recueillerez</vous>
+		<ils>recueilleront</ils>
+	</future>
+	<subjunctive>
+		<je>recueille</je>
+		<tu>recueilles</tu>
+		<il>recueille</il>
+		<nous>recueillions</nous>
+		<vous>recueilliez</vous>
+		<ils>recueillent</ils>
+	</subjunctive>
+	<conditional>
+		<je>recueillerais</je>
+		<tu>recueillerais</tu>
+		<il>recueillerait</il>
+		<nous>recueillerions</nous>
+		<vous>recueilleriez</vous>
+		<ils>recueilleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

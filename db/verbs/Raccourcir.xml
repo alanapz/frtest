@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>raccourcir</infinitive>
+	<translation>to shorten</translation>
+	<presentParticiple>raccourcissant</presentParticiple>
+	<pastParticiple>raccourci</pastParticiple>
+	<present>
+		<je>raccourcis</je>
+		<tu>raccourcis</tu>
+		<il>raccourcit</il>
+		<nous>raccourcissons</nous>
+		<vous>raccourcissez</vous>
+		<ils>raccourcissent</ils>
+	</present>
+	<imperative>
+		<tu>raccourcis</tu>
+		<nous>raccourcissons</nous>
+		<vous>raccourcissez</vous>
+	</imperative>
+	<imperfect>
+		<je>raccourcissais</je>
+		<tu>raccourcissais</tu>
+		<il>raccourcissait</il>
+		<nous>raccourcissions</nous>
+		<vous>raccourcissiez</vous>
+		<ils>raccourcissaient</ils>
+	</imperfect>
+	<future>
+		<je>raccourcirai</je>
+		<tu>raccourciras</tu>
+		<il>raccourcira</il>
+		<nous>raccourcirons</nous>
+		<vous>raccourcirez</vous>
+		<ils>raccourciront</ils>
+	</future>
+	<subjunctive>
+		<je>raccourcisse</je>
+		<tu>raccourcisses</tu>
+		<il>raccourcisse</il>
+		<nous>raccourcissions</nous>
+		<vous>raccourcissiez</vous>
+		<ils>raccourcissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>raccourcirais</je>
+		<tu>raccourcirais</tu>
+		<il>raccourcirait</il>
+		<nous>raccourcirions</nous>
+		<vous>raccourciriez</vous>
+		<ils>raccourciraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

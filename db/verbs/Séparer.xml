@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>séparer</infinitive>
+	<translation>to separate</translation>
+	<presentParticiple>séparant</presentParticiple>
+	<pastParticiple>séparé</pastParticiple>
+	<present>
+		<je>sépare</je>
+		<tu>sépares</tu>
+		<il>sépare</il>
+		<nous>séparons</nous>
+		<vous>séparez</vous>
+		<ils>séparent</ils>
+	</present>
+	<imperative>
+		<tu>sépare</tu>
+		<nous>séparons</nous>
+		<vous>séparez</vous>
+	</imperative>
+	<imperfect>
+		<je>séparais</je>
+		<tu>séparais</tu>
+		<il>séparait</il>
+		<nous>séparions</nous>
+		<vous>sépariez</vous>
+		<ils>séparaient</ils>
+	</imperfect>
+	<future>
+		<je>séparerai</je>
+		<tu>sépareras</tu>
+		<il>séparera</il>
+		<nous>séparerons</nous>
+		<vous>séparerez</vous>
+		<ils>sépareront</ils>
+	</future>
+	<subjunctive>
+		<je>sépare</je>
+		<tu>sépares</tu>
+		<il>sépare</il>
+		<nous>séparions</nous>
+		<vous>sépariez</vous>
+		<ils>séparent</ils>
+	</subjunctive>
+	<conditional>
+		<je>séparerais</je>
+		<tu>séparerais</tu>
+		<il>séparerait</il>
+		<nous>séparerions</nous>
+		<vous>sépareriez</vous>
+		<ils>sépareraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

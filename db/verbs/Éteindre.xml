@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>éteindre</infinitive>
+            <translation>to extinguish</translation>
+            <irregular />
+            <presentParticiple>éteignant</presentParticiple>
+            <pastParticiple>éteint</pastParticiple>
+            <present>
+                <je>éteins</je>
+                <tu>éteins</tu>
+                <il>éteint</il>
+                <nous>éteignons</nous>
+                <vous>éteignez</vous>
+                <ils>éteignent</ils>
+            </present>
+            <imperative>
+                <tu>éteins</tu>
+                <nous>éteignons</nous>
+                <vous>éteignez</vous>
+            </imperative>
+            <imperfect>
+                <je>éteignais</je>
+                <tu>éteignais</tu>
+                <il>éteignait</il>
+                <nous>éteignions</nous>
+                <vous>éteigniez</vous>
+                <ils>éteignaient</ils>
+            </imperfect>
+            <future>
+                <je>éteindrai</je>
+                <tu>éteindras</tu>
+                <il>éteindra</il>
+                <nous>éteindrons</nous>
+                <vous>éteindrez</vous>
+                <ils>éteindront</ils>
+            </future>
+            <subjunctive>
+                <je>éteigne</je>
+                <tu>éteignes</tu>
+                <il>éteigne</il>
+                <nous>éteignions</nous>
+                <vous>éteigniez</vous>
+                <ils>éteignent</ils>
+            </subjunctive>
+            <conditional>
+                <je>éteindrais</je>
+                <tu>éteindrais</tu>
+                <il>éteindrait</il>
+                <nous>éteindrions</nous>
+                <vous>éteindriez</vous>
+                <ils>éteindraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

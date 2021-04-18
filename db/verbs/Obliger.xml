@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>obliger</infinitive>
+	<translation>to oblige</translation>
+	<spellingChange />
+	<presentParticiple>obligeant</presentParticiple>
+	<pastParticiple>obligé</pastParticiple>
+	<present>
+		<je>oblige</je>
+		<tu>obliges</tu>
+		<il>oblige</il>
+		<nous>obligeons</nous>
+		<vous>obligez</vous>
+		<ils>obligent</ils>
+	</present>
+	<imperative>
+		<tu>oblige</tu>
+		<nous>obligeons</nous>
+		<vous>obligez</vous>
+	</imperative>
+	<imperfect>
+		<je>obligeais</je>
+		<tu>obligeais</tu>
+		<il>obligeait</il>
+		<nous>obligions</nous>
+		<vous>obligiez</vous>
+		<ils>obligeaient</ils>
+	</imperfect>
+	<future>
+		<je>obligerai</je>
+		<tu>obligeras</tu>
+		<il>obligera</il>
+		<nous>obligerons</nous>
+		<vous>obligerez</vous>
+		<ils>obligeront</ils>
+	</future>
+	<subjunctive>
+		<je>oblige</je>
+		<tu>obliges</tu>
+		<il>oblige</il>
+		<nous>obligions</nous>
+		<vous>obligiez</vous>
+		<ils>obligent</ils>
+	</subjunctive>
+	<conditional>
+		<je>obligerais</je>
+		<tu>obligerais</tu>
+		<il>obligerait</il>
+		<nous>obligerions</nous>
+		<vous>obligeriez</vous>
+		<ils>obligeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

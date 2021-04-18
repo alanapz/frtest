@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>jouir</infinitive>
+	<translation>to enjoy</translation>
+	<presentParticiple>jouissant</presentParticiple>
+	<pastParticiple>joui</pastParticiple>
+	<present>
+		<je>jouis</je>
+		<tu>jouis</tu>
+		<il>jouit</il>
+		<nous>jouissons</nous>
+		<vous>jouissez</vous>
+		<ils>jouissent</ils>
+	</present>
+	<imperative>
+		<tu>jouis</tu>
+		<nous>jouissons</nous>
+		<vous>jouissez</vous>
+	</imperative>
+	<imperfect>
+		<je>jouissais</je>
+		<tu>jouissais</tu>
+		<il>jouissait</il>
+		<nous>jouissions</nous>
+		<vous>jouissiez</vous>
+		<ils>jouissaient</ils>
+	</imperfect>
+	<future>
+		<je>jouirai</je>
+		<tu>jouiras</tu>
+		<il>jouira</il>
+		<nous>jouirons</nous>
+		<vous>jouirez</vous>
+		<ils>jouiront</ils>
+	</future>
+	<subjunctive>
+		<je>jouisse</je>
+		<tu>jouisses</tu>
+		<il>jouisse</il>
+		<nous>jouissions</nous>
+		<vous>jouissiez</vous>
+		<ils>jouissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>jouirais</je>
+		<tu>jouirais</tu>
+		<il>jouirait</il>
+		<nous>jouirions</nous>
+		<vous>jouiriez</vous>
+		<ils>jouiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

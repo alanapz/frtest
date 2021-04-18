@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>effacer</infinitive>
+	<translation>to erase</translation>
+	<spellingChange />
+	<presentParticiple>effaçant</presentParticiple>
+	<pastParticiple>effacé</pastParticiple>
+	<present>
+		<je>efface</je>
+		<tu>effaces</tu>
+		<il>efface</il>
+		<nous>effaçons</nous>
+		<vous>effacez</vous>
+		<ils>effacent</ils>
+	</present>
+	<imperative>
+		<tu>efface</tu>
+		<nous>effaçons</nous>
+		<vous>effacez</vous>
+	</imperative>
+	<imperfect>
+		<je>effaçais</je>
+		<tu>effaçais</tu>
+		<il>effaçait</il>
+		<nous>effacions</nous>
+		<vous>effaciez</vous>
+		<ils>effaçaient</ils>
+	</imperfect>
+	<future>
+		<je>effacerai</je>
+		<tu>effaceras</tu>
+		<il>effacera</il>
+		<nous>effacerons</nous>
+		<vous>effacerez</vous>
+		<ils>effaceront</ils>
+	</future>
+	<subjunctive>
+		<je>efface</je>
+		<tu>effaces</tu>
+		<il>efface</il>
+		<nous>effacions</nous>
+		<vous>effaciez</vous>
+		<ils>effacent</ils>
+	</subjunctive>
+	<conditional>
+		<je>effacerais</je>
+		<tu>effacerais</tu>
+		<il>effacerait</il>
+		<nous>effacerions</nous>
+		<vous>effaceriez</vous>
+		<ils>effaceraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

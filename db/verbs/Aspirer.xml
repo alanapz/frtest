@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>aspirer</infinitive>
+	<translation>to inhale</translation>
+	<translation>to suck</translation>
+	<presentParticiple>aspirant</presentParticiple>
+	<pastParticiple>aspiré</pastParticiple>
+	<present>
+		<je>aspire</je>
+		<tu>aspires</tu>
+		<il>aspire</il>
+		<nous>aspirons</nous>
+		<vous>aspirez</vous>
+		<ils>aspirent</ils>
+	</present>
+	<imperative>
+		<tu>aspire</tu>
+		<nous>aspirons</nous>
+		<vous>aspirez</vous>
+	</imperative>
+	<imperfect>
+		<je>aspirais</je>
+		<tu>aspirais</tu>
+		<il>aspirait</il>
+		<nous>aspirions</nous>
+		<vous>aspiriez</vous>
+		<ils>aspiraient</ils>
+	</imperfect>
+	<future>
+		<je>aspirerai</je>
+		<tu>aspireras</tu>
+		<il>aspirera</il>
+		<nous>aspirerons</nous>
+		<vous>aspirerez</vous>
+		<ils>aspireront</ils>
+	</future>
+	<subjunctive>
+		<je>aspire</je>
+		<tu>aspires</tu>
+		<il>aspire</il>
+		<nous>aspirions</nous>
+		<vous>aspiriez</vous>
+		<ils>aspirent</ils>
+	</subjunctive>
+	<conditional>
+		<je>aspirerais</je>
+		<tu>aspirerais</tu>
+		<il>aspirerait</il>
+		<nous>aspirerions</nous>
+		<vous>aspireriez</vous>
+		<ils>aspireraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

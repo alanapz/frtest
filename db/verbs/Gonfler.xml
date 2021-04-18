@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>gonfler</infinitive>
+	<translation>to inflate</translation>
+	<translation>swell</translation>
+	<presentParticiple>gonflant</presentParticiple>
+	<pastParticiple>gonflé</pastParticiple>
+	<present>
+		<je>gonfle</je>
+		<tu>gonfles</tu>
+		<il>gonfle</il>
+		<nous>gonflons</nous>
+		<vous>gonflez</vous>
+		<ils>gonflent</ils>
+	</present>
+	<imperative>
+		<tu>gonfle</tu>
+		<nous>gonflons</nous>
+		<vous>gonflez</vous>
+	</imperative>
+	<imperfect>
+		<je>gonflais</je>
+		<tu>gonflais</tu>
+		<il>gonflait</il>
+		<nous>gonflions</nous>
+		<vous>gonfliez</vous>
+		<ils>gonflaient</ils>
+	</imperfect>
+	<future>
+		<je>gonflerai</je>
+		<tu>gonfleras</tu>
+		<il>gonflera</il>
+		<nous>gonflerons</nous>
+		<vous>gonflerez</vous>
+		<ils>gonfleront</ils>
+	</future>
+	<subjunctive>
+		<je>gonfle</je>
+		<tu>gonfles</tu>
+		<il>gonfle</il>
+		<nous>gonflions</nous>
+		<vous>gonfliez</vous>
+		<ils>gonflent</ils>
+	</subjunctive>
+	<conditional>
+		<je>gonflerais</je>
+		<tu>gonflerais</tu>
+		<il>gonflerait</il>
+		<nous>gonflerions</nous>
+		<vous>gonfleriez</vous>
+		<ils>gonfleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

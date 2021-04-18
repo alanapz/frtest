@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>avertir</infinitive>
+	<translation>to warn</translation>
+	<presentParticiple>avertissant</presentParticiple>
+	<pastParticiple>averti</pastParticiple>
+	<present>
+		<je>avertis</je>
+		<tu>avertis</tu>
+		<il>avertit</il>
+		<nous>avertissons</nous>
+		<vous>avertissez</vous>
+		<ils>avertissent</ils>
+	</present>
+	<imperative>
+		<tu>avertis</tu>
+		<nous>avertissons</nous>
+		<vous>avertissez</vous>
+	</imperative>
+	<imperfect>
+		<je>avertissais</je>
+		<tu>avertissais</tu>
+		<il>avertissait</il>
+		<nous>avertissions</nous>
+		<vous>avertissiez</vous>
+		<ils>avertissaient</ils>
+	</imperfect>
+	<future>
+		<je>avertirai</je>
+		<tu>avertiras</tu>
+		<il>avertira</il>
+		<nous>avertirons</nous>
+		<vous>avertirez</vous>
+		<ils>avertiront</ils>
+	</future>
+	<subjunctive>
+		<je>avertisse</je>
+		<tu>avertisses</tu>
+		<il>avertisse</il>
+		<nous>avertissions</nous>
+		<vous>avertissiez</vous>
+		<ils>avertissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>avertirais</je>
+		<tu>avertirais</tu>
+		<il>avertirait</il>
+		<nous>avertirions</nous>
+		<vous>avertiriez</vous>
+		<ils>avertiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

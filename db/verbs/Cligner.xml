@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>cligner</infinitive>
+	<translation>to blink</translation>
+	<presentParticiple>clignant</presentParticiple>
+	<pastParticiple>cligné</pastParticiple>
+	<present>
+		<je>cligne</je>
+		<tu>clignes</tu>
+		<il>cligne</il>
+		<nous>clignons</nous>
+		<vous>clignez</vous>
+		<ils>clignent</ils>
+	</present>
+	<imperative>
+		<tu>cligne</tu>
+		<nous>clignons</nous>
+		<vous>clignez</vous>
+	</imperative>
+	<imperfect>
+		<je>clignais</je>
+		<tu>clignais</tu>
+		<il>clignait</il>
+		<nous>clignions</nous>
+		<vous>cligniez</vous>
+		<ils>clignaient</ils>
+	</imperfect>
+	<future>
+		<je>clignerai</je>
+		<tu>cligneras</tu>
+		<il>clignera</il>
+		<nous>clignerons</nous>
+		<vous>clignerez</vous>
+		<ils>cligneront</ils>
+	</future>
+	<subjunctive>
+		<je>cligne</je>
+		<tu>clignes</tu>
+		<il>cligne</il>
+		<nous>clignions</nous>
+		<vous>cligniez</vous>
+		<ils>clignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>clignerais</je>
+		<tu>clignerais</tu>
+		<il>clignerait</il>
+		<nous>clignerions</nous>
+		<vous>cligneriez</vous>
+		<ils>cligneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

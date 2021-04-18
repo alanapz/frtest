@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>estimer</infinitive>
+	<translation>to appraise assess</translation>
+	<translation>to esteem</translation>
+	<presentParticiple>estimant</presentParticiple>
+	<pastParticiple>estimé</pastParticiple>
+	<present>
+		<je>estime</je>
+		<tu>estimes</tu>
+		<il>estime</il>
+		<nous>estimons</nous>
+		<vous>estimez</vous>
+		<ils>estiment</ils>
+	</present>
+	<imperative>
+		<tu>estime</tu>
+		<nous>estimons</nous>
+		<vous>estimez</vous>
+	</imperative>
+	<imperfect>
+		<je>estimais</je>
+		<tu>estimais</tu>
+		<il>estimait</il>
+		<nous>estimions</nous>
+		<vous>estimiez</vous>
+		<ils>estimaient</ils>
+	</imperfect>
+	<future>
+		<je>estimerai</je>
+		<tu>estimeras</tu>
+		<il>estimera</il>
+		<nous>estimerons</nous>
+		<vous>estimerez</vous>
+		<ils>estimeront</ils>
+	</future>
+	<subjunctive>
+		<je>estime</je>
+		<tu>estimes</tu>
+		<il>estime</il>
+		<nous>estimions</nous>
+		<vous>estimiez</vous>
+		<ils>estiment</ils>
+	</subjunctive>
+	<conditional>
+		<je>estimerais</je>
+		<tu>estimerais</tu>
+		<il>estimerait</il>
+		<nous>estimerions</nous>
+		<vous>estimeriez</vous>
+		<ils>estimeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

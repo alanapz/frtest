@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>chercher</infinitive>
+            <translation>to look for</translation>
+            <presentParticiple>cherchant</presentParticiple>
+            <pastParticiple>cherché</pastParticiple>
+            <present>
+                <je>cherche</je>
+                <tu>cherches</tu>
+                <il>cherche</il>
+                <nous>cherchons</nous>
+                <vous>cherchez</vous>
+                <ils>cherchent</ils>
+            </present>
+            <imperative>
+                <tu>cherche</tu>
+                <nous>cherchons</nous>
+                <vous>cherchez</vous>
+            </imperative>
+            <imperfect>
+                <je>cherchais</je>
+                <tu>cherchais</tu>
+                <il>cherchait</il>
+                <nous>cherchions</nous>
+                <vous>cherchiez</vous>
+                <ils>cherchaient</ils>
+            </imperfect>
+            <future>
+                <je>chercherai</je>
+                <tu>chercheras</tu>
+                <il>cherchera</il>
+                <nous>chercherons</nous>
+                <vous>chercherez</vous>
+                <ils>chercheront</ils>
+            </future>
+            <subjunctive>
+                <je>cherche</je>
+                <tu>cherches</tu>
+                <il>cherche</il>
+                <nous>cherchions</nous>
+                <vous>cherchiez</vous>
+                <ils>cherchent</ils>
+            </subjunctive>
+            <conditional>
+                <je>chercherais</je>
+                <tu>chercherais</tu>
+                <il>chercherait</il>
+                <nous>chercherions</nous>
+                <vous>chercheriez</vous>
+                <ils>chercheraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

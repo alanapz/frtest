@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>compliquer</infinitive>
+	<translation>to complicate</translation>
+	<presentParticiple>compliquant</presentParticiple>
+	<pastParticiple>compliqué</pastParticiple>
+	<present>
+		<je>complique</je>
+		<tu>compliques</tu>
+		<il>complique</il>
+		<nous>compliquons</nous>
+		<vous>compliquez</vous>
+		<ils>compliquent</ils>
+	</present>
+	<imperative>
+		<tu>complique</tu>
+		<nous>compliquons</nous>
+		<vous>compliquez</vous>
+	</imperative>
+	<imperfect>
+		<je>compliquais</je>
+		<tu>compliquais</tu>
+		<il>compliquait</il>
+		<nous>compliquions</nous>
+		<vous>compliquiez</vous>
+		<ils>compliquaient</ils>
+	</imperfect>
+	<future>
+		<je>compliquerai</je>
+		<tu>compliqueras</tu>
+		<il>compliquera</il>
+		<nous>compliquerons</nous>
+		<vous>compliquerez</vous>
+		<ils>compliqueront</ils>
+	</future>
+	<subjunctive>
+		<je>complique</je>
+		<tu>compliques</tu>
+		<il>complique</il>
+		<nous>compliquions</nous>
+		<vous>compliquiez</vous>
+		<ils>compliquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>compliquerais</je>
+		<tu>compliquerais</tu>
+		<il>compliquerait</il>
+		<nous>compliquerions</nous>
+		<vous>compliqueriez</vous>
+		<ils>compliqueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

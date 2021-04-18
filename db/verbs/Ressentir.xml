@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>ressentir</infinitive>
+            <translation>to feel-the-effect-of</translation>
+            <irregular />
+            <presentParticiple>ressentant</presentParticiple>
+            <pastParticiple> ressenti</pastParticiple>
+            <present>
+                <je>ressens</je>
+                <tu>ressens</tu>
+                <il>ressent</il>
+                <nous>ressentons</nous>
+                <vous>ressentez</vous>
+                <ils>ressentent</ils>
+            </present>
+            <imperative>
+                <tu>ressens</tu>
+                <nous>ressentons</nous>
+                <vous>ressentez</vous>
+            </imperative>
+            <imperfect>
+                <je>ressentais</je>
+                <tu>ressentais</tu>
+                <il>ressentait</il>
+                <nous>ressentions</nous>
+                <vous>ressentiez</vous>
+                <ils>ressentaient</ils>
+            </imperfect>
+            <future>
+                <je>ressentirai</je>
+                <tu>ressentiras</tu>
+                <il>ressentira</il>
+                <nous>ressentirons</nous>
+                <vous>ressentirez</vous>
+                <ils>ressentiront</ils>
+            </future>
+            <subjunctive>
+                <je>ressente</je>
+                <tu>ressentes</tu>
+                <il>ressente</il>
+                <nous>ressentions</nous>
+                <vous>ressentiez</vous>
+                <ils>ressentent</ils>
+            </subjunctive>
+            <conditional>
+                <je>ressentirais</je>
+                <tu>ressentirais</tu>
+                <il>ressentirait</il>
+                <nous>ressentirions</nous>
+                <vous>ressentiriez</vous>
+                <ils>ressentiraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

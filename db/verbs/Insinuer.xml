@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>insinuer</infinitive>
+	<translation>to insinuate</translation>
+	<presentParticiple>insinuant</presentParticiple>
+	<pastParticiple>insinué</pastParticiple>
+	<present>
+		<je>insinue</je>
+		<tu>insinues</tu>
+		<il>insinue</il>
+		<nous>insinuons</nous>
+		<vous>insinuez</vous>
+		<ils>insinuent</ils>
+	</present>
+	<imperative>
+		<tu>insinue</tu>
+		<nous>insinuons</nous>
+		<vous>insinuez</vous>
+	</imperative>
+	<imperfect>
+		<je>insinuais</je>
+		<tu>insinuais</tu>
+		<il>insinuait</il>
+		<nous>insinuions</nous>
+		<vous>insinuiez</vous>
+		<ils>insinuaient</ils>
+	</imperfect>
+	<future>
+		<je>insinuerai</je>
+		<tu>insinueras</tu>
+		<il>insinuera</il>
+		<nous>insinuerons</nous>
+		<vous>insinuerez</vous>
+		<ils>insinueront</ils>
+	</future>
+	<subjunctive>
+		<je>insinue</je>
+		<tu>insinues</tu>
+		<il>insinue</il>
+		<nous>insinuions</nous>
+		<vous>insinuiez</vous>
+		<ils>insinuent</ils>
+	</subjunctive>
+	<conditional>
+		<je>insinuerais</je>
+		<tu>insinuerais</tu>
+		<il>insinuerait</il>
+		<nous>insinuerions</nous>
+		<vous>insinueriez</vous>
+		<ils>insinueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

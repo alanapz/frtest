@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>tendre</infinitive>
+	<translation>to strain</translation>
+	<translation>to strive to(ward)</translation>
+	<translation>to tighten</translation>
+	<presentParticiple>tendant</presentParticiple>
+	<pastParticiple>tendu</pastParticiple>
+	<present>
+		<je>tends</je>
+		<tu>tends</tu>
+		<il>tend</il>
+		<nous>tendons</nous>
+		<vous>tendez</vous>
+		<ils>tendent</ils>
+	</present>
+	<imperative>
+		<tu>tends</tu>
+		<nous>tendons</nous>
+		<vous>tendez</vous>
+	</imperative>
+	<imperfect>
+		<je>tendais</je>
+		<tu>tendais</tu>
+		<il>tendait</il>
+		<nous>tendions</nous>
+		<vous>tendiez</vous>
+		<ils>tendaient</ils>
+	</imperfect>
+	<future>
+		<je>tendrai</je>
+		<tu>tendras</tu>
+		<il>tendra</il>
+		<nous>tendrons</nous>
+		<vous>tendrez</vous>
+		<ils>tendront</ils>
+	</future>
+	<subjunctive>
+		<je>tende</je>
+		<tu>tendes</tu>
+		<il>tende</il>
+		<nous>tendions</nous>
+		<vous>tendiez</vous>
+		<ils>tendent</ils>
+	</subjunctive>
+	<conditional>
+		<je>tendrais</je>
+		<tu>tendrais</tu>
+		<il>tendrait</il>
+		<nous>tendrions</nous>
+		<vous>tendriez</vous>
+		<ils>tendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

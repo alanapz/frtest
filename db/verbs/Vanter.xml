@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>vanter</infinitive>
+	<translation>to praise</translation>
+	<presentParticiple>vantant</presentParticiple>
+	<pastParticiple>vanté</pastParticiple>
+	<present>
+		<je>vante</je>
+		<tu>vantes</tu>
+		<il>vante</il>
+		<nous>vantons</nous>
+		<vous>vantez</vous>
+		<ils>vantent</ils>
+	</present>
+	<imperative>
+		<tu>vante</tu>
+		<nous>vantons</nous>
+		<vous>vantez</vous>
+	</imperative>
+	<imperfect>
+		<je>vantais</je>
+		<tu>vantais</tu>
+		<il>vantait</il>
+		<nous>vantions</nous>
+		<vous>vantiez</vous>
+		<ils>vantaient</ils>
+	</imperfect>
+	<future>
+		<je>vanterai</je>
+		<tu>vanteras</tu>
+		<il>vantera</il>
+		<nous>vanterons</nous>
+		<vous>vanterez</vous>
+		<ils>vanteront</ils>
+	</future>
+	<subjunctive>
+		<je>vante</je>
+		<tu>vantes</tu>
+		<il>vante</il>
+		<nous>vantions</nous>
+		<vous>vantiez</vous>
+		<ils>vantent</ils>
+	</subjunctive>
+	<conditional>
+		<je>vanterais</je>
+		<tu>vanterais</tu>
+		<il>vanterait</il>
+		<nous>vanterions</nous>
+		<vous>vanteriez</vous>
+		<ils>vanteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

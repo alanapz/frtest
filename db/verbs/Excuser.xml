@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>excuser</infinitive>
+	<translation>to excuse</translation>
+	<presentParticiple>excusant</presentParticiple>
+	<pastParticiple>excusé</pastParticiple>
+	<present>
+		<je>excuse</je>
+		<tu>excuses</tu>
+		<il>excuse</il>
+		<nous>excusons</nous>
+		<vous>excusez</vous>
+		<ils>excusent</ils>
+	</present>
+	<imperative>
+		<tu>excuse</tu>
+		<nous>excusons</nous>
+		<vous>excusez</vous>
+	</imperative>
+	<imperfect>
+		<je>excusais</je>
+		<tu>excusais</tu>
+		<il>excusait</il>
+		<nous>excusions</nous>
+		<vous>excusiez</vous>
+		<ils>excusaient</ils>
+	</imperfect>
+	<future>
+		<je>excuserai</je>
+		<tu>excuseras</tu>
+		<il>excusera</il>
+		<nous>excuserons</nous>
+		<vous>excuserez</vous>
+		<ils>excuseront</ils>
+	</future>
+	<subjunctive>
+		<je>excuse</je>
+		<tu>excuses</tu>
+		<il>excuse</il>
+		<nous>excusions</nous>
+		<vous>excusiez</vous>
+		<ils>excusent</ils>
+	</subjunctive>
+	<conditional>
+		<je>excuserais</je>
+		<tu>excuserais</tu>
+		<il>excuserait</il>
+		<nous>excuserions</nous>
+		<vous>excuseriez</vous>
+		<ils>excuseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>cuire</infinitive>
+	<translation>to cook</translation>
+	<irregular />
+	<presentParticiple>cuisant</presentParticiple>
+	<pastParticiple>cuit</pastParticiple>
+	<present>
+		<je>cuis</je>
+		<tu>cuis</tu>
+		<il>cuit</il>
+		<nous>cuisons</nous>
+		<vous>cuisez</vous>
+		<ils>cuisent</ils>
+	</present>
+	<imperative>
+		<tu>cuis</tu>
+		<nous>cuisons</nous>
+		<vous>cuisez</vous>
+	</imperative>
+	<imperfect>
+		<je>cuisais</je>
+		<tu>cuisais</tu>
+		<il>cuisait</il>
+		<nous>cuisions</nous>
+		<vous>cuisiez</vous>
+		<ils>cuisaient</ils>
+	</imperfect>
+	<future>
+		<je>cuirai</je>
+		<tu>cuiras</tu>
+		<il>cuira</il>
+		<nous>cuirons</nous>
+		<vous>cuirez</vous>
+		<ils>cuiront</ils>
+	</future>
+	<subjunctive>
+		<je>cuise</je>
+		<tu>cuises</tu>
+		<il>cuise</il>
+		<nous>cuisions</nous>
+		<vous>cuisiez</vous>
+		<ils>cuisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>cuirais</je>
+		<tu>cuirais</tu>
+		<il>cuirait</il>
+		<nous>cuirions</nous>
+		<vous>cuiriez</vous>
+		<ils>cuiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

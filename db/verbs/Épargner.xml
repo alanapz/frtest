@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>épargner</infinitive>
+	<translation>to spare</translation>
+	<translation>to save</translation>
+	<presentParticiple>épargnant</presentParticiple>
+	<pastParticiple>épargné</pastParticiple>
+	<present>
+		<je>épargne</je>
+		<tu>épargnes</tu>
+		<il>épargne</il>
+		<nous>épargnons</nous>
+		<vous>épargnez</vous>
+		<ils>épargnent</ils>
+	</present>
+	<imperative>
+		<tu>épargne</tu>
+		<nous>épargnons</nous>
+		<vous>épargnez</vous>
+	</imperative>
+	<imperfect>
+		<je>épargnais</je>
+		<tu>épargnais</tu>
+		<il>épargnait</il>
+		<nous>épargnions</nous>
+		<vous>épargniez</vous>
+		<ils>épargnaient</ils>
+	</imperfect>
+	<future>
+		<je>épargnerai</je>
+		<tu>épargneras</tu>
+		<il>épargnera</il>
+		<nous>épargnerons</nous>
+		<vous>épargnerez</vous>
+		<ils>épargneront</ils>
+	</future>
+	<subjunctive>
+		<je>épargne</je>
+		<tu>épargnes</tu>
+		<il>épargne</il>
+		<nous>épargnions</nous>
+		<vous>épargniez</vous>
+		<ils>épargnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>épargnerais</je>
+		<tu>épargnerais</tu>
+		<il>épargnerait</il>
+		<nous>épargnerions</nous>
+		<vous>épargneriez</vous>
+		<ils>épargneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

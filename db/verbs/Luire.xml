@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>luire</infinitive>
+	<translation>to shine</translation>
+	<irregular />
+	<presentParticiple>luisant</presentParticiple>
+	<pastParticiple>lui</pastParticiple>
+	<present>
+		<je>luis</je>
+		<tu>luis</tu>
+		<il>luit</il>
+		<nous>luisons</nous>
+		<vous>luisez</vous>
+		<ils>luisent</ils>
+	</present>
+	<imperative>
+		<tu>luis</tu>
+		<nous>luisons</nous>
+		<vous>luisez</vous>
+	</imperative>
+	<imperfect>
+		<je>luisais</je>
+		<tu>luisais</tu>
+		<il>luisait</il>
+		<nous>luisions</nous>
+		<vous>luisiez</vous>
+		<ils>luisaient</ils>
+	</imperfect>
+	<future>
+		<je>luirai</je>
+		<tu>luiras</tu>
+		<il>luira</il>
+		<nous>luirons</nous>
+		<vous>luirez</vous>
+		<ils>luiront</ils>
+	</future>
+	<subjunctive>
+		<je>luise</je>
+		<tu>luises</tu>
+		<il>luise</il>
+		<nous>luisions</nous>
+		<vous>luisiez</vous>
+		<ils>luisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>luirais</je>
+		<tu>luirais</tu>
+		<il>luirait</il>
+		<nous>luirions</nous>
+		<vous>luiriez</vous>
+		<ils>luiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

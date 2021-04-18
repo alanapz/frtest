@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>déplacer</infinitive>
+	<translation>to move</translation>
+	<translation>shift</translation>
+	<translation>to displace</translation>
+	<translation>to transfer</translation>
+	<spellingChange />
+	<presentParticiple>déplaçant</presentParticiple>
+	<pastParticiple>déplacé</pastParticiple>
+	<present>
+		<je>déplace</je>
+		<tu>déplaces</tu>
+		<il>déplace</il>
+		<nous>déplaçons</nous>
+		<vous>déplacez</vous>
+		<ils>déplacent</ils>
+	</present>
+	<imperative>
+		<tu>déplace</tu>
+		<nous>déplaçons</nous>
+		<vous>déplacez</vous>
+	</imperative>
+	<imperfect>
+		<je>déplaçais</je>
+		<tu>déplaçais</tu>
+		<il>déplaçait</il>
+		<nous>déplacions</nous>
+		<vous>déplaciez</vous>
+		<ils>déplaçaient</ils>
+	</imperfect>
+	<future>
+		<je>déplacerai</je>
+		<tu>déplaceras</tu>
+		<il>déplacera</il>
+		<nous>déplacerons</nous>
+		<vous>déplacerez</vous>
+		<ils>déplaceront</ils>
+	</future>
+	<subjunctive>
+		<je>déplace</je>
+		<tu>déplaces</tu>
+		<il>déplace</il>
+		<nous>déplacions</nous>
+		<vous>déplaciez</vous>
+		<ils>déplacent</ils>
+	</subjunctive>
+	<conditional>
+		<je>déplacerais</je>
+		<tu>déplacerais</tu>
+		<il>déplacerait</il>
+		<nous>déplacerions</nous>
+		<vous>déplaceriez</vous>
+		<ils>déplaceraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

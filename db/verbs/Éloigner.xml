@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>éloigner</infinitive>
+	<translation>to move away</translation>
+	<presentParticiple>éloignant</presentParticiple>
+	<pastParticiple>éloigné</pastParticiple>
+	<present>
+		<je>éloigne</je>
+		<tu>éloignes</tu>
+		<il>éloigne</il>
+		<nous>éloignons</nous>
+		<vous>éloignez</vous>
+		<ils>éloignent</ils>
+	</present>
+	<imperative>
+		<tu>éloigne</tu>
+		<nous>éloignons</nous>
+		<vous>éloignez</vous>
+	</imperative>
+	<imperfect>
+		<je>éloignais</je>
+		<tu>éloignais</tu>
+		<il>éloignait</il>
+		<nous>éloignions</nous>
+		<vous>éloigniez</vous>
+		<ils>éloignaient</ils>
+	</imperfect>
+	<future>
+		<je>éloignerai</je>
+		<tu>éloigneras</tu>
+		<il>éloignera</il>
+		<nous>éloignerons</nous>
+		<vous>éloignerez</vous>
+		<ils>éloigneront</ils>
+	</future>
+	<subjunctive>
+		<je>éloigne</je>
+		<tu>éloignes</tu>
+		<il>éloigne</il>
+		<nous>éloignions</nous>
+		<vous>éloigniez</vous>
+		<ils>éloignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>éloignerais</je>
+		<tu>éloignerais</tu>
+		<il>éloignerait</il>
+		<nous>éloignerions</nous>
+		<vous>éloigneriez</vous>
+		<ils>éloigneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dévaloriser</infinitive>
+	<translation>to reduce/undermine the value of</translation>
+	<presentParticiple>dévalorisant</presentParticiple>
+	<pastParticiple>dévalorisé</pastParticiple>
+	<present>
+		<je>dévalorise</je>
+		<tu>dévalorises</tu>
+		<il>dévalorise</il>
+		<nous>dévalorisons</nous>
+		<vous>dévalorisez</vous>
+		<ils>dévalorisent</ils>
+	</present>
+	<imperative>
+		<tu>dévalorise</tu>
+		<nous>dévalorisons</nous>
+		<vous>dévalorisez</vous>
+	</imperative>
+	<imperfect>
+		<je>dévalorisais</je>
+		<tu>dévalorisais</tu>
+		<il>dévalorisait</il>
+		<nous>dévalorisions</nous>
+		<vous>dévalorisiez</vous>
+		<ils>dévalorisaient</ils>
+	</imperfect>
+	<future>
+		<je>dévaloriserai</je>
+		<tu>dévaloriseras</tu>
+		<il>dévalorisera</il>
+		<nous>dévaloriserons</nous>
+		<vous>dévaloriserez</vous>
+		<ils>dévaloriseront</ils>
+	</future>
+	<subjunctive>
+		<je>dévalorise</je>
+		<tu>dévalorises</tu>
+		<il>dévalorise</il>
+		<nous>dévalorisions</nous>
+		<vous>dévalorisiez</vous>
+		<ils>dévalorisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dévaloriserais</je>
+		<tu>dévaloriserais</tu>
+		<il>dévaloriserait</il>
+		<nous>dévaloriserions</nous>
+		<vous>dévaloriseriez</vous>
+		<ils>dévaloriseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

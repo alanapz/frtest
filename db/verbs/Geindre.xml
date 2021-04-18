@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>geindre</infinitive>
+	<translation>to groan</translation>
+	<translation>whine</translation>
+	<irregular />
+	<presentParticiple>geignant</presentParticiple>
+	<pastParticiple>geint</pastParticiple>
+	<present>
+		<je>geins</je>
+		<tu>geins</tu>
+		<il>geint</il>
+		<nous>geignons</nous>
+		<vous>geignez</vous>
+		<ils>geignent</ils>
+	</present>
+	<imperative>
+		<tu>geins</tu>
+		<nous>geignons</nous>
+		<vous>geignez</vous>
+	</imperative>
+	<imperfect>
+		<je>geignais</je>
+		<tu>geignais</tu>
+		<il>geignait</il>
+		<nous>geignions</nous>
+		<vous>geigniez</vous>
+		<ils>geignaient</ils>
+	</imperfect>
+	<future>
+		<je>geindrai</je>
+		<tu>geindras</tu>
+		<il>geindra</il>
+		<nous>geindrons</nous>
+		<vous>geindrez</vous>
+		<ils>geindront</ils>
+	</future>
+	<subjunctive>
+		<je>geigne</je>
+		<tu>geignes</tu>
+		<il>geigne</il>
+		<nous>geignions</nous>
+		<vous>geigniez</vous>
+		<ils>geignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>geindrais</je>
+		<tu>geindrais</tu>
+		<il>geindrait</il>
+		<nous>geindrions</nous>
+		<vous>geindriez</vous>
+		<ils>geindraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

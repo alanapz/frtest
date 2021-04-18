@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>désirer</infinitive>
+	<translation>to desire</translation>
+	<translation>want</translation>
+	<presentParticiple>désirant</presentParticiple>
+	<pastParticiple>désiré</pastParticiple>
+	<present>
+		<je>désire</je>
+		<tu>désires</tu>
+		<il>désire</il>
+		<nous>désirons</nous>
+		<vous>désirez</vous>
+		<ils>désirent</ils>
+	</present>
+	<imperative>
+		<tu>désire</tu>
+		<nous>désirons</nous>
+		<vous>désirez</vous>
+	</imperative>
+	<imperfect>
+		<je>désirais</je>
+		<tu>désirais</tu>
+		<il>désirait</il>
+		<nous>désirions</nous>
+		<vous>désiriez</vous>
+		<ils>désiraient</ils>
+	</imperfect>
+	<future>
+		<je>désirerai</je>
+		<tu>désireras</tu>
+		<il>désirera</il>
+		<nous>désirerons</nous>
+		<vous>désirerez</vous>
+		<ils>désireront</ils>
+	</future>
+	<subjunctive>
+		<je>désire</je>
+		<tu>désires</tu>
+		<il>désire</il>
+		<nous>désirions</nous>
+		<vous>désiriez</vous>
+		<ils>désirent</ils>
+	</subjunctive>
+	<conditional>
+		<je>désirerais</je>
+		<tu>désirerais</tu>
+		<il>désirerait</il>
+		<nous>désirerions</nous>
+		<vous>désireriez</vous>
+		<ils>désireraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

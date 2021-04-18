@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>infliger</infinitive>
+	<translation>to inflict</translation>
+	<spellingChange />
+	<presentParticiple>infligeant</presentParticiple>
+	<pastParticiple>infligé</pastParticiple>
+	<present>
+		<je>inflige</je>
+		<tu>infliges</tu>
+		<il>inflige</il>
+		<nous>infligeons</nous>
+		<vous>infligez</vous>
+		<ils>infligent</ils>
+	</present>
+	<imperative>
+		<tu>inflige</tu>
+		<nous>infligeons</nous>
+		<vous>infligez</vous>
+	</imperative>
+	<imperfect>
+		<je>infligeais</je>
+		<tu>infligeais</tu>
+		<il>infligeait</il>
+		<nous>infligions</nous>
+		<vous>infligiez</vous>
+		<ils>infligeaient</ils>
+	</imperfect>
+	<future>
+		<je>infligerai</je>
+		<tu>infligeras</tu>
+		<il>infligera</il>
+		<nous>infligerons</nous>
+		<vous>infligerez</vous>
+		<ils>infligeront</ils>
+	</future>
+	<subjunctive>
+		<je>inflige</je>
+		<tu>infliges</tu>
+		<il>inflige</il>
+		<nous>infligions</nous>
+		<vous>infligiez</vous>
+		<ils>infligent</ils>
+	</subjunctive>
+	<conditional>
+		<je>infligerais</je>
+		<tu>infligerais</tu>
+		<il>infligerait</il>
+		<nous>infligerions</nous>
+		<vous>infligeriez</vous>
+		<ils>infligeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

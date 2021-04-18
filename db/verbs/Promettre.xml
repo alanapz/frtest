@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>promettre</infinitive>
+	<translation>to promise</translation>
+	<irregular />
+	<presentParticiple>promettant</presentParticiple>
+	<pastParticiple>promis</pastParticiple>
+	<present>
+		<je>promets</je>
+		<tu>promets</tu>
+		<il>promet</il>
+		<nous>promettons</nous>
+		<vous>promettez</vous>
+		<ils>promettent</ils>
+	</present>
+	<imperative>
+		<tu>promets</tu>
+		<nous>promettons</nous>
+		<vous>promettez</vous>
+	</imperative>
+	<imperfect>
+		<je>promettais</je>
+		<tu>promettais</tu>
+		<il>promettait</il>
+		<nous>promettions</nous>
+		<vous>promettiez</vous>
+		<ils>promettaient</ils>
+	</imperfect>
+	<future>
+		<je>promettrai</je>
+		<tu>promettras</tu>
+		<il>promettra</il>
+		<nous>promettrons</nous>
+		<vous>promettrez</vous>
+		<ils>promettront</ils>
+	</future>
+	<subjunctive>
+		<je>promette</je>
+		<tu>promettes</tu>
+		<il>promette</il>
+		<nous>promettions</nous>
+		<vous>promettiez</vous>
+		<ils>promettent</ils>
+	</subjunctive>
+	<conditional>
+		<je>promettrais</je>
+		<tu>promettrais</tu>
+		<il>promettrait</il>
+		<nous>promettrions</nous>
+		<vous>promettriez</vous>
+		<ils>promettraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

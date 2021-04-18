@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>bouger</infinitive>
+	<translation>to move</translation>
+	<spellingChange />
+	<presentParticiple>bougeant</presentParticiple>
+	<pastParticiple>bougé</pastParticiple>
+	<present>
+		<je>bouge</je>
+		<tu>bouges</tu>
+		<il>bouge</il>
+		<nous>bougeons</nous>
+		<vous>bougez</vous>
+		<ils>bougent</ils>
+	</present>
+	<imperative>
+		<tu>bouge</tu>
+		<nous>bougeons</nous>
+		<vous>bougez</vous>
+	</imperative>
+	<imperfect>
+		<je>bougeais</je>
+		<tu>bougeais</tu>
+		<il>bougeait</il>
+		<nous>bougions</nous>
+		<vous>bougiez</vous>
+		<ils>bougeaient</ils>
+	</imperfect>
+	<future>
+		<je>bougerai</je>
+		<tu>bougeras</tu>
+		<il>bougera</il>
+		<nous>bougerons</nous>
+		<vous>bougerez</vous>
+		<ils>bougeront</ils>
+	</future>
+	<subjunctive>
+		<je>bouge</je>
+		<tu>bouges</tu>
+		<il>bouge</il>
+		<nous>bougions</nous>
+		<vous>bougiez</vous>
+		<ils>bougent</ils>
+	</subjunctive>
+	<conditional>
+		<je>bougerais</je>
+		<tu>bougerais</tu>
+		<il>bougerait</il>
+		<nous>bougerions</nous>
+		<vous>bougeriez</vous>
+		<ils>bougeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

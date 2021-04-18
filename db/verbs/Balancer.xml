@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>balancer</infinitive>
+	<translation>to sway</translation>
+	<translation>swing</translation>
+	<translation>rock</translation>
+	<spellingChange />
+	<presentParticiple>balançant</presentParticiple>
+	<pastParticiple>balancé</pastParticiple>
+	<present>
+		<je>balance</je>
+		<tu>balances</tu>
+		<il>balance</il>
+		<nous>balançons</nous>
+		<vous>balancez</vous>
+		<ils>balancent</ils>
+	</present>
+	<imperative>
+		<tu>balance</tu>
+		<nous>balançons</nous>
+		<vous>balancez</vous>
+	</imperative>
+	<imperfect>
+		<je>balançais</je>
+		<tu>balançais</tu>
+		<il>balançait</il>
+		<nous>balancions</nous>
+		<vous>balanciez</vous>
+		<ils>balançaient</ils>
+	</imperfect>
+	<future>
+		<je>balancerai</je>
+		<tu>balanceras</tu>
+		<il>balancera</il>
+		<nous>balancerons</nous>
+		<vous>balancerez</vous>
+		<ils>balanceront</ils>
+	</future>
+	<subjunctive>
+		<je>balance</je>
+		<tu>balances</tu>
+		<il>balance</il>
+		<nous>balancions</nous>
+		<vous>balanciez</vous>
+		<ils>balancent</ils>
+	</subjunctive>
+	<conditional>
+		<je>balancerais</je>
+		<tu>balancerais</tu>
+		<il>balancerait</il>
+		<nous>balancerions</nous>
+		<vous>balanceriez</vous>
+		<ils>balanceraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

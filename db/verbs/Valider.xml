@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>valider</infinitive>
+	<translation>to validate</translation>
+	<translation>authenticate</translation>
+	<translation>ratify</translation>
+	<presentParticiple>validant</presentParticiple>
+	<pastParticiple>validé</pastParticiple>
+	<present>
+		<je>valide</je>
+		<tu>valides</tu>
+		<il>valide</il>
+		<nous>validons</nous>
+		<vous>validez</vous>
+		<ils>valident</ils>
+	</present>
+	<imperative>
+		<tu>valide</tu>
+		<nous>validons</nous>
+		<vous>validez</vous>
+	</imperative>
+	<imperfect>
+		<je>validais</je>
+		<tu>validais</tu>
+		<il>validait</il>
+		<nous>validions</nous>
+		<vous>validiez</vous>
+		<ils>validaient</ils>
+	</imperfect>
+	<future>
+		<je>validerai</je>
+		<tu>valideras</tu>
+		<il>validera</il>
+		<nous>validerons</nous>
+		<vous>validerez</vous>
+		<ils>valideront</ils>
+	</future>
+	<subjunctive>
+		<je>valide</je>
+		<tu>valides</tu>
+		<il>valide</il>
+		<nous>validions</nous>
+		<vous>validiez</vous>
+		<ils>valident</ils>
+	</subjunctive>
+	<conditional>
+		<je>validerais</je>
+		<tu>validerais</tu>
+		<il>validerait</il>
+		<nous>validerions</nous>
+		<vous>valideriez</vous>
+		<ils>valideraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

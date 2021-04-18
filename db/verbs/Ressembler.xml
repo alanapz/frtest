@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>ressembler</infinitive>
+            <translation>to resemble</translation>
+            <presentParticiple>ressemblant</presentParticiple>
+            <pastParticiple>ressemblé</pastParticiple>
+            <present>
+                <je>ressemble</je>
+                <tu>ressembles</tu>
+                <il>ressemble</il>
+                <nous>ressemblons</nous>
+                <vous>ressemblez</vous>
+                <ils>ressemblent</ils>
+            </present>
+            <imperative>
+                <tu>ressemble</tu>
+                <nous>ressemblons</nous>
+                <vous>ressemblez</vous>
+            </imperative>
+            <imperfect>
+                <je>ressemblais</je>
+                <tu>ressemblais</tu>
+                <il>ressemblait</il>
+                <nous>ressemblions</nous>
+                <vous>ressembliez</vous>
+                <ils>ressemblaient</ils>
+            </imperfect>
+            <future>
+                <je>ressemblerai</je>
+                <tu>ressembleras</tu>
+                <il>ressemblera</il>
+                <nous>ressemblerons</nous>
+                <vous>ressemblerez</vous>
+                <ils>ressembleront</ils>
+            </future>
+            <subjunctive>
+                <je>ressemble</je>
+                <tu>ressembles</tu>
+                <il>ressemble</il>
+                <nous>ressemblions</nous>
+                <vous>ressembliez</vous>
+                <ils>ressemblent</ils>
+            </subjunctive>
+            <conditional>
+                <je>ressemblerais</je>
+                <tu>ressemblerais</tu>
+                <il>ressemblerait</il>
+                <nous>ressemblerions</nous>
+                <vous>ressembleriez</vous>
+                <ils>ressembleraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>armer</infinitive>
+	<translation>to arm</translation>
+	<translation>to equip</translation>
+	<presentParticiple>armant</presentParticiple>
+	<pastParticiple>armé</pastParticiple>
+	<present>
+		<je>arme</je>
+		<tu>armes</tu>
+		<il>arme</il>
+		<nous>armons</nous>
+		<vous>armez</vous>
+		<ils>arment</ils>
+	</present>
+	<imperative>
+		<tu>arme</tu>
+		<nous>armons</nous>
+		<vous>armez</vous>
+	</imperative>
+	<imperfect>
+		<je>armais</je>
+		<tu>armais</tu>
+		<il>armait</il>
+		<nous>armions</nous>
+		<vous>armiez</vous>
+		<ils>armaient</ils>
+	</imperfect>
+	<future>
+		<je>armerai</je>
+		<tu>armeras</tu>
+		<il>armera</il>
+		<nous>armerons</nous>
+		<vous>armerez</vous>
+		<ils>armeront</ils>
+	</future>
+	<subjunctive>
+		<je>arme</je>
+		<tu>armes</tu>
+		<il>arme</il>
+		<nous>armions</nous>
+		<vous>armiez</vous>
+		<ils>arment</ils>
+	</subjunctive>
+	<conditional>
+		<je>armerais</je>
+		<tu>armerais</tu>
+		<il>armerait</il>
+		<nous>armerions</nous>
+		<vous>armeriez</vous>
+		<ils>armeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

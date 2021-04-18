@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>rager</infinitive>
+	<translation>to fume</translation>
+	<spellingChange />
+	<presentParticiple>rageant</presentParticiple>
+	<pastParticiple>ragé</pastParticiple>
+	<present>
+		<je>rage</je>
+		<tu>rages</tu>
+		<il>rage</il>
+		<nous>rageons</nous>
+		<vous>ragez</vous>
+		<ils>ragent</ils>
+	</present>
+	<imperative>
+		<tu>rage</tu>
+		<nous>rageons</nous>
+		<vous>ragez</vous>
+	</imperative>
+	<imperfect>
+		<je>rageais</je>
+		<tu>rageais</tu>
+		<il>rageait</il>
+		<nous>ragions</nous>
+		<vous>ragiez</vous>
+		<ils>rageaient</ils>
+	</imperfect>
+	<future>
+		<je>ragerai</je>
+		<tu>rageras</tu>
+		<il>ragera</il>
+		<nous>ragerons</nous>
+		<vous>ragerez</vous>
+		<ils>rageront</ils>
+	</future>
+	<subjunctive>
+		<je>rage</je>
+		<tu>rages</tu>
+		<il>rage</il>
+		<nous>ragions</nous>
+		<vous>ragiez</vous>
+		<ils>ragent</ils>
+	</subjunctive>
+	<conditional>
+		<je>ragerais</je>
+		<tu>ragerais</tu>
+		<il>ragerait</il>
+		<nous>ragerions</nous>
+		<vous>rageriez</vous>
+		<ils>rageraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

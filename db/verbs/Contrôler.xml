@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>contrôler</infinitive>
+	<translation>to control</translation>
+	<presentParticiple>contrôlant</presentParticiple>
+	<pastParticiple>contrôlé</pastParticiple>
+	<present>
+		<je>contrôle</je>
+		<tu>contrôles</tu>
+		<il>contrôle</il>
+		<nous>contrôlons</nous>
+		<vous>contrôlez</vous>
+		<ils>contrôlent</ils>
+	</present>
+	<imperative>
+		<tu>contrôle</tu>
+		<nous>contrôlons</nous>
+		<vous>contrôlez</vous>
+	</imperative>
+	<imperfect>
+		<je>contrôlais</je>
+		<tu>contrôlais</tu>
+		<il>contrôlait</il>
+		<nous>contrôlions</nous>
+		<vous>contrôliez</vous>
+		<ils>contrôlaient</ils>
+	</imperfect>
+	<future>
+		<je>contrôlerai</je>
+		<tu>contrôleras</tu>
+		<il>contrôlera</il>
+		<nous>contrôlerons</nous>
+		<vous>contrôlerez</vous>
+		<ils>contrôleront</ils>
+	</future>
+	<subjunctive>
+		<je>contrôle</je>
+		<tu>contrôles</tu>
+		<il>contrôle</il>
+		<nous>contrôlions</nous>
+		<vous>contrôliez</vous>
+		<ils>contrôlent</ils>
+	</subjunctive>
+	<conditional>
+		<je>contrôlerais</je>
+		<tu>contrôlerais</tu>
+		<il>contrôlerait</il>
+		<nous>contrôlerions</nous>
+		<vous>contrôleriez</vous>
+		<ils>contrôleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

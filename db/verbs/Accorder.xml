@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>accorder</infinitive>
+	<translation>to admit</translation>
+	<translation>grant</translation>
+	<presentParticiple>accordant</presentParticiple>
+	<pastParticiple>accordé</pastParticiple>
+	<present>
+		<je>accorde</je>
+		<tu>accordes</tu>
+		<il>accorde</il>
+		<nous>accordons</nous>
+		<vous>accordez</vous>
+		<ils>accordent</ils>
+	</present>
+	<imperative>
+		<tu>accorde</tu>
+		<nous>accordons</nous>
+		<vous>accordez</vous>
+	</imperative>
+	<imperfect>
+		<je>accordais</je>
+		<tu>accordais</tu>
+		<il>accordait</il>
+		<nous>accordions</nous>
+		<vous>accordiez</vous>
+		<ils>accordaient</ils>
+	</imperfect>
+	<future>
+		<je>accorderai</je>
+		<tu>accorderas</tu>
+		<il>accordera</il>
+		<nous>accorderons</nous>
+		<vous>accorderez</vous>
+		<ils>accorderont</ils>
+	</future>
+	<subjunctive>
+		<je>accorde</je>
+		<tu>accordes</tu>
+		<il>accorde</il>
+		<nous>accordions</nous>
+		<vous>accordiez</vous>
+		<ils>accordent</ils>
+	</subjunctive>
+	<conditional>
+		<je>accorderais</je>
+		<tu>accorderais</tu>
+		<il>accorderait</il>
+		<nous>accorderions</nous>
+		<vous>accorderiez</vous>
+		<ils>accorderaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

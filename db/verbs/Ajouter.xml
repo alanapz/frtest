@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>ajouter</infinitive>
+	<translation>to add</translation>
+	<presentParticiple>ajoutant</presentParticiple>
+	<pastParticiple>ajouté</pastParticiple>
+	<present>
+		<je>ajoute</je>
+		<tu>ajoutes</tu>
+		<il>ajoute</il>
+		<nous>ajoutons</nous>
+		<vous>ajoutez</vous>
+		<ils>ajoutent</ils>
+	</present>
+	<imperative>
+		<tu>ajoute</tu>
+		<nous>ajoutons</nous>
+		<vous>ajoutez</vous>
+	</imperative>
+	<imperfect>
+		<je>ajoutais</je>
+		<tu>ajoutais</tu>
+		<il>ajoutait</il>
+		<nous>ajoutions</nous>
+		<vous>ajoutiez</vous>
+		<ils>ajoutaient</ils>
+	</imperfect>
+	<future>
+		<je>ajouterai</je>
+		<tu>ajouteras</tu>
+		<il>ajoutera</il>
+		<nous>ajouterons</nous>
+		<vous>ajouterez</vous>
+		<ils>ajouteront</ils>
+	</future>
+	<subjunctive>
+		<je>ajoute</je>
+		<tu>ajoutes</tu>
+		<il>ajoute</il>
+		<nous>ajoutions</nous>
+		<vous>ajoutiez</vous>
+		<ils>ajoutent</ils>
+	</subjunctive>
+	<conditional>
+		<je>ajouterais</je>
+		<tu>ajouterais</tu>
+		<il>ajouterait</il>
+		<nous>ajouterions</nous>
+		<vous>ajouteriez</vous>
+		<ils>ajouteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

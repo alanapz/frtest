@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>constater</infinitive>
+	<translation>to notice</translation>
+	<translation>record</translation>
+	<translation>certify</translation>
+	<presentParticiple>constatant</presentParticiple>
+	<pastParticiple>constaté</pastParticiple>
+	<present>
+		<je>constate</je>
+		<tu>constates</tu>
+		<il>constate</il>
+		<nous>constatons</nous>
+		<vous>constatez</vous>
+		<ils>constatent</ils>
+	</present>
+	<imperative>
+		<tu>constate</tu>
+		<nous>constatons</nous>
+		<vous>constatez</vous>
+	</imperative>
+	<imperfect>
+		<je>constatais</je>
+		<tu>constatais</tu>
+		<il>constatait</il>
+		<nous>constations</nous>
+		<vous>constatiez</vous>
+		<ils>constataient</ils>
+	</imperfect>
+	<future>
+		<je>constaterai</je>
+		<tu>constateras</tu>
+		<il>constatera</il>
+		<nous>constaterons</nous>
+		<vous>constaterez</vous>
+		<ils>constateront</ils>
+	</future>
+	<subjunctive>
+		<je>constate</je>
+		<tu>constates</tu>
+		<il>constate</il>
+		<nous>constations</nous>
+		<vous>constatiez</vous>
+		<ils>constatent</ils>
+	</subjunctive>
+	<conditional>
+		<je>constaterais</je>
+		<tu>constaterais</tu>
+		<il>constaterait</il>
+		<nous>constaterions</nous>
+		<vous>constateriez</vous>
+		<ils>constateraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

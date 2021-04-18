@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>vouvoyer</infinitive>
+	<translation>to use "vous"</translation>
+	<stemChange />
+	<presentParticiple>vouvoyant</presentParticiple>
+	<pastParticiple>vouvoyé</pastParticiple>
+	<present>
+		<je>vouvoie</je>
+		<tu>vouvoies</tu>
+		<il>vouvoie</il>
+		<nous>vouvoyons</nous>
+		<vous>vouvoyez</vous>
+		<ils>vouvoient</ils>
+	</present>
+	<imperative>
+		<tu>vouvoie</tu>
+		<nous>vouvoyons</nous>
+		<vous>vouvoyez</vous>
+	</imperative>
+	<imperfect>
+		<je>vouvoyais</je>
+		<tu>vouvoyais</tu>
+		<il>vouvoyait</il>
+		<nous>vouvoyions</nous>
+		<vous>vouvoyiez</vous>
+		<ils>vouvoyaient</ils>
+	</imperfect>
+	<future>
+		<je>vouvoierai</je>
+		<tu>vouvoieras</tu>
+		<il>vouvoiera</il>
+		<nous>vouvoierons</nous>
+		<vous>vouvoierez</vous>
+		<ils>vouvoieront</ils>
+	</future>
+	<subjunctive>
+		<je>vouvoie</je>
+		<tu>vouvoies</tu>
+		<il>vouvoie</il>
+		<nous>vouvoyions</nous>
+		<vous>vouvoyiez</vous>
+		<ils>vouvoient</ils>
+	</subjunctive>
+	<conditional>
+		<je>vouvoierais</je>
+		<tu>vouvoierais</tu>
+		<il>vouvoierait</il>
+		<nous>vouvoierions</nous>
+		<vous>vouvoieriez</vous>
+		<ils>vouvoieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

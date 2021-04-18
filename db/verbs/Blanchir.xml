@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>blanchir</infinitive>
+	<translation>to bleach</translation>
+	<translation>whiten</translation>
+	<presentParticiple>blanchissant</presentParticiple>
+	<pastParticiple>blanchi</pastParticiple>
+	<present>
+		<je>blanchis</je>
+		<tu>blanchis</tu>
+		<il>blanchit</il>
+		<nous>blanchissons</nous>
+		<vous>blanchissez</vous>
+		<ils>blanchissent</ils>
+	</present>
+	<imperative>
+		<tu>blanchis</tu>
+		<nous>blanchissons</nous>
+		<vous>blanchissez</vous>
+	</imperative>
+	<imperfect>
+		<je>blanchissais</je>
+		<tu>blanchissais</tu>
+		<il>blanchissait</il>
+		<nous>blanchissions</nous>
+		<vous>blanchissiez</vous>
+		<ils>blanchissaient</ils>
+	</imperfect>
+	<future>
+		<je>blanchirai</je>
+		<tu>blanchiras</tu>
+		<il>blanchira</il>
+		<nous>blanchirons</nous>
+		<vous>blanchirez</vous>
+		<ils>blanchiront</ils>
+	</future>
+	<subjunctive>
+		<je>blanchisse</je>
+		<tu>blanchisses</tu>
+		<il>blanchisse</il>
+		<nous>blanchissions</nous>
+		<vous>blanchissiez</vous>
+		<ils>blanchissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>blanchirais</je>
+		<tu>blanchirais</tu>
+		<il>blanchirait</il>
+		<nous>blanchirions</nous>
+		<vous>blanchiriez</vous>
+		<ils>blanchiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

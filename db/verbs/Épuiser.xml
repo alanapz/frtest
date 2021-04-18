@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>épuiser</infinitive>
+	<translation>to exhaust</translation>
+	<translation>tire out</translation>
+	<presentParticiple>épuisant</presentParticiple>
+	<pastParticiple>épuisé</pastParticiple>
+	<present>
+		<je>épuise</je>
+		<tu>épuises</tu>
+		<il>épuise</il>
+		<nous>épuisons</nous>
+		<vous>épuisez</vous>
+		<ils>épuisent</ils>
+	</present>
+	<imperative>
+		<tu>épuise</tu>
+		<nous>épuisons</nous>
+		<vous>épuisez</vous>
+	</imperative>
+	<imperfect>
+		<je>épuisais</je>
+		<tu>épuisais</tu>
+		<il>épuisait</il>
+		<nous>épuisions</nous>
+		<vous>épuisiez</vous>
+		<ils>épuisaient</ils>
+	</imperfect>
+	<future>
+		<je>épuiserai</je>
+		<tu>épuiseras</tu>
+		<il>épuisera</il>
+		<nous>épuiserons</nous>
+		<vous>épuiserez</vous>
+		<ils>épuiseront</ils>
+	</future>
+	<subjunctive>
+		<je>épuise</je>
+		<tu>épuises</tu>
+		<il>épuise</il>
+		<nous>épuisions</nous>
+		<vous>épuisiez</vous>
+		<ils>épuisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>épuiserais</je>
+		<tu>épuiserais</tu>
+		<il>épuiserait</il>
+		<nous>épuiserions</nous>
+		<vous>épuiseriez</vous>
+		<ils>épuiseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

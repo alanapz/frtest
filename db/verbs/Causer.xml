@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>causer</infinitive>
+	<translation>to chat</translation>
+	<translation>to cause</translation>
+	<presentParticiple>causant</presentParticiple>
+	<pastParticiple>causé</pastParticiple>
+	<present>
+		<je>cause</je>
+		<tu>causes</tu>
+		<il>cause</il>
+		<nous>causons</nous>
+		<vous>causez</vous>
+		<ils>causent</ils>
+	</present>
+	<imperative>
+		<tu>cause</tu>
+		<nous>causons</nous>
+		<vous>causez</vous>
+	</imperative>
+	<imperfect>
+		<je>causais</je>
+		<tu>causais</tu>
+		<il>causait</il>
+		<nous>causions</nous>
+		<vous>causiez</vous>
+		<ils>causaient</ils>
+	</imperfect>
+	<future>
+		<je>causerai</je>
+		<tu>causeras</tu>
+		<il>causera</il>
+		<nous>causerons</nous>
+		<vous>causerez</vous>
+		<ils>causeront</ils>
+	</future>
+	<subjunctive>
+		<je>cause</je>
+		<tu>causes</tu>
+		<il>cause</il>
+		<nous>causions</nous>
+		<vous>causiez</vous>
+		<ils>causent</ils>
+	</subjunctive>
+	<conditional>
+		<je>causerais</je>
+		<tu>causerais</tu>
+		<il>causerait</il>
+		<nous>causerions</nous>
+		<vous>causeriez</vous>
+		<ils>causeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

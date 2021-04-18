@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>unifier</infinitive>
+	<translation>to unify</translation>
+	<presentParticiple>unifiant</presentParticiple>
+	<pastParticiple>unifié</pastParticiple>
+	<present>
+		<je>unifie</je>
+		<tu>unifies</tu>
+		<il>unifie</il>
+		<nous>unifions</nous>
+		<vous>unifiez</vous>
+		<ils>unifient</ils>
+	</present>
+	<imperative>
+		<tu>unifie</tu>
+		<nous>unifions</nous>
+		<vous>unifiez</vous>
+	</imperative>
+	<imperfect>
+		<je>unifiais</je>
+		<tu>unifiais</tu>
+		<il>unifiait</il>
+		<nous>unifiions</nous>
+		<vous>unifiiez</vous>
+		<ils>unifiaient</ils>
+	</imperfect>
+	<future>
+		<je>unifierai</je>
+		<tu>unifieras</tu>
+		<il>unifiera</il>
+		<nous>unifierons</nous>
+		<vous>unifierez</vous>
+		<ils>unifieront</ils>
+	</future>
+	<subjunctive>
+		<je>unifie</je>
+		<tu>unifies</tu>
+		<il>unifie</il>
+		<nous>unifiions</nous>
+		<vous>unifiiez</vous>
+		<ils>unifient</ils>
+	</subjunctive>
+	<conditional>
+		<je>unifierais</je>
+		<tu>unifierais</tu>
+		<il>unifierait</il>
+		<nous>unifierions</nous>
+		<vous>unifieriez</vous>
+		<ils>unifieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

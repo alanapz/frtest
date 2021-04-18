@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>goûter</infinitive>
+	<translation>to taste</translation>
+	<presentParticiple>goûtant</presentParticiple>
+	<pastParticiple>goûté</pastParticiple>
+	<present>
+		<je>goûte</je>
+		<tu>goûtes</tu>
+		<il>goûte</il>
+		<nous>goûtons</nous>
+		<vous>goûtez</vous>
+		<ils>goûtent</ils>
+	</present>
+	<imperative>
+		<tu>goûte</tu>
+		<nous>goûtons</nous>
+		<vous>goûtez</vous>
+	</imperative>
+	<imperfect>
+		<je>goûtais</je>
+		<tu>goûtais</tu>
+		<il>goûtait</il>
+		<nous>goûtions</nous>
+		<vous>goûtiez</vous>
+		<ils>goûtaient</ils>
+	</imperfect>
+	<future>
+		<je>goûterai</je>
+		<tu>goûteras</tu>
+		<il>goûtera</il>
+		<nous>goûterons</nous>
+		<vous>goûterez</vous>
+		<ils>goûteront</ils>
+	</future>
+	<subjunctive>
+		<je>goûte</je>
+		<tu>goûtes</tu>
+		<il>goûte</il>
+		<nous>goûtions</nous>
+		<vous>goûtiez</vous>
+		<ils>goûtent</ils>
+	</subjunctive>
+	<conditional>
+		<je>goûterais</je>
+		<tu>goûterais</tu>
+		<il>goûterait</il>
+		<nous>goûterions</nous>
+		<vous>goûteriez</vous>
+		<ils>goûteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>punir</infinitive>
+	<translation>to punish</translation>
+	<presentParticiple>punissant</presentParticiple>
+	<pastParticiple>puni</pastParticiple>
+	<present>
+		<je>punis</je>
+		<tu>punis</tu>
+		<il>punit</il>
+		<nous>punissons</nous>
+		<vous>punissez</vous>
+		<ils>punissent</ils>
+	</present>
+	<imperative>
+		<tu>punis</tu>
+		<nous>punissons</nous>
+		<vous>punissez</vous>
+	</imperative>
+	<imperfect>
+		<je>punissais</je>
+		<tu>punissais</tu>
+		<il>punissait</il>
+		<nous>punissions</nous>
+		<vous>punissiez</vous>
+		<ils>punissaient</ils>
+	</imperfect>
+	<future>
+		<je>punirai</je>
+		<tu>puniras</tu>
+		<il>punira</il>
+		<nous>punirons</nous>
+		<vous>punirez</vous>
+		<ils>puniront</ils>
+	</future>
+	<subjunctive>
+		<je>punisse</je>
+		<tu>punisses</tu>
+		<il>punisse</il>
+		<nous>punissions</nous>
+		<vous>punissiez</vous>
+		<ils>punissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>punirais</je>
+		<tu>punirais</tu>
+		<il>punirait</il>
+		<nous>punirions</nous>
+		<vous>puniriez</vous>
+		<ils>puniraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

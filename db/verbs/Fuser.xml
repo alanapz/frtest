@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>fuser</infinitive>
+	<translation>to gush</translation>
+	<translation>burst forth</translation>
+	<presentParticiple>fusant</presentParticiple>
+	<pastParticiple>fusé</pastParticiple>
+	<present>
+		<je>fuse</je>
+		<tu>fuses</tu>
+		<il>fuse</il>
+		<nous>fusons</nous>
+		<vous>fusez</vous>
+		<ils>fusent</ils>
+	</present>
+	<imperative>
+		<tu>fuse</tu>
+		<nous>fusons</nous>
+		<vous>fusez</vous>
+	</imperative>
+	<imperfect>
+		<je>fusais</je>
+		<tu>fusais</tu>
+		<il>fusait</il>
+		<nous>fusions</nous>
+		<vous>fusiez</vous>
+		<ils>fusaient</ils>
+	</imperfect>
+	<future>
+		<je>fuserai</je>
+		<tu>fuseras</tu>
+		<il>fusera</il>
+		<nous>fuserons</nous>
+		<vous>fuserez</vous>
+		<ils>fuseront</ils>
+	</future>
+	<subjunctive>
+		<je>fuse</je>
+		<tu>fuses</tu>
+		<il>fuse</il>
+		<nous>fusions</nous>
+		<vous>fusiez</vous>
+		<ils>fusent</ils>
+	</subjunctive>
+	<conditional>
+		<je>fuserais</je>
+		<tu>fuserais</tu>
+		<il>fuserait</il>
+		<nous>fuserions</nous>
+		<vous>fuseriez</vous>
+		<ils>fuseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

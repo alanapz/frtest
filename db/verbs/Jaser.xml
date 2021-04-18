@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>jaser</infinitive>
+	<translation>to chatter</translation>
+	<translation>to gossip</translation>
+	<presentParticiple>jasant</presentParticiple>
+	<pastParticiple>jasé</pastParticiple>
+	<present>
+		<je>jase</je>
+		<tu>jases</tu>
+		<il>jase</il>
+		<nous>jasons</nous>
+		<vous>jasez</vous>
+		<ils>jasent</ils>
+	</present>
+	<imperative>
+		<tu>jase</tu>
+		<nous>jasons</nous>
+		<vous>jasez</vous>
+	</imperative>
+	<imperfect>
+		<je>jasais</je>
+		<tu>jasais</tu>
+		<il>jasait</il>
+		<nous>jasions</nous>
+		<vous>jasiez</vous>
+		<ils>jasaient</ils>
+	</imperfect>
+	<future>
+		<je>jaserai</je>
+		<tu>jaseras</tu>
+		<il>jasera</il>
+		<nous>jaserons</nous>
+		<vous>jaserez</vous>
+		<ils>jaseront</ils>
+	</future>
+	<subjunctive>
+		<je>jase</je>
+		<tu>jases</tu>
+		<il>jase</il>
+		<nous>jasions</nous>
+		<vous>jasiez</vous>
+		<ils>jasent</ils>
+	</subjunctive>
+	<conditional>
+		<je>jaserais</je>
+		<tu>jaserais</tu>
+		<il>jaserait</il>
+		<nous>jaserions</nous>
+		<vous>jaseriez</vous>
+		<ils>jaseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

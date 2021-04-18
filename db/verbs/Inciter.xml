@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>inciter</infinitive>
+	<translation>to encourage</translation>
+	<translation>prompt</translation>
+	<translation>incite</translation>
+	<presentParticiple>incitant</presentParticiple>
+	<pastParticiple>incité</pastParticiple>
+	<present>
+		<je>incite</je>
+		<tu>incites</tu>
+		<il>incite</il>
+		<nous>incitons</nous>
+		<vous>incitez</vous>
+		<ils>incitent</ils>
+	</present>
+	<imperative>
+		<tu>incite</tu>
+		<nous>incitons</nous>
+		<vous>incitez</vous>
+	</imperative>
+	<imperfect>
+		<je>incitais</je>
+		<tu>incitais</tu>
+		<il>incitait</il>
+		<nous>incitions</nous>
+		<vous>incitiez</vous>
+		<ils>incitaient</ils>
+	</imperfect>
+	<future>
+		<je>inciterai</je>
+		<tu>inciteras</tu>
+		<il>incitera</il>
+		<nous>inciterons</nous>
+		<vous>inciterez</vous>
+		<ils>inciteront</ils>
+	</future>
+	<subjunctive>
+		<je>incite</je>
+		<tu>incites</tu>
+		<il>incite</il>
+		<nous>incitions</nous>
+		<vous>incitiez</vous>
+		<ils>incitent</ils>
+	</subjunctive>
+	<conditional>
+		<je>inciterais</je>
+		<tu>inciterais</tu>
+		<il>inciterait</il>
+		<nous>inciterions</nous>
+		<vous>inciteriez</vous>
+		<ils>inciteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

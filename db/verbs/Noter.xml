@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>noter</infinitive>
+	<translation>to write down</translation>
+	<translation>make a note of</translation>
+	<translation>to notice</translation>
+	<presentParticiple>notant</presentParticiple>
+	<pastParticiple>noté</pastParticiple>
+	<present>
+		<je>note</je>
+		<tu>notes</tu>
+		<il>note</il>
+		<nous>notons</nous>
+		<vous>notez</vous>
+		<ils>notent</ils>
+	</present>
+	<imperative>
+		<tu>note</tu>
+		<nous>notons</nous>
+		<vous>notez</vous>
+	</imperative>
+	<imperfect>
+		<je>notais</je>
+		<tu>notais</tu>
+		<il>notait</il>
+		<nous>notions</nous>
+		<vous>notiez</vous>
+		<ils>notaient</ils>
+	</imperfect>
+	<future>
+		<je>noterai</je>
+		<tu>noteras</tu>
+		<il>notera</il>
+		<nous>noterons</nous>
+		<vous>noterez</vous>
+		<ils>noteront</ils>
+	</future>
+	<subjunctive>
+		<je>note</je>
+		<tu>notes</tu>
+		<il>note</il>
+		<nous>notions</nous>
+		<vous>notiez</vous>
+		<ils>notent</ils>
+	</subjunctive>
+	<conditional>
+		<je>noterais</je>
+		<tu>noterais</tu>
+		<il>noterait</il>
+		<nous>noterions</nous>
+		<vous>noteriez</vous>
+		<ils>noteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

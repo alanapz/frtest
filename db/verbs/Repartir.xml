@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>repartir</infinitive>
+            <translation>to set-off-again</translation>
+            <irregular />
+            <takesEtreInPerfect />
+            <presentParticiple>repartant</presentParticiple>
+            <pastParticiple> reparti</pastParticiple>
+            <present>
+                <je>repars</je>
+                <tu>repars</tu>
+                <il>repart</il>
+                <nous>repartons</nous>
+                <vous>repartez</vous>
+                <ils>repartent</ils>
+            </present>
+            <imperative>
+                <tu>repars</tu>
+                <nous>repartons</nous>
+                <vous>repartez</vous>
+            </imperative>
+            <imperfect>
+                <je>repartais</je>
+                <tu>repartais</tu>
+                <il>repartait</il>
+                <nous>repartions</nous>
+                <vous>repartiez</vous>
+                <ils>repartaient</ils>
+            </imperfect>
+            <future>
+                <je>repartirai</je>
+                <tu>repartiras</tu>
+                <il>repartira</il>
+                <nous>repartirons</nous>
+                <vous>repartirez</vous>
+                <ils>repartiront</ils>
+            </future>
+            <subjunctive>
+                <je>reparte</je>
+                <tu>repartes</tu>
+                <il>reparte</il>
+                <nous>repartions</nous>
+                <vous>repartiez</vous>
+                <ils>repartent</ils>
+            </subjunctive>
+            <conditional>
+                <je>repartirais</je>
+                <tu>repartirais</tu>
+                <il>repartirait</il>
+                <nous>repartirions</nous>
+                <vous>repartiriez</vous>
+                <ils>repartiraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

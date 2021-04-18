@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>bouffer</infinitive>
+	<translation>to be full</translation>
+	<translation>have volume</translation>
+	<translation>(fam) to gobble</translation>
+	<presentParticiple>bouffant</presentParticiple>
+	<pastParticiple>bouffé</pastParticiple>
+	<present>
+		<je>bouffe</je>
+		<tu>bouffes</tu>
+		<il>bouffe</il>
+		<nous>bouffons</nous>
+		<vous>bouffez</vous>
+		<ils>bouffent</ils>
+	</present>
+	<imperative>
+		<tu>bouffe</tu>
+		<nous>bouffons</nous>
+		<vous>bouffez</vous>
+	</imperative>
+	<imperfect>
+		<je>bouffais</je>
+		<tu>bouffais</tu>
+		<il>bouffait</il>
+		<nous>bouffions</nous>
+		<vous>bouffiez</vous>
+		<ils>bouffaient</ils>
+	</imperfect>
+	<future>
+		<je>boufferai</je>
+		<tu>boufferas</tu>
+		<il>bouffera</il>
+		<nous>boufferons</nous>
+		<vous>boufferez</vous>
+		<ils>boufferont</ils>
+	</future>
+	<subjunctive>
+		<je>bouffe</je>
+		<tu>bouffes</tu>
+		<il>bouffe</il>
+		<nous>bouffions</nous>
+		<vous>bouffiez</vous>
+		<ils>bouffent</ils>
+	</subjunctive>
+	<conditional>
+		<je>boufferais</je>
+		<tu>boufferais</tu>
+		<il>boufferait</il>
+		<nous>boufferions</nous>
+		<vous>boufferiez</vous>
+		<ils>boufferaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

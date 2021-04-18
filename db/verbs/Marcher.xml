@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>marcher</infinitive>
+            <translation>to walk</translation>
+            <translation>to function</translation>
+            <presentParticiple>marchant</presentParticiple>
+            <pastParticiple>marché</pastParticiple>
+            <present>
+                <je>marche</je>
+                <tu>marches</tu>
+                <il>marche</il>
+                <nous>marchons</nous>
+                <vous>marchez</vous>
+                <ils>marchent</ils>
+            </present>
+            <imperative>
+                <tu>marche</tu>
+                <nous>marchons</nous>
+                <vous>marchez</vous>
+            </imperative>
+            <imperfect>
+                <je>marchais</je>
+                <tu>marchais</tu>
+                <il>marchait</il>
+                <nous>marchions</nous>
+                <vous>marchiez</vous>
+                <ils>marchaient</ils>
+            </imperfect>
+            <future>
+                <je>marcherai</je>
+                <tu>marcheras</tu>
+                <il>marchera</il>
+                <nous>marcherons</nous>
+                <vous>marcherez</vous>
+                <ils>marcheront</ils>
+            </future>
+            <subjunctive>
+                <je>marche</je>
+                <tu>marches</tu>
+                <il>marche</il>
+                <nous>marchions</nous>
+                <vous>marchiez</vous>
+                <ils>marchent</ils>
+            </subjunctive>
+            <conditional>
+                <je>marcherais</je>
+                <tu>marcherais</tu>
+                <il>marcherait</il>
+                <nous>marcherions</nous>
+                <vous>marcheriez</vous>
+                <ils>marcheraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

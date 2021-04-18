@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>allumer</infinitive>
+	<translation>to light</translation>
+	<presentParticiple>allumant</presentParticiple>
+	<pastParticiple>allumé</pastParticiple>
+	<present>
+		<je>allume</je>
+		<tu>allumes</tu>
+		<il>allume</il>
+		<nous>allumons</nous>
+		<vous>allumez</vous>
+		<ils>allument</ils>
+	</present>
+	<imperative>
+		<tu>allume</tu>
+		<nous>allumons</nous>
+		<vous>allumez</vous>
+	</imperative>
+	<imperfect>
+		<je>allumais</je>
+		<tu>allumais</tu>
+		<il>allumait</il>
+		<nous>allumions</nous>
+		<vous>allumiez</vous>
+		<ils>allumaient</ils>
+	</imperfect>
+	<future>
+		<je>allumerai</je>
+		<tu>allumeras</tu>
+		<il>allumera</il>
+		<nous>allumerons</nous>
+		<vous>allumerez</vous>
+		<ils>allumeront</ils>
+	</future>
+	<subjunctive>
+		<je>allume</je>
+		<tu>allumes</tu>
+		<il>allume</il>
+		<nous>allumions</nous>
+		<vous>allumiez</vous>
+		<ils>allument</ils>
+	</subjunctive>
+	<conditional>
+		<je>allumerais</je>
+		<tu>allumerais</tu>
+		<il>allumerait</il>
+		<nous>allumerions</nous>
+		<vous>allumeriez</vous>
+		<ils>allumeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

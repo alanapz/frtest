@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>gronder</infinitive>
+	<translation>to scold</translation>
+	<presentParticiple>grondant</presentParticiple>
+	<pastParticiple>grondé</pastParticiple>
+	<present>
+		<je>gronde</je>
+		<tu>grondes</tu>
+		<il>gronde</il>
+		<nous>grondons</nous>
+		<vous>grondez</vous>
+		<ils>grondent</ils>
+	</present>
+	<imperative>
+		<tu>gronde</tu>
+		<nous>grondons</nous>
+		<vous>grondez</vous>
+	</imperative>
+	<imperfect>
+		<je>grondais</je>
+		<tu>grondais</tu>
+		<il>grondait</il>
+		<nous>grondions</nous>
+		<vous>grondiez</vous>
+		<ils>grondaient</ils>
+	</imperfect>
+	<future>
+		<je>gronderai</je>
+		<tu>gronderas</tu>
+		<il>grondera</il>
+		<nous>gronderons</nous>
+		<vous>gronderez</vous>
+		<ils>gronderont</ils>
+	</future>
+	<subjunctive>
+		<je>gronde</je>
+		<tu>grondes</tu>
+		<il>gronde</il>
+		<nous>grondions</nous>
+		<vous>grondiez</vous>
+		<ils>grondent</ils>
+	</subjunctive>
+	<conditional>
+		<je>gronderais</je>
+		<tu>gronderais</tu>
+		<il>gronderait</il>
+		<nous>gronderions</nous>
+		<vous>gronderiez</vous>
+		<ils>gronderaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

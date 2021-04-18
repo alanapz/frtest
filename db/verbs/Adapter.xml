@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>adapter</infinitive>
+	<translation>to adapt</translation>
+	<presentParticiple>adaptant</presentParticiple>
+	<pastParticiple>adapté</pastParticiple>
+	<present>
+		<je>adapte</je>
+		<tu>adaptes</tu>
+		<il>adapte</il>
+		<nous>adaptons</nous>
+		<vous>adaptez</vous>
+		<ils>adaptent</ils>
+	</present>
+	<imperative>
+		<tu>adapte</tu>
+		<nous>adaptons</nous>
+		<vous>adaptez</vous>
+	</imperative>
+	<imperfect>
+		<je>adaptais</je>
+		<tu>adaptais</tu>
+		<il>adaptait</il>
+		<nous>adaptions</nous>
+		<vous>adaptiez</vous>
+		<ils>adaptaient</ils>
+	</imperfect>
+	<future>
+		<je>adapterai</je>
+		<tu>adapteras</tu>
+		<il>adaptera</il>
+		<nous>adapterons</nous>
+		<vous>adapterez</vous>
+		<ils>adapteront</ils>
+	</future>
+	<subjunctive>
+		<je>adapte</je>
+		<tu>adaptes</tu>
+		<il>adapte</il>
+		<nous>adaptions</nous>
+		<vous>adaptiez</vous>
+		<ils>adaptent</ils>
+	</subjunctive>
+	<conditional>
+		<je>adapterais</je>
+		<tu>adapterais</tu>
+		<il>adapterait</il>
+		<nous>adapterions</nous>
+		<vous>adapteriez</vous>
+		<ils>adapteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

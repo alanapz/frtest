@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>équivaloir</infinitive>
+	<translation>to be equivalent to</translation>
+	<irregular />
+	<presentParticiple>équivalant</presentParticiple>
+	<pastParticiple> équivalu</pastParticiple>
+	<present>
+		<je>équivaux</je>
+		<tu>équivaux</tu>
+		<il>équivaut</il>
+		<nous>équivalons</nous>
+		<vous>équivalez</vous>
+		<ils>équivalent</ils>
+	</present>
+	<imperative>
+		<tu>équivaux</tu>
+		<nous>équivalons</nous>
+		<vous>équivalez</vous>
+	</imperative>
+	<imperfect>
+		<je>équivalais</je>
+		<tu>équivalais</tu>
+		<il>équivalait</il>
+		<nous>équivalions</nous>
+		<vous>équivaliez</vous>
+		<ils>équivalaient</ils>
+	</imperfect>
+	<future>
+		<je>équivaudrai</je>
+		<tu>équivaudras</tu>
+		<il>équivaudra</il>
+		<nous>équivaudrons</nous>
+		<vous>équivaudrez</vous>
+		<ils>équivaudront</ils>
+	</future>
+	<subjunctive>
+		<je>équivaille</je>
+		<tu>équivailles</tu>
+		<il>équivaille</il>
+		<nous>équivalions</nous>
+		<vous>équivaliez</vous>
+		<ils>équivaillent</ils>
+	</subjunctive>
+	<conditional>
+		<je>équivaudrais</je>
+		<tu>équivaudrais</tu>
+		<il>équivaudrait</il>
+		<nous>équivaudrions</nous>
+		<vous>équivaudriez</vous>
+		<ils>équivaudraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

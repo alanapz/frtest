@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>atteindre</infinitive>
+	<translation>to attain</translation>
+	<translation>reach</translation>
+	<irregular />
+	<presentParticiple>atteignant</presentParticiple>
+	<pastParticiple>atteint</pastParticiple>
+	<present>
+		<je>atteins</je>
+		<tu>atteins</tu>
+		<il>atteint</il>
+		<nous>atteignons</nous>
+		<vous>atteignez</vous>
+		<ils>atteignent</ils>
+	</present>
+	<imperative>
+		<tu>atteins</tu>
+		<nous>atteignons</nous>
+		<vous>atteignez</vous>
+	</imperative>
+	<imperfect>
+		<je>atteignais</je>
+		<tu>atteignais</tu>
+		<il>atteignait</il>
+		<nous>atteignions</nous>
+		<vous>atteigniez</vous>
+		<ils>atteignaient</ils>
+	</imperfect>
+	<future>
+		<je>atteindrai</je>
+		<tu>atteindras</tu>
+		<il>atteindra</il>
+		<nous>atteindrons</nous>
+		<vous>atteindrez</vous>
+		<ils>atteindront</ils>
+	</future>
+	<subjunctive>
+		<je>atteigne</je>
+		<tu>atteignes</tu>
+		<il>atteigne</il>
+		<nous>atteignions</nous>
+		<vous>atteigniez</vous>
+		<ils>atteignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>atteindrais</je>
+		<tu>atteindrais</tu>
+		<il>atteindrait</il>
+		<nous>atteindrions</nous>
+		<vous>atteindriez</vous>
+		<ils>atteindraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

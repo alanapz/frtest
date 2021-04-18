@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>diviser</infinitive>
+	<translation>to divide</translation>
+	<presentParticiple>divisant</presentParticiple>
+	<pastParticiple>divisé</pastParticiple>
+	<present>
+		<je>divise</je>
+		<tu>divises</tu>
+		<il>divise</il>
+		<nous>divisons</nous>
+		<vous>divisez</vous>
+		<ils>divisent</ils>
+	</present>
+	<imperative>
+		<tu>divise</tu>
+		<nous>divisons</nous>
+		<vous>divisez</vous>
+	</imperative>
+	<imperfect>
+		<je>divisais</je>
+		<tu>divisais</tu>
+		<il>divisait</il>
+		<nous>divisions</nous>
+		<vous>divisiez</vous>
+		<ils>divisaient</ils>
+	</imperfect>
+	<future>
+		<je>diviserai</je>
+		<tu>diviseras</tu>
+		<il>divisera</il>
+		<nous>diviserons</nous>
+		<vous>diviserez</vous>
+		<ils>diviseront</ils>
+	</future>
+	<subjunctive>
+		<je>divise</je>
+		<tu>divises</tu>
+		<il>divise</il>
+		<nous>divisions</nous>
+		<vous>divisiez</vous>
+		<ils>divisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>diviserais</je>
+		<tu>diviserais</tu>
+		<il>diviserait</il>
+		<nous>diviserions</nous>
+		<vous>diviseriez</vous>
+		<ils>diviseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

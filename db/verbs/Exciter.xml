@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>exciter</infinitive>
+	<translation>to arouse</translation>
+	<translation>excite</translation>
+	<translation>to intensify</translation>
+	<presentParticiple>excitant</presentParticiple>
+	<pastParticiple>excité</pastParticiple>
+	<present>
+		<je>excite</je>
+		<tu>excites</tu>
+		<il>excite</il>
+		<nous>excitons</nous>
+		<vous>excitez</vous>
+		<ils>excitent</ils>
+	</present>
+	<imperative>
+		<tu>excite</tu>
+		<nous>excitons</nous>
+		<vous>excitez</vous>
+	</imperative>
+	<imperfect>
+		<je>excitais</je>
+		<tu>excitais</tu>
+		<il>excitait</il>
+		<nous>excitions</nous>
+		<vous>excitiez</vous>
+		<ils>excitaient</ils>
+	</imperfect>
+	<future>
+		<je>exciterai</je>
+		<tu>exciteras</tu>
+		<il>excitera</il>
+		<nous>exciterons</nous>
+		<vous>exciterez</vous>
+		<ils>exciteront</ils>
+	</future>
+	<subjunctive>
+		<je>excite</je>
+		<tu>excites</tu>
+		<il>excite</il>
+		<nous>excitions</nous>
+		<vous>excitiez</vous>
+		<ils>excitent</ils>
+	</subjunctive>
+	<conditional>
+		<je>exciterais</je>
+		<tu>exciterais</tu>
+		<il>exciterait</il>
+		<nous>exciterions</nous>
+		<vous>exciteriez</vous>
+		<ils>exciteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

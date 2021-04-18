@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>peser</infinitive>
+	<translation>toweigh</translation>
+	<stemChange />
+	<presentParticiple>pesant</presentParticiple>
+	<pastParticiple>pesé</pastParticiple>
+	<present>
+		<je>pèse</je>
+		<tu>pèses</tu>
+		<il>pèse</il>
+		<nous>pesons</nous>
+		<vous>pesez</vous>
+		<ils>pèsent</ils>
+	</present>
+	<imperative>
+		<tu>pèse</tu>
+		<nous>pesons</nous>
+		<vous>pesez</vous>
+	</imperative>
+	<imperfect>
+		<je>pesais</je>
+		<tu>pesais</tu>
+		<il>pesait</il>
+		<nous>pesions</nous>
+		<vous>pesiez</vous>
+		<ils>pesaient</ils>
+	</imperfect>
+	<future>
+		<je>pèserai</je>
+		<tu>pèseras</tu>
+		<il>pèsera</il>
+		<nous>pèserons</nous>
+		<vous>pèserez</vous>
+		<ils>pèseront</ils>
+	</future>
+	<subjunctive>
+		<je>pèse</je>
+		<tu>pèses</tu>
+		<il>pèse</il>
+		<nous>pesions</nous>
+		<vous>pesiez</vous>
+		<ils>pèsent</ils>
+	</subjunctive>
+	<conditional>
+		<je>pèserais</je>
+		<tu>pèserais</tu>
+		<il>pèserait</il>
+		<nous>pèserions</nous>
+		<vous>pèseriez</vous>
+		<ils>pèseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

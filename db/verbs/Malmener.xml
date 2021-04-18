@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>malmener</infinitive>
+	<translation>to manhandle</translation>
+	<translation>be rough</translation>
+	<stemChange />
+	<presentParticiple>malmenant</presentParticiple>
+	<pastParticiple>malmené</pastParticiple>
+	<present>
+		<je>malmène</je>
+		<tu>malmènes</tu>
+		<il>malmène</il>
+		<nous>malmenons</nous>
+		<vous>malmenez</vous>
+		<ils>malmènent</ils>
+	</present>
+	<imperative>
+		<tu>malmène</tu>
+		<nous>malmenons</nous>
+		<vous>malmenez</vous>
+	</imperative>
+	<imperfect>
+		<je>malmenais</je>
+		<tu>malmenais</tu>
+		<il>malmenait</il>
+		<nous>malmenions</nous>
+		<vous>malmeniez</vous>
+		<ils>malmenaient</ils>
+	</imperfect>
+	<future>
+		<je>malmènerai</je>
+		<tu>malmèneras</tu>
+		<il>malmènera</il>
+		<nous>malmènerons</nous>
+		<vous>malmènerez</vous>
+		<ils>malmèneront</ils>
+	</future>
+	<subjunctive>
+		<je>malmène</je>
+		<tu>malmènes</tu>
+		<il>malmène</il>
+		<nous>malmenions</nous>
+		<vous>malmeniez</vous>
+		<ils>malmènent</ils>
+	</subjunctive>
+	<conditional>
+		<je>malmènerais</je>
+		<tu>malmènerais</tu>
+		<il>malmènerait</il>
+		<nous>malmènerions</nous>
+		<vous>malmèneriez</vous>
+		<ils>malmèneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

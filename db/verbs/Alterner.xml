@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>alterner</infinitive>
+	<translation>to alternate</translation>
+	<presentParticiple>alternant</presentParticiple>
+	<pastParticiple>alterné</pastParticiple>
+	<present>
+		<je>alterne</je>
+		<tu>alternes</tu>
+		<il>alterne</il>
+		<nous>alternons</nous>
+		<vous>alternez</vous>
+		<ils>alternent</ils>
+	</present>
+	<imperative>
+		<tu>alterne</tu>
+		<nous>alternons</nous>
+		<vous>alternez</vous>
+	</imperative>
+	<imperfect>
+		<je>alternais</je>
+		<tu>alternais</tu>
+		<il>alternait</il>
+		<nous>alternions</nous>
+		<vous>alterniez</vous>
+		<ils>alternaient</ils>
+	</imperfect>
+	<future>
+		<je>alternerai</je>
+		<tu>alterneras</tu>
+		<il>alternera</il>
+		<nous>alternerons</nous>
+		<vous>alternerez</vous>
+		<ils>alterneront</ils>
+	</future>
+	<subjunctive>
+		<je>alterne</je>
+		<tu>alternes</tu>
+		<il>alterne</il>
+		<nous>alternions</nous>
+		<vous>alterniez</vous>
+		<ils>alternent</ils>
+	</subjunctive>
+	<conditional>
+		<je>alternerais</je>
+		<tu>alternerais</tu>
+		<il>alternerait</il>
+		<nous>alternerions</nous>
+		<vous>alterneriez</vous>
+		<ils>alterneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

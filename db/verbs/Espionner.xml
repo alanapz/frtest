@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>espionner</infinitive>
+	<translation>to spy on</translation>
+	<presentParticiple>espionnant</presentParticiple>
+	<pastParticiple>espionné</pastParticiple>
+	<present>
+		<je>espionne</je>
+		<tu>espionnes</tu>
+		<il>espionne</il>
+		<nous>espionnons</nous>
+		<vous>espionnez</vous>
+		<ils>espionnent</ils>
+	</present>
+	<imperative>
+		<tu>espionne</tu>
+		<nous>espionnons</nous>
+		<vous>espionnez</vous>
+	</imperative>
+	<imperfect>
+		<je>espionnais</je>
+		<tu>espionnais</tu>
+		<il>espionnait</il>
+		<nous>espionnions</nous>
+		<vous>espionniez</vous>
+		<ils>espionnaient</ils>
+	</imperfect>
+	<future>
+		<je>espionnerai</je>
+		<tu>espionneras</tu>
+		<il>espionnera</il>
+		<nous>espionnerons</nous>
+		<vous>espionnerez</vous>
+		<ils>espionneront</ils>
+	</future>
+	<subjunctive>
+		<je>espionne</je>
+		<tu>espionnes</tu>
+		<il>espionne</il>
+		<nous>espionnions</nous>
+		<vous>espionniez</vous>
+		<ils>espionnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>espionnerais</je>
+		<tu>espionnerais</tu>
+		<il>espionnerait</il>
+		<nous>espionnerions</nous>
+		<vous>espionneriez</vous>
+		<ils>espionneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

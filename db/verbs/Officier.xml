@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>officier</infinitive>
+	<translation>to officiate</translation>
+	<presentParticiple>officiant</presentParticiple>
+	<pastParticiple>officié</pastParticiple>
+	<present>
+		<je>officie</je>
+		<tu>officies</tu>
+		<il>officie</il>
+		<nous>officions</nous>
+		<vous>officiez</vous>
+		<ils>officient</ils>
+	</present>
+	<imperative>
+		<tu>officie</tu>
+		<nous>officions</nous>
+		<vous>officiez</vous>
+	</imperative>
+	<imperfect>
+		<je>officiais</je>
+		<tu>officiais</tu>
+		<il>officiait</il>
+		<nous>officiions</nous>
+		<vous>officiiez</vous>
+		<ils>officiaient</ils>
+	</imperfect>
+	<future>
+		<je>officierai</je>
+		<tu>officieras</tu>
+		<il>officiera</il>
+		<nous>officierons</nous>
+		<vous>officierez</vous>
+		<ils>officieront</ils>
+	</future>
+	<subjunctive>
+		<je>officie</je>
+		<tu>officies</tu>
+		<il>officie</il>
+		<nous>officiions</nous>
+		<vous>officiiez</vous>
+		<ils>officient</ils>
+	</subjunctive>
+	<conditional>
+		<je>officierais</je>
+		<tu>officierais</tu>
+		<il>officierait</il>
+		<nous>officierions</nous>
+		<vous>officieriez</vous>
+		<ils>officieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

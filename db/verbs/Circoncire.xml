@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>circoncire</infinitive>
+	<translation>to circumcise</translation>
+	<irregular />
+	<presentParticiple>circoncisant</presentParticiple>
+	<pastParticiple>circoncis</pastParticiple>
+	<present>
+		<je>circoncis</je>
+		<tu>circoncis</tu>
+		<il>circoncit</il>
+		<nous>circoncisons</nous>
+		<vous>circoncisez</vous>
+		<ils>circoncisent</ils>
+	</present>
+	<imperative>
+		<tu>circoncis</tu>
+		<nous>circoncisons</nous>
+		<vous>circoncisez</vous>
+	</imperative>
+	<imperfect>
+		<je>circoncisais</je>
+		<tu>circoncisais</tu>
+		<il>circoncisait</il>
+		<nous>circoncisions</nous>
+		<vous>circoncisiez</vous>
+		<ils>circoncisaient</ils>
+	</imperfect>
+	<future>
+		<je>circoncirai</je>
+		<tu>circonciras</tu>
+		<il>circoncira</il>
+		<nous>circoncirons</nous>
+		<vous>circoncirez</vous>
+		<ils>circonciront</ils>
+	</future>
+	<subjunctive>
+		<je>circoncise</je>
+		<tu>circoncises</tu>
+		<il>circoncise</il>
+		<nous>circoncisions</nous>
+		<vous>circoncisiez</vous>
+		<ils>circoncisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>circoncirais</je>
+		<tu>circoncirais</tu>
+		<il>circoncirait</il>
+		<nous>circoncirions</nous>
+		<vous>circonciriez</vous>
+		<ils>circonciraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

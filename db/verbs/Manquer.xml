@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>manquer</infinitive>
+	<translation>to miss</translation>
+	<presentParticiple>manquant</presentParticiple>
+	<pastParticiple>manqué</pastParticiple>
+	<present>
+		<je>manque</je>
+		<tu>manques</tu>
+		<il>manque</il>
+		<nous>manquons</nous>
+		<vous>manquez</vous>
+		<ils>manquent</ils>
+	</present>
+	<imperative>
+		<tu>manque</tu>
+		<nous>manquons</nous>
+		<vous>manquez</vous>
+	</imperative>
+	<imperfect>
+		<je>manquais</je>
+		<tu>manquais</tu>
+		<il>manquait</il>
+		<nous>manquions</nous>
+		<vous>manquiez</vous>
+		<ils>manquaient</ils>
+	</imperfect>
+	<future>
+		<je>manquerai</je>
+		<tu>manqueras</tu>
+		<il>manquera</il>
+		<nous>manquerons</nous>
+		<vous>manquerez</vous>
+		<ils>manqueront</ils>
+	</future>
+	<subjunctive>
+		<je>manque</je>
+		<tu>manques</tu>
+		<il>manque</il>
+		<nous>manquions</nous>
+		<vous>manquiez</vous>
+		<ils>manquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>manquerais</je>
+		<tu>manquerais</tu>
+		<il>manquerait</il>
+		<nous>manquerions</nous>
+		<vous>manqueriez</vous>
+		<ils>manqueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

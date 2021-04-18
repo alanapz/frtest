@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>déteindre</infinitive>
+	<translation>to bleach</translation>
+	<translation>to leach</translation>
+	<irregular />
+	<presentParticiple>déteignant</presentParticiple>
+	<pastParticiple>déteint</pastParticiple>
+	<present>
+		<je>déteins</je>
+		<tu>déteins</tu>
+		<il>déteint</il>
+		<nous>déteignons</nous>
+		<vous>déteignez</vous>
+		<ils>déteignent</ils>
+	</present>
+	<imperative>
+		<tu>déteins</tu>
+		<nous>déteignons</nous>
+		<vous>déteignez</vous>
+	</imperative>
+	<imperfect>
+		<je>déteignais</je>
+		<tu>déteignais</tu>
+		<il>déteignait</il>
+		<nous>déteignions</nous>
+		<vous>déteigniez</vous>
+		<ils>déteignaient</ils>
+	</imperfect>
+	<future>
+		<je>déteindrai</je>
+		<tu>déteindras</tu>
+		<il>déteindra</il>
+		<nous>déteindrons</nous>
+		<vous>déteindrez</vous>
+		<ils>déteindront</ils>
+	</future>
+	<subjunctive>
+		<je>déteigne</je>
+		<tu>déteignes</tu>
+		<il>déteigne</il>
+		<nous>déteignions</nous>
+		<vous>déteigniez</vous>
+		<ils>déteignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>déteindrais</je>
+		<tu>déteindrais</tu>
+		<il>déteindrait</il>
+		<nous>déteindrions</nous>
+		<vous>déteindriez</vous>
+		<ils>déteindraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

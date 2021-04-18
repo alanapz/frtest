@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>intimider</infinitive>
+	<translation>to intimidate</translation>
+	<presentParticiple>intimidant</presentParticiple>
+	<pastParticiple>intimidé</pastParticiple>
+	<present>
+		<je>intimide</je>
+		<tu>intimides</tu>
+		<il>intimide</il>
+		<nous>intimidons</nous>
+		<vous>intimidez</vous>
+		<ils>intimident</ils>
+	</present>
+	<imperative>
+		<tu>intimide</tu>
+		<nous>intimidons</nous>
+		<vous>intimidez</vous>
+	</imperative>
+	<imperfect>
+		<je>intimidais</je>
+		<tu>intimidais</tu>
+		<il>intimidait</il>
+		<nous>intimidions</nous>
+		<vous>intimidiez</vous>
+		<ils>intimidaient</ils>
+	</imperfect>
+	<future>
+		<je>intimiderai</je>
+		<tu>intimideras</tu>
+		<il>intimidera</il>
+		<nous>intimiderons</nous>
+		<vous>intimiderez</vous>
+		<ils>intimideront</ils>
+	</future>
+	<subjunctive>
+		<je>intimide</je>
+		<tu>intimides</tu>
+		<il>intimide</il>
+		<nous>intimidions</nous>
+		<vous>intimidiez</vous>
+		<ils>intimident</ils>
+	</subjunctive>
+	<conditional>
+		<je>intimiderais</je>
+		<tu>intimiderais</tu>
+		<il>intimiderait</il>
+		<nous>intimiderions</nous>
+		<vous>intimideriez</vous>
+		<ils>intimideraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>alourdir</infinitive>
+	<translation>to weigh down</translation>
+	<translation>make heavy</translation>
+	<presentParticiple>alourdissant</presentParticiple>
+	<pastParticiple>alourdi</pastParticiple>
+	<present>
+		<je>alourdis</je>
+		<tu>alourdis</tu>
+		<il>alourdit</il>
+		<nous>alourdissons</nous>
+		<vous>alourdissez</vous>
+		<ils>alourdissent</ils>
+	</present>
+	<imperative>
+		<tu>alourdis</tu>
+		<nous>alourdissons</nous>
+		<vous>alourdissez</vous>
+	</imperative>
+	<imperfect>
+		<je>alourdissais</je>
+		<tu>alourdissais</tu>
+		<il>alourdissait</il>
+		<nous>alourdissions</nous>
+		<vous>alourdissiez</vous>
+		<ils>alourdissaient</ils>
+	</imperfect>
+	<future>
+		<je>alourdirai</je>
+		<tu>alourdiras</tu>
+		<il>alourdira</il>
+		<nous>alourdirons</nous>
+		<vous>alourdirez</vous>
+		<ils>alourdiront</ils>
+	</future>
+	<subjunctive>
+		<je>alourdisse</je>
+		<tu>alourdisses</tu>
+		<il>alourdisse</il>
+		<nous>alourdissions</nous>
+		<vous>alourdissiez</vous>
+		<ils>alourdissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>alourdirais</je>
+		<tu>alourdirais</tu>
+		<il>alourdirait</il>
+		<nous>alourdirions</nous>
+		<vous>alourdiriez</vous>
+		<ils>alourdiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

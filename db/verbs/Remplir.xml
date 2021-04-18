@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>remplir</infinitive>
+            <translation>to fill</translation>
+            <presentParticiple>remplissant</presentParticiple>
+            <pastParticiple>rempli</pastParticiple>
+            <present>
+                <je>remplis</je>
+                <tu>remplis</tu>
+                <il>remplit</il>
+                <nous>remplissons</nous>
+                <vous>remplissez</vous>
+                <ils>remplissent</ils>
+            </present>
+            <imperative>
+                <tu>remplis</tu>
+                <nous>remplissons</nous>
+                <vous>remplissez</vous>
+            </imperative>
+            <imperfect>
+                <je>remplissais</je>
+                <tu>remplissais</tu>
+                <il>remplissait</il>
+                <nous>remplissions</nous>
+                <vous>remplissiez</vous>
+                <ils>remplissaient</ils>
+            </imperfect>
+            <future>
+                <je>remplirai</je>
+                <tu>rempliras</tu>
+                <il>remplira</il>
+                <nous>remplirons</nous>
+                <vous>remplirez</vous>
+                <ils>rempliront</ils>
+            </future>
+            <subjunctive>
+                <je>remplisse</je>
+                <tu>remplisses</tu>
+                <il>remplisse</il>
+                <nous>remplissions</nous>
+                <vous>remplissiez</vous>
+                <ils>remplissent</ils>
+            </subjunctive>
+            <conditional>
+                <je>remplirais</je>
+                <tu>remplirais</tu>
+                <il>remplirait</il>
+                <nous>remplirions</nous>
+                <vous>rempliriez</vous>
+                <ils>rempliraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>relier</infinitive>
+            <translation>to link</translation>
+            <presentParticiple>reliant</presentParticiple>
+            <pastParticiple>relié</pastParticiple>
+            <present>
+                <je>relie</je>
+                <tu>relies</tu>
+                <il>relie</il>
+                <nous>relions</nous>
+                <vous>reliez</vous>
+                <ils>relient</ils>
+            </present>
+            <imperative>
+                <tu>relie</tu>
+                <nous>relions</nous>
+                <vous>reliez</vous>
+            </imperative>
+            <imperfect>
+                <je>reliais</je>
+                <tu>reliais</tu>
+                <il>reliait</il>
+                <nous>reliions</nous>
+                <vous>reliiez</vous>
+                <ils>reliaient</ils>
+            </imperfect>
+            <future>
+                <je>relierai</je>
+                <tu>relieras</tu>
+                <il>reliera</il>
+                <nous>relierons</nous>
+                <vous>relierez</vous>
+                <ils>relieront</ils>
+            </future>
+            <subjunctive>
+                <je>relie</je>
+                <tu>relies</tu>
+                <il>relie</il>
+                <nous>reliions</nous>
+                <vous>reliiez</vous>
+                <ils>relient</ils>
+            </subjunctive>
+            <conditional>
+                <je>relierais</je>
+                <tu>relierais</tu>
+                <il>relierait</il>
+                <nous>relierions</nous>
+                <vous>relieriez</vous>
+                <ils>relieraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

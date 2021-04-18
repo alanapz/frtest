@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>séduire</infinitive>
+	<translation>to seduce</translation>
+	<irregular />
+	<presentParticiple>séduisant</presentParticiple>
+	<pastParticiple>séduit</pastParticiple>
+	<present>
+		<je>séduis</je>
+		<tu>séduis</tu>
+		<il>séduit</il>
+		<nous>séduisons</nous>
+		<vous>séduisez</vous>
+		<ils>séduisent</ils>
+	</present>
+	<imperative>
+		<tu>séduis</tu>
+		<nous>séduisons</nous>
+		<vous>séduisez</vous>
+	</imperative>
+	<imperfect>
+		<je>séduisais</je>
+		<tu>séduisais</tu>
+		<il>séduisait</il>
+		<nous>séduisions</nous>
+		<vous>séduisiez</vous>
+		<ils>séduisaient</ils>
+	</imperfect>
+	<future>
+		<je>séduirai</je>
+		<tu>séduiras</tu>
+		<il>séduira</il>
+		<nous>séduirons</nous>
+		<vous>séduirez</vous>
+		<ils>séduiront</ils>
+	</future>
+	<subjunctive>
+		<je>séduise</je>
+		<tu>séduises</tu>
+		<il>séduise</il>
+		<nous>séduisions</nous>
+		<vous>séduisiez</vous>
+		<ils>séduisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>séduirais</je>
+		<tu>séduirais</tu>
+		<il>séduirait</il>
+		<nous>séduirions</nous>
+		<vous>séduiriez</vous>
+		<ils>séduiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

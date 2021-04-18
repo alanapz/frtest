@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>assurer</infinitive>
+	<translation>to assure</translation>
+	<translation>ensure</translation>
+	<translation>insure</translation>
+	<presentParticiple>assurant</presentParticiple>
+	<pastParticiple>assuré</pastParticiple>
+	<present>
+		<je>assure</je>
+		<tu>assures</tu>
+		<il>assure</il>
+		<nous>assurons</nous>
+		<vous>assurez</vous>
+		<ils>assurent</ils>
+	</present>
+	<imperative>
+		<tu>assure</tu>
+		<nous>assurons</nous>
+		<vous>assurez</vous>
+	</imperative>
+	<imperfect>
+		<je>assurais</je>
+		<tu>assurais</tu>
+		<il>assurait</il>
+		<nous>assurions</nous>
+		<vous>assuriez</vous>
+		<ils>assuraient</ils>
+	</imperfect>
+	<future>
+		<je>assurerai</je>
+		<tu>assureras</tu>
+		<il>assurera</il>
+		<nous>assurerons</nous>
+		<vous>assurerez</vous>
+		<ils>assureront</ils>
+	</future>
+	<subjunctive>
+		<je>assure</je>
+		<tu>assures</tu>
+		<il>assure</il>
+		<nous>assurions</nous>
+		<vous>assuriez</vous>
+		<ils>assurent</ils>
+	</subjunctive>
+	<conditional>
+		<je>assurerais</je>
+		<tu>assurerais</tu>
+		<il>assurerait</il>
+		<nous>assurerions</nous>
+		<vous>assureriez</vous>
+		<ils>assureraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

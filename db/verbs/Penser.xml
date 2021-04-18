@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>penser</infinitive>
+	<translation>to think</translation>
+	<presentParticiple>pensant</presentParticiple>
+	<pastParticiple>pensé</pastParticiple>
+	<present>
+		<je>pense</je>
+		<tu>penses</tu>
+		<il>pense</il>
+		<nous>pensons</nous>
+		<vous>pensez</vous>
+		<ils>pensent</ils>
+	</present>
+	<imperative>
+		<tu>pense</tu>
+		<nous>pensons</nous>
+		<vous>pensez</vous>
+	</imperative>
+	<imperfect>
+		<je>pensais</je>
+		<tu>pensais</tu>
+		<il>pensait</il>
+		<nous>pensions</nous>
+		<vous>pensiez</vous>
+		<ils>pensaient</ils>
+	</imperfect>
+	<future>
+		<je>penserai</je>
+		<tu>penseras</tu>
+		<il>pensera</il>
+		<nous>penserons</nous>
+		<vous>penserez</vous>
+		<ils>penseront</ils>
+	</future>
+	<subjunctive>
+		<je>pense</je>
+		<tu>penses</tu>
+		<il>pense</il>
+		<nous>pensions</nous>
+		<vous>pensiez</vous>
+		<ils>pensent</ils>
+	</subjunctive>
+	<conditional>
+		<je>penserais</je>
+		<tu>penserais</tu>
+		<il>penserait</il>
+		<nous>penserions</nous>
+		<vous>penseriez</vous>
+		<ils>penseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

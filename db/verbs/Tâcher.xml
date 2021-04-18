@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>tâcher</infinitive>
+	<translation>to try</translation>
+	<translation>endeavor to</translation>
+	<presentParticiple>tâchant</presentParticiple>
+	<pastParticiple>tâché</pastParticiple>
+	<present>
+		<je>tâche</je>
+		<tu>tâches</tu>
+		<il>tâche</il>
+		<nous>tâchons</nous>
+		<vous>tâchez</vous>
+		<ils>tâchent</ils>
+	</present>
+	<imperative>
+		<tu>tâche</tu>
+		<nous>tâchons</nous>
+		<vous>tâchez</vous>
+	</imperative>
+	<imperfect>
+		<je>tâchais</je>
+		<tu>tâchais</tu>
+		<il>tâchait</il>
+		<nous>tâchions</nous>
+		<vous>tâchiez</vous>
+		<ils>tâchaient</ils>
+	</imperfect>
+	<future>
+		<je>tâcherai</je>
+		<tu>tâcheras</tu>
+		<il>tâchera</il>
+		<nous>tâcherons</nous>
+		<vous>tâcherez</vous>
+		<ils>tâcheront</ils>
+	</future>
+	<subjunctive>
+		<je>tâche</je>
+		<tu>tâches</tu>
+		<il>tâche</il>
+		<nous>tâchions</nous>
+		<vous>tâchiez</vous>
+		<ils>tâchent</ils>
+	</subjunctive>
+	<conditional>
+		<je>tâcherais</je>
+		<tu>tâcherais</tu>
+		<il>tâcherait</il>
+		<nous>tâcherions</nous>
+		<vous>tâcheriez</vous>
+		<ils>tâcheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>améliorer</infinitive>
+	<translation>to improve</translation>
+	<presentParticiple>améliorant</presentParticiple>
+	<pastParticiple>amélioré</pastParticiple>
+	<present>
+		<je>améliore</je>
+		<tu>améliores</tu>
+		<il>améliore</il>
+		<nous>améliorons</nous>
+		<vous>améliorez</vous>
+		<ils>améliorent</ils>
+	</present>
+	<imperative>
+		<tu>améliore</tu>
+		<nous>améliorons</nous>
+		<vous>améliorez</vous>
+	</imperative>
+	<imperfect>
+		<je>améliorais</je>
+		<tu>améliorais</tu>
+		<il>améliorait</il>
+		<nous>améliorions</nous>
+		<vous>amélioriez</vous>
+		<ils>amélioraient</ils>
+	</imperfect>
+	<future>
+		<je>améliorerai</je>
+		<tu>amélioreras</tu>
+		<il>améliorera</il>
+		<nous>améliorerons</nous>
+		<vous>améliorerez</vous>
+		<ils>amélioreront</ils>
+	</future>
+	<subjunctive>
+		<je>améliore</je>
+		<tu>améliores</tu>
+		<il>améliore</il>
+		<nous>améliorions</nous>
+		<vous>amélioriez</vous>
+		<ils>améliorent</ils>
+	</subjunctive>
+	<conditional>
+		<je>améliorerais</je>
+		<tu>améliorerais</tu>
+		<il>améliorerait</il>
+		<nous>améliorerions</nous>
+		<vous>amélioreriez</vous>
+		<ils>amélioreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

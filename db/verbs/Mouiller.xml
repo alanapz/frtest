@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>mouiller</infinitive>
+	<translation>to wet</translation>
+	<translation>water (down)</translation>
+	<translation>dampen</translation>
+	<presentParticiple>mouillant</presentParticiple>
+	<pastParticiple>mouillé</pastParticiple>
+	<present>
+		<je>mouille</je>
+		<tu>mouilles</tu>
+		<il>mouille</il>
+		<nous>mouillons</nous>
+		<vous>mouillez</vous>
+		<ils>mouillent</ils>
+	</present>
+	<imperative>
+		<tu>mouille</tu>
+		<nous>mouillons</nous>
+		<vous>mouillez</vous>
+	</imperative>
+	<imperfect>
+		<je>mouillais</je>
+		<tu>mouillais</tu>
+		<il>mouillait</il>
+		<nous>mouillions</nous>
+		<vous>mouilliez</vous>
+		<ils>mouillaient</ils>
+	</imperfect>
+	<future>
+		<je>mouillerai</je>
+		<tu>mouilleras</tu>
+		<il>mouillera</il>
+		<nous>mouillerons</nous>
+		<vous>mouillerez</vous>
+		<ils>mouilleront</ils>
+	</future>
+	<subjunctive>
+		<je>mouille</je>
+		<tu>mouilles</tu>
+		<il>mouille</il>
+		<nous>mouillions</nous>
+		<vous>mouilliez</vous>
+		<ils>mouillent</ils>
+	</subjunctive>
+	<conditional>
+		<je>mouillerais</je>
+		<tu>mouillerais</tu>
+		<il>mouillerait</il>
+		<nous>mouillerions</nous>
+		<vous>mouilleriez</vous>
+		<ils>mouilleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

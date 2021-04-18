@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>manifester</infinitive>
+	<translation>to show</translation>
+	<translation>indicate</translation>
+	<translation>demonstrate</translation>
+	<presentParticiple>manifestant</presentParticiple>
+	<pastParticiple>manifesté</pastParticiple>
+	<present>
+		<je>manifeste</je>
+		<tu>manifestes</tu>
+		<il>manifeste</il>
+		<nous>manifestons</nous>
+		<vous>manifestez</vous>
+		<ils>manifestent</ils>
+	</present>
+	<imperative>
+		<tu>manifeste</tu>
+		<nous>manifestons</nous>
+		<vous>manifestez</vous>
+	</imperative>
+	<imperfect>
+		<je>manifestais</je>
+		<tu>manifestais</tu>
+		<il>manifestait</il>
+		<nous>manifestions</nous>
+		<vous>manifestiez</vous>
+		<ils>manifestaient</ils>
+	</imperfect>
+	<future>
+		<je>manifesterai</je>
+		<tu>manifesteras</tu>
+		<il>manifestera</il>
+		<nous>manifesterons</nous>
+		<vous>manifesterez</vous>
+		<ils>manifesteront</ils>
+	</future>
+	<subjunctive>
+		<je>manifeste</je>
+		<tu>manifestes</tu>
+		<il>manifeste</il>
+		<nous>manifestions</nous>
+		<vous>manifestiez</vous>
+		<ils>manifestent</ils>
+	</subjunctive>
+	<conditional>
+		<je>manifesterais</je>
+		<tu>manifesterais</tu>
+		<il>manifesterait</il>
+		<nous>manifesterions</nous>
+		<vous>manifesteriez</vous>
+		<ils>manifesteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

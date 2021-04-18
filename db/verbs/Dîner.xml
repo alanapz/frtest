@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dîner</infinitive>
+	<translation>to have dinner</translation>
+	<presentParticiple>dînant</presentParticiple>
+	<pastParticiple>dîné</pastParticiple>
+	<present>
+		<je>dîne</je>
+		<tu>dînes</tu>
+		<il>dîne</il>
+		<nous>dînons</nous>
+		<vous>dînez</vous>
+		<ils>dînent</ils>
+	</present>
+	<imperative>
+		<tu>dîne</tu>
+		<nous>dînons</nous>
+		<vous>dînez</vous>
+	</imperative>
+	<imperfect>
+		<je>dînais</je>
+		<tu>dînais</tu>
+		<il>dînait</il>
+		<nous>dînions</nous>
+		<vous>dîniez</vous>
+		<ils>dînaient</ils>
+	</imperfect>
+	<future>
+		<je>dînerai</je>
+		<tu>dîneras</tu>
+		<il>dînera</il>
+		<nous>dînerons</nous>
+		<vous>dînerez</vous>
+		<ils>dîneront</ils>
+	</future>
+	<subjunctive>
+		<je>dîne</je>
+		<tu>dînes</tu>
+		<il>dîne</il>
+		<nous>dînions</nous>
+		<vous>dîniez</vous>
+		<ils>dînent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dînerais</je>
+		<tu>dînerais</tu>
+		<il>dînerait</il>
+		<nous>dînerions</nous>
+		<vous>dîneriez</vous>
+		<ils>dîneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

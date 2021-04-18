@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>pendre</infinitive>
+	<translation>to hang</translation>
+	<presentParticiple>pendant</presentParticiple>
+	<pastParticiple>pendu</pastParticiple>
+	<present>
+		<je>pends</je>
+		<tu>pends</tu>
+		<il>pend</il>
+		<nous>pendons</nous>
+		<vous>pendez</vous>
+		<ils>pendent</ils>
+	</present>
+	<imperative>
+		<tu>pends</tu>
+		<nous>pendons</nous>
+		<vous>pendez</vous>
+	</imperative>
+	<imperfect>
+		<je>pendais</je>
+		<tu>pendais</tu>
+		<il>pendait</il>
+		<nous>pendions</nous>
+		<vous>pendiez</vous>
+		<ils>pendaient</ils>
+	</imperfect>
+	<future>
+		<je>pendrai</je>
+		<tu>pendras</tu>
+		<il>pendra</il>
+		<nous>pendrons</nous>
+		<vous>pendrez</vous>
+		<ils>pendront</ils>
+	</future>
+	<subjunctive>
+		<je>pende</je>
+		<tu>pendes</tu>
+		<il>pende</il>
+		<nous>pendions</nous>
+		<vous>pendiez</vous>
+		<ils>pendent</ils>
+	</subjunctive>
+	<conditional>
+		<je>pendrais</je>
+		<tu>pendrais</tu>
+		<il>pendrait</il>
+		<nous>pendrions</nous>
+		<vous>pendriez</vous>
+		<ils>pendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

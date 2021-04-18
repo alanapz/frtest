@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!ELEMENT dictionary (verbs)*>
+<!ELEMENT verbs (verb)*>
+<!ELEMENT verb (infinitive, hAspire?, translation*, transitive?, irregular?, takesEtreInPerfect?, spellingChange?, stemChange?, presentParticiple?, pastParticiple?, pronominal?, present?, imperative?, imperfect?, future?, subjunctive?, conditional?)>
+<!ELEMENT infinitive (#PCDATA)>
+<!ELEMENT hAspire EMPTY>
+<!ELEMENT translation (#PCDATA)>
+<!ELEMENT transitive EMPTY>
+<!ELEMENT important EMPTY>
+<!ELEMENT commonplace EMPTY>
+<!ELEMENT irregular EMPTY>
+<!ELEMENT takesEtreInPerfect EMPTY>
+<!ELEMENT spellingChange EMPTY>
+<!ELEMENT stemChange EMPTY>
+<!ELEMENT presentParticiple (#PCDATA)>
+<!ELEMENT pastParticiple (#PCDATA)>
+<!ELEMENT pronominal (translation+)>
+<!ELEMENT present (je, tu, il, nous, vous, ils)>
+<!ELEMENT imperative (tu, nous, vous)>
+<!ELEMENT imperfect (je, tu, il, nous, vous, ils)>
+<!ELEMENT future (je, tu, il, nous, vous, ils)>
+<!ELEMENT subjunctive (je, tu, il, nous, vous, ils)>
+<!ELEMENT conditional (je, tu, il, nous, vous, ils)>
+<!ELEMENT je (#PCDATA)>
+<!ELEMENT tu (#PCDATA)>
+<!ELEMENT il (#PCDATA)>
+<!ELEMENT nous (#PCDATA)>
+<!ELEMENT vous (#PCDATA)>
+<!ELEMENT ils (#PCDATA)>

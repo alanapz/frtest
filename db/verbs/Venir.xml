@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>venir</infinitive>
+	<translation>to come</translation>
+	<irregular />
+	<takesEtreInPerfect />
+	<presentParticiple>venant</presentParticiple>
+	<pastParticiple>venu</pastParticiple>
+	<present>
+		<je>viens</je>
+		<tu>viens</tu>
+		<il>vient</il>
+		<nous>venons</nous>
+		<vous>venez</vous>
+		<ils>viennent</ils>
+	</present>
+	<imperative>
+		<tu>viens</tu>
+		<nous>venons</nous>
+		<vous>venez</vous>
+	</imperative>
+	<imperfect>
+		<je>venais</je>
+		<tu>venais</tu>
+		<il>venait</il>
+		<nous>venions</nous>
+		<vous>veniez</vous>
+		<ils>venaient</ils>
+	</imperfect>
+	<future>
+		<je>viendrai</je>
+		<tu>viendras</tu>
+		<il>viendra</il>
+		<nous>viendrons</nous>
+		<vous>viendrez</vous>
+		<ils>viendront</ils>
+	</future>
+	<subjunctive>
+		<je>vienne</je>
+		<tu>viennes</tu>
+		<il>vienne</il>
+		<nous>venions</nous>
+		<vous>veniez</vous>
+		<ils>viennent</ils>
+	</subjunctive>
+	<conditional>
+		<je>viendrais</je>
+		<tu>viendrais</tu>
+		<il>viendrait</il>
+		<nous>viendrions</nous>
+		<vous>viendriez</vous>
+		<ils>viendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>ululer</infinitive>
+	<translation>to hoot</translation>
+	<translation>screech</translation>
+	<presentParticiple>ululant</presentParticiple>
+	<pastParticiple>ululé</pastParticiple>
+	<present>
+		<je>ulule</je>
+		<tu>ulules</tu>
+		<il>ulule</il>
+		<nous>ululons</nous>
+		<vous>ululez</vous>
+		<ils>ululent</ils>
+	</present>
+	<imperative>
+		<tu>ulule</tu>
+		<nous>ululons</nous>
+		<vous>ululez</vous>
+	</imperative>
+	<imperfect>
+		<je>ululais</je>
+		<tu>ululais</tu>
+		<il>ululait</il>
+		<nous>ululions</nous>
+		<vous>ululiez</vous>
+		<ils>ululaient</ils>
+	</imperfect>
+	<future>
+		<je>ululerai</je>
+		<tu>ululeras</tu>
+		<il>ululera</il>
+		<nous>ululerons</nous>
+		<vous>ululerez</vous>
+		<ils>ululeront</ils>
+	</future>
+	<subjunctive>
+		<je>ulule</je>
+		<tu>ulules</tu>
+		<il>ulule</il>
+		<nous>ululions</nous>
+		<vous>ululiez</vous>
+		<ils>ululent</ils>
+	</subjunctive>
+	<conditional>
+		<je>ululerais</je>
+		<tu>ululerais</tu>
+		<il>ululerait</il>
+		<nous>ululerions</nous>
+		<vous>ululeriez</vous>
+		<ils>ululeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

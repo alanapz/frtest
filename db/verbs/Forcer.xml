@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>forcer</infinitive>
+	<translation>to force</translation>
+	<spellingChange />
+	<presentParticiple>forçant</presentParticiple>
+	<pastParticiple>forcé</pastParticiple>
+	<present>
+		<je>force</je>
+		<tu>forces</tu>
+		<il>force</il>
+		<nous>forçons</nous>
+		<vous>forcez</vous>
+		<ils>forcent</ils>
+	</present>
+	<imperative>
+		<tu>force</tu>
+		<nous>forçons</nous>
+		<vous>forcez</vous>
+	</imperative>
+	<imperfect>
+		<je>forçais</je>
+		<tu>forçais</tu>
+		<il>forçait</il>
+		<nous>forcions</nous>
+		<vous>forciez</vous>
+		<ils>forçaient</ils>
+	</imperfect>
+	<future>
+		<je>forcerai</je>
+		<tu>forceras</tu>
+		<il>forcera</il>
+		<nous>forcerons</nous>
+		<vous>forcerez</vous>
+		<ils>forceront</ils>
+	</future>
+	<subjunctive>
+		<je>force</je>
+		<tu>forces</tu>
+		<il>force</il>
+		<nous>forcions</nous>
+		<vous>forciez</vous>
+		<ils>forcent</ils>
+	</subjunctive>
+	<conditional>
+		<je>forcerais</je>
+		<tu>forcerais</tu>
+		<il>forcerait</il>
+		<nous>forcerions</nous>
+		<vous>forceriez</vous>
+		<ils>forceraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

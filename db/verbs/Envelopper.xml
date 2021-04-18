@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>envelopper</infinitive>
+	<translation>to envelop</translation>
+	<presentParticiple>enveloppant</presentParticiple>
+	<pastParticiple>enveloppé</pastParticiple>
+	<present>
+		<je>enveloppe</je>
+		<tu>enveloppes</tu>
+		<il>enveloppe</il>
+		<nous>enveloppons</nous>
+		<vous>enveloppez</vous>
+		<ils>enveloppent</ils>
+	</present>
+	<imperative>
+		<tu>enveloppe</tu>
+		<nous>enveloppons</nous>
+		<vous>enveloppez</vous>
+	</imperative>
+	<imperfect>
+		<je>enveloppais</je>
+		<tu>enveloppais</tu>
+		<il>enveloppait</il>
+		<nous>enveloppions</nous>
+		<vous>enveloppiez</vous>
+		<ils>enveloppaient</ils>
+	</imperfect>
+	<future>
+		<je>envelopperai</je>
+		<tu>envelopperas</tu>
+		<il>enveloppera</il>
+		<nous>envelopperons</nous>
+		<vous>envelopperez</vous>
+		<ils>envelopperont</ils>
+	</future>
+	<subjunctive>
+		<je>enveloppe</je>
+		<tu>enveloppes</tu>
+		<il>enveloppe</il>
+		<nous>enveloppions</nous>
+		<vous>enveloppiez</vous>
+		<ils>enveloppent</ils>
+	</subjunctive>
+	<conditional>
+		<je>envelopperais</je>
+		<tu>envelopperais</tu>
+		<il>envelopperait</il>
+		<nous>envelopperions</nous>
+		<vous>envelopperiez</vous>
+		<ils>envelopperaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

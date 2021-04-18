@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dissuader</infinitive>
+	<translation>to dissuade</translation>
+	<presentParticiple>dissuadant</presentParticiple>
+	<pastParticiple>dissuadé</pastParticiple>
+	<present>
+		<je>dissuade</je>
+		<tu>dissuades</tu>
+		<il>dissuade</il>
+		<nous>dissuadons</nous>
+		<vous>dissuadez</vous>
+		<ils>dissuadent</ils>
+	</present>
+	<imperative>
+		<tu>dissuade</tu>
+		<nous>dissuadons</nous>
+		<vous>dissuadez</vous>
+	</imperative>
+	<imperfect>
+		<je>dissuadais</je>
+		<tu>dissuadais</tu>
+		<il>dissuadait</il>
+		<nous>dissuadions</nous>
+		<vous>dissuadiez</vous>
+		<ils>dissuadaient</ils>
+	</imperfect>
+	<future>
+		<je>dissuaderai</je>
+		<tu>dissuaderas</tu>
+		<il>dissuadera</il>
+		<nous>dissuaderons</nous>
+		<vous>dissuaderez</vous>
+		<ils>dissuaderont</ils>
+	</future>
+	<subjunctive>
+		<je>dissuade</je>
+		<tu>dissuades</tu>
+		<il>dissuade</il>
+		<nous>dissuadions</nous>
+		<vous>dissuadiez</vous>
+		<ils>dissuadent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dissuaderais</je>
+		<tu>dissuaderais</tu>
+		<il>dissuaderait</il>
+		<nous>dissuaderions</nous>
+		<vous>dissuaderiez</vous>
+		<ils>dissuaderaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>réciter</infinitive>
+	<translation>to recite</translation>
+	<presentParticiple>récitant</presentParticiple>
+	<pastParticiple>récité</pastParticiple>
+	<present>
+		<je>récite</je>
+		<tu>récites</tu>
+		<il>récite</il>
+		<nous>récitons</nous>
+		<vous>récitez</vous>
+		<ils>récitent</ils>
+	</present>
+	<imperative>
+		<tu>récite</tu>
+		<nous>récitons</nous>
+		<vous>récitez</vous>
+	</imperative>
+	<imperfect>
+		<je>récitais</je>
+		<tu>récitais</tu>
+		<il>récitait</il>
+		<nous>récitions</nous>
+		<vous>récitiez</vous>
+		<ils>récitaient</ils>
+	</imperfect>
+	<future>
+		<je>réciterai</je>
+		<tu>réciteras</tu>
+		<il>récitera</il>
+		<nous>réciterons</nous>
+		<vous>réciterez</vous>
+		<ils>réciteront</ils>
+	</future>
+	<subjunctive>
+		<je>récite</je>
+		<tu>récites</tu>
+		<il>récite</il>
+		<nous>récitions</nous>
+		<vous>récitiez</vous>
+		<ils>récitent</ils>
+	</subjunctive>
+	<conditional>
+		<je>réciterais</je>
+		<tu>réciterais</tu>
+		<il>réciterait</il>
+		<nous>réciterions</nous>
+		<vous>réciteriez</vous>
+		<ils>réciteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

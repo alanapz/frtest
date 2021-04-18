@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>enfermer</infinitive>
+	<translation>to shut/lock in</translation>
+	<translation>imprison</translation>
+	<presentParticiple>enfermant</presentParticiple>
+	<pastParticiple>enfermé</pastParticiple>
+	<present>
+		<je>enferme</je>
+		<tu>enfermes</tu>
+		<il>enferme</il>
+		<nous>enfermons</nous>
+		<vous>enfermez</vous>
+		<ils>enferment</ils>
+	</present>
+	<imperative>
+		<tu>enferme</tu>
+		<nous>enfermons</nous>
+		<vous>enfermez</vous>
+	</imperative>
+	<imperfect>
+		<je>enfermais</je>
+		<tu>enfermais</tu>
+		<il>enfermait</il>
+		<nous>enfermions</nous>
+		<vous>enfermiez</vous>
+		<ils>enfermaient</ils>
+	</imperfect>
+	<future>
+		<je>enfermerai</je>
+		<tu>enfermeras</tu>
+		<il>enfermera</il>
+		<nous>enfermerons</nous>
+		<vous>enfermerez</vous>
+		<ils>enfermeront</ils>
+	</future>
+	<subjunctive>
+		<je>enferme</je>
+		<tu>enfermes</tu>
+		<il>enferme</il>
+		<nous>enfermions</nous>
+		<vous>enfermiez</vous>
+		<ils>enferment</ils>
+	</subjunctive>
+	<conditional>
+		<je>enfermerais</je>
+		<tu>enfermerais</tu>
+		<il>enfermerait</il>
+		<nous>enfermerions</nous>
+		<vous>enfermeriez</vous>
+		<ils>enfermeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>compromettre</infinitive>
+	<translation>to compromise</translation>
+	<irregular />
+	<presentParticiple>compromettant</presentParticiple>
+	<pastParticiple>compromis</pastParticiple>
+	<present>
+		<je>compromets</je>
+		<tu>compromets</tu>
+		<il>compromet</il>
+		<nous>compromettons</nous>
+		<vous>compromettez</vous>
+		<ils>compromettent</ils>
+	</present>
+	<imperative>
+		<tu>compromets</tu>
+		<nous>compromettons</nous>
+		<vous>compromettez</vous>
+	</imperative>
+	<imperfect>
+		<je>compromettais</je>
+		<tu>compromettais</tu>
+		<il>compromettait</il>
+		<nous>compromettions</nous>
+		<vous>compromettiez</vous>
+		<ils>compromettaient</ils>
+	</imperfect>
+	<future>
+		<je>compromettrai</je>
+		<tu>compromettras</tu>
+		<il>compromettra</il>
+		<nous>compromettrons</nous>
+		<vous>compromettrez</vous>
+		<ils>compromettront</ils>
+	</future>
+	<subjunctive>
+		<je>compromette</je>
+		<tu>compromettes</tu>
+		<il>compromette</il>
+		<nous>compromettions</nous>
+		<vous>compromettiez</vous>
+		<ils>compromettent</ils>
+	</subjunctive>
+	<conditional>
+		<je>compromettrais</je>
+		<tu>compromettrais</tu>
+		<il>compromettrait</il>
+		<nous>compromettrions</nous>
+		<vous>compromettriez</vous>
+		<ils>compromettraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

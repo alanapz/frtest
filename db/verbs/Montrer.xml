@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>montrer</infinitive>
+	<translation>to show</translation>
+	<presentParticiple>montrant</presentParticiple>
+	<pastParticiple>montré</pastParticiple>
+	<present>
+		<je>montre</je>
+		<tu>montres</tu>
+		<il>montre</il>
+		<nous>montrons</nous>
+		<vous>montrez</vous>
+		<ils>montrent</ils>
+	</present>
+	<imperative>
+		<tu>montre</tu>
+		<nous>montrons</nous>
+		<vous>montrez</vous>
+	</imperative>
+	<imperfect>
+		<je>montrais</je>
+		<tu>montrais</tu>
+		<il>montrait</il>
+		<nous>montrions</nous>
+		<vous>montriez</vous>
+		<ils>montraient</ils>
+	</imperfect>
+	<future>
+		<je>montrerai</je>
+		<tu>montreras</tu>
+		<il>montrera</il>
+		<nous>montrerons</nous>
+		<vous>montrerez</vous>
+		<ils>montreront</ils>
+	</future>
+	<subjunctive>
+		<je>montre</je>
+		<tu>montres</tu>
+		<il>montre</il>
+		<nous>montrions</nous>
+		<vous>montriez</vous>
+		<ils>montrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>montrerais</je>
+		<tu>montrerais</tu>
+		<il>montrerait</il>
+		<nous>montrerions</nous>
+		<vous>montreriez</vous>
+		<ils>montreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

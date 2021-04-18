@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>épreindre</infinitive>
+	<translation>to juice</translation>
+	<irregular />
+	<presentParticiple>épreignant</presentParticiple>
+	<pastParticiple>épreint</pastParticiple>
+	<present>
+		<je>épreins</je>
+		<tu>épreins</tu>
+		<il>épreint</il>
+		<nous>épreignons</nous>
+		<vous>épreignez</vous>
+		<ils>épreignent</ils>
+	</present>
+	<imperative>
+		<tu>épreins</tu>
+		<nous>épreignons</nous>
+		<vous>épreignez</vous>
+	</imperative>
+	<imperfect>
+		<je>épreignais</je>
+		<tu>épreignais</tu>
+		<il>épreignait</il>
+		<nous>épreignions</nous>
+		<vous>épreigniez</vous>
+		<ils>épreignaient</ils>
+	</imperfect>
+	<future>
+		<je>épreindrai</je>
+		<tu>épreindras</tu>
+		<il>épreindra</il>
+		<nous>épreindrons</nous>
+		<vous>épreindrez</vous>
+		<ils>épreindront</ils>
+	</future>
+	<subjunctive>
+		<je>épreigne</je>
+		<tu>épreignes</tu>
+		<il>épreigne</il>
+		<nous>épreignions</nous>
+		<vous>épreigniez</vous>
+		<ils>épreignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>épreindrais</je>
+		<tu>épreindrais</tu>
+		<il>épreindrait</il>
+		<nous>épreindrions</nous>
+		<vous>épreindriez</vous>
+		<ils>épreindraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

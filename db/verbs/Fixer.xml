@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>fixer</infinitive>
+	<translation>to fix</translation>
+	<translation>fasten</translation>
+	<translation>to set (a date)</translation>
+	<presentParticiple>fixant</presentParticiple>
+	<pastParticiple>fixé</pastParticiple>
+	<present>
+		<je>fixe</je>
+		<tu>fixes</tu>
+		<il>fixe</il>
+		<nous>fixons</nous>
+		<vous>fixez</vous>
+		<ils>fixent</ils>
+	</present>
+	<imperative>
+		<tu>fixe</tu>
+		<nous>fixons</nous>
+		<vous>fixez</vous>
+	</imperative>
+	<imperfect>
+		<je>fixais</je>
+		<tu>fixais</tu>
+		<il>fixait</il>
+		<nous>fixions</nous>
+		<vous>fixiez</vous>
+		<ils>fixaient</ils>
+	</imperfect>
+	<future>
+		<je>fixerai</je>
+		<tu>fixeras</tu>
+		<il>fixera</il>
+		<nous>fixerons</nous>
+		<vous>fixerez</vous>
+		<ils>fixeront</ils>
+	</future>
+	<subjunctive>
+		<je>fixe</je>
+		<tu>fixes</tu>
+		<il>fixe</il>
+		<nous>fixions</nous>
+		<vous>fixiez</vous>
+		<ils>fixent</ils>
+	</subjunctive>
+	<conditional>
+		<je>fixerais</je>
+		<tu>fixerais</tu>
+		<il>fixerait</il>
+		<nous>fixerions</nous>
+		<vous>fixeriez</vous>
+		<ils>fixeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

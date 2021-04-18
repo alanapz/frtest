@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>caresser</infinitive>
+	<translation>to caress</translation>
+	<presentParticiple>caressant</presentParticiple>
+	<pastParticiple>caressé</pastParticiple>
+	<present>
+		<je>caresse</je>
+		<tu>caresses</tu>
+		<il>caresse</il>
+		<nous>caressons</nous>
+		<vous>caressez</vous>
+		<ils>caressent</ils>
+	</present>
+	<imperative>
+		<tu>caresse</tu>
+		<nous>caressons</nous>
+		<vous>caressez</vous>
+	</imperative>
+	<imperfect>
+		<je>caressais</je>
+		<tu>caressais</tu>
+		<il>caressait</il>
+		<nous>caressions</nous>
+		<vous>caressiez</vous>
+		<ils>caressaient</ils>
+	</imperfect>
+	<future>
+		<je>caresserai</je>
+		<tu>caresseras</tu>
+		<il>caressera</il>
+		<nous>caresserons</nous>
+		<vous>caresserez</vous>
+		<ils>caresseront</ils>
+	</future>
+	<subjunctive>
+		<je>caresse</je>
+		<tu>caresses</tu>
+		<il>caresse</il>
+		<nous>caressions</nous>
+		<vous>caressiez</vous>
+		<ils>caressent</ils>
+	</subjunctive>
+	<conditional>
+		<je>caresserais</je>
+		<tu>caresserais</tu>
+		<il>caresserait</il>
+		<nous>caresserions</nous>
+		<vous>caresseriez</vous>
+		<ils>caresseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

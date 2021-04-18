@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>guetter</infinitive>
+	<translation>to watch</translation>
+	<translation>to threaten</translation>
+	<presentParticiple>guettant</presentParticiple>
+	<pastParticiple>guetté</pastParticiple>
+	<present>
+		<je>guette</je>
+		<tu>guettes</tu>
+		<il>guette</il>
+		<nous>guettons</nous>
+		<vous>guettez</vous>
+		<ils>guettent</ils>
+	</present>
+	<imperative>
+		<tu>guette</tu>
+		<nous>guettons</nous>
+		<vous>guettez</vous>
+	</imperative>
+	<imperfect>
+		<je>guettais</je>
+		<tu>guettais</tu>
+		<il>guettait</il>
+		<nous>guettions</nous>
+		<vous>guettiez</vous>
+		<ils>guettaient</ils>
+	</imperfect>
+	<future>
+		<je>guetterai</je>
+		<tu>guetteras</tu>
+		<il>guettera</il>
+		<nous>guetterons</nous>
+		<vous>guetterez</vous>
+		<ils>guetteront</ils>
+	</future>
+	<subjunctive>
+		<je>guette</je>
+		<tu>guettes</tu>
+		<il>guette</il>
+		<nous>guettions</nous>
+		<vous>guettiez</vous>
+		<ils>guettent</ils>
+	</subjunctive>
+	<conditional>
+		<je>guetterais</je>
+		<tu>guetterais</tu>
+		<il>guetterait</il>
+		<nous>guetterions</nous>
+		<vous>guetteriez</vous>
+		<ils>guetteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

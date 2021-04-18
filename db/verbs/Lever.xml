@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>lever</infinitive>
+            <translation>to raise</translation>
+            <translation>to lift</translation>
+            <transitive />
+            <presentParticiple>levant</presentParticiple>
+            <pastParticiple>levé</pastParticiple>
+            <pronominal>
+                <translation>to get up</translation>
+                <translation>to rise</translation>
+            </pronominal>
+            <present>
+                <je>lève</je>
+                <tu>lèves</tu>
+                <il>lève</il>
+                <nous>levons</nous>
+                <vous>levez</vous>
+                <ils>lèvent</ils>
+            </present>
+            <imperative>
+                <tu>lève</tu>
+                <nous>levons</nous>
+                <vous>levez</vous>
+            </imperative>
+            <imperfect>
+                <je>levais</je>
+                <tu>levais</tu>
+                <il>levait</il>
+                <nous>levions</nous>
+                <vous>leviez</vous>
+                <ils>levaient</ils>
+            </imperfect>
+            <future>
+                <je>lèverai</je>
+                <tu>lèveras</tu>
+                <il>lèvera</il>
+                <nous>lèverons</nous>
+                <vous>lèverez</vous>
+                <ils>lèveront</ils>
+            </future>
+            <subjunctive>
+                <je>lève</je>
+                <tu>lèves</tu>
+                <il>lève</il>
+                <nous>levions</nous>
+                <vous>leviez</vous>
+                <ils>lèvent</ils>
+            </subjunctive>
+            <conditional>
+                <je>lèverais</je>
+                <tu>lèverais</tu>
+                <il>lèverait</il>
+                <nous>lèverions</nous>
+                <vous>lèveriez</vous>
+                <ils>lèveraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

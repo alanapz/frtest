@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>décorer</infinitive>
+	<translation>to decorate</translation>
+	<presentParticiple>décorant</presentParticiple>
+	<pastParticiple>décoré</pastParticiple>
+	<present>
+		<je>décore</je>
+		<tu>décores</tu>
+		<il>décore</il>
+		<nous>décorons</nous>
+		<vous>décorez</vous>
+		<ils>décorent</ils>
+	</present>
+	<imperative>
+		<tu>décore</tu>
+		<nous>décorons</nous>
+		<vous>décorez</vous>
+	</imperative>
+	<imperfect>
+		<je>décorais</je>
+		<tu>décorais</tu>
+		<il>décorait</il>
+		<nous>décorions</nous>
+		<vous>décoriez</vous>
+		<ils>décoraient</ils>
+	</imperfect>
+	<future>
+		<je>décorerai</je>
+		<tu>décoreras</tu>
+		<il>décorera</il>
+		<nous>décorerons</nous>
+		<vous>décorerez</vous>
+		<ils>décoreront</ils>
+	</future>
+	<subjunctive>
+		<je>décore</je>
+		<tu>décores</tu>
+		<il>décore</il>
+		<nous>décorions</nous>
+		<vous>décoriez</vous>
+		<ils>décorent</ils>
+	</subjunctive>
+	<conditional>
+		<je>décorerais</je>
+		<tu>décorerais</tu>
+		<il>décorerait</il>
+		<nous>décorerions</nous>
+		<vous>décoreriez</vous>
+		<ils>décoreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

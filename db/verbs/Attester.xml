@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>attester</infinitive>
+	<translation>to testify</translation>
+	<translation>vouch</translation>
+	<translation>attest</translation>
+	<presentParticiple>attestant</presentParticiple>
+	<pastParticiple>attesté</pastParticiple>
+	<present>
+		<je>atteste</je>
+		<tu>attestes</tu>
+		<il>atteste</il>
+		<nous>attestons</nous>
+		<vous>attestez</vous>
+		<ils>attestent</ils>
+	</present>
+	<imperative>
+		<tu>atteste</tu>
+		<nous>attestons</nous>
+		<vous>attestez</vous>
+	</imperative>
+	<imperfect>
+		<je>attestais</je>
+		<tu>attestais</tu>
+		<il>attestait</il>
+		<nous>attestions</nous>
+		<vous>attestiez</vous>
+		<ils>attestaient</ils>
+	</imperfect>
+	<future>
+		<je>attesterai</je>
+		<tu>attesteras</tu>
+		<il>attestera</il>
+		<nous>attesterons</nous>
+		<vous>attesterez</vous>
+		<ils>attesteront</ils>
+	</future>
+	<subjunctive>
+		<je>atteste</je>
+		<tu>attestes</tu>
+		<il>atteste</il>
+		<nous>attestions</nous>
+		<vous>attestiez</vous>
+		<ils>attestent</ils>
+	</subjunctive>
+	<conditional>
+		<je>attesterais</je>
+		<tu>attesterais</tu>
+		<il>attesterait</il>
+		<nous>attesterions</nous>
+		<vous>attesteriez</vous>
+		<ils>attesteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

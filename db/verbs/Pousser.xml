@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>pousser</infinitive>
+	<translation>to push</translation>
+	<presentParticiple>poussant</presentParticiple>
+	<pastParticiple>poussé</pastParticiple>
+	<present>
+		<je>pousse</je>
+		<tu>pousses</tu>
+		<il>pousse</il>
+		<nous>poussons</nous>
+		<vous>poussez</vous>
+		<ils>poussent</ils>
+	</present>
+	<imperative>
+		<tu>pousse</tu>
+		<nous>poussons</nous>
+		<vous>poussez</vous>
+	</imperative>
+	<imperfect>
+		<je>poussais</je>
+		<tu>poussais</tu>
+		<il>poussait</il>
+		<nous>poussions</nous>
+		<vous>poussiez</vous>
+		<ils>poussaient</ils>
+	</imperfect>
+	<future>
+		<je>pousserai</je>
+		<tu>pousseras</tu>
+		<il>poussera</il>
+		<nous>pousserons</nous>
+		<vous>pousserez</vous>
+		<ils>pousseront</ils>
+	</future>
+	<subjunctive>
+		<je>pousse</je>
+		<tu>pousses</tu>
+		<il>pousse</il>
+		<nous>poussions</nous>
+		<vous>poussiez</vous>
+		<ils>poussent</ils>
+	</subjunctive>
+	<conditional>
+		<je>pousserais</je>
+		<tu>pousserais</tu>
+		<il>pousserait</il>
+		<nous>pousserions</nous>
+		<vous>pousseriez</vous>
+		<ils>pousseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

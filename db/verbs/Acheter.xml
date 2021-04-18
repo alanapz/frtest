@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>acheter</infinitive>
+	<translation>to buy</translation>
+	<stemChange />
+	<presentParticiple>achetant</presentParticiple>
+	<pastParticiple>acheté</pastParticiple>
+	<present>
+		<je>achète</je>
+		<tu>achètes</tu>
+		<il>achète</il>
+		<nous>achetons</nous>
+		<vous>achetez</vous>
+		<ils>achètent</ils>
+	</present>
+	<imperative>
+		<tu>achète</tu>
+		<nous>achetons</nous>
+		<vous>achetez</vous>
+	</imperative>
+	<imperfect>
+		<je>achetais</je>
+		<tu>achetais</tu>
+		<il>achetait</il>
+		<nous>achetions</nous>
+		<vous>achetiez</vous>
+		<ils>achetaient</ils>
+	</imperfect>
+	<future>
+		<je>achèterai</je>
+		<tu>achèteras</tu>
+		<il>achètera</il>
+		<nous>achèterons</nous>
+		<vous>achèterez</vous>
+		<ils>achèteront</ils>
+	</future>
+	<subjunctive>
+		<je>achète</je>
+		<tu>achètes</tu>
+		<il>achète</il>
+		<nous>achetions</nous>
+		<vous>achetiez</vous>
+		<ils>achètent</ils>
+	</subjunctive>
+	<conditional>
+		<je>achèterais</je>
+		<tu>achèterais</tu>
+		<il>achèterait</il>
+		<nous>achèterions</nous>
+		<vous>achèteriez</vous>
+		<ils>achèteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

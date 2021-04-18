@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>disperser</infinitive>
+	<translation>to scatter</translation>
+	<translation>disperse</translation>
+	<translation>dissipate</translation>
+	<presentParticiple>dispersant</presentParticiple>
+	<pastParticiple>dispersé</pastParticiple>
+	<present>
+		<je>disperse</je>
+		<tu>disperses</tu>
+		<il>disperse</il>
+		<nous>dispersons</nous>
+		<vous>dispersez</vous>
+		<ils>dispersent</ils>
+	</present>
+	<imperative>
+		<tu>disperse</tu>
+		<nous>dispersons</nous>
+		<vous>dispersez</vous>
+	</imperative>
+	<imperfect>
+		<je>dispersais</je>
+		<tu>dispersais</tu>
+		<il>dispersait</il>
+		<nous>dispersions</nous>
+		<vous>dispersiez</vous>
+		<ils>dispersaient</ils>
+	</imperfect>
+	<future>
+		<je>disperserai</je>
+		<tu>disperseras</tu>
+		<il>dispersera</il>
+		<nous>disperserons</nous>
+		<vous>disperserez</vous>
+		<ils>disperseront</ils>
+	</future>
+	<subjunctive>
+		<je>disperse</je>
+		<tu>disperses</tu>
+		<il>disperse</il>
+		<nous>dispersions</nous>
+		<vous>dispersiez</vous>
+		<ils>dispersent</ils>
+	</subjunctive>
+	<conditional>
+		<je>disperserais</je>
+		<tu>disperserais</tu>
+		<il>disperserait</il>
+		<nous>disperserions</nous>
+		<vous>disperseriez</vous>
+		<ils>disperseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

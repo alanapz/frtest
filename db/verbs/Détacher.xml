@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>détacher</infinitive>
+	<translation>to untie</translation>
+	<translation>undo</translation>
+	<translation>to remove</translation>
+	<translation>detach</translation>
+	<translation>to dispatch</translation>
+	<presentParticiple>détachant</presentParticiple>
+	<pastParticiple>détaché</pastParticiple>
+	<present>
+		<je>détache</je>
+		<tu>détaches</tu>
+		<il>détache</il>
+		<nous>détachons</nous>
+		<vous>détachez</vous>
+		<ils>détachent</ils>
+	</present>
+	<imperative>
+		<tu>détache</tu>
+		<nous>détachons</nous>
+		<vous>détachez</vous>
+	</imperative>
+	<imperfect>
+		<je>détachais</je>
+		<tu>détachais</tu>
+		<il>détachait</il>
+		<nous>détachions</nous>
+		<vous>détachiez</vous>
+		<ils>détachaient</ils>
+	</imperfect>
+	<future>
+		<je>détacherai</je>
+		<tu>détacheras</tu>
+		<il>détachera</il>
+		<nous>détacherons</nous>
+		<vous>détacherez</vous>
+		<ils>détacheront</ils>
+	</future>
+	<subjunctive>
+		<je>détache</je>
+		<tu>détaches</tu>
+		<il>détache</il>
+		<nous>détachions</nous>
+		<vous>détachiez</vous>
+		<ils>détachent</ils>
+	</subjunctive>
+	<conditional>
+		<je>détacherais</je>
+		<tu>détacherais</tu>
+		<il>détacherait</il>
+		<nous>détacherions</nous>
+		<vous>détacheriez</vous>
+		<ils>détacheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

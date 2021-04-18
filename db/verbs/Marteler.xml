@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>marteler</infinitive>
+	<translation>to hammer</translation>
+	<translation>pound</translation>
+	<stemChange />
+	<presentParticiple>martelant</presentParticiple>
+	<pastParticiple>martelé</pastParticiple>
+	<present>
+		<je>martèle</je>
+		<tu>martèles</tu>
+		<il>martèle</il>
+		<nous>martelons</nous>
+		<vous>martelez</vous>
+		<ils>martèlent</ils>
+	</present>
+	<imperative>
+		<tu>martèle</tu>
+		<nous>martelons</nous>
+		<vous>martelez</vous>
+	</imperative>
+	<imperfect>
+		<je>martelais</je>
+		<tu>martelais</tu>
+		<il>martelait</il>
+		<nous>martelions</nous>
+		<vous>marteliez</vous>
+		<ils>martelaient</ils>
+	</imperfect>
+	<future>
+		<je>martèlerai</je>
+		<tu>martèleras</tu>
+		<il>martèlera</il>
+		<nous>martèlerons</nous>
+		<vous>martèlerez</vous>
+		<ils>martèleront</ils>
+	</future>
+	<subjunctive>
+		<je>martèle</je>
+		<tu>martèles</tu>
+		<il>martèle</il>
+		<nous>martelions</nous>
+		<vous>marteliez</vous>
+		<ils>martèlent</ils>
+	</subjunctive>
+	<conditional>
+		<je>martèlerais</je>
+		<tu>martèlerais</tu>
+		<il>martèlerait</il>
+		<nous>martèlerions</nous>
+		<vous>martèleriez</vous>
+		<ils>martèleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

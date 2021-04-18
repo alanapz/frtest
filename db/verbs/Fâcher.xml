@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>fâcher</infinitive>
+            <translation>to annoy</translation>
+            <presentParticiple>fâchant</presentParticiple>
+            <pastParticiple>fâché</pastParticiple>
+            <pronominal>
+                <translation>to become angry</translation>
+            </pronominal>
+            <present>
+                <je>fâche</je>
+                <tu>fâches</tu>
+                <il>fâche</il>
+                <nous>fâchons</nous>
+                <vous>fâchez</vous>
+                <ils>fâchent</ils>
+            </present>
+            <imperative>
+                <tu>fâche</tu>
+                <nous>fâchons</nous>
+                <vous>fâchez</vous>
+            </imperative>
+            <imperfect>
+                <je>fâchais</je>
+                <tu>fâchais</tu>
+                <il>fâchait</il>
+                <nous>fâchions</nous>
+                <vous>fâchiez</vous>
+                <ils>fâchaient</ils>
+            </imperfect>
+            <future>
+                <je>fâcherai</je>
+                <tu>fâcheras</tu>
+                <il>fâchera</il>
+                <nous>fâcherons</nous>
+                <vous>fâcherez</vous>
+                <ils>fâcheront</ils>
+            </future>
+            <subjunctive>
+                <je>fâche</je>
+                <tu>fâches</tu>
+                <il>fâche</il>
+                <nous>fâchions</nous>
+                <vous>fâchiez</vous>
+                <ils>fâchent</ils>
+            </subjunctive>
+            <conditional>
+                <je>fâcherais</je>
+                <tu>fâcherais</tu>
+                <il>fâcherait</il>
+                <nous>fâcherions</nous>
+                <vous>fâcheriez</vous>
+                <ils>fâcheraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

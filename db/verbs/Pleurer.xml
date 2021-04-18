@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>pleurer</infinitive>
+	<translation>to cry</translation>
+	<presentParticiple>pleurant</presentParticiple>
+	<pastParticiple>pleuré</pastParticiple>
+	<present>
+		<je>pleure</je>
+		<tu>pleures</tu>
+		<il>pleure</il>
+		<nous>pleurons</nous>
+		<vous>pleurez</vous>
+		<ils>pleurent</ils>
+	</present>
+	<imperative>
+		<tu>pleure</tu>
+		<nous>pleurons</nous>
+		<vous>pleurez</vous>
+	</imperative>
+	<imperfect>
+		<je>pleurais</je>
+		<tu>pleurais</tu>
+		<il>pleurait</il>
+		<nous>pleurions</nous>
+		<vous>pleuriez</vous>
+		<ils>pleuraient</ils>
+	</imperfect>
+	<future>
+		<je>pleurerai</je>
+		<tu>pleureras</tu>
+		<il>pleurera</il>
+		<nous>pleurerons</nous>
+		<vous>pleurerez</vous>
+		<ils>pleureront</ils>
+	</future>
+	<subjunctive>
+		<je>pleure</je>
+		<tu>pleures</tu>
+		<il>pleure</il>
+		<nous>pleurions</nous>
+		<vous>pleuriez</vous>
+		<ils>pleurent</ils>
+	</subjunctive>
+	<conditional>
+		<je>pleurerais</je>
+		<tu>pleurerais</tu>
+		<il>pleurerait</il>
+		<nous>pleurerions</nous>
+		<vous>pleureriez</vous>
+		<ils>pleureraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>déguiser</infinitive>
+	<translation>to disguise</translation>
+	<presentParticiple>déguisant</presentParticiple>
+	<pastParticiple>déguisé</pastParticiple>
+	<present>
+		<je>déguise</je>
+		<tu>déguises</tu>
+		<il>déguise</il>
+		<nous>déguisons</nous>
+		<vous>déguisez</vous>
+		<ils>déguisent</ils>
+	</present>
+	<imperative>
+		<tu>déguise</tu>
+		<nous>déguisons</nous>
+		<vous>déguisez</vous>
+	</imperative>
+	<imperfect>
+		<je>déguisais</je>
+		<tu>déguisais</tu>
+		<il>déguisait</il>
+		<nous>déguisions</nous>
+		<vous>déguisiez</vous>
+		<ils>déguisaient</ils>
+	</imperfect>
+	<future>
+		<je>déguiserai</je>
+		<tu>déguiseras</tu>
+		<il>déguisera</il>
+		<nous>déguiserons</nous>
+		<vous>déguiserez</vous>
+		<ils>déguiseront</ils>
+	</future>
+	<subjunctive>
+		<je>déguise</je>
+		<tu>déguises</tu>
+		<il>déguise</il>
+		<nous>déguisions</nous>
+		<vous>déguisiez</vous>
+		<ils>déguisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>déguiserais</je>
+		<tu>déguiserais</tu>
+		<il>déguiserait</il>
+		<nous>déguiserions</nous>
+		<vous>déguiseriez</vous>
+		<ils>déguiseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>dire</infinitive>
+            <translation>to say</translation>
+            <translation>to tell</translation>
+            <presentParticiple>disant</presentParticiple>
+            <pastParticiple>dit</pastParticiple>
+            <present>
+                <je>dis</je>
+                <tu>dis</tu>
+                <il>dit</il>
+                <nous>disons</nous>
+                <vous>dites</vous>
+                <ils>disent</ils>
+            </present>
+            <imperative>
+                <tu>dis</tu>
+                <nous>disons</nous>
+                <vous>dites</vous>
+            </imperative>
+            <imperfect>
+                <je>disais</je>
+                <tu>disais</tu>
+                <il>disait</il>
+                <nous>disions</nous>
+                <vous>disiez</vous>
+                <ils>disaient</ils>
+            </imperfect>
+            <future>
+                <je>dirai</je>
+                <tu>diras</tu>
+                <il>dira</il>
+                <nous>dirons</nous>
+                <vous>direz</vous>
+                <ils>diront</ils>
+            </future>
+            <subjunctive>
+                <je>dise</je>
+                <tu>dises</tu>
+                <il>dise</il>
+                <nous>disions</nous>
+                <vous>disiez</vous>
+                <ils>disent</ils>
+            </subjunctive>
+            <conditional>
+                <je>dirais</je>
+                <tu>dirais</tu>
+                <il>dirait</il>
+                <nous>dirions</nous>
+                <vous>diriez</vous>
+                <ils>diraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

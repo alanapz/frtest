@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>circuler</infinitive>
+	<translation>to circulate</translation>
+	<presentParticiple>circulant</presentParticiple>
+	<pastParticiple>circulé</pastParticiple>
+	<present>
+		<je>circule</je>
+		<tu>circules</tu>
+		<il>circule</il>
+		<nous>circulons</nous>
+		<vous>circulez</vous>
+		<ils>circulent</ils>
+	</present>
+	<imperative>
+		<tu>circule</tu>
+		<nous>circulons</nous>
+		<vous>circulez</vous>
+	</imperative>
+	<imperfect>
+		<je>circulais</je>
+		<tu>circulais</tu>
+		<il>circulait</il>
+		<nous>circulions</nous>
+		<vous>circuliez</vous>
+		<ils>circulaient</ils>
+	</imperfect>
+	<future>
+		<je>circulerai</je>
+		<tu>circuleras</tu>
+		<il>circulera</il>
+		<nous>circulerons</nous>
+		<vous>circulerez</vous>
+		<ils>circuleront</ils>
+	</future>
+	<subjunctive>
+		<je>circule</je>
+		<tu>circules</tu>
+		<il>circule</il>
+		<nous>circulions</nous>
+		<vous>circuliez</vous>
+		<ils>circulent</ils>
+	</subjunctive>
+	<conditional>
+		<je>circulerais</je>
+		<tu>circulerais</tu>
+		<il>circulerait</il>
+		<nous>circulerions</nous>
+		<vous>circuleriez</vous>
+		<ils>circuleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

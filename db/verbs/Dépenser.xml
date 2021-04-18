@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dépenser</infinitive>
+	<translation>to spend</translation>
+	<presentParticiple>dépensant</presentParticiple>
+	<pastParticiple>dépensé</pastParticiple>
+	<present>
+		<je>dépense</je>
+		<tu>dépenses</tu>
+		<il>dépense</il>
+		<nous>dépensons</nous>
+		<vous>dépensez</vous>
+		<ils>dépensent</ils>
+	</present>
+	<imperative>
+		<tu>dépense</tu>
+		<nous>dépensons</nous>
+		<vous>dépensez</vous>
+	</imperative>
+	<imperfect>
+		<je>dépensais</je>
+		<tu>dépensais</tu>
+		<il>dépensait</il>
+		<nous>dépensions</nous>
+		<vous>dépensiez</vous>
+		<ils>dépensaient</ils>
+	</imperfect>
+	<future>
+		<je>dépenserai</je>
+		<tu>dépenseras</tu>
+		<il>dépensera</il>
+		<nous>dépenserons</nous>
+		<vous>dépenserez</vous>
+		<ils>dépenseront</ils>
+	</future>
+	<subjunctive>
+		<je>dépense</je>
+		<tu>dépenses</tu>
+		<il>dépense</il>
+		<nous>dépensions</nous>
+		<vous>dépensiez</vous>
+		<ils>dépensent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dépenserais</je>
+		<tu>dépenserais</tu>
+		<il>dépenserait</il>
+		<nous>dépenserions</nous>
+		<vous>dépenseriez</vous>
+		<ils>dépenseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

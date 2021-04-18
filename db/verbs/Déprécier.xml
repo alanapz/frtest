@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>déprécier</infinitive>
+	<translation>to depreciate</translation>
+	<translation>to belittle</translation>
+	<presentParticiple>dépréciant</presentParticiple>
+	<pastParticiple>déprécié</pastParticiple>
+	<present>
+		<je>déprécie</je>
+		<tu>déprécies</tu>
+		<il>déprécie</il>
+		<nous>déprécions</nous>
+		<vous>dépréciez</vous>
+		<ils>déprécient</ils>
+	</present>
+	<imperative>
+		<tu>déprécie</tu>
+		<nous>déprécions</nous>
+		<vous>dépréciez</vous>
+	</imperative>
+	<imperfect>
+		<je>dépréciais</je>
+		<tu>dépréciais</tu>
+		<il>dépréciait</il>
+		<nous>dépréciions</nous>
+		<vous>dépréciiez</vous>
+		<ils>dépréciaient</ils>
+	</imperfect>
+	<future>
+		<je>déprécierai</je>
+		<tu>déprécieras</tu>
+		<il>dépréciera</il>
+		<nous>déprécierons</nous>
+		<vous>déprécierez</vous>
+		<ils>déprécieront</ils>
+	</future>
+	<subjunctive>
+		<je>déprécie</je>
+		<tu>déprécies</tu>
+		<il>déprécie</il>
+		<nous>dépréciions</nous>
+		<vous>dépréciiez</vous>
+		<ils>déprécient</ils>
+	</subjunctive>
+	<conditional>
+		<je>déprécierais</je>
+		<tu>déprécierais</tu>
+		<il>déprécierait</il>
+		<nous>déprécierions</nous>
+		<vous>déprécieriez</vous>
+		<ils>déprécieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

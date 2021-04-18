@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>manier</infinitive>
+	<translation>to handle</translation>
+	<translation>to use</translation>
+	<presentParticiple>maniant</presentParticiple>
+	<pastParticiple>manié</pastParticiple>
+	<present>
+		<je>manie</je>
+		<tu>manies</tu>
+		<il>manie</il>
+		<nous>manions</nous>
+		<vous>maniez</vous>
+		<ils>manient</ils>
+	</present>
+	<imperative>
+		<tu>manie</tu>
+		<nous>manions</nous>
+		<vous>maniez</vous>
+	</imperative>
+	<imperfect>
+		<je>maniais</je>
+		<tu>maniais</tu>
+		<il>maniait</il>
+		<nous>maniions</nous>
+		<vous>maniiez</vous>
+		<ils>maniaient</ils>
+	</imperfect>
+	<future>
+		<je>manierai</je>
+		<tu>manieras</tu>
+		<il>maniera</il>
+		<nous>manierons</nous>
+		<vous>manierez</vous>
+		<ils>manieront</ils>
+	</future>
+	<subjunctive>
+		<je>manie</je>
+		<tu>manies</tu>
+		<il>manie</il>
+		<nous>maniions</nous>
+		<vous>maniiez</vous>
+		<ils>manient</ils>
+	</subjunctive>
+	<conditional>
+		<je>manierais</je>
+		<tu>manierais</tu>
+		<il>manierait</il>
+		<nous>manierions</nous>
+		<vous>manieriez</vous>
+		<ils>manieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

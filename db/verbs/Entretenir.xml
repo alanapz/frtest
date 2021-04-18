@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>entretenir</infinitive>
+	<translation>to look after</translation>
+	<translation>support</translation>
+	<translation>foster</translation>
+	<translation>keep alive</translation>
+	<irregular />
+	<presentParticiple>entretenant</presentParticiple>
+	<pastParticiple>entretenu</pastParticiple>
+	<present>
+		<je>entretiens</je>
+		<tu>entretiens</tu>
+		<il>entretient</il>
+		<nous>entretenons</nous>
+		<vous>entretenez</vous>
+		<ils>entretiennent</ils>
+	</present>
+	<imperative>
+		<tu>entretiens</tu>
+		<nous>entretenons</nous>
+		<vous>entretenez</vous>
+	</imperative>
+	<imperfect>
+		<je>entretenais</je>
+		<tu>entretenais</tu>
+		<il>entretenait</il>
+		<nous>entretenions</nous>
+		<vous>entreteniez</vous>
+		<ils>entretenaient</ils>
+	</imperfect>
+	<future>
+		<je>entretiendrai</je>
+		<tu>entretiendras</tu>
+		<il>entretiendra</il>
+		<nous>entretiendrons</nous>
+		<vous>entretiendrez</vous>
+		<ils>entretiendront</ils>
+	</future>
+	<subjunctive>
+		<je>entretienne</je>
+		<tu>entretiennes</tu>
+		<il>entretienne</il>
+		<nous>entretenions</nous>
+		<vous>entreteniez</vous>
+		<ils>entretiennent</ils>
+	</subjunctive>
+	<conditional>
+		<je>entretiendrais</je>
+		<tu>entretiendrais</tu>
+		<il>entretiendrait</il>
+		<nous>entretiendrions</nous>
+		<vous>entretiendriez</vous>
+		<ils>entretiendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

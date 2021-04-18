@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>supposer</infinitive>
+	<translation>to suppose</translation>
+	<translation>assume</translation>
+	<presentParticiple>supposant</presentParticiple>
+	<pastParticiple>supposé</pastParticiple>
+	<present>
+		<je>suppose</je>
+		<tu>supposes</tu>
+		<il>suppose</il>
+		<nous>supposons</nous>
+		<vous>supposez</vous>
+		<ils>supposent</ils>
+	</present>
+	<imperative>
+		<tu>suppose</tu>
+		<nous>supposons</nous>
+		<vous>supposez</vous>
+	</imperative>
+	<imperfect>
+		<je>supposais</je>
+		<tu>supposais</tu>
+		<il>supposait</il>
+		<nous>supposions</nous>
+		<vous>supposiez</vous>
+		<ils>supposaient</ils>
+	</imperfect>
+	<future>
+		<je>supposerai</je>
+		<tu>supposeras</tu>
+		<il>supposera</il>
+		<nous>supposerons</nous>
+		<vous>supposerez</vous>
+		<ils>supposeront</ils>
+	</future>
+	<subjunctive>
+		<je>suppose</je>
+		<tu>supposes</tu>
+		<il>suppose</il>
+		<nous>supposions</nous>
+		<vous>supposiez</vous>
+		<ils>supposent</ils>
+	</subjunctive>
+	<conditional>
+		<je>supposerais</je>
+		<tu>supposerais</tu>
+		<il>supposerait</il>
+		<nous>supposerions</nous>
+		<vous>supposeriez</vous>
+		<ils>supposeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

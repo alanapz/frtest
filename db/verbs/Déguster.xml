@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>déguster</infinitive>
+	<translation>to taste</translation>
+	<translation>sample</translation>
+	<translation>savor</translation>
+	<presentParticiple>dégustant</presentParticiple>
+	<pastParticiple>dégusté</pastParticiple>
+	<present>
+		<je>déguste</je>
+		<tu>dégustes</tu>
+		<il>déguste</il>
+		<nous>dégustons</nous>
+		<vous>dégustez</vous>
+		<ils>dégustent</ils>
+	</present>
+	<imperative>
+		<tu>déguste</tu>
+		<nous>dégustons</nous>
+		<vous>dégustez</vous>
+	</imperative>
+	<imperfect>
+		<je>dégustais</je>
+		<tu>dégustais</tu>
+		<il>dégustait</il>
+		<nous>dégustions</nous>
+		<vous>dégustiez</vous>
+		<ils>dégustaient</ils>
+	</imperfect>
+	<future>
+		<je>dégusterai</je>
+		<tu>dégusteras</tu>
+		<il>dégustera</il>
+		<nous>dégusterons</nous>
+		<vous>dégusterez</vous>
+		<ils>dégusteront</ils>
+	</future>
+	<subjunctive>
+		<je>déguste</je>
+		<tu>dégustes</tu>
+		<il>déguste</il>
+		<nous>dégustions</nous>
+		<vous>dégustiez</vous>
+		<ils>dégustent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dégusterais</je>
+		<tu>dégusterais</tu>
+		<il>dégusterait</il>
+		<nous>dégusterions</nous>
+		<vous>dégusteriez</vous>
+		<ils>dégusteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

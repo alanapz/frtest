@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>préoccuper</infinitive>
+	<translation>to preoccupy</translation>
+	<presentParticiple>préoccupant</presentParticiple>
+	<pastParticiple>préoccupé</pastParticiple>
+	<present>
+		<je>préoccupe</je>
+		<tu>préoccupes</tu>
+		<il>préoccupe</il>
+		<nous>préoccupons</nous>
+		<vous>préoccupez</vous>
+		<ils>préoccupent</ils>
+	</present>
+	<imperative>
+		<tu>préoccupe</tu>
+		<nous>préoccupons</nous>
+		<vous>préoccupez</vous>
+	</imperative>
+	<imperfect>
+		<je>préoccupais</je>
+		<tu>préoccupais</tu>
+		<il>préoccupait</il>
+		<nous>préoccupions</nous>
+		<vous>préoccupiez</vous>
+		<ils>préoccupaient</ils>
+	</imperfect>
+	<future>
+		<je>préoccuperai</je>
+		<tu>préoccuperas</tu>
+		<il>préoccupera</il>
+		<nous>préoccuperons</nous>
+		<vous>préoccuperez</vous>
+		<ils>préoccuperont</ils>
+	</future>
+	<subjunctive>
+		<je>préoccupe</je>
+		<tu>préoccupes</tu>
+		<il>préoccupe</il>
+		<nous>préoccupions</nous>
+		<vous>préoccupiez</vous>
+		<ils>préoccupent</ils>
+	</subjunctive>
+	<conditional>
+		<je>préoccuperais</je>
+		<tu>préoccuperais</tu>
+		<il>préoccuperait</il>
+		<nous>préoccuperions</nous>
+		<vous>préoccuperiez</vous>
+		<ils>préoccuperaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

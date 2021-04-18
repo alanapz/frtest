@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>branler</infinitive>
+	<translation>to shake</translation>
+	<translation>be shaky</translation>
+	<translation>loose</translation>
+	<presentParticiple>branlant</presentParticiple>
+	<pastParticiple>branlé</pastParticiple>
+	<present>
+		<je>branle</je>
+		<tu>branles</tu>
+		<il>branle</il>
+		<nous>branlons</nous>
+		<vous>branlez</vous>
+		<ils>branlent</ils>
+	</present>
+	<imperative>
+		<tu>branle</tu>
+		<nous>branlons</nous>
+		<vous>branlez</vous>
+	</imperative>
+	<imperfect>
+		<je>branlais</je>
+		<tu>branlais</tu>
+		<il>branlait</il>
+		<nous>branlions</nous>
+		<vous>branliez</vous>
+		<ils>branlaient</ils>
+	</imperfect>
+	<future>
+		<je>branlerai</je>
+		<tu>branleras</tu>
+		<il>branlera</il>
+		<nous>branlerons</nous>
+		<vous>branlerez</vous>
+		<ils>branleront</ils>
+	</future>
+	<subjunctive>
+		<je>branle</je>
+		<tu>branles</tu>
+		<il>branle</il>
+		<nous>branlions</nous>
+		<vous>branliez</vous>
+		<ils>branlent</ils>
+	</subjunctive>
+	<conditional>
+		<je>branlerais</je>
+		<tu>branlerais</tu>
+		<il>branlerait</il>
+		<nous>branlerions</nous>
+		<vous>branleriez</vous>
+		<ils>branleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

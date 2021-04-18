@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dérouler</infinitive>
+	<translation>to unwind</translation>
+	<translation>unroll</translation>
+	<presentParticiple>déroulant</presentParticiple>
+	<pastParticiple>déroulé</pastParticiple>
+	<present>
+		<je>déroule</je>
+		<tu>déroules</tu>
+		<il>déroule</il>
+		<nous>déroulons</nous>
+		<vous>déroulez</vous>
+		<ils>déroulent</ils>
+	</present>
+	<imperative>
+		<tu>déroule</tu>
+		<nous>déroulons</nous>
+		<vous>déroulez</vous>
+	</imperative>
+	<imperfect>
+		<je>déroulais</je>
+		<tu>déroulais</tu>
+		<il>déroulait</il>
+		<nous>déroulions</nous>
+		<vous>dérouliez</vous>
+		<ils>déroulaient</ils>
+	</imperfect>
+	<future>
+		<je>déroulerai</je>
+		<tu>dérouleras</tu>
+		<il>déroulera</il>
+		<nous>déroulerons</nous>
+		<vous>déroulerez</vous>
+		<ils>dérouleront</ils>
+	</future>
+	<subjunctive>
+		<je>déroule</je>
+		<tu>déroules</tu>
+		<il>déroule</il>
+		<nous>déroulions</nous>
+		<vous>dérouliez</vous>
+		<ils>déroulent</ils>
+	</subjunctive>
+	<conditional>
+		<je>déroulerais</je>
+		<tu>déroulerais</tu>
+		<il>déroulerait</il>
+		<nous>déroulerions</nous>
+		<vous>dérouleriez</vous>
+		<ils>dérouleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

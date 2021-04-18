@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>saluer</infinitive>
+	<translation>to greet</translation>
+	<translation>salute</translation>
+	<translation>to take one's leave</translation>
+	<presentParticiple>saluant</presentParticiple>
+	<pastParticiple>salué</pastParticiple>
+	<present>
+		<je>salue</je>
+		<tu>salues</tu>
+		<il>salue</il>
+		<nous>saluons</nous>
+		<vous>saluez</vous>
+		<ils>saluent</ils>
+	</present>
+	<imperative>
+		<tu>salue</tu>
+		<nous>saluons</nous>
+		<vous>saluez</vous>
+	</imperative>
+	<imperfect>
+		<je>saluais</je>
+		<tu>saluais</tu>
+		<il>saluait</il>
+		<nous>saluions</nous>
+		<vous>saluiez</vous>
+		<ils>saluaient</ils>
+	</imperfect>
+	<future>
+		<je>saluerai</je>
+		<tu>salueras</tu>
+		<il>saluera</il>
+		<nous>saluerons</nous>
+		<vous>saluerez</vous>
+		<ils>salueront</ils>
+	</future>
+	<subjunctive>
+		<je>salue</je>
+		<tu>salues</tu>
+		<il>salue</il>
+		<nous>saluions</nous>
+		<vous>saluiez</vous>
+		<ils>saluent</ils>
+	</subjunctive>
+	<conditional>
+		<je>saluerais</je>
+		<tu>saluerais</tu>
+		<il>saluerait</il>
+		<nous>saluerions</nous>
+		<vous>salueriez</vous>
+		<ils>salueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

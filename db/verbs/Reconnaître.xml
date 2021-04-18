@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>reconnaître</infinitive>
+	<translation>to recognize</translation>
+	<irregular />
+	<presentParticiple>reconnaissant</presentParticiple>
+	<pastParticiple>reconnu</pastParticiple>
+	<present>
+		<je>reconnais</je>
+		<tu>reconnais</tu>
+		<il>reconnaît</il>
+		<nous>reconnaissons</nous>
+		<vous>reconnaissez</vous>
+		<ils>reconnaissent</ils>
+	</present>
+	<imperative>
+		<tu>reconnais</tu>
+		<nous>reconnaissons</nous>
+		<vous>reconnaissez</vous>
+	</imperative>
+	<imperfect>
+		<je>reconnaissais</je>
+		<tu>reconnaissais</tu>
+		<il>reconnaissait</il>
+		<nous>reconnaissions</nous>
+		<vous>reconnaissiez</vous>
+		<ils>reconnaissaient</ils>
+	</imperfect>
+	<future>
+		<je>reconnaîtrai</je>
+		<tu>reconnaîtras</tu>
+		<il>reconnaîtra</il>
+		<nous>reconnaîtrons</nous>
+		<vous>reconnaîtrez</vous>
+		<ils>reconnaîtront</ils>
+	</future>
+	<subjunctive>
+		<je>reconnaisse</je>
+		<tu>reconnaisses</tu>
+		<il>reconnaisse</il>
+		<nous>reconnaissions</nous>
+		<vous>reconnaissiez</vous>
+		<ils>reconnaissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>reconnaîtrais</je>
+		<tu>reconnaîtrais</tu>
+		<il>reconnaîtrait</il>
+		<nous>reconnaîtrions</nous>
+		<vous>reconnaîtriez</vous>
+		<ils>reconnaîtraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

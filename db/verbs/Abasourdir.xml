@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>abasourdir</infinitive>
+	<translation>to daze</translation>
+	<translation>bewilder</translation>
+	<presentParticiple>abasourdissant</presentParticiple>
+	<pastParticiple>abasourdi</pastParticiple>
+	<present>
+		<je>abasourdis</je>
+		<tu>abasourdis</tu>
+		<il>abasourdit</il>
+		<nous>abasourdissons</nous>
+		<vous>abasourdissez</vous>
+		<ils>abasourdissent</ils>
+	</present>
+	<imperative>
+		<tu>abasourdis</tu>
+		<nous>abasourdissons</nous>
+		<vous>abasourdissez</vous>
+	</imperative>
+	<imperfect>
+		<je>abasourdissais</je>
+		<tu>abasourdissais</tu>
+		<il>abasourdissait</il>
+		<nous>abasourdissions</nous>
+		<vous>abasourdissiez</vous>
+		<ils>abasourdissaient</ils>
+	</imperfect>
+	<future>
+		<je>abasourdirai</je>
+		<tu>abasourdiras</tu>
+		<il>abasourdira</il>
+		<nous>abasourdirons</nous>
+		<vous>abasourdirez</vous>
+		<ils>abasourdiront</ils>
+	</future>
+	<subjunctive>
+		<je>abasourdisse</je>
+		<tu>abasourdisses</tu>
+		<il>abasourdisse</il>
+		<nous>abasourdissions</nous>
+		<vous>abasourdissiez</vous>
+		<ils>abasourdissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>abasourdirais</je>
+		<tu>abasourdirais</tu>
+		<il>abasourdirait</il>
+		<nous>abasourdirions</nous>
+		<vous>abasourdiriez</vous>
+		<ils>abasourdiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

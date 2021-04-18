@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>doucher</infinitive>
+            <presentParticiple>douchant</presentParticiple>
+            <pastParticiple>douché</pastParticiple>
+            <pronominal>
+                <translation>to shower</translation>
+            </pronominal>
+            <present>
+                <je>douche</je>
+                <tu>douches</tu>
+                <il>douche</il>
+                <nous>douchons</nous>
+                <vous>douchez</vous>
+                <ils>douchent</ils>
+            </present>
+            <imperative>
+                <tu>douche</tu>
+                <nous>douchons</nous>
+                <vous>douchez</vous>
+            </imperative>
+            <imperfect>
+                <je>douchais</je>
+                <tu>douchais</tu>
+                <il>douchait</il>
+                <nous>douchions</nous>
+                <vous>douchiez</vous>
+                <ils>douchaient</ils>
+            </imperfect>
+            <future>
+                <je>doucherai</je>
+                <tu>doucheras</tu>
+                <il>douchera</il>
+                <nous>doucherons</nous>
+                <vous>doucherez</vous>
+                <ils>doucheront</ils>
+            </future>
+            <subjunctive>
+                <je>douche</je>
+                <tu>douches</tu>
+                <il>douche</il>
+                <nous>douchions</nous>
+                <vous>douchiez</vous>
+                <ils>douchent</ils>
+            </subjunctive>
+            <conditional>
+                <je>doucherais</je>
+                <tu>doucherais</tu>
+                <il>doucherait</il>
+                <nous>doucherions</nous>
+                <vous>doucheriez</vous>
+                <ils>doucheraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

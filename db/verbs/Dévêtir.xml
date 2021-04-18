@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dévêtir</infinitive>
+	<translation>to undress</translation>
+	<irregular />
+	<presentParticiple>dévêtant</presentParticiple>
+	<pastParticiple>dévêtu</pastParticiple>
+	<present>
+		<je>dévêts</je>
+		<tu>dévêts</tu>
+		<il>dévêt</il>
+		<nous>dévêtons</nous>
+		<vous>dévêtez</vous>
+		<ils>dévêtent</ils>
+	</present>
+	<imperative>
+		<tu>dévêts</tu>
+		<nous>dévêtons</nous>
+		<vous>dévêtez</vous>
+	</imperative>
+	<imperfect>
+		<je>dévêtais</je>
+		<tu>dévêtais</tu>
+		<il>dévêtait</il>
+		<nous>dévêtions</nous>
+		<vous>dévêtiez</vous>
+		<ils>dévêtaient</ils>
+	</imperfect>
+	<future>
+		<je>dévêtirai</je>
+		<tu>dévêtiras</tu>
+		<il>dévêtira</il>
+		<nous>dévêtirons</nous>
+		<vous>dévêtirez</vous>
+		<ils>dévêtiront</ils>
+	</future>
+	<subjunctive>
+		<je>dévête</je>
+		<tu>dévêtes</tu>
+		<il>dévête</il>
+		<nous>dévêtions</nous>
+		<vous>dévêtiez</vous>
+		<ils>dévêtent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dévêtirais</je>
+		<tu>dévêtirais</tu>
+		<il>dévêtirait</il>
+		<nous>dévêtirions</nous>
+		<vous>dévêtiriez</vous>
+		<ils>dévêtiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

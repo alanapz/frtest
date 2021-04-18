@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>munir</infinitive>
+	<translation>to provide</translation>
+	<translation>fit</translation>
+	<translation>equip</translation>
+	<presentParticiple>munissant</presentParticiple>
+	<pastParticiple>muni</pastParticiple>
+	<present>
+		<je>munis</je>
+		<tu>munis</tu>
+		<il>munit</il>
+		<nous>munissons</nous>
+		<vous>munissez</vous>
+		<ils>munissent</ils>
+	</present>
+	<imperative>
+		<tu>munis</tu>
+		<nous>munissons</nous>
+		<vous>munissez</vous>
+	</imperative>
+	<imperfect>
+		<je>munissais</je>
+		<tu>munissais</tu>
+		<il>munissait</il>
+		<nous>munissions</nous>
+		<vous>munissiez</vous>
+		<ils>munissaient</ils>
+	</imperfect>
+	<future>
+		<je>munirai</je>
+		<tu>muniras</tu>
+		<il>munira</il>
+		<nous>munirons</nous>
+		<vous>munirez</vous>
+		<ils>muniront</ils>
+	</future>
+	<subjunctive>
+		<je>munisse</je>
+		<tu>munisses</tu>
+		<il>munisse</il>
+		<nous>munissions</nous>
+		<vous>munissiez</vous>
+		<ils>munissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>munirais</je>
+		<tu>munirais</tu>
+		<il>munirait</il>
+		<nous>munirions</nous>
+		<vous>muniriez</vous>
+		<ils>muniraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

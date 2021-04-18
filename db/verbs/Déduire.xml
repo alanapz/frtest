@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>déduire</infinitive>
+	<translation>to deduce</translation>
+	<irregular />
+	<presentParticiple>déduisant</presentParticiple>
+	<pastParticiple>déduit</pastParticiple>
+	<present>
+		<je>déduis</je>
+		<tu>déduis</tu>
+		<il>déduit</il>
+		<nous>déduisons</nous>
+		<vous>déduisez</vous>
+		<ils>déduisent</ils>
+	</present>
+	<imperative>
+		<tu>déduis</tu>
+		<nous>déduisons</nous>
+		<vous>déduisez</vous>
+	</imperative>
+	<imperfect>
+		<je>déduisais</je>
+		<tu>déduisais</tu>
+		<il>déduisait</il>
+		<nous>déduisions</nous>
+		<vous>déduisiez</vous>
+		<ils>déduisaient</ils>
+	</imperfect>
+	<future>
+		<je>déduirai</je>
+		<tu>déduiras</tu>
+		<il>déduira</il>
+		<nous>déduirons</nous>
+		<vous>déduirez</vous>
+		<ils>déduiront</ils>
+	</future>
+	<subjunctive>
+		<je>déduise</je>
+		<tu>déduises</tu>
+		<il>déduise</il>
+		<nous>déduisions</nous>
+		<vous>déduisiez</vous>
+		<ils>déduisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>déduirais</je>
+		<tu>déduirais</tu>
+		<il>déduirait</il>
+		<nous>déduirions</nous>
+		<vous>déduiriez</vous>
+		<ils>déduiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

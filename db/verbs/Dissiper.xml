@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dissiper</infinitive>
+	<translation>to dissipate</translation>
+	<presentParticiple>dissipant</presentParticiple>
+	<pastParticiple>dissipé</pastParticiple>
+	<present>
+		<je>dissipe</je>
+		<tu>dissipes</tu>
+		<il>dissipe</il>
+		<nous>dissipons</nous>
+		<vous>dissipez</vous>
+		<ils>dissipent</ils>
+	</present>
+	<imperative>
+		<tu>dissipe</tu>
+		<nous>dissipons</nous>
+		<vous>dissipez</vous>
+	</imperative>
+	<imperfect>
+		<je>dissipais</je>
+		<tu>dissipais</tu>
+		<il>dissipait</il>
+		<nous>dissipions</nous>
+		<vous>dissipiez</vous>
+		<ils>dissipaient</ils>
+	</imperfect>
+	<future>
+		<je>dissiperai</je>
+		<tu>dissiperas</tu>
+		<il>dissipera</il>
+		<nous>dissiperons</nous>
+		<vous>dissiperez</vous>
+		<ils>dissiperont</ils>
+	</future>
+	<subjunctive>
+		<je>dissipe</je>
+		<tu>dissipes</tu>
+		<il>dissipe</il>
+		<nous>dissipions</nous>
+		<vous>dissipiez</vous>
+		<ils>dissipent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dissiperais</je>
+		<tu>dissiperais</tu>
+		<il>dissiperait</il>
+		<nous>dissiperions</nous>
+		<vous>dissiperiez</vous>
+		<ils>dissiperaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>sangler</infinitive>
+	<translation>to strap</translation>
+	<translation>girth</translation>
+	<presentParticiple>sanglant</presentParticiple>
+	<pastParticiple>sanglé</pastParticiple>
+	<present>
+		<je>sangle</je>
+		<tu>sangles</tu>
+		<il>sangle</il>
+		<nous>sanglons</nous>
+		<vous>sanglez</vous>
+		<ils>sanglent</ils>
+	</present>
+	<imperative>
+		<tu>sangle</tu>
+		<nous>sanglons</nous>
+		<vous>sanglez</vous>
+	</imperative>
+	<imperfect>
+		<je>sanglais</je>
+		<tu>sanglais</tu>
+		<il>sanglait</il>
+		<nous>sanglions</nous>
+		<vous>sangliez</vous>
+		<ils>sanglaient</ils>
+	</imperfect>
+	<future>
+		<je>sanglerai</je>
+		<tu>sangleras</tu>
+		<il>sanglera</il>
+		<nous>sanglerons</nous>
+		<vous>sanglerez</vous>
+		<ils>sangleront</ils>
+	</future>
+	<subjunctive>
+		<je>sangle</je>
+		<tu>sangles</tu>
+		<il>sangle</il>
+		<nous>sanglions</nous>
+		<vous>sangliez</vous>
+		<ils>sanglent</ils>
+	</subjunctive>
+	<conditional>
+		<je>sanglerais</je>
+		<tu>sanglerais</tu>
+		<il>sanglerait</il>
+		<nous>sanglerions</nous>
+		<vous>sangleriez</vous>
+		<ils>sangleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>prononcer</infinitive>
+	<translation>to pronounce</translation>
+	<spellingChange />
+	<presentParticiple>prononçant</presentParticiple>
+	<pastParticiple>prononcé</pastParticiple>
+	<present>
+		<je>prononce</je>
+		<tu>prononces</tu>
+		<il>prononce</il>
+		<nous>prononçons</nous>
+		<vous>prononcez</vous>
+		<ils>prononcent</ils>
+	</present>
+	<imperative>
+		<tu>prononce</tu>
+		<nous>prononçons</nous>
+		<vous>prononcez</vous>
+	</imperative>
+	<imperfect>
+		<je>prononçais</je>
+		<tu>prononçais</tu>
+		<il>prononçait</il>
+		<nous>prononcions</nous>
+		<vous>prononciez</vous>
+		<ils>prononçaient</ils>
+	</imperfect>
+	<future>
+		<je>prononcerai</je>
+		<tu>prononceras</tu>
+		<il>prononcera</il>
+		<nous>prononcerons</nous>
+		<vous>prononcerez</vous>
+		<ils>prononceront</ils>
+	</future>
+	<subjunctive>
+		<je>prononce</je>
+		<tu>prononces</tu>
+		<il>prononce</il>
+		<nous>prononcions</nous>
+		<vous>prononciez</vous>
+		<ils>prononcent</ils>
+	</subjunctive>
+	<conditional>
+		<je>prononcerais</je>
+		<tu>prononcerais</tu>
+		<il>prononcerait</il>
+		<nous>prononcerions</nous>
+		<vous>prononceriez</vous>
+		<ils>prononceraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

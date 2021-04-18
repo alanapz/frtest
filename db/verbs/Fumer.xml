@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>fumer</infinitive>
+	<translation>to smoke</translation>
+	<presentParticiple>fumant</presentParticiple>
+	<pastParticiple>fumé</pastParticiple>
+	<present>
+		<je>fume</je>
+		<tu>fumes</tu>
+		<il>fume</il>
+		<nous>fumons</nous>
+		<vous>fumez</vous>
+		<ils>fument</ils>
+	</present>
+	<imperative>
+		<tu>fume</tu>
+		<nous>fumons</nous>
+		<vous>fumez</vous>
+	</imperative>
+	<imperfect>
+		<je>fumais</je>
+		<tu>fumais</tu>
+		<il>fumait</il>
+		<nous>fumions</nous>
+		<vous>fumiez</vous>
+		<ils>fumaient</ils>
+	</imperfect>
+	<future>
+		<je>fumerai</je>
+		<tu>fumeras</tu>
+		<il>fumera</il>
+		<nous>fumerons</nous>
+		<vous>fumerez</vous>
+		<ils>fumeront</ils>
+	</future>
+	<subjunctive>
+		<je>fume</je>
+		<tu>fumes</tu>
+		<il>fume</il>
+		<nous>fumions</nous>
+		<vous>fumiez</vous>
+		<ils>fument</ils>
+	</subjunctive>
+	<conditional>
+		<je>fumerais</je>
+		<tu>fumerais</tu>
+		<il>fumerait</il>
+		<nous>fumerions</nous>
+		<vous>fumeriez</vous>
+		<ils>fumeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

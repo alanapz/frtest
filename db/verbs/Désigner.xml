@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>désigner</infinitive>
+	<translation>to indicate</translation>
+	<translation>point out</translation>
+	<translation>to name</translation>
+	<translation>designate</translation>
+	<presentParticiple>désignant</presentParticiple>
+	<pastParticiple>désigné</pastParticiple>
+	<present>
+		<je>désigne</je>
+		<tu>désignes</tu>
+		<il>désigne</il>
+		<nous>désignons</nous>
+		<vous>désignez</vous>
+		<ils>désignent</ils>
+	</present>
+	<imperative>
+		<tu>désigne</tu>
+		<nous>désignons</nous>
+		<vous>désignez</vous>
+	</imperative>
+	<imperfect>
+		<je>désignais</je>
+		<tu>désignais</tu>
+		<il>désignait</il>
+		<nous>désignions</nous>
+		<vous>désigniez</vous>
+		<ils>désignaient</ils>
+	</imperfect>
+	<future>
+		<je>désignerai</je>
+		<tu>désigneras</tu>
+		<il>désignera</il>
+		<nous>désignerons</nous>
+		<vous>désignerez</vous>
+		<ils>désigneront</ils>
+	</future>
+	<subjunctive>
+		<je>désigne</je>
+		<tu>désignes</tu>
+		<il>désigne</il>
+		<nous>désignions</nous>
+		<vous>désigniez</vous>
+		<ils>désignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>désignerais</je>
+		<tu>désignerais</tu>
+		<il>désignerait</il>
+		<nous>désignerions</nous>
+		<vous>désigneriez</vous>
+		<ils>désigneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>bannir</infinitive>
+	<translation>to bar</translation>
+	<translation>block</translation>
+	<translation>cross out</translation>
+	<presentParticiple>bannissant</presentParticiple>
+	<pastParticiple>banni</pastParticiple>
+	<present>
+		<je>bannis</je>
+		<tu>bannis</tu>
+		<il>bannit</il>
+		<nous>bannissons</nous>
+		<vous>bannissez</vous>
+		<ils>bannissent</ils>
+	</present>
+	<imperative>
+		<tu>bannis</tu>
+		<nous>bannissons</nous>
+		<vous>bannissez</vous>
+	</imperative>
+	<imperfect>
+		<je>bannissais</je>
+		<tu>bannissais</tu>
+		<il>bannissait</il>
+		<nous>bannissions</nous>
+		<vous>bannissiez</vous>
+		<ils>bannissaient</ils>
+	</imperfect>
+	<future>
+		<je>bannirai</je>
+		<tu>banniras</tu>
+		<il>bannira</il>
+		<nous>bannirons</nous>
+		<vous>bannirez</vous>
+		<ils>banniront</ils>
+	</future>
+	<subjunctive>
+		<je>bannisse</je>
+		<tu>bannisses</tu>
+		<il>bannisse</il>
+		<nous>bannissions</nous>
+		<vous>bannissiez</vous>
+		<ils>bannissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>bannirais</je>
+		<tu>bannirais</tu>
+		<il>bannirait</il>
+		<nous>bannirions</nous>
+		<vous>banniriez</vous>
+		<ils>banniraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

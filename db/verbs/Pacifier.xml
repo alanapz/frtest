@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>pacifier</infinitive>
+	<translation>to pacify</translation>
+	<presentParticiple>pacifiant</presentParticiple>
+	<pastParticiple>pacifié</pastParticiple>
+	<present>
+		<je>pacifie</je>
+		<tu>pacifies</tu>
+		<il>pacifie</il>
+		<nous>pacifions</nous>
+		<vous>pacifiez</vous>
+		<ils>pacifient</ils>
+	</present>
+	<imperative>
+		<tu>pacifie</tu>
+		<nous>pacifions</nous>
+		<vous>pacifiez</vous>
+	</imperative>
+	<imperfect>
+		<je>pacifiais</je>
+		<tu>pacifiais</tu>
+		<il>pacifiait</il>
+		<nous>pacifiions</nous>
+		<vous>pacifiiez</vous>
+		<ils>pacifiaient</ils>
+	</imperfect>
+	<future>
+		<je>pacifierai</je>
+		<tu>pacifieras</tu>
+		<il>pacifiera</il>
+		<nous>pacifierons</nous>
+		<vous>pacifierez</vous>
+		<ils>pacifieront</ils>
+	</future>
+	<subjunctive>
+		<je>pacifie</je>
+		<tu>pacifies</tu>
+		<il>pacifie</il>
+		<nous>pacifiions</nous>
+		<vous>pacifiiez</vous>
+		<ils>pacifient</ils>
+	</subjunctive>
+	<conditional>
+		<je>pacifierais</je>
+		<tu>pacifierais</tu>
+		<il>pacifierait</il>
+		<nous>pacifierions</nous>
+		<vous>pacifieriez</vous>
+		<ils>pacifieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

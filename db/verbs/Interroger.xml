@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>interroger</infinitive>
+	<translation>to interrogate</translation>
+	<spellingChange />
+	<presentParticiple>interrogeant</presentParticiple>
+	<pastParticiple>interrogé</pastParticiple>
+	<present>
+		<je>interroge</je>
+		<tu>interroges</tu>
+		<il>interroge</il>
+		<nous>interrogeons</nous>
+		<vous>interrogez</vous>
+		<ils>interrogent</ils>
+	</present>
+	<imperative>
+		<tu>interroge</tu>
+		<nous>interrogeons</nous>
+		<vous>interrogez</vous>
+	</imperative>
+	<imperfect>
+		<je>interrogeais</je>
+		<tu>interrogeais</tu>
+		<il>interrogeait</il>
+		<nous>interrogions</nous>
+		<vous>interrogiez</vous>
+		<ils>interrogeaient</ils>
+	</imperfect>
+	<future>
+		<je>interrogerai</je>
+		<tu>interrogeras</tu>
+		<il>interrogera</il>
+		<nous>interrogerons</nous>
+		<vous>interrogerez</vous>
+		<ils>interrogeront</ils>
+	</future>
+	<subjunctive>
+		<je>interroge</je>
+		<tu>interroges</tu>
+		<il>interroge</il>
+		<nous>interrogions</nous>
+		<vous>interrogiez</vous>
+		<ils>interrogent</ils>
+	</subjunctive>
+	<conditional>
+		<je>interrogerais</je>
+		<tu>interrogerais</tu>
+		<il>interrogerait</il>
+		<nous>interrogerions</nous>
+		<vous>interrogeriez</vous>
+		<ils>interrogeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

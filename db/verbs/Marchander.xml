@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>marchander</infinitive>
+	<translation>to bargain</translation>
+	<translation>haggle</translation>
+	<presentParticiple>marchandant</presentParticiple>
+	<pastParticiple>marchandé</pastParticiple>
+	<present>
+		<je>marchande</je>
+		<tu>marchandes</tu>
+		<il>marchande</il>
+		<nous>marchandons</nous>
+		<vous>marchandez</vous>
+		<ils>marchandent</ils>
+	</present>
+	<imperative>
+		<tu>marchande</tu>
+		<nous>marchandons</nous>
+		<vous>marchandez</vous>
+	</imperative>
+	<imperfect>
+		<je>marchandais</je>
+		<tu>marchandais</tu>
+		<il>marchandait</il>
+		<nous>marchandions</nous>
+		<vous>marchandiez</vous>
+		<ils>marchandaient</ils>
+	</imperfect>
+	<future>
+		<je>marchanderai</je>
+		<tu>marchanderas</tu>
+		<il>marchandera</il>
+		<nous>marchanderons</nous>
+		<vous>marchanderez</vous>
+		<ils>marchanderont</ils>
+	</future>
+	<subjunctive>
+		<je>marchande</je>
+		<tu>marchandes</tu>
+		<il>marchande</il>
+		<nous>marchandions</nous>
+		<vous>marchandiez</vous>
+		<ils>marchandent</ils>
+	</subjunctive>
+	<conditional>
+		<je>marchanderais</je>
+		<tu>marchanderais</tu>
+		<il>marchanderait</il>
+		<nous>marchanderions</nous>
+		<vous>marchanderiez</vous>
+		<ils>marchanderaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

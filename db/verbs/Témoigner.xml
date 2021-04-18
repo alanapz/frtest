@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>témoigner</infinitive>
+	<translation>to testify</translation>
+	<translation>to show</translation>
+	<translation>display</translation>
+	<presentParticiple>témoignant</presentParticiple>
+	<pastParticiple>témoigné</pastParticiple>
+	<present>
+		<je>témoigne</je>
+		<tu>témoignes</tu>
+		<il>témoigne</il>
+		<nous>témoignons</nous>
+		<vous>témoignez</vous>
+		<ils>témoignent</ils>
+	</present>
+	<imperative>
+		<tu>témoigne</tu>
+		<nous>témoignons</nous>
+		<vous>témoignez</vous>
+	</imperative>
+	<imperfect>
+		<je>témoignais</je>
+		<tu>témoignais</tu>
+		<il>témoignait</il>
+		<nous>témoignions</nous>
+		<vous>témoigniez</vous>
+		<ils>témoignaient</ils>
+	</imperfect>
+	<future>
+		<je>témoignerai</je>
+		<tu>témoigneras</tu>
+		<il>témoignera</il>
+		<nous>témoignerons</nous>
+		<vous>témoignerez</vous>
+		<ils>témoigneront</ils>
+	</future>
+	<subjunctive>
+		<je>témoigne</je>
+		<tu>témoignes</tu>
+		<il>témoigne</il>
+		<nous>témoignions</nous>
+		<vous>témoigniez</vous>
+		<ils>témoignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>témoignerais</je>
+		<tu>témoignerais</tu>
+		<il>témoignerait</il>
+		<nous>témoignerions</nous>
+		<vous>témoigneriez</vous>
+		<ils>témoigneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

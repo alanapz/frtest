@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>appliquer</infinitive>
+	<translation>to apply</translation>
+	<presentParticiple>appliquant</presentParticiple>
+	<pastParticiple>appliqué</pastParticiple>
+	<present>
+		<je>applique</je>
+		<tu>appliques</tu>
+		<il>applique</il>
+		<nous>appliquons</nous>
+		<vous>appliquez</vous>
+		<ils>appliquent</ils>
+	</present>
+	<imperative>
+		<tu>applique</tu>
+		<nous>appliquons</nous>
+		<vous>appliquez</vous>
+	</imperative>
+	<imperfect>
+		<je>appliquais</je>
+		<tu>appliquais</tu>
+		<il>appliquait</il>
+		<nous>appliquions</nous>
+		<vous>appliquiez</vous>
+		<ils>appliquaient</ils>
+	</imperfect>
+	<future>
+		<je>appliquerai</je>
+		<tu>appliqueras</tu>
+		<il>appliquera</il>
+		<nous>appliquerons</nous>
+		<vous>appliquerez</vous>
+		<ils>appliqueront</ils>
+	</future>
+	<subjunctive>
+		<je>applique</je>
+		<tu>appliques</tu>
+		<il>applique</il>
+		<nous>appliquions</nous>
+		<vous>appliquiez</vous>
+		<ils>appliquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>appliquerais</je>
+		<tu>appliquerais</tu>
+		<il>appliquerait</il>
+		<nous>appliquerions</nous>
+		<vous>appliqueriez</vous>
+		<ils>appliqueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

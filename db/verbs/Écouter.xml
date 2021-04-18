@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>écouter</infinitive>
+	<translation>to listen to</translation>
+	<presentParticiple>écoutant</presentParticiple>
+	<pastParticiple>écouté</pastParticiple>
+	<present>
+		<je>écoute</je>
+		<tu>écoutes</tu>
+		<il>écoute</il>
+		<nous>écoutons</nous>
+		<vous>écoutez</vous>
+		<ils>écoutent</ils>
+	</present>
+	<imperative>
+		<tu>écoute</tu>
+		<nous>écoutons</nous>
+		<vous>écoutez</vous>
+	</imperative>
+	<imperfect>
+		<je>écoutais</je>
+		<tu>écoutais</tu>
+		<il>écoutait</il>
+		<nous>écoutions</nous>
+		<vous>écoutiez</vous>
+		<ils>écoutaient</ils>
+	</imperfect>
+	<future>
+		<je>écouterai</je>
+		<tu>écouteras</tu>
+		<il>écoutera</il>
+		<nous>écouterons</nous>
+		<vous>écouterez</vous>
+		<ils>écouteront</ils>
+	</future>
+	<subjunctive>
+		<je>écoute</je>
+		<tu>écoutes</tu>
+		<il>écoute</il>
+		<nous>écoutions</nous>
+		<vous>écoutiez</vous>
+		<ils>écoutent</ils>
+	</subjunctive>
+	<conditional>
+		<je>écouterais</je>
+		<tu>écouterais</tu>
+		<il>écouterait</il>
+		<nous>écouterions</nous>
+		<vous>écouteriez</vous>
+		<ils>écouteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>nier</infinitive>
+	<translation>to deny</translation>
+	<presentParticiple>niant</presentParticiple>
+	<pastParticiple>nié</pastParticiple>
+	<present>
+		<je>nie</je>
+		<tu>nies</tu>
+		<il>nie</il>
+		<nous>nions</nous>
+		<vous>niez</vous>
+		<ils>nient</ils>
+	</present>
+	<imperative>
+		<tu>nie</tu>
+		<nous>nions</nous>
+		<vous>niez</vous>
+	</imperative>
+	<imperfect>
+		<je>niais</je>
+		<tu>niais</tu>
+		<il>niait</il>
+		<nous>niions</nous>
+		<vous>niiez</vous>
+		<ils>niaient</ils>
+	</imperfect>
+	<future>
+		<je>nierai</je>
+		<tu>nieras</tu>
+		<il>niera</il>
+		<nous>nierons</nous>
+		<vous>nierez</vous>
+		<ils>nieront</ils>
+	</future>
+	<subjunctive>
+		<je>nie</je>
+		<tu>nies</tu>
+		<il>nie</il>
+		<nous>niions</nous>
+		<vous>niiez</vous>
+		<ils>nient</ils>
+	</subjunctive>
+	<conditional>
+		<je>nierais</je>
+		<tu>nierais</tu>
+		<il>nierait</il>
+		<nous>nierions</nous>
+		<vous>nieriez</vous>
+		<ils>nieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

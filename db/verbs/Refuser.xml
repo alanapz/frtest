@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>refuser</infinitive>
+            <translation>to refuse</translation>
+            <presentParticiple>refusant</presentParticiple>
+            <pastParticiple>refusé</pastParticiple>
+            <present>
+                <je>refuse</je>
+                <tu>refuses</tu>
+                <il>refuse</il>
+                <nous>refusons</nous>
+                <vous>refusez</vous>
+                <ils>refusent</ils>
+            </present>
+            <imperative>
+                <tu>refuse</tu>
+                <nous>refusons</nous>
+                <vous>refusez</vous>
+            </imperative>
+            <imperfect>
+                <je>refusais</je>
+                <tu>refusais</tu>
+                <il>refusait</il>
+                <nous>refusions</nous>
+                <vous>refusiez</vous>
+                <ils>refusaient</ils>
+            </imperfect>
+            <future>
+                <je>refuserai</je>
+                <tu>refuseras</tu>
+                <il>refusera</il>
+                <nous>refuserons</nous>
+                <vous>refuserez</vous>
+                <ils>refuseront</ils>
+            </future>
+            <subjunctive>
+                <je>refuse</je>
+                <tu>refuses</tu>
+                <il>refuse</il>
+                <nous>refusions</nous>
+                <vous>refusiez</vous>
+                <ils>refusent</ils>
+            </subjunctive>
+            <conditional>
+                <je>refuserais</je>
+                <tu>refuserais</tu>
+                <il>refuserait</il>
+                <nous>refuserions</nous>
+                <vous>refuseriez</vous>
+                <ils>refuseraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

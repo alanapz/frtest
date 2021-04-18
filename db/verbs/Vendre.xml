@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>vendre</infinitive>
+	<translation>to sell</translation>
+	<presentParticiple>vendant</presentParticiple>
+	<pastParticiple>vendu</pastParticiple>
+	<present>
+		<je>vends</je>
+		<tu>vends</tu>
+		<il>vend</il>
+		<nous>vendons</nous>
+		<vous>vendez</vous>
+		<ils>vendent</ils>
+	</present>
+	<imperative>
+		<tu>vends</tu>
+		<nous>vendons</nous>
+		<vous>vendez</vous>
+	</imperative>
+	<imperfect>
+		<je>vendais</je>
+		<tu>vendais</tu>
+		<il>vendait</il>
+		<nous>vendions</nous>
+		<vous>vendiez</vous>
+		<ils>vendaient</ils>
+	</imperfect>
+	<future>
+		<je>vendrai</je>
+		<tu>vendras</tu>
+		<il>vendra</il>
+		<nous>vendrons</nous>
+		<vous>vendrez</vous>
+		<ils>vendront</ils>
+	</future>
+	<subjunctive>
+		<je>vende</je>
+		<tu>vendes</tu>
+		<il>vende</il>
+		<nous>vendions</nous>
+		<vous>vendiez</vous>
+		<ils>vendent</ils>
+	</subjunctive>
+	<conditional>
+		<je>vendrais</je>
+		<tu>vendrais</tu>
+		<il>vendrait</il>
+		<nous>vendrions</nous>
+		<vous>vendriez</vous>
+		<ils>vendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

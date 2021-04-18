@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>crisper</infinitive>
+	<translation>to tense</translation>
+	<translation>to get on s.o.'s nerves</translation>
+	<presentParticiple>crispant</presentParticiple>
+	<pastParticiple>crispé</pastParticiple>
+	<present>
+		<je>crispe</je>
+		<tu>crispes</tu>
+		<il>crispe</il>
+		<nous>crispons</nous>
+		<vous>crispez</vous>
+		<ils>crispent</ils>
+	</present>
+	<imperative>
+		<tu>crispe</tu>
+		<nous>crispons</nous>
+		<vous>crispez</vous>
+	</imperative>
+	<imperfect>
+		<je>crispais</je>
+		<tu>crispais</tu>
+		<il>crispait</il>
+		<nous>crispions</nous>
+		<vous>crispiez</vous>
+		<ils>crispaient</ils>
+	</imperfect>
+	<future>
+		<je>crisperai</je>
+		<tu>crisperas</tu>
+		<il>crispera</il>
+		<nous>crisperons</nous>
+		<vous>crisperez</vous>
+		<ils>crisperont</ils>
+	</future>
+	<subjunctive>
+		<je>crispe</je>
+		<tu>crispes</tu>
+		<il>crispe</il>
+		<nous>crispions</nous>
+		<vous>crispiez</vous>
+		<ils>crispent</ils>
+	</subjunctive>
+	<conditional>
+		<je>crisperais</je>
+		<tu>crisperais</tu>
+		<il>crisperait</il>
+		<nous>crisperions</nous>
+		<vous>crisperiez</vous>
+		<ils>crisperaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

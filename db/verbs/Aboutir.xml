@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>aboutir</infinitive>
+	<translation>to succeed</translation>
+	<translation>end up</translation>
+	<presentParticiple>aboutissant</presentParticiple>
+	<pastParticiple>abouti</pastParticiple>
+	<present>
+		<je>aboutis</je>
+		<tu>aboutis</tu>
+		<il>aboutit</il>
+		<nous>aboutissons</nous>
+		<vous>aboutissez</vous>
+		<ils>aboutissent</ils>
+	</present>
+	<imperative>
+		<tu>aboutis</tu>
+		<nous>aboutissons</nous>
+		<vous>aboutissez</vous>
+	</imperative>
+	<imperfect>
+		<je>aboutissais</je>
+		<tu>aboutissais</tu>
+		<il>aboutissait</il>
+		<nous>aboutissions</nous>
+		<vous>aboutissiez</vous>
+		<ils>aboutissaient</ils>
+	</imperfect>
+	<future>
+		<je>aboutirai</je>
+		<tu>aboutiras</tu>
+		<il>aboutira</il>
+		<nous>aboutirons</nous>
+		<vous>aboutirez</vous>
+		<ils>aboutiront</ils>
+	</future>
+	<subjunctive>
+		<je>aboutisse</je>
+		<tu>aboutisses</tu>
+		<il>aboutisse</il>
+		<nous>aboutissions</nous>
+		<vous>aboutissiez</vous>
+		<ils>aboutissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>aboutirais</je>
+		<tu>aboutirais</tu>
+		<il>aboutirait</il>
+		<nous>aboutirions</nous>
+		<vous>aboutiriez</vous>
+		<ils>aboutiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

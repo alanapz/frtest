@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>inclure</infinitive>
+	<translation>to include</translation>
+	<irregular />
+	<presentParticiple>incluant</presentParticiple>
+	<pastParticiple>inclus</pastParticiple>
+	<present>
+		<je>inclus</je>
+		<tu>inclus</tu>
+		<il>inclut</il>
+		<nous>incluons</nous>
+		<vous>incluez</vous>
+		<ils>incluent</ils>
+	</present>
+	<imperative>
+		<tu>inclus</tu>
+		<nous>incluons</nous>
+		<vous>incluez</vous>
+	</imperative>
+	<imperfect>
+		<je>incluais</je>
+		<tu>incluais</tu>
+		<il>incluait</il>
+		<nous>incluions</nous>
+		<vous>incluiez</vous>
+		<ils>incluaient</ils>
+	</imperfect>
+	<future>
+		<je>inclurai</je>
+		<tu>incluras</tu>
+		<il>inclura</il>
+		<nous>inclurons</nous>
+		<vous>inclurez</vous>
+		<ils>incluront</ils>
+	</future>
+	<subjunctive>
+		<je>inclue</je>
+		<tu>inclues</tu>
+		<il>inclue</il>
+		<nous>incluions</nous>
+		<vous>incluiez</vous>
+		<ils>incluent</ils>
+	</subjunctive>
+	<conditional>
+		<je>inclurais</je>
+		<tu>inclurais</tu>
+		<il>inclurait</il>
+		<nous>inclurions</nous>
+		<vous>incluriez</vous>
+		<ils>incluraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

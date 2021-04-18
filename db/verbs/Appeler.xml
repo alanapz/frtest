@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>appeler</infinitive>
+            <translation>to call</translation>
+            <presentParticiple>appelant</presentParticiple>
+            <pastParticiple>appelé</pastParticiple>
+            <pronominal>
+                <translation>to be called</translation>
+            </pronominal>
+            <present>
+                <je>appelle</je>
+                <tu>appelles</tu>
+                <il>appelle</il>
+                <nous>appelons</nous>
+                <vous>appelez</vous>
+                <ils>appellent</ils>
+            </present>
+            <imperative>
+                <tu>appelle</tu>
+                <nous>appelons</nous>
+                <vous>appelez</vous>
+            </imperative>
+            <imperfect>
+                <je>appelais</je>
+                <tu>appelais</tu>
+                <il>appelait</il>
+                <nous>appelions</nous>
+                <vous>appeliez</vous>
+                <ils>appelaient</ils>
+            </imperfect>
+            <future>
+                <je>appellerai</je>
+                <tu>appelleras</tu>
+                <il>appellera</il>
+                <nous>appellerons</nous>
+                <vous>appellerez</vous>
+                <ils>appelleront</ils>
+            </future>
+            <subjunctive>
+                <je>appelle</je>
+                <tu>appelles</tu>
+                <il>appelle</il>
+                <nous>appelions</nous>
+                <vous>appeliez</vous>
+                <ils>appellent</ils>
+            </subjunctive>
+            <conditional>
+                <je>appellerais</je>
+                <tu>appellerais</tu>
+                <il>appellerait</il>
+                <nous>appellerions</nous>
+                <vous>appelleriez</vous>
+                <ils>appelleraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

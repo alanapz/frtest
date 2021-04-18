@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>partir</infinitive>
+            <translation>to leave</translation>
+            <irregular />
+            <takesEtreInPerfect />
+            <presentParticiple>partant</presentParticiple>
+            <pastParticiple>parti</pastParticiple>
+            <present>
+                <je>pars</je>
+                <tu>pars</tu>
+                <il>part</il>
+                <nous>partons</nous>
+                <vous>partez</vous>
+                <ils>partent</ils>
+            </present>
+            <imperative>
+                <tu>pars</tu>
+                <nous>partons</nous>
+                <vous>partez</vous>
+            </imperative>
+            <imperfect>
+                <je>partais</je>
+                <tu>partais</tu>
+                <il>partait</il>
+                <nous>partions</nous>
+                <vous>partiez</vous>
+                <ils>partaient</ils>
+            </imperfect>
+            <future>
+                <je>partirai</je>
+                <tu>partiras</tu>
+                <il>partira</il>
+                <nous>partirons</nous>
+                <vous>partirez</vous>
+                <ils>partiront</ils>
+            </future>
+            <subjunctive>
+                <je>parte</je>
+                <tu>partes</tu>
+                <il>parte</il>
+                <nous>partions</nous>
+                <vous>partiez</vous>
+                <ils>partent</ils>
+            </subjunctive>
+            <conditional>
+                <je>partirais</je>
+                <tu>partirais</tu>
+                <il>partirait</il>
+                <nous>partirions</nous>
+                <vous>partiriez</vous>
+                <ils>partiraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

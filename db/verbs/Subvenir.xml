@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>subvenir</infinitive>
+	<translation>to providefor</translation>
+	<irregular />
+	<presentParticiple>subvenant</presentParticiple>
+	<pastParticiple>subvenu</pastParticiple>
+	<present>
+		<je>subviens</je>
+		<tu>subviens</tu>
+		<il>subvient</il>
+		<nous>subvenons</nous>
+		<vous>subvenez</vous>
+		<ils>subviennent</ils>
+	</present>
+	<imperative>
+		<tu>subviens</tu>
+		<nous>subvenons</nous>
+		<vous>subvenez</vous>
+	</imperative>
+	<imperfect>
+		<je>subvenais</je>
+		<tu>subvenais</tu>
+		<il>subvenait</il>
+		<nous>subvenions</nous>
+		<vous>subveniez</vous>
+		<ils>subvenaient</ils>
+	</imperfect>
+	<future>
+		<je>subviendrai</je>
+		<tu>subviendras</tu>
+		<il>subviendra</il>
+		<nous>subviendrons</nous>
+		<vous>subviendrez</vous>
+		<ils>subviendront</ils>
+	</future>
+	<subjunctive>
+		<je>subvienne</je>
+		<tu>subviennes</tu>
+		<il>subvienne</il>
+		<nous>subvenions</nous>
+		<vous>subveniez</vous>
+		<ils>subviennent</ils>
+	</subjunctive>
+	<conditional>
+		<je>subviendrais</je>
+		<tu>subviendrais</tu>
+		<il>subviendrait</il>
+		<nous>subviendrions</nous>
+		<vous>subviendriez</vous>
+		<ils>subviendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

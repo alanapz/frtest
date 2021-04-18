@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>tracasser</infinitive>
+	<translation>to worry</translation>
+	<translation>bother</translation>
+	<translation>harass</translation>
+	<presentParticiple>tracassant</presentParticiple>
+	<pastParticiple>tracassé</pastParticiple>
+	<present>
+		<je>tracasse</je>
+		<tu>tracasses</tu>
+		<il>tracasse</il>
+		<nous>tracassons</nous>
+		<vous>tracassez</vous>
+		<ils>tracassent</ils>
+	</present>
+	<imperative>
+		<tu>tracasse</tu>
+		<nous>tracassons</nous>
+		<vous>tracassez</vous>
+	</imperative>
+	<imperfect>
+		<je>tracassais</je>
+		<tu>tracassais</tu>
+		<il>tracassait</il>
+		<nous>tracassions</nous>
+		<vous>tracassiez</vous>
+		<ils>tracassaient</ils>
+	</imperfect>
+	<future>
+		<je>tracasserai</je>
+		<tu>tracasseras</tu>
+		<il>tracassera</il>
+		<nous>tracasserons</nous>
+		<vous>tracasserez</vous>
+		<ils>tracasseront</ils>
+	</future>
+	<subjunctive>
+		<je>tracasse</je>
+		<tu>tracasses</tu>
+		<il>tracasse</il>
+		<nous>tracassions</nous>
+		<vous>tracassiez</vous>
+		<ils>tracassent</ils>
+	</subjunctive>
+	<conditional>
+		<je>tracasserais</je>
+		<tu>tracasserais</tu>
+		<il>tracasserait</il>
+		<nous>tracasserions</nous>
+		<vous>tracasseriez</vous>
+		<ils>tracasseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

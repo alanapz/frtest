@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>réduire</infinitive>
+	<translation>to reduce</translation>
+	<irregular />
+	<presentParticiple>réduisant</presentParticiple>
+	<pastParticiple>réduit</pastParticiple>
+	<present>
+		<je>réduis</je>
+		<tu>réduis</tu>
+		<il>réduit</il>
+		<nous>réduisons</nous>
+		<vous>réduisez</vous>
+		<ils>réduisent</ils>
+	</present>
+	<imperative>
+		<tu>réduis</tu>
+		<nous>réduisons</nous>
+		<vous>réduisez</vous>
+	</imperative>
+	<imperfect>
+		<je>réduisais</je>
+		<tu>réduisais</tu>
+		<il>réduisait</il>
+		<nous>réduisions</nous>
+		<vous>réduisiez</vous>
+		<ils>réduisaient</ils>
+	</imperfect>
+	<future>
+		<je>réduirai</je>
+		<tu>réduiras</tu>
+		<il>réduira</il>
+		<nous>réduirons</nous>
+		<vous>réduirez</vous>
+		<ils>réduiront</ils>
+	</future>
+	<subjunctive>
+		<je>réduise</je>
+		<tu>réduises</tu>
+		<il>réduise</il>
+		<nous>réduisions</nous>
+		<vous>réduisiez</vous>
+		<ils>réduisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>réduirais</je>
+		<tu>réduirais</tu>
+		<il>réduirait</il>
+		<nous>réduirions</nous>
+		<vous>réduiriez</vous>
+		<ils>réduiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

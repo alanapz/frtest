@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>jeter</infinitive>
+            <translation>to throw away</translation>
+            <stemChange />
+            <presentParticiple>jetant</presentParticiple>
+            <pastParticiple>jeté</pastParticiple>
+            <present>
+                <je>jette</je>
+                <tu>jettes</tu>
+                <il>jette</il>
+                <nous>jetons</nous>
+                <vous>jetez</vous>
+                <ils>jettent</ils>
+            </present>
+            <imperative>
+                <tu>jette</tu>
+                <nous>jetons</nous>
+                <vous>jetez</vous>
+            </imperative>
+            <imperfect>
+                <je>jetais</je>
+                <tu>jetais</tu>
+                <il>jetait</il>
+                <nous>jetions</nous>
+                <vous>jetiez</vous>
+                <ils>jetaient</ils>
+            </imperfect>
+            <future>
+                <je>jetterai</je>
+                <tu>jetteras</tu>
+                <il>jettera</il>
+                <nous>jetterons</nous>
+                <vous>jetterez</vous>
+                <ils>jetteront</ils>
+            </future>
+            <subjunctive>
+                <je>jette</je>
+                <tu>jettes</tu>
+                <il>jette</il>
+                <nous>jetions</nous>
+                <vous>jetiez</vous>
+                <ils>jettent</ils>
+            </subjunctive>
+            <conditional>
+                <je>jetterais</je>
+                <tu>jetterais</tu>
+                <il>jetterait</il>
+                <nous>jetterions</nous>
+                <vous>jetteriez</vous>
+                <ils>jetteraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

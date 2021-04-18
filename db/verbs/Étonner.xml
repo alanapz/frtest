@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>étonner</infinitive>
+	<translation>to astonish</translation>
+	<presentParticiple>étonnant</presentParticiple>
+	<pastParticiple>étonné</pastParticiple>
+	<present>
+		<je>étonne</je>
+		<tu>étonnes</tu>
+		<il>étonne</il>
+		<nous>étonnons</nous>
+		<vous>étonnez</vous>
+		<ils>étonnent</ils>
+	</present>
+	<imperative>
+		<tu>étonne</tu>
+		<nous>étonnons</nous>
+		<vous>étonnez</vous>
+	</imperative>
+	<imperfect>
+		<je>étonnais</je>
+		<tu>étonnais</tu>
+		<il>étonnait</il>
+		<nous>étonnions</nous>
+		<vous>étonniez</vous>
+		<ils>étonnaient</ils>
+	</imperfect>
+	<future>
+		<je>étonnerai</je>
+		<tu>étonneras</tu>
+		<il>étonnera</il>
+		<nous>étonnerons</nous>
+		<vous>étonnerez</vous>
+		<ils>étonneront</ils>
+	</future>
+	<subjunctive>
+		<je>étonne</je>
+		<tu>étonnes</tu>
+		<il>étonne</il>
+		<nous>étonnions</nous>
+		<vous>étonniez</vous>
+		<ils>étonnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>étonnerais</je>
+		<tu>étonnerais</tu>
+		<il>étonnerait</il>
+		<nous>étonnerions</nous>
+		<vous>étonneriez</vous>
+		<ils>étonneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

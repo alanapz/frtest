@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>apprêter</infinitive>
+	<translation>to prepare s.o./s.t.</translation>
+	<translation>get s.o./s.t. ready</translation>
+	<presentParticiple>apprêtant</presentParticiple>
+	<pastParticiple>apprêté</pastParticiple>
+	<present>
+		<je>apprête</je>
+		<tu>apprêtes</tu>
+		<il>apprête</il>
+		<nous>apprêtons</nous>
+		<vous>apprêtez</vous>
+		<ils>apprêtent</ils>
+	</present>
+	<imperative>
+		<tu>apprête</tu>
+		<nous>apprêtons</nous>
+		<vous>apprêtez</vous>
+	</imperative>
+	<imperfect>
+		<je>apprêtais</je>
+		<tu>apprêtais</tu>
+		<il>apprêtait</il>
+		<nous>apprêtions</nous>
+		<vous>apprêtiez</vous>
+		<ils>apprêtaient</ils>
+	</imperfect>
+	<future>
+		<je>apprêterai</je>
+		<tu>apprêteras</tu>
+		<il>apprêtera</il>
+		<nous>apprêterons</nous>
+		<vous>apprêterez</vous>
+		<ils>apprêteront</ils>
+	</future>
+	<subjunctive>
+		<je>apprête</je>
+		<tu>apprêtes</tu>
+		<il>apprête</il>
+		<nous>apprêtions</nous>
+		<vous>apprêtiez</vous>
+		<ils>apprêtent</ils>
+	</subjunctive>
+	<conditional>
+		<je>apprêterais</je>
+		<tu>apprêterais</tu>
+		<il>apprêterait</il>
+		<nous>apprêterions</nous>
+		<vous>apprêteriez</vous>
+		<ils>apprêteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

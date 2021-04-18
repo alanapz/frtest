@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>pâlir</infinitive>
+	<translation>to become pale</translation>
+	<translation>fade</translation>
+	<presentParticiple>pâlissant</presentParticiple>
+	<pastParticiple>pâli</pastParticiple>
+	<present>
+		<je>pâlis</je>
+		<tu>pâlis</tu>
+		<il>pâlit</il>
+		<nous>pâlissons</nous>
+		<vous>pâlissez</vous>
+		<ils>pâlissent</ils>
+	</present>
+	<imperative>
+		<tu>pâlis</tu>
+		<nous>pâlissons</nous>
+		<vous>pâlissez</vous>
+	</imperative>
+	<imperfect>
+		<je>pâlissais</je>
+		<tu>pâlissais</tu>
+		<il>pâlissait</il>
+		<nous>pâlissions</nous>
+		<vous>pâlissiez</vous>
+		<ils>pâlissaient</ils>
+	</imperfect>
+	<future>
+		<je>pâlirai</je>
+		<tu>pâliras</tu>
+		<il>pâlira</il>
+		<nous>pâlirons</nous>
+		<vous>pâlirez</vous>
+		<ils>pâliront</ils>
+	</future>
+	<subjunctive>
+		<je>pâlisse</je>
+		<tu>pâlisses</tu>
+		<il>pâlisse</il>
+		<nous>pâlissions</nous>
+		<vous>pâlissiez</vous>
+		<ils>pâlissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>pâlirais</je>
+		<tu>pâlirais</tu>
+		<il>pâlirait</il>
+		<nous>pâlirions</nous>
+		<vous>pâliriez</vous>
+		<ils>pâliraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

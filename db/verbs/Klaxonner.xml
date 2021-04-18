@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>klaxonner</infinitive>
+	<translation>to honk</translation>
+	<translation>toot the horn</translation>
+	<presentParticiple>klaxonnant</presentParticiple>
+	<pastParticiple>klaxonné</pastParticiple>
+	<present>
+		<je>klaxonne</je>
+		<tu>klaxonnes</tu>
+		<il>klaxonne</il>
+		<nous>klaxonnons</nous>
+		<vous>klaxonnez</vous>
+		<ils>klaxonnent</ils>
+	</present>
+	<imperative>
+		<tu>klaxonne</tu>
+		<nous>klaxonnons</nous>
+		<vous>klaxonnez</vous>
+	</imperative>
+	<imperfect>
+		<je>klaxonnais</je>
+		<tu>klaxonnais</tu>
+		<il>klaxonnait</il>
+		<nous>klaxonnions</nous>
+		<vous>klaxonniez</vous>
+		<ils>klaxonnaient</ils>
+	</imperfect>
+	<future>
+		<je>klaxonnerai</je>
+		<tu>klaxonneras</tu>
+		<il>klaxonnera</il>
+		<nous>klaxonnerons</nous>
+		<vous>klaxonnerez</vous>
+		<ils>klaxonneront</ils>
+	</future>
+	<subjunctive>
+		<je>klaxonne</je>
+		<tu>klaxonnes</tu>
+		<il>klaxonne</il>
+		<nous>klaxonnions</nous>
+		<vous>klaxonniez</vous>
+		<ils>klaxonnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>klaxonnerais</je>
+		<tu>klaxonnerais</tu>
+		<il>klaxonnerait</il>
+		<nous>klaxonnerions</nous>
+		<vous>klaxonneriez</vous>
+		<ils>klaxonneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

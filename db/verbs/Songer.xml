@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>songer</infinitive>
+	<translation>to dream</translation>
+	<spellingChange />
+	<presentParticiple>songeant</presentParticiple>
+	<pastParticiple>songé</pastParticiple>
+	<present>
+		<je>songe</je>
+		<tu>songes</tu>
+		<il>songe</il>
+		<nous>songeons</nous>
+		<vous>songez</vous>
+		<ils>songent</ils>
+	</present>
+	<imperative>
+		<tu>songe</tu>
+		<nous>songeons</nous>
+		<vous>songez</vous>
+	</imperative>
+	<imperfect>
+		<je>songeais</je>
+		<tu>songeais</tu>
+		<il>songeait</il>
+		<nous>songions</nous>
+		<vous>songiez</vous>
+		<ils>songeaient</ils>
+	</imperfect>
+	<future>
+		<je>songerai</je>
+		<tu>songeras</tu>
+		<il>songera</il>
+		<nous>songerons</nous>
+		<vous>songerez</vous>
+		<ils>songeront</ils>
+	</future>
+	<subjunctive>
+		<je>songe</je>
+		<tu>songes</tu>
+		<il>songe</il>
+		<nous>songions</nous>
+		<vous>songiez</vous>
+		<ils>songent</ils>
+	</subjunctive>
+	<conditional>
+		<je>songerais</je>
+		<tu>songerais</tu>
+		<il>songerait</il>
+		<nous>songerions</nous>
+		<vous>songeriez</vous>
+		<ils>songeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

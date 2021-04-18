@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>fouetter</infinitive>
+	<translation>to whip</translation>
+	<translation>lash</translation>
+	<presentParticiple>fouettant</presentParticiple>
+	<pastParticiple>fouetté</pastParticiple>
+	<present>
+		<je>fouette</je>
+		<tu>fouettes</tu>
+		<il>fouette</il>
+		<nous>fouettons</nous>
+		<vous>fouettez</vous>
+		<ils>fouettent</ils>
+	</present>
+	<imperative>
+		<tu>fouette</tu>
+		<nous>fouettons</nous>
+		<vous>fouettez</vous>
+	</imperative>
+	<imperfect>
+		<je>fouettais</je>
+		<tu>fouettais</tu>
+		<il>fouettait</il>
+		<nous>fouettions</nous>
+		<vous>fouettiez</vous>
+		<ils>fouettaient</ils>
+	</imperfect>
+	<future>
+		<je>fouetterai</je>
+		<tu>fouetteras</tu>
+		<il>fouettera</il>
+		<nous>fouetterons</nous>
+		<vous>fouetterez</vous>
+		<ils>fouetteront</ils>
+	</future>
+	<subjunctive>
+		<je>fouette</je>
+		<tu>fouettes</tu>
+		<il>fouette</il>
+		<nous>fouettions</nous>
+		<vous>fouettiez</vous>
+		<ils>fouettent</ils>
+	</subjunctive>
+	<conditional>
+		<je>fouetterais</je>
+		<tu>fouetterais</tu>
+		<il>fouetterait</il>
+		<nous>fouetterions</nous>
+		<vous>fouetteriez</vous>
+		<ils>fouetteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

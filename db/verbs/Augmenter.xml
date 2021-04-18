@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>augmenter</infinitive>
+	<translation>to increase</translation>
+	<translation>raise</translation>
+	<translation>to rise</translation>
+	<presentParticiple>augmentant</presentParticiple>
+	<pastParticiple>augmenté</pastParticiple>
+	<present>
+		<je>augmente</je>
+		<tu>augmentes</tu>
+		<il>augmente</il>
+		<nous>augmentons</nous>
+		<vous>augmentez</vous>
+		<ils>augmentent</ils>
+	</present>
+	<imperative>
+		<tu>augmente</tu>
+		<nous>augmentons</nous>
+		<vous>augmentez</vous>
+	</imperative>
+	<imperfect>
+		<je>augmentais</je>
+		<tu>augmentais</tu>
+		<il>augmentait</il>
+		<nous>augmentions</nous>
+		<vous>augmentiez</vous>
+		<ils>augmentaient</ils>
+	</imperfect>
+	<future>
+		<je>augmenterai</je>
+		<tu>augmenteras</tu>
+		<il>augmentera</il>
+		<nous>augmenterons</nous>
+		<vous>augmenterez</vous>
+		<ils>augmenteront</ils>
+	</future>
+	<subjunctive>
+		<je>augmente</je>
+		<tu>augmentes</tu>
+		<il>augmente</il>
+		<nous>augmentions</nous>
+		<vous>augmentiez</vous>
+		<ils>augmentent</ils>
+	</subjunctive>
+	<conditional>
+		<je>augmenterais</je>
+		<tu>augmenterais</tu>
+		<il>augmenterait</il>
+		<nous>augmenterions</nous>
+		<vous>augmenteriez</vous>
+		<ils>augmenteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

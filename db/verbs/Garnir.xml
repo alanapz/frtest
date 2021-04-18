@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>garnir</infinitive>
+	<translation>to equip</translation>
+	<translation>to fill</translation>
+	<translation>stock</translation>
+	<translation>to garnish</translation>
+	<presentParticiple>garnissant</presentParticiple>
+	<pastParticiple>garni</pastParticiple>
+	<present>
+		<je>garnis</je>
+		<tu>garnis</tu>
+		<il>garnit</il>
+		<nous>garnissons</nous>
+		<vous>garnissez</vous>
+		<ils>garnissent</ils>
+	</present>
+	<imperative>
+		<tu>garnis</tu>
+		<nous>garnissons</nous>
+		<vous>garnissez</vous>
+	</imperative>
+	<imperfect>
+		<je>garnissais</je>
+		<tu>garnissais</tu>
+		<il>garnissait</il>
+		<nous>garnissions</nous>
+		<vous>garnissiez</vous>
+		<ils>garnissaient</ils>
+	</imperfect>
+	<future>
+		<je>garnirai</je>
+		<tu>garniras</tu>
+		<il>garnira</il>
+		<nous>garnirons</nous>
+		<vous>garnirez</vous>
+		<ils>garniront</ils>
+	</future>
+	<subjunctive>
+		<je>garnisse</je>
+		<tu>garnisses</tu>
+		<il>garnisse</il>
+		<nous>garnissions</nous>
+		<vous>garnissiez</vous>
+		<ils>garnissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>garnirais</je>
+		<tu>garnirais</tu>
+		<il>garnirait</il>
+		<nous>garnirions</nous>
+		<vous>garniriez</vous>
+		<ils>garniraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

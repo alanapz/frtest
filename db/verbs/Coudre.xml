@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>coudre</infinitive>
+	<translation>to sew</translation>
+	<irregular />
+	<presentParticiple>cousant</presentParticiple>
+	<pastParticiple>cousu</pastParticiple>
+	<present>
+		<je>couds</je>
+		<tu>couds</tu>
+		<il>coud</il>
+		<nous>cousons</nous>
+		<vous>cousez</vous>
+		<ils>cousent</ils>
+	</present>
+	<imperative>
+		<tu>couds</tu>
+		<nous>cousons</nous>
+		<vous>cousez</vous>
+	</imperative>
+	<imperfect>
+		<je>cousais</je>
+		<tu>cousais</tu>
+		<il>cousait</il>
+		<nous>cousions</nous>
+		<vous>cousiez</vous>
+		<ils>cousaient</ils>
+	</imperfect>
+	<future>
+		<je>coudrai</je>
+		<tu>coudras</tu>
+		<il>coudra</il>
+		<nous>coudrons</nous>
+		<vous>coudrez</vous>
+		<ils>coudront</ils>
+	</future>
+	<subjunctive>
+		<je>couse</je>
+		<tu>couses</tu>
+		<il>couse</il>
+		<nous>cousions</nous>
+		<vous>cousiez</vous>
+		<ils>cousent</ils>
+	</subjunctive>
+	<conditional>
+		<je>coudrais</je>
+		<tu>coudrais</tu>
+		<il>coudrait</il>
+		<nous>coudrions</nous>
+		<vous>coudriez</vous>
+		<ils>coudraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

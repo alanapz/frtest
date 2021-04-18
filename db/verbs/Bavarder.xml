@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>bavarder</infinitive>
+	<translation>to chat</translation>
+	<presentParticiple>bavardant</presentParticiple>
+	<pastParticiple>bavardé</pastParticiple>
+	<present>
+		<je>bavarde</je>
+		<tu>bavardes</tu>
+		<il>bavarde</il>
+		<nous>bavardons</nous>
+		<vous>bavardez</vous>
+		<ils>bavardent</ils>
+	</present>
+	<imperative>
+		<tu>bavarde</tu>
+		<nous>bavardons</nous>
+		<vous>bavardez</vous>
+	</imperative>
+	<imperfect>
+		<je>bavardais</je>
+		<tu>bavardais</tu>
+		<il>bavardait</il>
+		<nous>bavardions</nous>
+		<vous>bavardiez</vous>
+		<ils>bavardaient</ils>
+	</imperfect>
+	<future>
+		<je>bavarderai</je>
+		<tu>bavarderas</tu>
+		<il>bavardera</il>
+		<nous>bavarderons</nous>
+		<vous>bavarderez</vous>
+		<ils>bavarderont</ils>
+	</future>
+	<subjunctive>
+		<je>bavarde</je>
+		<tu>bavardes</tu>
+		<il>bavarde</il>
+		<nous>bavardions</nous>
+		<vous>bavardiez</vous>
+		<ils>bavardent</ils>
+	</subjunctive>
+	<conditional>
+		<je>bavarderais</je>
+		<tu>bavarderais</tu>
+		<il>bavarderait</il>
+		<nous>bavarderions</nous>
+		<vous>bavarderiez</vous>
+		<ils>bavarderaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

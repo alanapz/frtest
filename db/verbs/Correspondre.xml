@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>correspondre</infinitive>
+	<translation>to correspond</translation>
+	<presentParticiple>correspondant</presentParticiple>
+	<pastParticiple>correspondu</pastParticiple>
+	<present>
+		<je>corresponds</je>
+		<tu>corresponds</tu>
+		<il>correspond</il>
+		<nous>correspondons</nous>
+		<vous>correspondez</vous>
+		<ils>correspondent</ils>
+	</present>
+	<imperative>
+		<tu>corresponds</tu>
+		<nous>correspondons</nous>
+		<vous>correspondez</vous>
+	</imperative>
+	<imperfect>
+		<je>correspondais</je>
+		<tu>correspondais</tu>
+		<il>correspondait</il>
+		<nous>correspondions</nous>
+		<vous>correspondiez</vous>
+		<ils>correspondaient</ils>
+	</imperfect>
+	<future>
+		<je>correspondrai</je>
+		<tu>correspondras</tu>
+		<il>correspondra</il>
+		<nous>correspondrons</nous>
+		<vous>correspondrez</vous>
+		<ils>correspondront</ils>
+	</future>
+	<subjunctive>
+		<je>corresponde</je>
+		<tu>correspondes</tu>
+		<il>corresponde</il>
+		<nous>correspondions</nous>
+		<vous>correspondiez</vous>
+		<ils>correspondent</ils>
+	</subjunctive>
+	<conditional>
+		<je>correspondrais</je>
+		<tu>correspondrais</tu>
+		<il>correspondrait</il>
+		<nous>correspondrions</nous>
+		<vous>correspondriez</vous>
+		<ils>correspondraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

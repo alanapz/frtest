@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>accumuler</infinitive>
+	<translation>to accumulate</translation>
+	<presentParticiple>accumulant</presentParticiple>
+	<pastParticiple>accumulé</pastParticiple>
+	<present>
+		<je>accumule</je>
+		<tu>accumules</tu>
+		<il>accumule</il>
+		<nous>accumulons</nous>
+		<vous>accumulez</vous>
+		<ils>accumulent</ils>
+	</present>
+	<imperative>
+		<tu>accumule</tu>
+		<nous>accumulons</nous>
+		<vous>accumulez</vous>
+	</imperative>
+	<imperfect>
+		<je>accumulais</je>
+		<tu>accumulais</tu>
+		<il>accumulait</il>
+		<nous>accumulions</nous>
+		<vous>accumuliez</vous>
+		<ils>accumulaient</ils>
+	</imperfect>
+	<future>
+		<je>accumulerai</je>
+		<tu>accumuleras</tu>
+		<il>accumulera</il>
+		<nous>accumulerons</nous>
+		<vous>accumulerez</vous>
+		<ils>accumuleront</ils>
+	</future>
+	<subjunctive>
+		<je>accumule</je>
+		<tu>accumules</tu>
+		<il>accumule</il>
+		<nous>accumulions</nous>
+		<vous>accumuliez</vous>
+		<ils>accumulent</ils>
+	</subjunctive>
+	<conditional>
+		<je>accumulerais</je>
+		<tu>accumulerais</tu>
+		<il>accumulerait</il>
+		<nous>accumulerions</nous>
+		<vous>accumuleriez</vous>
+		<ils>accumuleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

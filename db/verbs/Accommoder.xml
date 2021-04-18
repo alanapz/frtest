@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>accommoder</infinitive>
+	<translation>to use</translation>
+	<translation>prepare</translation>
+	<translation>combine</translation>
+	<presentParticiple>accommodant</presentParticiple>
+	<pastParticiple>accommodé</pastParticiple>
+	<present>
+		<je>accommode</je>
+		<tu>accommodes</tu>
+		<il>accommode</il>
+		<nous>accommodons</nous>
+		<vous>accommodez</vous>
+		<ils>accommodent</ils>
+	</present>
+	<imperative>
+		<tu>accommode</tu>
+		<nous>accommodons</nous>
+		<vous>accommodez</vous>
+	</imperative>
+	<imperfect>
+		<je>accommodais</je>
+		<tu>accommodais</tu>
+		<il>accommodait</il>
+		<nous>accommodions</nous>
+		<vous>accommodiez</vous>
+		<ils>accommodaient</ils>
+	</imperfect>
+	<future>
+		<je>accommoderai</je>
+		<tu>accommoderas</tu>
+		<il>accommodera</il>
+		<nous>accommoderons</nous>
+		<vous>accommoderez</vous>
+		<ils>accommoderont</ils>
+	</future>
+	<subjunctive>
+		<je>accommode</je>
+		<tu>accommodes</tu>
+		<il>accommode</il>
+		<nous>accommodions</nous>
+		<vous>accommodiez</vous>
+		<ils>accommodent</ils>
+	</subjunctive>
+	<conditional>
+		<je>accommoderais</je>
+		<tu>accommoderais</tu>
+		<il>accommoderait</il>
+		<nous>accommoderions</nous>
+		<vous>accommoderiez</vous>
+		<ils>accommoderaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

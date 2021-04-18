@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>abaisser</infinitive>
+            <translation>to lower</translation>
+            <presentParticiple>abaissant</presentParticiple>
+            <pastParticiple>abaissé</pastParticiple>
+            <present>
+                <je>abaisse</je>
+                <tu>abaisses</tu>
+                <il>abaisse</il>
+                <nous>abaissons</nous>
+                <vous>abaissez</vous>
+                <ils>abaissent</ils>
+            </present>
+            <imperative>
+                <tu>abaisse</tu>
+                <nous>abaissons</nous>
+                <vous>abaissez</vous>
+            </imperative>
+            <imperfect>
+                <je>abaissais</je>
+                <tu>abaissais</tu>
+                <il>abaissait</il>
+                <nous>abaissions</nous>
+                <vous>abaissiez</vous>
+                <ils>abaissaient</ils>
+            </imperfect>
+            <future>
+                <je>abaisserai</je>
+                <tu>abaisseras</tu>
+                <il>abaissera</il>
+                <nous>abaisserons</nous>
+                <vous>abaisserez</vous>
+                <ils>abaisseront</ils>
+            </future>
+            <subjunctive>
+                <je>abaisse</je>
+                <tu>abaisses</tu>
+                <il>abaisse</il>
+                <nous>abaissions</nous>
+                <vous>abaissiez</vous>
+                <ils>abaissent</ils>
+            </subjunctive>
+            <conditional>
+                <je>abaisserais</je>
+                <tu>abaisserais</tu>
+                <il>abaisserait</il>
+                <nous>abaisserions</nous>
+                <vous>abaisseriez</vous>
+                <ils>abaisseraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dicter</infinitive>
+	<translation>to dictate</translation>
+	<presentParticiple>dictant</presentParticiple>
+	<pastParticiple>dicté</pastParticiple>
+	<present>
+		<je>dicte</je>
+		<tu>dictes</tu>
+		<il>dicte</il>
+		<nous>dictons</nous>
+		<vous>dictez</vous>
+		<ils>dictent</ils>
+	</present>
+	<imperative>
+		<tu>dicte</tu>
+		<nous>dictons</nous>
+		<vous>dictez</vous>
+	</imperative>
+	<imperfect>
+		<je>dictais</je>
+		<tu>dictais</tu>
+		<il>dictait</il>
+		<nous>dictions</nous>
+		<vous>dictiez</vous>
+		<ils>dictaient</ils>
+	</imperfect>
+	<future>
+		<je>dicterai</je>
+		<tu>dicteras</tu>
+		<il>dictera</il>
+		<nous>dicterons</nous>
+		<vous>dicterez</vous>
+		<ils>dicteront</ils>
+	</future>
+	<subjunctive>
+		<je>dicte</je>
+		<tu>dictes</tu>
+		<il>dicte</il>
+		<nous>dictions</nous>
+		<vous>dictiez</vous>
+		<ils>dictent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dicterais</je>
+		<tu>dicterais</tu>
+		<il>dicterait</il>
+		<nous>dicterions</nous>
+		<vous>dicteriez</vous>
+		<ils>dicteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

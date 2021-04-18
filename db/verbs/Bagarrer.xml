@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>bagarrer</infinitive>
+	<translation>to fight</translation>
+	<translation>argue</translation>
+	<presentParticiple>bagarrant</presentParticiple>
+	<pastParticiple>bagarré</pastParticiple>
+	<present>
+		<je>bagarre</je>
+		<tu>bagarres</tu>
+		<il>bagarre</il>
+		<nous>bagarrons</nous>
+		<vous>bagarrez</vous>
+		<ils>bagarrent</ils>
+	</present>
+	<imperative>
+		<tu>bagarre</tu>
+		<nous>bagarrons</nous>
+		<vous>bagarrez</vous>
+	</imperative>
+	<imperfect>
+		<je>bagarrais</je>
+		<tu>bagarrais</tu>
+		<il>bagarrait</il>
+		<nous>bagarrions</nous>
+		<vous>bagarriez</vous>
+		<ils>bagarraient</ils>
+	</imperfect>
+	<future>
+		<je>bagarrerai</je>
+		<tu>bagarreras</tu>
+		<il>bagarrera</il>
+		<nous>bagarrerons</nous>
+		<vous>bagarrerez</vous>
+		<ils>bagarreront</ils>
+	</future>
+	<subjunctive>
+		<je>bagarre</je>
+		<tu>bagarres</tu>
+		<il>bagarre</il>
+		<nous>bagarrions</nous>
+		<vous>bagarriez</vous>
+		<ils>bagarrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>bagarrerais</je>
+		<tu>bagarrerais</tu>
+		<il>bagarrerait</il>
+		<nous>bagarrerions</nous>
+		<vous>bagarreriez</vous>
+		<ils>bagarreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

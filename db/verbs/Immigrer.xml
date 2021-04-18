@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>immigrer</infinitive>
+	<translation>to immigrate</translation>
+	<presentParticiple>immigrant</presentParticiple>
+	<pastParticiple>immigré</pastParticiple>
+	<present>
+		<je>immigre</je>
+		<tu>immigres</tu>
+		<il>immigre</il>
+		<nous>immigrons</nous>
+		<vous>immigrez</vous>
+		<ils>immigrent</ils>
+	</present>
+	<imperative>
+		<tu>immigre</tu>
+		<nous>immigrons</nous>
+		<vous>immigrez</vous>
+	</imperative>
+	<imperfect>
+		<je>immigrais</je>
+		<tu>immigrais</tu>
+		<il>immigrait</il>
+		<nous>immigrions</nous>
+		<vous>immigriez</vous>
+		<ils>immigraient</ils>
+	</imperfect>
+	<future>
+		<je>immigrerai</je>
+		<tu>immigreras</tu>
+		<il>immigrera</il>
+		<nous>immigrerons</nous>
+		<vous>immigrerez</vous>
+		<ils>immigreront</ils>
+	</future>
+	<subjunctive>
+		<je>immigre</je>
+		<tu>immigres</tu>
+		<il>immigre</il>
+		<nous>immigrions</nous>
+		<vous>immigriez</vous>
+		<ils>immigrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>immigrerais</je>
+		<tu>immigrerais</tu>
+		<il>immigrerait</il>
+		<nous>immigrerions</nous>
+		<vous>immigreriez</vous>
+		<ils>immigreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

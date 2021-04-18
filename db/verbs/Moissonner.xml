@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>moissonner</infinitive>
+	<translation>to harvest</translation>
+	<translation>reap</translation>
+	<presentParticiple>moissonnant</presentParticiple>
+	<pastParticiple>moissonné</pastParticiple>
+	<present>
+		<je>moissonne</je>
+		<tu>moissonnes</tu>
+		<il>moissonne</il>
+		<nous>moissonnons</nous>
+		<vous>moissonnez</vous>
+		<ils>moissonnent</ils>
+	</present>
+	<imperative>
+		<tu>moissonne</tu>
+		<nous>moissonnons</nous>
+		<vous>moissonnez</vous>
+	</imperative>
+	<imperfect>
+		<je>moissonnais</je>
+		<tu>moissonnais</tu>
+		<il>moissonnait</il>
+		<nous>moissonnions</nous>
+		<vous>moissonniez</vous>
+		<ils>moissonnaient</ils>
+	</imperfect>
+	<future>
+		<je>moissonnerai</je>
+		<tu>moissonneras</tu>
+		<il>moissonnera</il>
+		<nous>moissonnerons</nous>
+		<vous>moissonnerez</vous>
+		<ils>moissonneront</ils>
+	</future>
+	<subjunctive>
+		<je>moissonne</je>
+		<tu>moissonnes</tu>
+		<il>moissonne</il>
+		<nous>moissonnions</nous>
+		<vous>moissonniez</vous>
+		<ils>moissonnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>moissonnerais</je>
+		<tu>moissonnerais</tu>
+		<il>moissonnerait</il>
+		<nous>moissonnerions</nous>
+		<vous>moissonneriez</vous>
+		<ils>moissonneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

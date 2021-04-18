@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>conter</infinitive>
+	<translation>to recount</translation>
+	<translation>relate</translation>
+	<translation>tell</translation>
+	<presentParticiple>contant</presentParticiple>
+	<pastParticiple>conté</pastParticiple>
+	<present>
+		<je>conte</je>
+		<tu>contes</tu>
+		<il>conte</il>
+		<nous>contons</nous>
+		<vous>contez</vous>
+		<ils>content</ils>
+	</present>
+	<imperative>
+		<tu>conte</tu>
+		<nous>contons</nous>
+		<vous>contez</vous>
+	</imperative>
+	<imperfect>
+		<je>contais</je>
+		<tu>contais</tu>
+		<il>contait</il>
+		<nous>contions</nous>
+		<vous>contiez</vous>
+		<ils>contaient</ils>
+	</imperfect>
+	<future>
+		<je>conterai</je>
+		<tu>conteras</tu>
+		<il>contera</il>
+		<nous>conterons</nous>
+		<vous>conterez</vous>
+		<ils>conteront</ils>
+	</future>
+	<subjunctive>
+		<je>conte</je>
+		<tu>contes</tu>
+		<il>conte</il>
+		<nous>contions</nous>
+		<vous>contiez</vous>
+		<ils>content</ils>
+	</subjunctive>
+	<conditional>
+		<je>conterais</je>
+		<tu>conterais</tu>
+		<il>conterait</il>
+		<nous>conterions</nous>
+		<vous>conteriez</vous>
+		<ils>conteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

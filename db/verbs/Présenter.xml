@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>présenter</infinitive>
+	<translation>to introduce</translation>
+	<translation>present</translation>
+	<presentParticiple>présentant</presentParticiple>
+	<pastParticiple>présenté</pastParticiple>
+	<present>
+		<je>présente</je>
+		<tu>présentes</tu>
+		<il>présente</il>
+		<nous>présentons</nous>
+		<vous>présentez</vous>
+		<ils>présentent</ils>
+	</present>
+	<imperative>
+		<tu>présente</tu>
+		<nous>présentons</nous>
+		<vous>présentez</vous>
+	</imperative>
+	<imperfect>
+		<je>présentais</je>
+		<tu>présentais</tu>
+		<il>présentait</il>
+		<nous>présentions</nous>
+		<vous>présentiez</vous>
+		<ils>présentaient</ils>
+	</imperfect>
+	<future>
+		<je>présenterai</je>
+		<tu>présenteras</tu>
+		<il>présentera</il>
+		<nous>présenterons</nous>
+		<vous>présenterez</vous>
+		<ils>présenteront</ils>
+	</future>
+	<subjunctive>
+		<je>présente</je>
+		<tu>présentes</tu>
+		<il>présente</il>
+		<nous>présentions</nous>
+		<vous>présentiez</vous>
+		<ils>présentent</ils>
+	</subjunctive>
+	<conditional>
+		<je>présenterais</je>
+		<tu>présenterais</tu>
+		<il>présenterait</il>
+		<nous>présenterions</nous>
+		<vous>présenteriez</vous>
+		<ils>présenteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

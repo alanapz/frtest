@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>voler</infinitive>
+	<translation>to fly</translation>
+	<translation>to steal</translation>
+	<presentParticiple>volant</presentParticiple>
+	<pastParticiple>volé</pastParticiple>
+	<present>
+		<je>vole</je>
+		<tu>voles</tu>
+		<il>vole</il>
+		<nous>volons</nous>
+		<vous>volez</vous>
+		<ils>volent</ils>
+	</present>
+	<imperative>
+		<tu>vole</tu>
+		<nous>volons</nous>
+		<vous>volez</vous>
+	</imperative>
+	<imperfect>
+		<je>volais</je>
+		<tu>volais</tu>
+		<il>volait</il>
+		<nous>volions</nous>
+		<vous>voliez</vous>
+		<ils>volaient</ils>
+	</imperfect>
+	<future>
+		<je>volerai</je>
+		<tu>voleras</tu>
+		<il>volera</il>
+		<nous>volerons</nous>
+		<vous>volerez</vous>
+		<ils>voleront</ils>
+	</future>
+	<subjunctive>
+		<je>vole</je>
+		<tu>voles</tu>
+		<il>vole</il>
+		<nous>volions</nous>
+		<vous>voliez</vous>
+		<ils>volent</ils>
+	</subjunctive>
+	<conditional>
+		<je>volerais</je>
+		<tu>volerais</tu>
+		<il>volerait</il>
+		<nous>volerions</nous>
+		<vous>voleriez</vous>
+		<ils>voleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

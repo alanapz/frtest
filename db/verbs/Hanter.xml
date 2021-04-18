@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>hanter</infinitive>
+	<translation>to haunt</translation>
+	<presentParticiple>hantant</presentParticiple>
+	<pastParticiple>hanté</pastParticiple>
+	<present>
+		<je>hante</je>
+		<tu>hantes</tu>
+		<il>hante</il>
+		<nous>hantons</nous>
+		<vous>hantez</vous>
+		<ils>hantent</ils>
+	</present>
+	<imperative>
+		<tu>hante</tu>
+		<nous>hantons</nous>
+		<vous>hantez</vous>
+	</imperative>
+	<imperfect>
+		<je>hantais</je>
+		<tu>hantais</tu>
+		<il>hantait</il>
+		<nous>hantions</nous>
+		<vous>hantiez</vous>
+		<ils>hantaient</ils>
+	</imperfect>
+	<future>
+		<je>hanterai</je>
+		<tu>hanteras</tu>
+		<il>hantera</il>
+		<nous>hanterons</nous>
+		<vous>hanterez</vous>
+		<ils>hanteront</ils>
+	</future>
+	<subjunctive>
+		<je>hante</je>
+		<tu>hantes</tu>
+		<il>hante</il>
+		<nous>hantions</nous>
+		<vous>hantiez</vous>
+		<ils>hantent</ils>
+	</subjunctive>
+	<conditional>
+		<je>hanterais</je>
+		<tu>hanterais</tu>
+		<il>hanterait</il>
+		<nous>hanterions</nous>
+		<vous>hanteriez</vous>
+		<ils>hanteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

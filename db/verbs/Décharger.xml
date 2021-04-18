@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>décharger</infinitive>
+	<translation>to unload</translation>
+	<translation>unburden</translation>
+	<translation>to release</translation>
+	<translation>exempt</translation>
+	<spellingChange />
+	<presentParticiple>déchargeant</presentParticiple>
+	<pastParticiple>déchargé</pastParticiple>
+	<present>
+		<je>décharge</je>
+		<tu>décharges</tu>
+		<il>décharge</il>
+		<nous>déchargeons</nous>
+		<vous>déchargez</vous>
+		<ils>déchargent</ils>
+	</present>
+	<imperative>
+		<tu>décharge</tu>
+		<nous>déchargeons</nous>
+		<vous>déchargez</vous>
+	</imperative>
+	<imperfect>
+		<je>déchargeais</je>
+		<tu>déchargeais</tu>
+		<il>déchargeait</il>
+		<nous>déchargions</nous>
+		<vous>déchargiez</vous>
+		<ils>déchargeaient</ils>
+	</imperfect>
+	<future>
+		<je>déchargerai</je>
+		<tu>déchargeras</tu>
+		<il>déchargera</il>
+		<nous>déchargerons</nous>
+		<vous>déchargerez</vous>
+		<ils>déchargeront</ils>
+	</future>
+	<subjunctive>
+		<je>décharge</je>
+		<tu>décharges</tu>
+		<il>décharge</il>
+		<nous>déchargions</nous>
+		<vous>déchargiez</vous>
+		<ils>déchargent</ils>
+	</subjunctive>
+	<conditional>
+		<je>déchargerais</je>
+		<tu>déchargerais</tu>
+		<il>déchargerait</il>
+		<nous>déchargerions</nous>
+		<vous>déchargeriez</vous>
+		<ils>déchargeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

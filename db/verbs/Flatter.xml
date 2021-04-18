@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>flatter</infinitive>
+	<translation>to flatter</translation>
+	<presentParticiple>flattant</presentParticiple>
+	<pastParticiple>flatté</pastParticiple>
+	<present>
+		<je>flatte</je>
+		<tu>flattes</tu>
+		<il>flatte</il>
+		<nous>flattons</nous>
+		<vous>flattez</vous>
+		<ils>flattent</ils>
+	</present>
+	<imperative>
+		<tu>flatte</tu>
+		<nous>flattons</nous>
+		<vous>flattez</vous>
+	</imperative>
+	<imperfect>
+		<je>flattais</je>
+		<tu>flattais</tu>
+		<il>flattait</il>
+		<nous>flattions</nous>
+		<vous>flattiez</vous>
+		<ils>flattaient</ils>
+	</imperfect>
+	<future>
+		<je>flatterai</je>
+		<tu>flatteras</tu>
+		<il>flattera</il>
+		<nous>flatterons</nous>
+		<vous>flatterez</vous>
+		<ils>flatteront</ils>
+	</future>
+	<subjunctive>
+		<je>flatte</je>
+		<tu>flattes</tu>
+		<il>flatte</il>
+		<nous>flattions</nous>
+		<vous>flattiez</vous>
+		<ils>flattent</ils>
+	</subjunctive>
+	<conditional>
+		<je>flatterais</je>
+		<tu>flatterais</tu>
+		<il>flatterait</il>
+		<nous>flatterions</nous>
+		<vous>flatteriez</vous>
+		<ils>flatteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

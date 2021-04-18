@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>fructifier</infinitive>
+	<translation>to bear fruit</translation>
+	<translation>be productive</translation>
+	<presentParticiple>fructifiant</presentParticiple>
+	<pastParticiple>fructifié</pastParticiple>
+	<present>
+		<je>fructifie</je>
+		<tu>fructifies</tu>
+		<il>fructifie</il>
+		<nous>fructifions</nous>
+		<vous>fructifiez</vous>
+		<ils>fructifient</ils>
+	</present>
+	<imperative>
+		<tu>fructifie</tu>
+		<nous>fructifions</nous>
+		<vous>fructifiez</vous>
+	</imperative>
+	<imperfect>
+		<je>fructifiais</je>
+		<tu>fructifiais</tu>
+		<il>fructifiait</il>
+		<nous>fructifiions</nous>
+		<vous>fructifiiez</vous>
+		<ils>fructifiaient</ils>
+	</imperfect>
+	<future>
+		<je>fructifierai</je>
+		<tu>fructifieras</tu>
+		<il>fructifiera</il>
+		<nous>fructifierons</nous>
+		<vous>fructifierez</vous>
+		<ils>fructifieront</ils>
+	</future>
+	<subjunctive>
+		<je>fructifie</je>
+		<tu>fructifies</tu>
+		<il>fructifie</il>
+		<nous>fructifiions</nous>
+		<vous>fructifiiez</vous>
+		<ils>fructifient</ils>
+	</subjunctive>
+	<conditional>
+		<je>fructifierais</je>
+		<tu>fructifierais</tu>
+		<il>fructifierait</il>
+		<nous>fructifierions</nous>
+		<vous>fructifieriez</vous>
+		<ils>fructifieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

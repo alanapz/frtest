@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>ranger</infinitive>
+	<translation>to arrange</translation>
+	<spellingChange />
+	<presentParticiple>rangeant</presentParticiple>
+	<pastParticiple>rangé</pastParticiple>
+	<present>
+		<je>range</je>
+		<tu>ranges</tu>
+		<il>range</il>
+		<nous>rangeons</nous>
+		<vous>rangez</vous>
+		<ils>rangent</ils>
+	</present>
+	<imperative>
+		<tu>range</tu>
+		<nous>rangeons</nous>
+		<vous>rangez</vous>
+	</imperative>
+	<imperfect>
+		<je>rangeais</je>
+		<tu>rangeais</tu>
+		<il>rangeait</il>
+		<nous>rangions</nous>
+		<vous>rangiez</vous>
+		<ils>rangeaient</ils>
+	</imperfect>
+	<future>
+		<je>rangerai</je>
+		<tu>rangeras</tu>
+		<il>rangera</il>
+		<nous>rangerons</nous>
+		<vous>rangerez</vous>
+		<ils>rangeront</ils>
+	</future>
+	<subjunctive>
+		<je>range</je>
+		<tu>ranges</tu>
+		<il>range</il>
+		<nous>rangions</nous>
+		<vous>rangiez</vous>
+		<ils>rangent</ils>
+	</subjunctive>
+	<conditional>
+		<je>rangerais</je>
+		<tu>rangerais</tu>
+		<il>rangerait</il>
+		<nous>rangerions</nous>
+		<vous>rangeriez</vous>
+		<ils>rangeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

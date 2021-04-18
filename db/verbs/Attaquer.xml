@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>attaquer</infinitive>
+	<translation>to attack</translation>
+	<presentParticiple>attaquant</presentParticiple>
+	<pastParticiple>attaqué</pastParticiple>
+	<present>
+		<je>attaque</je>
+		<tu>attaques</tu>
+		<il>attaque</il>
+		<nous>attaquons</nous>
+		<vous>attaquez</vous>
+		<ils>attaquent</ils>
+	</present>
+	<imperative>
+		<tu>attaque</tu>
+		<nous>attaquons</nous>
+		<vous>attaquez</vous>
+	</imperative>
+	<imperfect>
+		<je>attaquais</je>
+		<tu>attaquais</tu>
+		<il>attaquait</il>
+		<nous>attaquions</nous>
+		<vous>attaquiez</vous>
+		<ils>attaquaient</ils>
+	</imperfect>
+	<future>
+		<je>attaquerai</je>
+		<tu>attaqueras</tu>
+		<il>attaquera</il>
+		<nous>attaquerons</nous>
+		<vous>attaquerez</vous>
+		<ils>attaqueront</ils>
+	</future>
+	<subjunctive>
+		<je>attaque</je>
+		<tu>attaques</tu>
+		<il>attaque</il>
+		<nous>attaquions</nous>
+		<vous>attaquiez</vous>
+		<ils>attaquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>attaquerais</je>
+		<tu>attaquerais</tu>
+		<il>attaquerait</il>
+		<nous>attaquerions</nous>
+		<vous>attaqueriez</vous>
+		<ils>attaqueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

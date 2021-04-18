@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>éclairer</infinitive>
+	<translation>to light</translation>
+	<translation>shine</translation>
+	<translation>to clarify</translation>
+	<presentParticiple>éclairant</presentParticiple>
+	<pastParticiple>éclairé</pastParticiple>
+	<present>
+		<je>éclaire</je>
+		<tu>éclaires</tu>
+		<il>éclaire</il>
+		<nous>éclairons</nous>
+		<vous>éclairez</vous>
+		<ils>éclairent</ils>
+	</present>
+	<imperative>
+		<tu>éclaire</tu>
+		<nous>éclairons</nous>
+		<vous>éclairez</vous>
+	</imperative>
+	<imperfect>
+		<je>éclairais</je>
+		<tu>éclairais</tu>
+		<il>éclairait</il>
+		<nous>éclairions</nous>
+		<vous>éclairiez</vous>
+		<ils>éclairaient</ils>
+	</imperfect>
+	<future>
+		<je>éclairerai</je>
+		<tu>éclaireras</tu>
+		<il>éclairera</il>
+		<nous>éclairerons</nous>
+		<vous>éclairerez</vous>
+		<ils>éclaireront</ils>
+	</future>
+	<subjunctive>
+		<je>éclaire</je>
+		<tu>éclaires</tu>
+		<il>éclaire</il>
+		<nous>éclairions</nous>
+		<vous>éclairiez</vous>
+		<ils>éclairent</ils>
+	</subjunctive>
+	<conditional>
+		<je>éclairerais</je>
+		<tu>éclairerais</tu>
+		<il>éclairerait</il>
+		<nous>éclairerions</nous>
+		<vous>éclaireriez</vous>
+		<ils>éclaireraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>refermer</infinitive>
+	<translation>to close (again)</translation>
+	<presentParticiple>refermant</presentParticiple>
+	<pastParticiple>refermé</pastParticiple>
+	<present>
+		<je>referme</je>
+		<tu>refermes</tu>
+		<il>referme</il>
+		<nous>refermons</nous>
+		<vous>refermez</vous>
+		<ils>referment</ils>
+	</present>
+	<imperative>
+		<tu>referme</tu>
+		<nous>refermons</nous>
+		<vous>refermez</vous>
+	</imperative>
+	<imperfect>
+		<je>refermais</je>
+		<tu>refermais</tu>
+		<il>refermait</il>
+		<nous>refermions</nous>
+		<vous>refermiez</vous>
+		<ils>refermaient</ils>
+	</imperfect>
+	<future>
+		<je>refermerai</je>
+		<tu>refermeras</tu>
+		<il>refermera</il>
+		<nous>refermerons</nous>
+		<vous>refermerez</vous>
+		<ils>refermeront</ils>
+	</future>
+	<subjunctive>
+		<je>referme</je>
+		<tu>refermes</tu>
+		<il>referme</il>
+		<nous>refermions</nous>
+		<vous>refermiez</vous>
+		<ils>referment</ils>
+	</subjunctive>
+	<conditional>
+		<je>refermerais</je>
+		<tu>refermerais</tu>
+		<il>refermerait</il>
+		<nous>refermerions</nous>
+		<vous>refermeriez</vous>
+		<ils>refermeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

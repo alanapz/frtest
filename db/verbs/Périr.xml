@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>périr</infinitive>
+	<translation>to perish</translation>
+	<presentParticiple>périssant</presentParticiple>
+	<pastParticiple>péri</pastParticiple>
+	<present>
+		<je>péris</je>
+		<tu>péris</tu>
+		<il>périt</il>
+		<nous>périssons</nous>
+		<vous>périssez</vous>
+		<ils>périssent</ils>
+	</present>
+	<imperative>
+		<tu>péris</tu>
+		<nous>périssons</nous>
+		<vous>périssez</vous>
+	</imperative>
+	<imperfect>
+		<je>périssais</je>
+		<tu>périssais</tu>
+		<il>périssait</il>
+		<nous>périssions</nous>
+		<vous>périssiez</vous>
+		<ils>périssaient</ils>
+	</imperfect>
+	<future>
+		<je>périrai</je>
+		<tu>périras</tu>
+		<il>périra</il>
+		<nous>périrons</nous>
+		<vous>périrez</vous>
+		<ils>périront</ils>
+	</future>
+	<subjunctive>
+		<je>périsse</je>
+		<tu>périsses</tu>
+		<il>périsse</il>
+		<nous>périssions</nous>
+		<vous>périssiez</vous>
+		<ils>périssent</ils>
+	</subjunctive>
+	<conditional>
+		<je>périrais</je>
+		<tu>périrais</tu>
+		<il>périrait</il>
+		<nous>péririons</nous>
+		<vous>péririez</vous>
+		<ils>périraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

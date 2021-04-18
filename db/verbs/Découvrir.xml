@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>découvrir</infinitive>
+	<translation>to discover</translation>
+	<translation>uncover</translation>
+	<irregular />
+	<presentParticiple>découvrant</presentParticiple>
+	<pastParticiple>découvert</pastParticiple>
+	<present>
+		<je>découvre</je>
+		<tu>découvres</tu>
+		<il>découvre</il>
+		<nous>découvrons</nous>
+		<vous>découvrez</vous>
+		<ils>découvrent</ils>
+	</present>
+	<imperative>
+		<tu>découvre</tu>
+		<nous>découvrons</nous>
+		<vous>découvrez</vous>
+	</imperative>
+	<imperfect>
+		<je>découvrais</je>
+		<tu>découvrais</tu>
+		<il>découvrait</il>
+		<nous>découvrions</nous>
+		<vous>découvriez</vous>
+		<ils>découvraient</ils>
+	</imperfect>
+	<future>
+		<je>découvrirai</je>
+		<tu>découvriras</tu>
+		<il>découvrira</il>
+		<nous>découvrirons</nous>
+		<vous>découvrirez</vous>
+		<ils>découvriront</ils>
+	</future>
+	<subjunctive>
+		<je>découvre</je>
+		<tu>découvres</tu>
+		<il>découvre</il>
+		<nous>découvrions</nous>
+		<vous>découvriez</vous>
+		<ils>découvrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>découvrirais</je>
+		<tu>découvrirais</tu>
+		<il>découvrirait</il>
+		<nous>découvririons</nous>
+		<vous>découvririez</vous>
+		<ils>découvriraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

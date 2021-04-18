@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>circonvenir</infinitive>
+	<translation>to circumvent</translation>
+	<translation>getaround</translation>
+	<irregular />
+	<presentParticiple>circonvenant</presentParticiple>
+	<pastParticiple>circonvenu</pastParticiple>
+	<present>
+		<je>circonviens</je>
+		<tu>circonviens</tu>
+		<il>circonvient</il>
+		<nous>circonvenons</nous>
+		<vous>circonvenez</vous>
+		<ils>circonviennent</ils>
+	</present>
+	<imperative>
+		<tu>circonviens</tu>
+		<nous>circonvenons</nous>
+		<vous>circonvenez</vous>
+	</imperative>
+	<imperfect>
+		<je>circonvenais</je>
+		<tu>circonvenais</tu>
+		<il>circonvenait</il>
+		<nous>circonvenions</nous>
+		<vous>circonveniez</vous>
+		<ils>circonvenaient</ils>
+	</imperfect>
+	<future>
+		<je>circonviendrai</je>
+		<tu>circonviendras</tu>
+		<il>circonviendra</il>
+		<nous>circonviendrons</nous>
+		<vous>circonviendrez</vous>
+		<ils>circonviendront</ils>
+	</future>
+	<subjunctive>
+		<je>circonvienne</je>
+		<tu>circonviennes</tu>
+		<il>circonvienne</il>
+		<nous>circonvenions</nous>
+		<vous>circonveniez</vous>
+		<ils>circonviennent</ils>
+	</subjunctive>
+	<conditional>
+		<je>circonviendrais</je>
+		<tu>circonviendrais</tu>
+		<il>circonviendrait</il>
+		<nous>circonviendrions</nous>
+		<vous>circonviendriez</vous>
+		<ils>circonviendraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>mastiquer</infinitive>
+	<translation>to chew</translation>
+	<translation>masticate</translation>
+	<translation>to putty</translation>
+	<presentParticiple>mastiquant</presentParticiple>
+	<pastParticiple>mastiqué</pastParticiple>
+	<present>
+		<je>mastique</je>
+		<tu>mastiques</tu>
+		<il>mastique</il>
+		<nous>mastiquons</nous>
+		<vous>mastiquez</vous>
+		<ils>mastiquent</ils>
+	</present>
+	<imperative>
+		<tu>mastique</tu>
+		<nous>mastiquons</nous>
+		<vous>mastiquez</vous>
+	</imperative>
+	<imperfect>
+		<je>mastiquais</je>
+		<tu>mastiquais</tu>
+		<il>mastiquait</il>
+		<nous>mastiquions</nous>
+		<vous>mastiquiez</vous>
+		<ils>mastiquaient</ils>
+	</imperfect>
+	<future>
+		<je>mastiquerai</je>
+		<tu>mastiqueras</tu>
+		<il>mastiquera</il>
+		<nous>mastiquerons</nous>
+		<vous>mastiquerez</vous>
+		<ils>mastiqueront</ils>
+	</future>
+	<subjunctive>
+		<je>mastique</je>
+		<tu>mastiques</tu>
+		<il>mastique</il>
+		<nous>mastiquions</nous>
+		<vous>mastiquiez</vous>
+		<ils>mastiquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>mastiquerais</je>
+		<tu>mastiquerais</tu>
+		<il>mastiquerait</il>
+		<nous>mastiquerions</nous>
+		<vous>mastiqueriez</vous>
+		<ils>mastiqueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

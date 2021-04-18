@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>critiquer</infinitive>
+	<translation>to criticize</translation>
+	<presentParticiple>critiquant</presentParticiple>
+	<pastParticiple>critiqué</pastParticiple>
+	<present>
+		<je>critique</je>
+		<tu>critiques</tu>
+		<il>critique</il>
+		<nous>critiquons</nous>
+		<vous>critiquez</vous>
+		<ils>critiquent</ils>
+	</present>
+	<imperative>
+		<tu>critique</tu>
+		<nous>critiquons</nous>
+		<vous>critiquez</vous>
+	</imperative>
+	<imperfect>
+		<je>critiquais</je>
+		<tu>critiquais</tu>
+		<il>critiquait</il>
+		<nous>critiquions</nous>
+		<vous>critiquiez</vous>
+		<ils>critiquaient</ils>
+	</imperfect>
+	<future>
+		<je>critiquerai</je>
+		<tu>critiqueras</tu>
+		<il>critiquera</il>
+		<nous>critiquerons</nous>
+		<vous>critiquerez</vous>
+		<ils>critiqueront</ils>
+	</future>
+	<subjunctive>
+		<je>critique</je>
+		<tu>critiques</tu>
+		<il>critique</il>
+		<nous>critiquions</nous>
+		<vous>critiquiez</vous>
+		<ils>critiquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>critiquerais</je>
+		<tu>critiquerais</tu>
+		<il>critiquerait</il>
+		<nous>critiquerions</nous>
+		<vous>critiqueriez</vous>
+		<ils>critiqueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

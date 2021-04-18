@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>chauffer</infinitive>
+	<translation>to heat</translation>
+	<presentParticiple>chauffant</presentParticiple>
+	<pastParticiple>chauffé</pastParticiple>
+	<present>
+		<je>chauffe</je>
+		<tu>chauffes</tu>
+		<il>chauffe</il>
+		<nous>chauffons</nous>
+		<vous>chauffez</vous>
+		<ils>chauffent</ils>
+	</present>
+	<imperative>
+		<tu>chauffe</tu>
+		<nous>chauffons</nous>
+		<vous>chauffez</vous>
+	</imperative>
+	<imperfect>
+		<je>chauffais</je>
+		<tu>chauffais</tu>
+		<il>chauffait</il>
+		<nous>chauffions</nous>
+		<vous>chauffiez</vous>
+		<ils>chauffaient</ils>
+	</imperfect>
+	<future>
+		<je>chaufferai</je>
+		<tu>chaufferas</tu>
+		<il>chauffera</il>
+		<nous>chaufferons</nous>
+		<vous>chaufferez</vous>
+		<ils>chaufferont</ils>
+	</future>
+	<subjunctive>
+		<je>chauffe</je>
+		<tu>chauffes</tu>
+		<il>chauffe</il>
+		<nous>chauffions</nous>
+		<vous>chauffiez</vous>
+		<ils>chauffent</ils>
+	</subjunctive>
+	<conditional>
+		<je>chaufferais</je>
+		<tu>chaufferais</tu>
+		<il>chaufferait</il>
+		<nous>chaufferions</nous>
+		<vous>chaufferiez</vous>
+		<ils>chaufferaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>imprimer</infinitive>
+	<translation>to print</translation>
+	<presentParticiple>imprimant</presentParticiple>
+	<pastParticiple>imprimé</pastParticiple>
+	<present>
+		<je>imprime</je>
+		<tu>imprimes</tu>
+		<il>imprime</il>
+		<nous>imprimons</nous>
+		<vous>imprimez</vous>
+		<ils>impriment</ils>
+	</present>
+	<imperative>
+		<tu>imprime</tu>
+		<nous>imprimons</nous>
+		<vous>imprimez</vous>
+	</imperative>
+	<imperfect>
+		<je>imprimais</je>
+		<tu>imprimais</tu>
+		<il>imprimait</il>
+		<nous>imprimions</nous>
+		<vous>imprimiez</vous>
+		<ils>imprimaient</ils>
+	</imperfect>
+	<future>
+		<je>imprimerai</je>
+		<tu>imprimeras</tu>
+		<il>imprimera</il>
+		<nous>imprimerons</nous>
+		<vous>imprimerez</vous>
+		<ils>imprimeront</ils>
+	</future>
+	<subjunctive>
+		<je>imprime</je>
+		<tu>imprimes</tu>
+		<il>imprime</il>
+		<nous>imprimions</nous>
+		<vous>imprimiez</vous>
+		<ils>impriment</ils>
+	</subjunctive>
+	<conditional>
+		<je>imprimerais</je>
+		<tu>imprimerais</tu>
+		<il>imprimerait</il>
+		<nous>imprimerions</nous>
+		<vous>imprimeriez</vous>
+		<ils>imprimeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>remonter</infinitive>
+            <translation>to go-back-up</translation>
+            <takesEtreInPerfect />
+            <presentParticiple>remontant</presentParticiple>
+            <pastParticiple>remonté</pastParticiple>
+            <present>
+                <je>remonte</je>
+                <tu>remontes</tu>
+                <il>remonte</il>
+                <nous>remontons</nous>
+                <vous>remontez</vous>
+                <ils>remontent</ils>
+            </present>
+            <imperative>
+                <tu>remonte</tu>
+                <nous>remontons</nous>
+                <vous>remontez</vous>
+            </imperative>
+            <imperfect>
+                <je>remontais</je>
+                <tu>remontais</tu>
+                <il>remontait</il>
+                <nous>remontions</nous>
+                <vous>remontiez</vous>
+                <ils>remontaient</ils>
+            </imperfect>
+            <future>
+                <je>remonterai</je>
+                <tu>remonteras</tu>
+                <il>remontera</il>
+                <nous>remonterons</nous>
+                <vous>remonterez</vous>
+                <ils>remonteront</ils>
+            </future>
+            <subjunctive>
+                <je>remonte</je>
+                <tu>remontes</tu>
+                <il>remonte</il>
+                <nous>remontions</nous>
+                <vous>remontiez</vous>
+                <ils>remontent</ils>
+            </subjunctive>
+            <conditional>
+                <je>remonterais</je>
+                <tu>remonterais</tu>
+                <il>remonterait</il>
+                <nous>remonterions</nous>
+                <vous>remonteriez</vous>
+                <ils>remonteraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

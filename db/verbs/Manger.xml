@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>manger</infinitive>
+	<translation>to eat</translation>
+	<spellingChange />
+	<presentParticiple>mangeant</presentParticiple>
+	<pastParticiple>mangé</pastParticiple>
+	<present>
+		<je>mange</je>
+		<tu>manges</tu>
+		<il>mange</il>
+		<nous>mangeons</nous>
+		<vous>mangez</vous>
+		<ils>mangent</ils>
+	</present>
+	<imperative>
+		<tu>mange</tu>
+		<nous>mangeons</nous>
+		<vous>mangez</vous>
+	</imperative>
+	<imperfect>
+		<je>mangeais</je>
+		<tu>mangeais</tu>
+		<il>mangeait</il>
+		<nous>mangions</nous>
+		<vous>mangiez</vous>
+		<ils>mangeaient</ils>
+	</imperfect>
+	<future>
+		<je>mangerai</je>
+		<tu>mangeras</tu>
+		<il>mangera</il>
+		<nous>mangerons</nous>
+		<vous>mangerez</vous>
+		<ils>mangeront</ils>
+	</future>
+	<subjunctive>
+		<je>mange</je>
+		<tu>manges</tu>
+		<il>mange</il>
+		<nous>mangions</nous>
+		<vous>mangiez</vous>
+		<ils>mangent</ils>
+	</subjunctive>
+	<conditional>
+		<je>mangerais</je>
+		<tu>mangerais</tu>
+		<il>mangerait</il>
+		<nous>mangerions</nous>
+		<vous>mangeriez</vous>
+		<ils>mangeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

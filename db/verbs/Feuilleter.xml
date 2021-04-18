@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>feuilleter</infinitive>
+	<translation>to leaf through</translation>
+	<stemChange />
+	<presentParticiple>feuilletant</presentParticiple>
+	<pastParticiple>feuilleté</pastParticiple>
+	<present>
+		<je>feuillette</je>
+		<tu>feuillettes</tu>
+		<il>feuillette</il>
+		<nous>feuilletons</nous>
+		<vous>feuilletez</vous>
+		<ils>feuillettent</ils>
+	</present>
+	<imperative>
+		<tu>feuillette</tu>
+		<nous>feuilletons</nous>
+		<vous>feuilletez</vous>
+	</imperative>
+	<imperfect>
+		<je>feuilletais</je>
+		<tu>feuilletais</tu>
+		<il>feuilletait</il>
+		<nous>feuilletions</nous>
+		<vous>feuilletiez</vous>
+		<ils>feuilletaient</ils>
+	</imperfect>
+	<future>
+		<je>feuilletterai</je>
+		<tu>feuilletteras</tu>
+		<il>feuillettera</il>
+		<nous>feuilletterons</nous>
+		<vous>feuilletterez</vous>
+		<ils>feuilletteront</ils>
+	</future>
+	<subjunctive>
+		<je>feuillette</je>
+		<tu>feuillettes</tu>
+		<il>feuillette</il>
+		<nous>feuilletions</nous>
+		<vous>feuilletiez</vous>
+		<ils>feuillettent</ils>
+	</subjunctive>
+	<conditional>
+		<je>feuilletterais</je>
+		<tu>feuilletterais</tu>
+		<il>feuilletterait</il>
+		<nous>feuilletterions</nous>
+		<vous>feuilletteriez</vous>
+		<ils>feuilletteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

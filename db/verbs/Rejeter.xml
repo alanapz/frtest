@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>rejeter</infinitive>
+            <translation>to reject</translation>
+            <stemChange />
+            <presentParticiple>rejetant</presentParticiple>
+            <pastParticiple>rejeté</pastParticiple>
+            <present>
+                <je>rejette</je>
+                <tu>rejettes</tu>
+                <il>rejette</il>
+                <nous>rejetons</nous>
+                <vous>rejetez</vous>
+                <ils>rejettent</ils>
+            </present>
+            <imperative>
+                <tu>rejette</tu>
+                <nous>rejetons</nous>
+                <vous>rejetez</vous>
+            </imperative>
+            <imperfect>
+                <je>rejetais</je>
+                <tu>rejetais</tu>
+                <il>rejetait</il>
+                <nous>rejetions</nous>
+                <vous>rejetiez</vous>
+                <ils>rejetaient</ils>
+            </imperfect>
+            <future>
+                <je>rejetterai</je>
+                <tu>rejetteras</tu>
+                <il>rejettera</il>
+                <nous>rejetterons</nous>
+                <vous>rejetterez</vous>
+                <ils>rejetteront</ils>
+            </future>
+            <subjunctive>
+                <je>rejette</je>
+                <tu>rejettes</tu>
+                <il>rejette</il>
+                <nous>rejetions</nous>
+                <vous>rejetiez</vous>
+                <ils>rejettent</ils>
+            </subjunctive>
+            <conditional>
+                <je>rejetterais</je>
+                <tu>rejetterais</tu>
+                <il>rejetterait</il>
+                <nous>rejetterions</nous>
+                <vous>rejetteriez</vous>
+                <ils>rejetteraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

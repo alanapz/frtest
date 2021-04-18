@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>retrouver</infinitive>
+            <translation>to re-find</translation>
+            <presentParticiple>retrouvant</presentParticiple>
+            <pastParticiple>retrouvé</pastParticiple>
+            <present>
+                <je>retrouve</je>
+                <tu>retrouves</tu>
+                <il>retrouve</il>
+                <nous>retrouvons</nous>
+                <vous>retrouvez</vous>
+                <ils>retrouvent</ils>
+            </present>
+            <imperative>
+                <tu>retrouve</tu>
+                <nous>retrouvons</nous>
+                <vous>retrouvez</vous>
+            </imperative>
+            <imperfect>
+                <je>retrouvais</je>
+                <tu>retrouvais</tu>
+                <il>retrouvait</il>
+                <nous>retrouvions</nous>
+                <vous>retrouviez</vous>
+                <ils>retrouvaient</ils>
+            </imperfect>
+            <future>
+                <je>retrouverai</je>
+                <tu>retrouveras</tu>
+                <il>retrouvera</il>
+                <nous>retrouverons</nous>
+                <vous>retrouverez</vous>
+                <ils>retrouveront</ils>
+            </future>
+            <subjunctive>
+                <je>retrouve</je>
+                <tu>retrouves</tu>
+                <il>retrouve</il>
+                <nous>retrouvions</nous>
+                <vous>retrouviez</vous>
+                <ils>retrouvent</ils>
+            </subjunctive>
+            <conditional>
+                <je>retrouverais</je>
+                <tu>retrouverais</tu>
+                <il>retrouverait</il>
+                <nous>retrouverions</nous>
+                <vous>retrouveriez</vous>
+                <ils>retrouveraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

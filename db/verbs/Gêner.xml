@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>gêner</infinitive>
+	<translation>to bother</translation>
+	<presentParticiple>gênant</presentParticiple>
+	<pastParticiple>gêné</pastParticiple>
+	<present>
+		<je>gêne</je>
+		<tu>gênes</tu>
+		<il>gêne</il>
+		<nous>gênons</nous>
+		<vous>gênez</vous>
+		<ils>gênent</ils>
+	</present>
+	<imperative>
+		<tu>gêne</tu>
+		<nous>gênons</nous>
+		<vous>gênez</vous>
+	</imperative>
+	<imperfect>
+		<je>gênais</je>
+		<tu>gênais</tu>
+		<il>gênait</il>
+		<nous>gênions</nous>
+		<vous>gêniez</vous>
+		<ils>gênaient</ils>
+	</imperfect>
+	<future>
+		<je>gênerai</je>
+		<tu>gêneras</tu>
+		<il>gênera</il>
+		<nous>gênerons</nous>
+		<vous>gênerez</vous>
+		<ils>gêneront</ils>
+	</future>
+	<subjunctive>
+		<je>gêne</je>
+		<tu>gênes</tu>
+		<il>gêne</il>
+		<nous>gênions</nous>
+		<vous>gêniez</vous>
+		<ils>gênent</ils>
+	</subjunctive>
+	<conditional>
+		<je>gênerais</je>
+		<tu>gênerais</tu>
+		<il>gênerait</il>
+		<nous>gênerions</nous>
+		<vous>gêneriez</vous>
+		<ils>gêneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

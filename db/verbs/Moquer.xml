@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>moquer</infinitive>
+            <presentParticiple>moquant</presentParticiple>
+            <pastParticiple>moqué</pastParticiple>
+            <pronominal>
+                <translation>to mock</translation>
+            </pronominal>
+            <present>
+                <je>moque</je>
+                <tu>moques</tu>
+                <il>moque</il>
+                <nous>moquons</nous>
+                <vous>moquez</vous>
+                <ils>moquent</ils>
+            </present>
+            <imperative>
+                <tu>moque</tu>
+                <nous>moquons</nous>
+                <vous>moquez</vous>
+            </imperative>
+            <imperfect>
+                <je>moquais</je>
+                <tu>moquais</tu>
+                <il>moquais</il>
+                <nous>moquions</nous>
+                <vous>moquiez</vous>
+                <ils>moquaient</ils>
+            </imperfect>
+            <future>
+                <je>moquerai</je>
+                <tu>moqueras</tu>
+                <il>moquera</il>
+                <nous>moquerons</nous>
+                <vous>moquerez</vous>
+                <ils>moqueront</ils>
+            </future>
+            <subjunctive>
+                <je>moque</je>
+                <tu>moques</tu>
+                <il>moque</il>
+                <nous>moquions</nous>
+                <vous>moquiez</vous>
+                <ils>moquent</ils>
+            </subjunctive>
+            <conditional>
+                <je>moquerais</je>
+                <tu>moquerais</tu>
+                <il>moquerait</il>
+                <nous>moquerions</nous>
+                <vous>moqueriez</vous>
+                <ils>moqueraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

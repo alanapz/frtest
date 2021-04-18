@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>trouver</infinitive>
+            <translation>to find</translation>
+            <presentParticiple>trouvant</presentParticiple>
+            <pastParticiple>trouvé</pastParticiple>
+            <pronominal>
+                <translation>to be found</translation>
+            </pronominal>
+            <present>
+                <je>trouve</je>
+                <tu>trouves</tu>
+                <il>trouve</il>
+                <nous>trouvons</nous>
+                <vous>trouvez</vous>
+                <ils>trouvent</ils>
+            </present>
+            <imperative>
+                <tu>trouve</tu>
+                <nous>trouvons</nous>
+                <vous>trouvez</vous>
+            </imperative>
+            <imperfect>
+                <je>trouvais</je>
+                <tu>trouvais</tu>
+                <il>trouvait</il>
+                <nous>trouvions</nous>
+                <vous>trouviez</vous>
+                <ils>trouvaient</ils>
+            </imperfect>
+            <future>
+                <je>trouverai</je>
+                <tu>trouveras</tu>
+                <il>trouvera</il>
+                <nous>trouverons</nous>
+                <vous>trouverez</vous>
+                <ils>trouveront</ils>
+            </future>
+            <subjunctive>
+                <je>trouve</je>
+                <tu>trouves</tu>
+                <il>trouve</il>
+                <nous>trouvions</nous>
+                <vous>trouviez</vous>
+                <ils>trouvent</ils>
+            </subjunctive>
+            <conditional>
+                <je>trouverais</je>
+                <tu>trouverais</tu>
+                <il>trouverait</il>
+                <nous>trouverions</nous>
+                <vous>trouveriez</vous>
+                <ils>trouveraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

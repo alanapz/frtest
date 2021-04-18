@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>avoir</infinitive>
+            <translation>to have</translation>
+            <presentParticiple>ayant</presentParticiple>
+            <pastParticiple>eu</pastParticiple>
+            <present>
+                <je>ai</je>
+                <tu>as</tu>
+                <il>a</il>
+                <nous>avons</nous>
+                <vous>avez</vous>
+                <ils>ont</ils>
+            </present>
+            <imperative>
+                <tu>aie</tu>
+                <nous>ayons</nous>
+                <vous>ayez</vous>
+            </imperative>
+            <imperfect>
+                <je>avais</je>
+                <tu>avais</tu>
+                <il>avait</il>
+                <nous>avions</nous>
+                <vous>aviez</vous>
+                <ils>avaient</ils>
+            </imperfect>
+            <future>
+                <je>aurai</je>
+                <tu>auras</tu>
+                <il>aura</il>
+                <nous>aurons</nous>
+                <vous>aurez</vous>
+                <ils>auront</ils>
+            </future>
+            <subjunctive>
+                <je>aie</je>
+                <tu>aies</tu>
+                <il>ait</il>
+                <nous>ayons</nous>
+                <vous>ayez</vous>
+                <ils>aient</ils>
+            </subjunctive>
+            <conditional>
+                <je>aurais</je>
+                <tu>aurais</tu>
+                <il>aurait</il>
+                <nous>aurions</nous>
+                <vous>auriez</vous>
+                <ils>auraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

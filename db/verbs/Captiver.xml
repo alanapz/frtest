@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>captiver</infinitive>
+	<translation>to fascinate</translation>
+	<translation>captivate</translation>
+	<presentParticiple>captivant</presentParticiple>
+	<pastParticiple>captivé</pastParticiple>
+	<present>
+		<je>captive</je>
+		<tu>captives</tu>
+		<il>captive</il>
+		<nous>captivons</nous>
+		<vous>captivez</vous>
+		<ils>captivent</ils>
+	</present>
+	<imperative>
+		<tu>captive</tu>
+		<nous>captivons</nous>
+		<vous>captivez</vous>
+	</imperative>
+	<imperfect>
+		<je>captivais</je>
+		<tu>captivais</tu>
+		<il>captivait</il>
+		<nous>captivions</nous>
+		<vous>captiviez</vous>
+		<ils>captivaient</ils>
+	</imperfect>
+	<future>
+		<je>captiverai</je>
+		<tu>captiveras</tu>
+		<il>captivera</il>
+		<nous>captiverons</nous>
+		<vous>captiverez</vous>
+		<ils>captiveront</ils>
+	</future>
+	<subjunctive>
+		<je>captive</je>
+		<tu>captives</tu>
+		<il>captive</il>
+		<nous>captivions</nous>
+		<vous>captiviez</vous>
+		<ils>captivent</ils>
+	</subjunctive>
+	<conditional>
+		<je>captiverais</je>
+		<tu>captiverais</tu>
+		<il>captiverait</il>
+		<nous>captiverions</nous>
+		<vous>captiveriez</vous>
+		<ils>captiveraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

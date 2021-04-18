@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>électrifier</infinitive>
+	<translation>to electrify</translation>
+	<presentParticiple>électrifiant</presentParticiple>
+	<pastParticiple>électrifié</pastParticiple>
+	<present>
+		<je>électrifie</je>
+		<tu>électrifies</tu>
+		<il>électrifie</il>
+		<nous>électrifions</nous>
+		<vous>électrifiez</vous>
+		<ils>électrifient</ils>
+	</present>
+	<imperative>
+		<tu>électrifie</tu>
+		<nous>électrifions</nous>
+		<vous>électrifiez</vous>
+	</imperative>
+	<imperfect>
+		<je>électrifiais</je>
+		<tu>électrifiais</tu>
+		<il>électrifiait</il>
+		<nous>électrifiions</nous>
+		<vous>électrifiiez</vous>
+		<ils>électrifiaient</ils>
+	</imperfect>
+	<future>
+		<je>électrifierai</je>
+		<tu>électrifieras</tu>
+		<il>électrifiera</il>
+		<nous>électrifierons</nous>
+		<vous>électrifierez</vous>
+		<ils>électrifieront</ils>
+	</future>
+	<subjunctive>
+		<je>électrifie</je>
+		<tu>électrifies</tu>
+		<il>électrifie</il>
+		<nous>électrifiions</nous>
+		<vous>électrifiiez</vous>
+		<ils>électrifient</ils>
+	</subjunctive>
+	<conditional>
+		<je>électrifierais</je>
+		<tu>électrifierais</tu>
+		<il>électrifierait</il>
+		<nous>électrifierions</nous>
+		<vous>électrifieriez</vous>
+		<ils>électrifieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

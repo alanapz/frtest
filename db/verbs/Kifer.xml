@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>kifer</infinitive>
+	<translation>(familiar) to enjoy</translation>
+	<translation>get a kick out of</translation>
+	<presentParticiple>kifant</presentParticiple>
+	<pastParticiple>kifé</pastParticiple>
+	<present>
+		<je>kife</je>
+		<tu>kifes</tu>
+		<il>kife</il>
+		<nous>kifons</nous>
+		<vous>kifez</vous>
+		<ils>kifent</ils>
+	</present>
+	<imperative>
+		<tu>kife</tu>
+		<nous>kifons</nous>
+		<vous>kifez</vous>
+	</imperative>
+	<imperfect>
+		<je>kifais</je>
+		<tu>kifais</tu>
+		<il>kifait</il>
+		<nous>kifions</nous>
+		<vous>kifiez</vous>
+		<ils>kifaient</ils>
+	</imperfect>
+	<future>
+		<je>kiferai</je>
+		<tu>kiferas</tu>
+		<il>kifera</il>
+		<nous>kiferons</nous>
+		<vous>kiferez</vous>
+		<ils>kiferont</ils>
+	</future>
+	<subjunctive>
+		<je>kife</je>
+		<tu>kifes</tu>
+		<il>kife</il>
+		<nous>kifions</nous>
+		<vous>kifiez</vous>
+		<ils>kifent</ils>
+	</subjunctive>
+	<conditional>
+		<je>kiferais</je>
+		<tu>kiferais</tu>
+		<il>kiferait</il>
+		<nous>kiferions</nous>
+		<vous>kiferiez</vous>
+		<ils>kiferaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

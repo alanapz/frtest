@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>défier</infinitive>
+	<translation>to challenge</translation>
+	<presentParticiple>défiant</presentParticiple>
+	<pastParticiple>défié</pastParticiple>
+	<present>
+		<je>défie</je>
+		<tu>défies</tu>
+		<il>défie</il>
+		<nous>défions</nous>
+		<vous>défiez</vous>
+		<ils>défient</ils>
+	</present>
+	<imperative>
+		<tu>défie</tu>
+		<nous>défions</nous>
+		<vous>défiez</vous>
+	</imperative>
+	<imperfect>
+		<je>défiais</je>
+		<tu>défiais</tu>
+		<il>défiait</il>
+		<nous>défiions</nous>
+		<vous>défiiez</vous>
+		<ils>défiaient</ils>
+	</imperfect>
+	<future>
+		<je>défierai</je>
+		<tu>défieras</tu>
+		<il>défiera</il>
+		<nous>défierons</nous>
+		<vous>défierez</vous>
+		<ils>défieront</ils>
+	</future>
+	<subjunctive>
+		<je>défie</je>
+		<tu>défies</tu>
+		<il>défie</il>
+		<nous>défiions</nous>
+		<vous>défiiez</vous>
+		<ils>défient</ils>
+	</subjunctive>
+	<conditional>
+		<je>défierais</je>
+		<tu>défierais</tu>
+		<il>défierait</il>
+		<nous>défierions</nous>
+		<vous>défieriez</vous>
+		<ils>défieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

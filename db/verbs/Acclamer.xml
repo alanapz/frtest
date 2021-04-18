@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>acclamer</infinitive>
+	<translation>to cheer</translation>
+	<translation>acclaim</translation>
+	<presentParticiple>acclamant</presentParticiple>
+	<pastParticiple>acclamé</pastParticiple>
+	<present>
+		<je>acclame</je>
+		<tu>acclames</tu>
+		<il>acclame</il>
+		<nous>acclamons</nous>
+		<vous>acclamez</vous>
+		<ils>acclament</ils>
+	</present>
+	<imperative>
+		<tu>acclame</tu>
+		<nous>acclamons</nous>
+		<vous>acclamez</vous>
+	</imperative>
+	<imperfect>
+		<je>acclamais</je>
+		<tu>acclamais</tu>
+		<il>acclamait</il>
+		<nous>acclamions</nous>
+		<vous>acclamiez</vous>
+		<ils>acclamaient</ils>
+	</imperfect>
+	<future>
+		<je>acclamerai</je>
+		<tu>acclameras</tu>
+		<il>acclamera</il>
+		<nous>acclamerons</nous>
+		<vous>acclamerez</vous>
+		<ils>acclameront</ils>
+	</future>
+	<subjunctive>
+		<je>acclame</je>
+		<tu>acclames</tu>
+		<il>acclame</il>
+		<nous>acclamions</nous>
+		<vous>acclamiez</vous>
+		<ils>acclament</ils>
+	</subjunctive>
+	<conditional>
+		<je>acclamerais</je>
+		<tu>acclamerais</tu>
+		<il>acclamerait</il>
+		<nous>acclamerions</nous>
+		<vous>acclameriez</vous>
+		<ils>acclameraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

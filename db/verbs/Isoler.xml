@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>isoler</infinitive>
+	<translation>to isolate</translation>
+	<translation>to insulate</translation>
+	<presentParticiple>isolant</presentParticiple>
+	<pastParticiple>isolé</pastParticiple>
+	<present>
+		<je>isole</je>
+		<tu>isoles</tu>
+		<il>isole</il>
+		<nous>isolons</nous>
+		<vous>isolez</vous>
+		<ils>isolent</ils>
+	</present>
+	<imperative>
+		<tu>isole</tu>
+		<nous>isolons</nous>
+		<vous>isolez</vous>
+	</imperative>
+	<imperfect>
+		<je>isolais</je>
+		<tu>isolais</tu>
+		<il>isolait</il>
+		<nous>isolions</nous>
+		<vous>isoliez</vous>
+		<ils>isolaient</ils>
+	</imperfect>
+	<future>
+		<je>isolerai</je>
+		<tu>isoleras</tu>
+		<il>isolera</il>
+		<nous>isolerons</nous>
+		<vous>isolerez</vous>
+		<ils>isoleront</ils>
+	</future>
+	<subjunctive>
+		<je>isole</je>
+		<tu>isoles</tu>
+		<il>isole</il>
+		<nous>isolions</nous>
+		<vous>isoliez</vous>
+		<ils>isolent</ils>
+	</subjunctive>
+	<conditional>
+		<je>isolerais</je>
+		<tu>isolerais</tu>
+		<il>isolerait</il>
+		<nous>isolerions</nous>
+		<vous>isoleriez</vous>
+		<ils>isoleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

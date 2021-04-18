@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>contraindre</infinitive>
+	<translation>to force</translation>
+	<translation>compel</translation>
+	<irregular />
+	<presentParticiple>contraignant</presentParticiple>
+	<pastParticiple>contraint</pastParticiple>
+	<present>
+		<je>contrains</je>
+		<tu>contrains</tu>
+		<il>contraint</il>
+		<nous>contraignons</nous>
+		<vous>contraignez</vous>
+		<ils>contraignent</ils>
+	</present>
+	<imperative>
+		<tu>contrains</tu>
+		<nous>contraignons</nous>
+		<vous>contraignez</vous>
+	</imperative>
+	<imperfect>
+		<je>contraignais</je>
+		<tu>contraignais</tu>
+		<il>contraignait</il>
+		<nous>contraignions</nous>
+		<vous>contraigniez</vous>
+		<ils>contraignaient</ils>
+	</imperfect>
+	<future>
+		<je>contraindrai</je>
+		<tu>contraindras</tu>
+		<il>contraindra</il>
+		<nous>contraindrons</nous>
+		<vous>contraindrez</vous>
+		<ils>contraindront</ils>
+	</future>
+	<subjunctive>
+		<je>contraigne</je>
+		<tu>contraignes</tu>
+		<il>contraigne</il>
+		<nous>contraignions</nous>
+		<vous>contraigniez</vous>
+		<ils>contraignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>contraindrais</je>
+		<tu>contraindrais</tu>
+		<il>contraindrait</il>
+		<nous>contraindrions</nous>
+		<vous>contraindriez</vous>
+		<ils>contraindraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

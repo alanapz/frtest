@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>ecarteler</infinitive>
+	<translation>to tear apart</translation>
+	<translation>quarter</translation>
+	<stemChange />
+	<presentParticiple>écartelant</presentParticiple>
+	<pastParticiple>écartelé</pastParticiple>
+	<present>
+		<je>écartèle</je>
+		<tu>écartèles</tu>
+		<il>écartèle</il>
+		<nous>écartelons</nous>
+		<vous>écartelez</vous>
+		<ils>écartèlent</ils>
+	</present>
+	<imperative>
+		<tu>écartèle</tu>
+		<nous>écartelons</nous>
+		<vous>écartelez</vous>
+	</imperative>
+	<imperfect>
+		<je>écartelais</je>
+		<tu>écartelais</tu>
+		<il>écartelait</il>
+		<nous>écartelions</nous>
+		<vous>écarteliez</vous>
+		<ils>écartelaient</ils>
+	</imperfect>
+	<future>
+		<je>écartèlerai</je>
+		<tu>écartèleras</tu>
+		<il>écartèlera</il>
+		<nous>écartèlerons</nous>
+		<vous>écartèlerez</vous>
+		<ils>écartèleront</ils>
+	</future>
+	<subjunctive>
+		<je>écartèle</je>
+		<tu>écartèles</tu>
+		<il>écartèle</il>
+		<nous>écartelions</nous>
+		<vous>écarteliez</vous>
+		<ils>écartèlent</ils>
+	</subjunctive>
+	<conditional>
+		<je>écartèlerais</je>
+		<tu>écartèlerais</tu>
+		<il>écartèlerait</il>
+		<nous>écartèlerions</nous>
+		<vous>écartèleriez</vous>
+		<ils>écartèleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

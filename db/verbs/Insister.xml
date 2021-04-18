@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>insister</infinitive>
+	<translation>to stress</translation>
+	<translation>be insistent</translation>
+	<presentParticiple>insistant</presentParticiple>
+	<pastParticiple>insisté</pastParticiple>
+	<present>
+		<je>insiste</je>
+		<tu>insistes</tu>
+		<il>insiste</il>
+		<nous>insistons</nous>
+		<vous>insistez</vous>
+		<ils>insistent</ils>
+	</present>
+	<imperative>
+		<tu>insiste</tu>
+		<nous>insistons</nous>
+		<vous>insistez</vous>
+	</imperative>
+	<imperfect>
+		<je>insistais</je>
+		<tu>insistais</tu>
+		<il>insistait</il>
+		<nous>insistions</nous>
+		<vous>insistiez</vous>
+		<ils>insistaient</ils>
+	</imperfect>
+	<future>
+		<je>insisterai</je>
+		<tu>insisteras</tu>
+		<il>insistera</il>
+		<nous>insisterons</nous>
+		<vous>insisterez</vous>
+		<ils>insisteront</ils>
+	</future>
+	<subjunctive>
+		<je>insiste</je>
+		<tu>insistes</tu>
+		<il>insiste</il>
+		<nous>insistions</nous>
+		<vous>insistiez</vous>
+		<ils>insistent</ils>
+	</subjunctive>
+	<conditional>
+		<je>insisterais</je>
+		<tu>insisterais</tu>
+		<il>insisterait</il>
+		<nous>insisterions</nous>
+		<vous>insisteriez</vous>
+		<ils>insisteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

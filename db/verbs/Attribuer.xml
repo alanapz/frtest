@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>attribuer</infinitive>
+	<translation>to attribute</translation>
+	<presentParticiple>attribuant</presentParticiple>
+	<pastParticiple>attribué</pastParticiple>
+	<present>
+		<je>attribue</je>
+		<tu>attribues</tu>
+		<il>attribue</il>
+		<nous>attribuons</nous>
+		<vous>attribuez</vous>
+		<ils>attribuent</ils>
+	</present>
+	<imperative>
+		<tu>attribue</tu>
+		<nous>attribuons</nous>
+		<vous>attribuez</vous>
+	</imperative>
+	<imperfect>
+		<je>attribuais</je>
+		<tu>attribuais</tu>
+		<il>attribuait</il>
+		<nous>attribuions</nous>
+		<vous>attribuiez</vous>
+		<ils>attribuaient</ils>
+	</imperfect>
+	<future>
+		<je>attribuerai</je>
+		<tu>attribueras</tu>
+		<il>attribuera</il>
+		<nous>attribuerons</nous>
+		<vous>attribuerez</vous>
+		<ils>attribueront</ils>
+	</future>
+	<subjunctive>
+		<je>attribue</je>
+		<tu>attribues</tu>
+		<il>attribue</il>
+		<nous>attribuions</nous>
+		<vous>attribuiez</vous>
+		<ils>attribuent</ils>
+	</subjunctive>
+	<conditional>
+		<je>attribuerais</je>
+		<tu>attribuerais</tu>
+		<il>attribuerait</il>
+		<nous>attribuerions</nous>
+		<vous>attribueriez</vous>
+		<ils>attribueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>étourdir</infinitive>
+	<translation>to stun</translation>
+	<translation>deafen</translation>
+	<translation>make dizzy</translation>
+	<presentParticiple>étourdissant</presentParticiple>
+	<pastParticiple>étourdi</pastParticiple>
+	<present>
+		<je>étourdis</je>
+		<tu>étourdis</tu>
+		<il>étourdit</il>
+		<nous>étourdissons</nous>
+		<vous>étourdissez</vous>
+		<ils>étourdissent</ils>
+	</present>
+	<imperative>
+		<tu>étourdis</tu>
+		<nous>étourdissons</nous>
+		<vous>étourdissez</vous>
+	</imperative>
+	<imperfect>
+		<je>étourdissais</je>
+		<tu>étourdissais</tu>
+		<il>étourdissait</il>
+		<nous>étourdissions</nous>
+		<vous>étourdissiez</vous>
+		<ils>étourdissaient</ils>
+	</imperfect>
+	<future>
+		<je>étourdirai</je>
+		<tu>étourdiras</tu>
+		<il>étourdira</il>
+		<nous>étourdirons</nous>
+		<vous>étourdirez</vous>
+		<ils>étourdiront</ils>
+	</future>
+	<subjunctive>
+		<je>étourdisse</je>
+		<tu>étourdisses</tu>
+		<il>étourdisse</il>
+		<nous>étourdissions</nous>
+		<vous>étourdissiez</vous>
+		<ils>étourdissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>étourdirais</je>
+		<tu>étourdirais</tu>
+		<il>étourdirait</il>
+		<nous>étourdirions</nous>
+		<vous>étourdiriez</vous>
+		<ils>étourdiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

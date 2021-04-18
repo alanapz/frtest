@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>bleuir</infinitive>
+	<translation>to turn blue</translation>
+	<presentParticiple>bleuissant</presentParticiple>
+	<pastParticiple>bleui</pastParticiple>
+	<present>
+		<je>bleuis</je>
+		<tu>bleuis</tu>
+		<il>bleuit</il>
+		<nous>bleuissons</nous>
+		<vous>bleuissez</vous>
+		<ils>bleuissent</ils>
+	</present>
+	<imperative>
+		<tu>bleuis</tu>
+		<nous>bleuissons</nous>
+		<vous>bleuissez</vous>
+	</imperative>
+	<imperfect>
+		<je>bleuissais</je>
+		<tu>bleuissais</tu>
+		<il>bleuissait</il>
+		<nous>bleuissions</nous>
+		<vous>bleuissiez</vous>
+		<ils>bleuissaient</ils>
+	</imperfect>
+	<future>
+		<je>bleuirai</je>
+		<tu>bleuiras</tu>
+		<il>bleuira</il>
+		<nous>bleuirons</nous>
+		<vous>bleuirez</vous>
+		<ils>bleuiront</ils>
+	</future>
+	<subjunctive>
+		<je>bleuisse</je>
+		<tu>bleuisses</tu>
+		<il>bleuisse</il>
+		<nous>bleuissions</nous>
+		<vous>bleuissiez</vous>
+		<ils>bleuissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>bleuirais</je>
+		<tu>bleuirais</tu>
+		<il>bleuirait</il>
+		<nous>bleuirions</nous>
+		<vous>bleuiriez</vous>
+		<ils>bleuiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

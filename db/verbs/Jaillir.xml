@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>jaillir</infinitive>
+	<translation>to spurt (out)</translation>
+	<presentParticiple>jaillissant</presentParticiple>
+	<pastParticiple>jailli</pastParticiple>
+	<present>
+		<je>jaillis</je>
+		<tu>jaillis</tu>
+		<il>jaillit</il>
+		<nous>jaillissons</nous>
+		<vous>jaillissez</vous>
+		<ils>jaillissent</ils>
+	</present>
+	<imperative>
+		<tu>jaillis</tu>
+		<nous>jaillissons</nous>
+		<vous>jaillissez</vous>
+	</imperative>
+	<imperfect>
+		<je>jaillissais</je>
+		<tu>jaillissais</tu>
+		<il>jaillissait</il>
+		<nous>jaillissions</nous>
+		<vous>jaillissiez</vous>
+		<ils>jaillissaient</ils>
+	</imperfect>
+	<future>
+		<je>jaillirai</je>
+		<tu>jailliras</tu>
+		<il>jaillira</il>
+		<nous>jaillirons</nous>
+		<vous>jaillirez</vous>
+		<ils>jailliront</ils>
+	</future>
+	<subjunctive>
+		<je>jaillisse</je>
+		<tu>jaillisses</tu>
+		<il>jaillisse</il>
+		<nous>jaillissions</nous>
+		<vous>jaillissiez</vous>
+		<ils>jaillissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>jaillirais</je>
+		<tu>jaillirais</tu>
+		<il>jaillirait</il>
+		<nous>jaillirions</nous>
+		<vous>jailliriez</vous>
+		<ils>jailliraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

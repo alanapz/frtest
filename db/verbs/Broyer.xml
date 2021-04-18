@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>broyer</infinitive>
+	<translation>to grind</translation>
+	<translation>crush</translation>
+	<stemChange />
+	<presentParticiple>broyant</presentParticiple>
+	<pastParticiple>broyé</pastParticiple>
+	<present>
+		<je>broie</je>
+		<tu>broies</tu>
+		<il>broie</il>
+		<nous>broyons</nous>
+		<vous>broyez</vous>
+		<ils>broient</ils>
+	</present>
+	<imperative>
+		<tu>broie</tu>
+		<nous>broyons</nous>
+		<vous>broyez</vous>
+	</imperative>
+	<imperfect>
+		<je>broyais</je>
+		<tu>broyais</tu>
+		<il>broyait</il>
+		<nous>broyions</nous>
+		<vous>broyiez</vous>
+		<ils>broyaient</ils>
+	</imperfect>
+	<future>
+		<je>broierai</je>
+		<tu>broieras</tu>
+		<il>broiera</il>
+		<nous>broierons</nous>
+		<vous>broierez</vous>
+		<ils>broieront</ils>
+	</future>
+	<subjunctive>
+		<je>broie</je>
+		<tu>broies</tu>
+		<il>broie</il>
+		<nous>broyions</nous>
+		<vous>broyiez</vous>
+		<ils>broient</ils>
+	</subjunctive>
+	<conditional>
+		<je>broierais</je>
+		<tu>broierais</tu>
+		<il>broierait</il>
+		<nous>broierions</nous>
+		<vous>broieriez</vous>
+		<ils>broieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

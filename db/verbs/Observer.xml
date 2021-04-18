@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>observer</infinitive>
+	<translation>to observe</translation>
+	<presentParticiple>observant</presentParticiple>
+	<pastParticiple>observé</pastParticiple>
+	<present>
+		<je>observe</je>
+		<tu>observes</tu>
+		<il>observe</il>
+		<nous>observons</nous>
+		<vous>observez</vous>
+		<ils>observent</ils>
+	</present>
+	<imperative>
+		<tu>observe</tu>
+		<nous>observons</nous>
+		<vous>observez</vous>
+	</imperative>
+	<imperfect>
+		<je>observais</je>
+		<tu>observais</tu>
+		<il>observait</il>
+		<nous>observions</nous>
+		<vous>observiez</vous>
+		<ils>observaient</ils>
+	</imperfect>
+	<future>
+		<je>observerai</je>
+		<tu>observeras</tu>
+		<il>observera</il>
+		<nous>observerons</nous>
+		<vous>observerez</vous>
+		<ils>observeront</ils>
+	</future>
+	<subjunctive>
+		<je>observe</je>
+		<tu>observes</tu>
+		<il>observe</il>
+		<nous>observions</nous>
+		<vous>observiez</vous>
+		<ils>observent</ils>
+	</subjunctive>
+	<conditional>
+		<je>observerais</je>
+		<tu>observerais</tu>
+		<il>observerait</il>
+		<nous>observerions</nous>
+		<vous>observeriez</vous>
+		<ils>observeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

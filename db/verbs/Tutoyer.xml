@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>tutoyer</infinitive>
+	<translation>to use "tu</translation>
+	<translation>" address someone as "tu"</translation>
+	<stemChange />
+	<presentParticiple>tutoyant</presentParticiple>
+	<pastParticiple>tutoyé</pastParticiple>
+	<present>
+		<je>tutoie</je>
+		<tu>tutoies</tu>
+		<il>tutoie</il>
+		<nous>tutoyons</nous>
+		<vous>tutoyez</vous>
+		<ils>tutoient</ils>
+	</present>
+	<imperative>
+		<tu>tutoie</tu>
+		<nous>tutoyons</nous>
+		<vous>tutoyez</vous>
+	</imperative>
+	<imperfect>
+		<je>tutoyais</je>
+		<tu>tutoyais</tu>
+		<il>tutoyait</il>
+		<nous>tutoyions</nous>
+		<vous>tutoyiez</vous>
+		<ils>tutoyaient</ils>
+	</imperfect>
+	<future>
+		<je>tutoierai</je>
+		<tu>tutoieras</tu>
+		<il>tutoiera</il>
+		<nous>tutoierons</nous>
+		<vous>tutoierez</vous>
+		<ils>tutoieront</ils>
+	</future>
+	<subjunctive>
+		<je>tutoie</je>
+		<tu>tutoies</tu>
+		<il>tutoie</il>
+		<nous>tutoyions</nous>
+		<vous>tutoyiez</vous>
+		<ils>tutoient</ils>
+	</subjunctive>
+	<conditional>
+		<je>tutoierais</je>
+		<tu>tutoierais</tu>
+		<il>tutoierait</il>
+		<nous>tutoierions</nous>
+		<vous>tutoieriez</vous>
+		<ils>tutoieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

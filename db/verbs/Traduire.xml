@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>traduire</infinitive>
+	<translation>to translate</translation>
+	<irregular />
+	<presentParticiple>traduisant</presentParticiple>
+	<pastParticiple>traduit</pastParticiple>
+	<present>
+		<je>traduis</je>
+		<tu>traduis</tu>
+		<il>traduit</il>
+		<nous>traduisons</nous>
+		<vous>traduisez</vous>
+		<ils>traduisent</ils>
+	</present>
+	<imperative>
+		<tu>traduis</tu>
+		<nous>traduisons</nous>
+		<vous>traduisez</vous>
+	</imperative>
+	<imperfect>
+		<je>traduisais</je>
+		<tu>traduisais</tu>
+		<il>traduisait</il>
+		<nous>traduisions</nous>
+		<vous>traduisiez</vous>
+		<ils>traduisaient</ils>
+	</imperfect>
+	<future>
+		<je>traduirai</je>
+		<tu>traduiras</tu>
+		<il>traduira</il>
+		<nous>traduirons</nous>
+		<vous>traduirez</vous>
+		<ils>traduiront</ils>
+	</future>
+	<subjunctive>
+		<je>traduise</je>
+		<tu>traduises</tu>
+		<il>traduise</il>
+		<nous>traduisions</nous>
+		<vous>traduisiez</vous>
+		<ils>traduisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>traduirais</je>
+		<tu>traduirais</tu>
+		<il>traduirait</il>
+		<nous>traduirions</nous>
+		<vous>traduiriez</vous>
+		<ils>traduiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

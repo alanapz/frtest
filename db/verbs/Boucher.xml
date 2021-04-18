@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>boucher</infinitive>
+	<translation>to cork</translation>
+	<translation>plug</translation>
+	<translation>block</translation>
+	<presentParticiple>bouchant</presentParticiple>
+	<pastParticiple>bouché</pastParticiple>
+	<present>
+		<je>bouche</je>
+		<tu>bouches</tu>
+		<il>bouche</il>
+		<nous>bouchons</nous>
+		<vous>bouchez</vous>
+		<ils>bouchent</ils>
+	</present>
+	<imperative>
+		<tu>bouche</tu>
+		<nous>bouchons</nous>
+		<vous>bouchez</vous>
+	</imperative>
+	<imperfect>
+		<je>bouchais</je>
+		<tu>bouchais</tu>
+		<il>bouchait</il>
+		<nous>bouchions</nous>
+		<vous>bouchiez</vous>
+		<ils>bouchaient</ils>
+	</imperfect>
+	<future>
+		<je>boucherai</je>
+		<tu>boucheras</tu>
+		<il>bouchera</il>
+		<nous>boucherons</nous>
+		<vous>boucherez</vous>
+		<ils>boucheront</ils>
+	</future>
+	<subjunctive>
+		<je>bouche</je>
+		<tu>bouches</tu>
+		<il>bouche</il>
+		<nous>bouchions</nous>
+		<vous>bouchiez</vous>
+		<ils>bouchent</ils>
+	</subjunctive>
+	<conditional>
+		<je>boucherais</je>
+		<tu>boucherais</tu>
+		<il>boucherait</il>
+		<nous>boucherions</nous>
+		<vous>boucheriez</vous>
+		<ils>boucheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>accomplir</infinitive>
+	<translation>to accomplish</translation>
+	<presentParticiple>accomplissant</presentParticiple>
+	<pastParticiple>accompli</pastParticiple>
+	<present>
+		<je>accomplis</je>
+		<tu>accomplis</tu>
+		<il>accomplit</il>
+		<nous>accomplissons</nous>
+		<vous>accomplissez</vous>
+		<ils>accomplissent</ils>
+	</present>
+	<imperative>
+		<tu>accomplis</tu>
+		<nous>accomplissons</nous>
+		<vous>accomplissez</vous>
+	</imperative>
+	<imperfect>
+		<je>accomplissais</je>
+		<tu>accomplissais</tu>
+		<il>accomplissait</il>
+		<nous>accomplissions</nous>
+		<vous>accomplissiez</vous>
+		<ils>accomplissaient</ils>
+	</imperfect>
+	<future>
+		<je>accomplirai</je>
+		<tu>accompliras</tu>
+		<il>accomplira</il>
+		<nous>accomplirons</nous>
+		<vous>accomplirez</vous>
+		<ils>accompliront</ils>
+	</future>
+	<subjunctive>
+		<je>accomplisse</je>
+		<tu>accomplisses</tu>
+		<il>accomplisse</il>
+		<nous>accomplissions</nous>
+		<vous>accomplissiez</vous>
+		<ils>accomplissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>accomplirais</je>
+		<tu>accomplirais</tu>
+		<il>accomplirait</il>
+		<nous>accomplirions</nous>
+		<vous>accompliriez</vous>
+		<ils>accompliraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

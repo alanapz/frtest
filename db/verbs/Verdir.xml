@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>verdir</infinitive>
+	<translation>to turn green</translation>
+	<presentParticiple>verdissant</presentParticiple>
+	<pastParticiple>verdi</pastParticiple>
+	<present>
+		<je>verdis</je>
+		<tu>verdis</tu>
+		<il>verdit</il>
+		<nous>verdissons</nous>
+		<vous>verdissez</vous>
+		<ils>verdissent</ils>
+	</present>
+	<imperative>
+		<tu>verdis</tu>
+		<nous>verdissons</nous>
+		<vous>verdissez</vous>
+	</imperative>
+	<imperfect>
+		<je>verdissais</je>
+		<tu>verdissais</tu>
+		<il>verdissait</il>
+		<nous>verdissions</nous>
+		<vous>verdissiez</vous>
+		<ils>verdissaient</ils>
+	</imperfect>
+	<future>
+		<je>verdirai</je>
+		<tu>verdiras</tu>
+		<il>verdira</il>
+		<nous>verdirons</nous>
+		<vous>verdirez</vous>
+		<ils>verdiront</ils>
+	</future>
+	<subjunctive>
+		<je>verdisse</je>
+		<tu>verdisses</tu>
+		<il>verdisse</il>
+		<nous>verdissions</nous>
+		<vous>verdissiez</vous>
+		<ils>verdissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>verdirais</je>
+		<tu>verdirais</tu>
+		<il>verdirait</il>
+		<nous>verdirions</nous>
+		<vous>verdiriez</vous>
+		<ils>verdiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

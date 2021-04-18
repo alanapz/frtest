@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>voter</infinitive>
+	<translation>to vote</translation>
+	<presentParticiple>votant</presentParticiple>
+	<pastParticiple>voté</pastParticiple>
+	<present>
+		<je>vote</je>
+		<tu>votes</tu>
+		<il>vote</il>
+		<nous>votons</nous>
+		<vous>votez</vous>
+		<ils>votent</ils>
+	</present>
+	<imperative>
+		<tu>vote</tu>
+		<nous>votons</nous>
+		<vous>votez</vous>
+	</imperative>
+	<imperfect>
+		<je>votais</je>
+		<tu>votais</tu>
+		<il>votait</il>
+		<nous>votions</nous>
+		<vous>votiez</vous>
+		<ils>votaient</ils>
+	</imperfect>
+	<future>
+		<je>voterai</je>
+		<tu>voteras</tu>
+		<il>votera</il>
+		<nous>voterons</nous>
+		<vous>voterez</vous>
+		<ils>voteront</ils>
+	</future>
+	<subjunctive>
+		<je>vote</je>
+		<tu>votes</tu>
+		<il>vote</il>
+		<nous>votions</nous>
+		<vous>votiez</vous>
+		<ils>votent</ils>
+	</subjunctive>
+	<conditional>
+		<je>voterais</je>
+		<tu>voterais</tu>
+		<il>voterait</il>
+		<nous>voterions</nous>
+		<vous>voteriez</vous>
+		<ils>voteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

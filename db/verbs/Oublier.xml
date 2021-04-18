@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>oublier</infinitive>
+	<translation>to forget</translation>
+	<presentParticiple>oubliant</presentParticiple>
+	<pastParticiple>oublié</pastParticiple>
+	<present>
+		<je>oublie</je>
+		<tu>oublies</tu>
+		<il>oublie</il>
+		<nous>oublions</nous>
+		<vous>oubliez</vous>
+		<ils>oublient</ils>
+	</present>
+	<imperative>
+		<tu>oublie</tu>
+		<nous>oublions</nous>
+		<vous>oubliez</vous>
+	</imperative>
+	<imperfect>
+		<je>oubliais</je>
+		<tu>oubliais</tu>
+		<il>oubliait</il>
+		<nous>oubliions</nous>
+		<vous>oubliiez</vous>
+		<ils>oubliaient</ils>
+	</imperfect>
+	<future>
+		<je>oublierai</je>
+		<tu>oublieras</tu>
+		<il>oubliera</il>
+		<nous>oublierons</nous>
+		<vous>oublierez</vous>
+		<ils>oublieront</ils>
+	</future>
+	<subjunctive>
+		<je>oublie</je>
+		<tu>oublies</tu>
+		<il>oublie</il>
+		<nous>oubliions</nous>
+		<vous>oubliiez</vous>
+		<ils>oublient</ils>
+	</subjunctive>
+	<conditional>
+		<je>oublierais</je>
+		<tu>oublierais</tu>
+		<il>oublierait</il>
+		<nous>oublierions</nous>
+		<vous>oublieriez</vous>
+		<ils>oublieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

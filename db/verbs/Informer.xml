@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>informer</infinitive>
+	<translation>to inform</translation>
+	<presentParticiple>informant</presentParticiple>
+	<pastParticiple>informé</pastParticiple>
+	<present>
+		<je>informe</je>
+		<tu>informes</tu>
+		<il>informe</il>
+		<nous>informons</nous>
+		<vous>informez</vous>
+		<ils>informent</ils>
+	</present>
+	<imperative>
+		<tu>informe</tu>
+		<nous>informons</nous>
+		<vous>informez</vous>
+	</imperative>
+	<imperfect>
+		<je>informais</je>
+		<tu>informais</tu>
+		<il>informait</il>
+		<nous>informions</nous>
+		<vous>informiez</vous>
+		<ils>informaient</ils>
+	</imperfect>
+	<future>
+		<je>informerai</je>
+		<tu>informeras</tu>
+		<il>informera</il>
+		<nous>informerons</nous>
+		<vous>informerez</vous>
+		<ils>informeront</ils>
+	</future>
+	<subjunctive>
+		<je>informe</je>
+		<tu>informes</tu>
+		<il>informe</il>
+		<nous>informions</nous>
+		<vous>informiez</vous>
+		<ils>informent</ils>
+	</subjunctive>
+	<conditional>
+		<je>informerais</je>
+		<tu>informerais</tu>
+		<il>informerait</il>
+		<nous>informerions</nous>
+		<vous>informeriez</vous>
+		<ils>informeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

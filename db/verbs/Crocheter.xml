@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>crocheter</infinitive>
+	<translation>to pick (a lock)</translation>
+	<translation>to crochet</translation>
+	<stemChange />
+	<presentParticiple>crochetant</presentParticiple>
+	<pastParticiple>crocheté</pastParticiple>
+	<present>
+		<je>crochète</je>
+		<tu>crochètes</tu>
+		<il>crochète</il>
+		<nous>crochetons</nous>
+		<vous>crochetez</vous>
+		<ils>crochètent</ils>
+	</present>
+	<imperative>
+		<tu>crochète</tu>
+		<nous>crochetons</nous>
+		<vous>crochetez</vous>
+	</imperative>
+	<imperfect>
+		<je>crochetais</je>
+		<tu>crochetais</tu>
+		<il>crochetait</il>
+		<nous>crochetions</nous>
+		<vous>crochetiez</vous>
+		<ils>crochetaient</ils>
+	</imperfect>
+	<future>
+		<je>crochèterai</je>
+		<tu>crochèteras</tu>
+		<il>crochètera</il>
+		<nous>crochèterons</nous>
+		<vous>crochèterez</vous>
+		<ils>crochèteront</ils>
+	</future>
+	<subjunctive>
+		<je>crochète</je>
+		<tu>crochètes</tu>
+		<il>crochète</il>
+		<nous>crochetions</nous>
+		<vous>crochetiez</vous>
+		<ils>crochètent</ils>
+	</subjunctive>
+	<conditional>
+		<je>crochèterais</je>
+		<tu>crochèterais</tu>
+		<il>crochèterait</il>
+		<nous>crochèterions</nous>
+		<vous>crochèteriez</vous>
+		<ils>crochèteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

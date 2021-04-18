@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>rouler</infinitive>
+            <translation>to roll</translation>
+            <translation>to drive(inf)</translation>
+            <presentParticiple>roulant</presentParticiple>
+            <pastParticiple>roulé</pastParticiple>
+            <present>
+                <je>roule</je>
+                <tu>roules</tu>
+                <il>roule</il>
+                <nous>roulons</nous>
+                <vous>roulez</vous>
+                <ils>roulent</ils>
+            </present>
+            <imperative>
+                <tu>roule</tu>
+                <nous>roulons</nous>
+                <vous>roulez</vous>
+            </imperative>
+            <imperfect>
+                <je>roulais</je>
+                <tu>roulais</tu>
+                <il>roulait</il>
+                <nous>roulions</nous>
+                <vous>rouliez</vous>
+                <ils>roulaient</ils>
+            </imperfect>
+            <future>
+                <je>roulerai</je>
+                <tu>rouleras</tu>
+                <il>roulera</il>
+                <nous>roulerons</nous>
+                <vous>roulerez</vous>
+                <ils>rouleront</ils>
+            </future>
+            <subjunctive>
+                <je>roule</je>
+                <tu>roules</tu>
+                <il>roule</il>
+                <nous>roulions</nous>
+                <vous>rouliez</vous>
+                <ils>roulent</ils>
+            </subjunctive>
+            <conditional>
+                <je>roulerais</je>
+                <tu>roulerais</tu>
+                <il>roulerait</il>
+                <nous>roulerions</nous>
+                <vous>rouleriez</vous>
+                <ils>rouleraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

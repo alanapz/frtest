@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>coucher</infinitive>
+            <translation>to put to bed</translation>
+            <transitive />
+            <presentParticiple>couchant</presentParticiple>
+            <pastParticiple>couché</pastParticiple>
+            <present>
+                <je>couche</je>
+                <tu>couches</tu>
+                <il>couche</il>
+                <nous>couchons</nous>
+                <vous>couchez</vous>
+                <ils>couchent</ils>
+            </present>
+            <imperative>
+                <tu>couche</tu>
+                <nous>couchons</nous>
+                <vous>couchez</vous>
+            </imperative>
+            <imperfect>
+                <je>couchais</je>
+                <tu>couchais</tu>
+                <il>couchait</il>
+                <nous>couchions</nous>
+                <vous>couchiez</vous>
+                <ils>couchaient</ils>
+            </imperfect>
+            <future>
+                <je>coucherai</je>
+                <tu>coucheras</tu>
+                <il>couchera</il>
+                <nous>coucherons</nous>
+                <vous>coucherez</vous>
+                <ils>coucheront</ils>
+            </future>
+            <subjunctive>
+                <je>couche</je>
+                <tu>couches</tu>
+                <il>couche</il>
+                <nous>couchions</nous>
+                <vous>couchiez</vous>
+                <ils>couchent</ils>
+            </subjunctive>
+            <conditional>
+                <je>coucherais</je>
+                <tu>coucherais</tu>
+                <il>coucherait</il>
+                <nous>coucherions</nous>
+                <vous>coucheriez</vous>
+                <ils>coucheraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

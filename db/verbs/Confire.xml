@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>confire</infinitive>
+	<translation>to conserve</translation>
+	<irregular />
+	<presentParticiple>confisant</presentParticiple>
+	<pastParticiple>confit</pastParticiple>
+	<present>
+		<je>confis</je>
+		<tu>confis</tu>
+		<il>confit</il>
+		<nous>confisons</nous>
+		<vous>confisez</vous>
+		<ils>confisent</ils>
+	</present>
+	<imperative>
+		<tu>confis</tu>
+		<nous>confisons</nous>
+		<vous>confisez</vous>
+	</imperative>
+	<imperfect>
+		<je>confisais</je>
+		<tu>confisais</tu>
+		<il>confisait</il>
+		<nous>confisions</nous>
+		<vous>confisiez</vous>
+		<ils>confisaient</ils>
+	</imperfect>
+	<future>
+		<je>confirai</je>
+		<tu>confiras</tu>
+		<il>confira</il>
+		<nous>confirons</nous>
+		<vous>confirez</vous>
+		<ils>confiront</ils>
+	</future>
+	<subjunctive>
+		<je>confise</je>
+		<tu>confises</tu>
+		<il>confise</il>
+		<nous>confisions</nous>
+		<vous>confisiez</vous>
+		<ils>confisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>confirais</je>
+		<tu>confirais</tu>
+		<il>confirait</il>
+		<nous>confirions</nous>
+		<vous>confiriez</vous>
+		<ils>confiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

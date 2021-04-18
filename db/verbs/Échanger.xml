@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>échanger</infinitive>
+	<translation>to exchange</translation>
+	<spellingChange />
+	<presentParticiple>échangeant</presentParticiple>
+	<pastParticiple>échangé</pastParticiple>
+	<present>
+		<je>échange</je>
+		<tu>échanges</tu>
+		<il>échange</il>
+		<nous>échangeons</nous>
+		<vous>échangez</vous>
+		<ils>échangent</ils>
+	</present>
+	<imperative>
+		<tu>échange</tu>
+		<nous>échangeons</nous>
+		<vous>échangez</vous>
+	</imperative>
+	<imperfect>
+		<je>échangeais</je>
+		<tu>échangeais</tu>
+		<il>échangeait</il>
+		<nous>échangions</nous>
+		<vous>échangiez</vous>
+		<ils>échangeaient</ils>
+	</imperfect>
+	<future>
+		<je>échangerai</je>
+		<tu>échangeras</tu>
+		<il>échangera</il>
+		<nous>échangerons</nous>
+		<vous>échangerez</vous>
+		<ils>échangeront</ils>
+	</future>
+	<subjunctive>
+		<je>échange</je>
+		<tu>échanges</tu>
+		<il>échange</il>
+		<nous>échangions</nous>
+		<vous>échangiez</vous>
+		<ils>échangent</ils>
+	</subjunctive>
+	<conditional>
+		<je>échangerais</je>
+		<tu>échangerais</tu>
+		<il>échangerait</il>
+		<nous>échangerions</nous>
+		<vous>échangeriez</vous>
+		<ils>échangeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

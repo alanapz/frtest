@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>choisir</infinitive>
+	<translation>to choose</translation>
+	<presentParticiple>choisissant</presentParticiple>
+	<pastParticiple>choisi</pastParticiple>
+	<present>
+		<je>choisis</je>
+		<tu>choisis</tu>
+		<il>choisit</il>
+		<nous>choisissons</nous>
+		<vous>choisissez</vous>
+		<ils>choisissent</ils>
+	</present>
+	<imperative>
+		<tu>choisis</tu>
+		<nous>choisissons</nous>
+		<vous>choisissez</vous>
+	</imperative>
+	<imperfect>
+		<je>choisissais</je>
+		<tu>choisissais</tu>
+		<il>choisissait</il>
+		<nous>choisissions</nous>
+		<vous>choisissiez</vous>
+		<ils>choisissaient</ils>
+	</imperfect>
+	<future>
+		<je>choisirai</je>
+		<tu>choisiras</tu>
+		<il>choisira</il>
+		<nous>choisirons</nous>
+		<vous>choisirez</vous>
+		<ils>choisiront</ils>
+	</future>
+	<subjunctive>
+		<je>choisisse</je>
+		<tu>choisisses</tu>
+		<il>choisisse</il>
+		<nous>choisissions</nous>
+		<vous>choisissiez</vous>
+		<ils>choisissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>choisirais</je>
+		<tu>choisirais</tu>
+		<il>choisirait</il>
+		<nous>choisirions</nous>
+		<vous>choisiriez</vous>
+		<ils>choisiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

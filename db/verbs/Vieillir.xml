@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>vieillir</infinitive>
+	<translation>to grow old</translation>
+	<presentParticiple>vieillissant</presentParticiple>
+	<pastParticiple>vieilli</pastParticiple>
+	<present>
+		<je>vieillis</je>
+		<tu>vieillis</tu>
+		<il>vieillit</il>
+		<nous>vieillissons</nous>
+		<vous>vieillissez</vous>
+		<ils>vieillissent</ils>
+	</present>
+	<imperative>
+		<tu>vieillis</tu>
+		<nous>vieillissons</nous>
+		<vous>vieillissez</vous>
+	</imperative>
+	<imperfect>
+		<je>vieillissais</je>
+		<tu>vieillissais</tu>
+		<il>vieillissait</il>
+		<nous>vieillissions</nous>
+		<vous>vieillissiez</vous>
+		<ils>vieillissaient</ils>
+	</imperfect>
+	<future>
+		<je>vieillirai</je>
+		<tu>vieilliras</tu>
+		<il>vieillira</il>
+		<nous>vieillirons</nous>
+		<vous>vieillirez</vous>
+		<ils>vieilliront</ils>
+	</future>
+	<subjunctive>
+		<je>vieillisse</je>
+		<tu>vieillisses</tu>
+		<il>vieillisse</il>
+		<nous>vieillissions</nous>
+		<vous>vieillissiez</vous>
+		<ils>vieillissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>vieillirais</je>
+		<tu>vieillirais</tu>
+		<il>vieillirait</il>
+		<nous>vieillirions</nous>
+		<vous>vieilliriez</vous>
+		<ils>vieilliraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

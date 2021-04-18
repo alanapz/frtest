@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>démanteler</infinitive>
+	<translation>to demolish</translation>
+	<translation>dismantle</translation>
+	<stemChange />
+	<presentParticiple>démantelant</presentParticiple>
+	<pastParticiple>démantelé</pastParticiple>
+	<present>
+		<je>démantèle</je>
+		<tu>démantèles</tu>
+		<il>démantèle</il>
+		<nous>démantelons</nous>
+		<vous>démantelez</vous>
+		<ils>démantèlent</ils>
+	</present>
+	<imperative>
+		<tu>démantèle</tu>
+		<nous>démantelons</nous>
+		<vous>démantelez</vous>
+	</imperative>
+	<imperfect>
+		<je>démantelais</je>
+		<tu>démantelais</tu>
+		<il>démantelait</il>
+		<nous>démantelions</nous>
+		<vous>démanteliez</vous>
+		<ils>démantelaient</ils>
+	</imperfect>
+	<future>
+		<je>démantèlerai</je>
+		<tu>démantèleras</tu>
+		<il>démantèlera</il>
+		<nous>démantèlerons</nous>
+		<vous>démantèlerez</vous>
+		<ils>démantèleront</ils>
+	</future>
+	<subjunctive>
+		<je>démantèle</je>
+		<tu>démantèles</tu>
+		<il>démantèle</il>
+		<nous>démantelions</nous>
+		<vous>démanteliez</vous>
+		<ils>démantèlent</ils>
+	</subjunctive>
+	<conditional>
+		<je>démantèlerais</je>
+		<tu>démantèlerais</tu>
+		<il>démantèlerait</il>
+		<nous>démantèlerions</nous>
+		<vous>démantèleriez</vous>
+		<ils>démantèleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

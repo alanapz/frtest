@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>souhaiter</infinitive>
+	<translation>to wish</translation>
+	<presentParticiple>souhaitant</presentParticiple>
+	<pastParticiple>souhaité</pastParticiple>
+	<present>
+		<je>souhaite</je>
+		<tu>souhaites</tu>
+		<il>souhaite</il>
+		<nous>souhaitons</nous>
+		<vous>souhaitez</vous>
+		<ils>souhaitent</ils>
+	</present>
+	<imperative>
+		<tu>souhaite</tu>
+		<nous>souhaitons</nous>
+		<vous>souhaitez</vous>
+	</imperative>
+	<imperfect>
+		<je>souhaitais</je>
+		<tu>souhaitais</tu>
+		<il>souhaitait</il>
+		<nous>souhaitions</nous>
+		<vous>souhaitiez</vous>
+		<ils>souhaitaient</ils>
+	</imperfect>
+	<future>
+		<je>souhaiterai</je>
+		<tu>souhaiteras</tu>
+		<il>souhaitera</il>
+		<nous>souhaiterons</nous>
+		<vous>souhaiterez</vous>
+		<ils>souhaiteront</ils>
+	</future>
+	<subjunctive>
+		<je>souhaite</je>
+		<tu>souhaites</tu>
+		<il>souhaite</il>
+		<nous>souhaitions</nous>
+		<vous>souhaitiez</vous>
+		<ils>souhaitent</ils>
+	</subjunctive>
+	<conditional>
+		<je>souhaiterais</je>
+		<tu>souhaiterais</tu>
+		<il>souhaiterait</il>
+		<nous>souhaiterions</nous>
+		<vous>souhaiteriez</vous>
+		<ils>souhaiteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>crever</infinitive>
+	<translation>to burst</translation>
+	<translation>puncture</translation>
+	<translation>to wear out</translation>
+	<stemChange />
+	<presentParticiple>crevant</presentParticiple>
+	<pastParticiple>crevé</pastParticiple>
+	<present>
+		<je>crève</je>
+		<tu>crèves</tu>
+		<il>crève</il>
+		<nous>crevons</nous>
+		<vous>crevez</vous>
+		<ils>crèvent</ils>
+	</present>
+	<imperative>
+		<tu>crève</tu>
+		<nous>crevons</nous>
+		<vous>crevez</vous>
+	</imperative>
+	<imperfect>
+		<je>crevais</je>
+		<tu>crevais</tu>
+		<il>crevait</il>
+		<nous>crevions</nous>
+		<vous>creviez</vous>
+		<ils>crevaient</ils>
+	</imperfect>
+	<future>
+		<je>crèverai</je>
+		<tu>crèveras</tu>
+		<il>crèvera</il>
+		<nous>crèverons</nous>
+		<vous>crèverez</vous>
+		<ils>crèveront</ils>
+	</future>
+	<subjunctive>
+		<je>crève</je>
+		<tu>crèves</tu>
+		<il>crève</il>
+		<nous>crevions</nous>
+		<vous>creviez</vous>
+		<ils>crèvent</ils>
+	</subjunctive>
+	<conditional>
+		<je>crèverais</je>
+		<tu>crèverais</tu>
+		<il>crèverait</il>
+		<nous>crèverions</nous>
+		<vous>crèveriez</vous>
+		<ils>crèveraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

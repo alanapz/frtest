@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>user</infinitive>
+	<translation>to wear out</translation>
+	<presentParticiple>usant</presentParticiple>
+	<pastParticiple>usé</pastParticiple>
+	<present>
+		<je>use</je>
+		<tu>uses</tu>
+		<il>use</il>
+		<nous>usons</nous>
+		<vous>usez</vous>
+		<ils>usent</ils>
+	</present>
+	<imperative>
+		<tu>use</tu>
+		<nous>usons</nous>
+		<vous>usez</vous>
+	</imperative>
+	<imperfect>
+		<je>usais</je>
+		<tu>usais</tu>
+		<il>usait</il>
+		<nous>usions</nous>
+		<vous>usiez</vous>
+		<ils>usaient</ils>
+	</imperfect>
+	<future>
+		<je>userai</je>
+		<tu>useras</tu>
+		<il>usera</il>
+		<nous>userons</nous>
+		<vous>userez</vous>
+		<ils>useront</ils>
+	</future>
+	<subjunctive>
+		<je>use</je>
+		<tu>uses</tu>
+		<il>use</il>
+		<nous>usions</nous>
+		<vous>usiez</vous>
+		<ils>usent</ils>
+	</subjunctive>
+	<conditional>
+		<je>userais</je>
+		<tu>userais</tu>
+		<il>userait</il>
+		<nous>userions</nous>
+		<vous>useriez</vous>
+		<ils>useraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

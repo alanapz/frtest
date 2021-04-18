@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>simplifier</infinitive>
+	<translation>to simplify</translation>
+	<presentParticiple>simplifiant</presentParticiple>
+	<pastParticiple>simplifié</pastParticiple>
+	<present>
+		<je>simplifie</je>
+		<tu>simplifies</tu>
+		<il>simplifie</il>
+		<nous>simplifions</nous>
+		<vous>simplifiez</vous>
+		<ils>simplifient</ils>
+	</present>
+	<imperative>
+		<tu>simplifie</tu>
+		<nous>simplifions</nous>
+		<vous>simplifiez</vous>
+	</imperative>
+	<imperfect>
+		<je>simplifiais</je>
+		<tu>simplifiais</tu>
+		<il>simplifiait</il>
+		<nous>simplifiions</nous>
+		<vous>simplifiiez</vous>
+		<ils>simplifiaient</ils>
+	</imperfect>
+	<future>
+		<je>simplifierai</je>
+		<tu>simplifieras</tu>
+		<il>simplifiera</il>
+		<nous>simplifierons</nous>
+		<vous>simplifierez</vous>
+		<ils>simplifieront</ils>
+	</future>
+	<subjunctive>
+		<je>simplifie</je>
+		<tu>simplifies</tu>
+		<il>simplifie</il>
+		<nous>simplifiions</nous>
+		<vous>simplifiiez</vous>
+		<ils>simplifient</ils>
+	</subjunctive>
+	<conditional>
+		<je>simplifierais</je>
+		<tu>simplifierais</tu>
+		<il>simplifierait</il>
+		<nous>simplifierions</nous>
+		<vous>simplifieriez</vous>
+		<ils>simplifieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>former</infinitive>
+            <translation>to train</translation>
+            <translation>to develop</translation>
+            <translation>to form</translation>
+            <presentParticiple>formant</presentParticiple>
+            <pastParticiple>formé</pastParticiple>
+            <present>
+                <je>forme</je>
+                <tu>formes</tu>
+                <il>forme</il>
+                <nous>formons</nous>
+                <vous>formez</vous>
+                <ils>forment</ils>
+            </present>
+            <imperative>
+                <tu>forme</tu>
+                <nous>formons</nous>
+                <vous>formez</vous>
+            </imperative>
+            <imperfect>
+                <je>formais</je>
+                <tu>formais</tu>
+                <il>formait</il>
+                <nous>formions</nous>
+                <vous>formiez</vous>
+                <ils>formaient</ils>
+            </imperfect>
+            <future>
+                <je>formerai</je>
+                <tu>formeras</tu>
+                <il>formera</il>
+                <nous>formerons</nous>
+                <vous>formerez</vous>
+                <ils>formeront</ils>
+            </future>
+            <subjunctive>
+                <je>forme</je>
+                <tu>formes</tu>
+                <il>forme</il>
+                <nous>formions</nous>
+                <vous>formiez</vous>
+                <ils>forment</ils>
+            </subjunctive>
+            <conditional>
+                <je>formerais</je>
+                <tu>formerais</tu>
+                <il>formerait</il>
+                <nous>formerions</nous>
+                <vous>formeriez</vous>
+                <ils>formeraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

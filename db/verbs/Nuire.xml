@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>nuire</infinitive>
+	<translation>to harm</translation>
+	<irregular />
+	<presentParticiple>nuisant</presentParticiple>
+	<pastParticiple>nui</pastParticiple>
+	<present>
+		<je>nuis</je>
+		<tu>nuis</tu>
+		<il>nuit</il>
+		<nous>nuisons</nous>
+		<vous>nuisez</vous>
+		<ils>nuisent</ils>
+	</present>
+	<imperative>
+		<tu>nuis</tu>
+		<nous>nuisons</nous>
+		<vous>nuisez</vous>
+	</imperative>
+	<imperfect>
+		<je>nuisais</je>
+		<tu>nuisais</tu>
+		<il>nuisait</il>
+		<nous>nuisions</nous>
+		<vous>nuisiez</vous>
+		<ils>nuisaient</ils>
+	</imperfect>
+	<future>
+		<je>nuirai</je>
+		<tu>nuiras</tu>
+		<il>nuira</il>
+		<nous>nuirons</nous>
+		<vous>nuirez</vous>
+		<ils>nuiront</ils>
+	</future>
+	<subjunctive>
+		<je>nuise</je>
+		<tu>nuises</tu>
+		<il>nuise</il>
+		<nous>nuisions</nous>
+		<vous>nuisiez</vous>
+		<ils>nuisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>nuirais</je>
+		<tu>nuirais</tu>
+		<il>nuirait</il>
+		<nous>nuirions</nous>
+		<vous>nuiriez</vous>
+		<ils>nuiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

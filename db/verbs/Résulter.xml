@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>résulter</infinitive>
+            <translation>to result</translation>
+            <presentParticiple>résultant</presentParticiple>
+            <pastParticiple>résulté</pastParticiple>
+            <present>
+                <je>résulte</je>
+                <tu>résultes</tu>
+                <il>résulte</il>
+                <nous>résultons</nous>
+                <vous>résultez</vous>
+                <ils>résultent</ils>
+            </present>
+            <imperative>
+                <tu>résulte</tu>
+                <nous>résultons</nous>
+                <vous>résultez</vous>
+            </imperative>
+            <imperfect>
+                <je>résultais</je>
+                <tu>résultais</tu>
+                <il>résultait</il>
+                <nous>résultions</nous>
+                <vous>résultiez</vous>
+                <ils>résultaient</ils>
+            </imperfect>
+            <future>
+                <je>résulterai</je>
+                <tu>résulteras</tu>
+                <il>résultera</il>
+                <nous>résulterons</nous>
+                <vous>résulterez</vous>
+                <ils>résulteront</ils>
+            </future>
+            <subjunctive>
+                <je>résulte</je>
+                <tu>résultes</tu>
+                <il>résulte</il>
+                <nous>résultions</nous>
+                <vous>résultiez</vous>
+                <ils>résultent</ils>
+            </subjunctive>
+            <conditional>
+                <je>résulterais</je>
+                <tu>résulterais</tu>
+                <il>résulterait</il>
+                <nous>résulterions</nous>
+                <vous>résulteriez</vous>
+                <ils>résulteraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

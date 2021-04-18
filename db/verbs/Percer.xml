@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>percer</infinitive>
+	<translation>to pierce</translation>
+	<spellingChange />
+	<presentParticiple>perçant</presentParticiple>
+	<pastParticiple>percé</pastParticiple>
+	<present>
+		<je>perce</je>
+		<tu>perces</tu>
+		<il>perce</il>
+		<nous>perçons</nous>
+		<vous>percez</vous>
+		<ils>percent</ils>
+	</present>
+	<imperative>
+		<tu>perce</tu>
+		<nous>perçons</nous>
+		<vous>percez</vous>
+	</imperative>
+	<imperfect>
+		<je>perçais</je>
+		<tu>perçais</tu>
+		<il>perçait</il>
+		<nous>percions</nous>
+		<vous>perciez</vous>
+		<ils>perçaient</ils>
+	</imperfect>
+	<future>
+		<je>percerai</je>
+		<tu>perceras</tu>
+		<il>percera</il>
+		<nous>percerons</nous>
+		<vous>percerez</vous>
+		<ils>perceront</ils>
+	</future>
+	<subjunctive>
+		<je>perce</je>
+		<tu>perces</tu>
+		<il>perce</il>
+		<nous>percions</nous>
+		<vous>perciez</vous>
+		<ils>percent</ils>
+	</subjunctive>
+	<conditional>
+		<je>percerais</je>
+		<tu>percerais</tu>
+		<il>percerait</il>
+		<nous>percerions</nous>
+		<vous>perceriez</vous>
+		<ils>perceraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

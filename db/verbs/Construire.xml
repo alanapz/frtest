@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>construire</infinitive>
+	<translation>to build</translation>
+	<translation>construct</translation>
+	<irregular />
+	<presentParticiple>construisant</presentParticiple>
+	<pastParticiple>construit</pastParticiple>
+	<present>
+		<je>construis</je>
+		<tu>construis</tu>
+		<il>construit</il>
+		<nous>construisons</nous>
+		<vous>construisez</vous>
+		<ils>construisent</ils>
+	</present>
+	<imperative>
+		<tu>construis</tu>
+		<nous>construisons</nous>
+		<vous>construisez</vous>
+	</imperative>
+	<imperfect>
+		<je>construisais</je>
+		<tu>construisais</tu>
+		<il>construisait</il>
+		<nous>construisions</nous>
+		<vous>construisiez</vous>
+		<ils>construisaient</ils>
+	</imperfect>
+	<future>
+		<je>construirai</je>
+		<tu>construiras</tu>
+		<il>construira</il>
+		<nous>construirons</nous>
+		<vous>construirez</vous>
+		<ils>construiront</ils>
+	</future>
+	<subjunctive>
+		<je>construise</je>
+		<tu>construises</tu>
+		<il>construise</il>
+		<nous>construisions</nous>
+		<vous>construisiez</vous>
+		<ils>construisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>construirais</je>
+		<tu>construirais</tu>
+		<il>construirait</il>
+		<nous>construirions</nous>
+		<vous>construiriez</vous>
+		<ils>construiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

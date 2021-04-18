@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>reprocher</infinitive>
+            <translation>to criticise</translation>
+            <presentParticiple>reprochant</presentParticiple>
+            <pastParticiple>reproché</pastParticiple>
+            <present>
+                <je>reproche</je>
+                <tu>reproches</tu>
+                <il>reproche</il>
+                <nous>reprochons</nous>
+                <vous>reprochez</vous>
+                <ils>reprochent</ils>
+            </present>
+            <imperative>
+                <tu>reproche</tu>
+                <nous>reprochons</nous>
+                <vous>reprochez</vous>
+            </imperative>
+            <imperfect>
+                <je>reprochais</je>
+                <tu>reprochais</tu>
+                <il>reprochait</il>
+                <nous>reprochions</nous>
+                <vous>reprochiez</vous>
+                <ils>reprochaient</ils>
+            </imperfect>
+            <future>
+                <je>reprocherai</je>
+                <tu>reprocheras</tu>
+                <il>reprochera</il>
+                <nous>reprocherons</nous>
+                <vous>reprocherez</vous>
+                <ils>reprocheront</ils>
+            </future>
+            <subjunctive>
+                <je>reproche</je>
+                <tu>reproches</tu>
+                <il>reproche</il>
+                <nous>reprochions</nous>
+                <vous>reprochiez</vous>
+                <ils>reprochent</ils>
+            </subjunctive>
+            <conditional>
+                <je>reprocherais</je>
+                <tu>reprocherais</tu>
+                <il>reprocherait</il>
+                <nous>reprocherions</nous>
+                <vous>reprocheriez</vous>
+                <ils>reprocheraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

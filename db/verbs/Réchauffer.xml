@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>réchauffer</infinitive>
+	<translation>to reheat</translation>
+	<translation>to warm up</translation>
+	<presentParticiple>réchauffant</presentParticiple>
+	<pastParticiple>réchauffé</pastParticiple>
+	<present>
+		<je>réchauffe</je>
+		<tu>réchauffes</tu>
+		<il>réchauffe</il>
+		<nous>réchauffons</nous>
+		<vous>réchauffez</vous>
+		<ils>réchauffent</ils>
+	</present>
+	<imperative>
+		<tu>réchauffe</tu>
+		<nous>réchauffons</nous>
+		<vous>réchauffez</vous>
+	</imperative>
+	<imperfect>
+		<je>réchauffais</je>
+		<tu>réchauffais</tu>
+		<il>réchauffait</il>
+		<nous>réchauffions</nous>
+		<vous>réchauffiez</vous>
+		<ils>réchauffaient</ils>
+	</imperfect>
+	<future>
+		<je>réchaufferai</je>
+		<tu>réchaufferas</tu>
+		<il>réchauffera</il>
+		<nous>réchaufferons</nous>
+		<vous>réchaufferez</vous>
+		<ils>réchaufferont</ils>
+	</future>
+	<subjunctive>
+		<je>réchauffe</je>
+		<tu>réchauffes</tu>
+		<il>réchauffe</il>
+		<nous>réchauffions</nous>
+		<vous>réchauffiez</vous>
+		<ils>réchauffent</ils>
+	</subjunctive>
+	<conditional>
+		<je>réchaufferais</je>
+		<tu>réchaufferais</tu>
+		<il>réchaufferait</il>
+		<nous>réchaufferions</nous>
+		<vous>réchaufferiez</vous>
+		<ils>réchaufferaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

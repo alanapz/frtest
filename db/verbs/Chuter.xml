@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>chuter</infinitive>
+	<translation>to fall</translation>
+	<translation>drop</translation>
+	<translation>to fail</translation>
+	<presentParticiple>chutant</presentParticiple>
+	<pastParticiple>chuté</pastParticiple>
+	<present>
+		<je>chute</je>
+		<tu>chutes</tu>
+		<il>chute</il>
+		<nous>chutons</nous>
+		<vous>chutez</vous>
+		<ils>chutent</ils>
+	</present>
+	<imperative>
+		<tu>chute</tu>
+		<nous>chutons</nous>
+		<vous>chutez</vous>
+	</imperative>
+	<imperfect>
+		<je>chutais</je>
+		<tu>chutais</tu>
+		<il>chutait</il>
+		<nous>chutions</nous>
+		<vous>chutiez</vous>
+		<ils>chutaient</ils>
+	</imperfect>
+	<future>
+		<je>chuterai</je>
+		<tu>chuteras</tu>
+		<il>chutera</il>
+		<nous>chuterons</nous>
+		<vous>chuterez</vous>
+		<ils>chuteront</ils>
+	</future>
+	<subjunctive>
+		<je>chute</je>
+		<tu>chutes</tu>
+		<il>chute</il>
+		<nous>chutions</nous>
+		<vous>chutiez</vous>
+		<ils>chutent</ils>
+	</subjunctive>
+	<conditional>
+		<je>chuterais</je>
+		<tu>chuterais</tu>
+		<il>chuterait</il>
+		<nous>chuterions</nous>
+		<vous>chuteriez</vous>
+		<ils>chuteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

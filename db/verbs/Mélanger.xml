@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>mélanger</infinitive>
+	<translation>to mix</translation>
+	<spellingChange />
+	<presentParticiple>mélangeant</presentParticiple>
+	<pastParticiple>mélangé</pastParticiple>
+	<present>
+		<je>mélange</je>
+		<tu>mélanges</tu>
+		<il>mélange</il>
+		<nous>mélangeons</nous>
+		<vous>mélangez</vous>
+		<ils>mélangent</ils>
+	</present>
+	<imperative>
+		<tu>mélange</tu>
+		<nous>mélangeons</nous>
+		<vous>mélangez</vous>
+	</imperative>
+	<imperfect>
+		<je>mélangeais</je>
+		<tu>mélangeais</tu>
+		<il>mélangeait</il>
+		<nous>mélangions</nous>
+		<vous>mélangiez</vous>
+		<ils>mélangeaient</ils>
+	</imperfect>
+	<future>
+		<je>mélangerai</je>
+		<tu>mélangeras</tu>
+		<il>mélangera</il>
+		<nous>mélangerons</nous>
+		<vous>mélangerez</vous>
+		<ils>mélangeront</ils>
+	</future>
+	<subjunctive>
+		<je>mélange</je>
+		<tu>mélanges</tu>
+		<il>mélange</il>
+		<nous>mélangions</nous>
+		<vous>mélangiez</vous>
+		<ils>mélangent</ils>
+	</subjunctive>
+	<conditional>
+		<je>mélangerais</je>
+		<tu>mélangerais</tu>
+		<il>mélangerait</il>
+		<nous>mélangerions</nous>
+		<vous>mélangeriez</vous>
+		<ils>mélangeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

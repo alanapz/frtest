@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>demeurer</infinitive>
+	<translation>to stay</translation>
+	<translation>to live (in/at)</translation>
+	<presentParticiple>demeurant</presentParticiple>
+	<pastParticiple>demeuré</pastParticiple>
+	<present>
+		<je>demeure</je>
+		<tu>demeures</tu>
+		<il>demeure</il>
+		<nous>demeurons</nous>
+		<vous>demeurez</vous>
+		<ils>demeurent</ils>
+	</present>
+	<imperative>
+		<tu>demeure</tu>
+		<nous>demeurons</nous>
+		<vous>demeurez</vous>
+	</imperative>
+	<imperfect>
+		<je>demeurais</je>
+		<tu>demeurais</tu>
+		<il>demeurait</il>
+		<nous>demeurions</nous>
+		<vous>demeuriez</vous>
+		<ils>demeuraient</ils>
+	</imperfect>
+	<future>
+		<je>demeurerai</je>
+		<tu>demeureras</tu>
+		<il>demeurera</il>
+		<nous>demeurerons</nous>
+		<vous>demeurerez</vous>
+		<ils>demeureront</ils>
+	</future>
+	<subjunctive>
+		<je>demeure</je>
+		<tu>demeures</tu>
+		<il>demeure</il>
+		<nous>demeurions</nous>
+		<vous>demeuriez</vous>
+		<ils>demeurent</ils>
+	</subjunctive>
+	<conditional>
+		<je>demeurerais</je>
+		<tu>demeurerais</tu>
+		<il>demeurerait</il>
+		<nous>demeurerions</nous>
+		<vous>demeureriez</vous>
+		<ils>demeureraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

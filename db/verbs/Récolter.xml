@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>récolter</infinitive>
+	<translation>to harvest</translation>
+	<translation>to collect</translation>
+	<translation>gather</translation>
+	<presentParticiple>récoltant</presentParticiple>
+	<pastParticiple>récolté</pastParticiple>
+	<present>
+		<je>récolte</je>
+		<tu>récoltes</tu>
+		<il>récolte</il>
+		<nous>récoltons</nous>
+		<vous>récoltez</vous>
+		<ils>récoltent</ils>
+	</present>
+	<imperative>
+		<tu>récolte</tu>
+		<nous>récoltons</nous>
+		<vous>récoltez</vous>
+	</imperative>
+	<imperfect>
+		<je>récoltais</je>
+		<tu>récoltais</tu>
+		<il>récoltait</il>
+		<nous>récoltions</nous>
+		<vous>récoltiez</vous>
+		<ils>récoltaient</ils>
+	</imperfect>
+	<future>
+		<je>récolterai</je>
+		<tu>récolteras</tu>
+		<il>récoltera</il>
+		<nous>récolterons</nous>
+		<vous>récolterez</vous>
+		<ils>récolteront</ils>
+	</future>
+	<subjunctive>
+		<je>récolte</je>
+		<tu>récoltes</tu>
+		<il>récolte</il>
+		<nous>récoltions</nous>
+		<vous>récoltiez</vous>
+		<ils>récoltent</ils>
+	</subjunctive>
+	<conditional>
+		<je>récolterais</je>
+		<tu>récolterais</tu>
+		<il>récolterait</il>
+		<nous>récolterions</nous>
+		<vous>récolteriez</vous>
+		<ils>récolteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

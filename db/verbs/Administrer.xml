@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>administrer</infinitive>
+	<translation>to administer</translation>
+	<presentParticiple>administrant</presentParticiple>
+	<pastParticiple>administré</pastParticiple>
+	<present>
+		<je>administre</je>
+		<tu>administres</tu>
+		<il>administre</il>
+		<nous>administrons</nous>
+		<vous>administrez</vous>
+		<ils>administrent</ils>
+	</present>
+	<imperative>
+		<tu>administre</tu>
+		<nous>administrons</nous>
+		<vous>administrez</vous>
+	</imperative>
+	<imperfect>
+		<je>administrais</je>
+		<tu>administrais</tu>
+		<il>administrait</il>
+		<nous>administrions</nous>
+		<vous>administriez</vous>
+		<ils>administraient</ils>
+	</imperfect>
+	<future>
+		<je>administrerai</je>
+		<tu>administreras</tu>
+		<il>administrera</il>
+		<nous>administrerons</nous>
+		<vous>administrerez</vous>
+		<ils>administreront</ils>
+	</future>
+	<subjunctive>
+		<je>administre</je>
+		<tu>administres</tu>
+		<il>administre</il>
+		<nous>administrions</nous>
+		<vous>administriez</vous>
+		<ils>administrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>administrerais</je>
+		<tu>administrerais</tu>
+		<il>administrerait</il>
+		<nous>administrerions</nous>
+		<vous>administreriez</vous>
+		<ils>administreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

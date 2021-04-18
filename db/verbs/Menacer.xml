@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>menacer</infinitive>
+	<translation>to threaten</translation>
+	<spellingChange />
+	<presentParticiple>menaçant</presentParticiple>
+	<pastParticiple>menacé</pastParticiple>
+	<present>
+		<je>menace</je>
+		<tu>menaces</tu>
+		<il>menace</il>
+		<nous>menaçons</nous>
+		<vous>menacez</vous>
+		<ils>menacent</ils>
+	</present>
+	<imperative>
+		<tu>menace</tu>
+		<nous>menaçons</nous>
+		<vous>menacez</vous>
+	</imperative>
+	<imperfect>
+		<je>menaçais</je>
+		<tu>menaçais</tu>
+		<il>menaçait</il>
+		<nous>menacions</nous>
+		<vous>menaciez</vous>
+		<ils>menaçaient</ils>
+	</imperfect>
+	<future>
+		<je>menacerai</je>
+		<tu>menaceras</tu>
+		<il>menacera</il>
+		<nous>menacerons</nous>
+		<vous>menacerez</vous>
+		<ils>menaceront</ils>
+	</future>
+	<subjunctive>
+		<je>menace</je>
+		<tu>menaces</tu>
+		<il>menace</il>
+		<nous>menacions</nous>
+		<vous>menaciez</vous>
+		<ils>menacent</ils>
+	</subjunctive>
+	<conditional>
+		<je>menacerais</je>
+		<tu>menacerais</tu>
+		<il>menacerait</il>
+		<nous>menacerions</nous>
+		<vous>menaceriez</vous>
+		<ils>menaceraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

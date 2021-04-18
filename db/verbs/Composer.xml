@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>composer</infinitive>
+	<translation>to select</translation>
+	<translation>form</translation>
+	<translation>to write</translation>
+	<translation>compose</translation>
+	<translation>to dial</translation>
+	<presentParticiple>composant</presentParticiple>
+	<pastParticiple>composé</pastParticiple>
+	<present>
+		<je>compose</je>
+		<tu>composes</tu>
+		<il>compose</il>
+		<nous>composons</nous>
+		<vous>composez</vous>
+		<ils>composent</ils>
+	</present>
+	<imperative>
+		<tu>compose</tu>
+		<nous>composons</nous>
+		<vous>composez</vous>
+	</imperative>
+	<imperfect>
+		<je>composais</je>
+		<tu>composais</tu>
+		<il>composait</il>
+		<nous>composions</nous>
+		<vous>composiez</vous>
+		<ils>composaient</ils>
+	</imperfect>
+	<future>
+		<je>composerai</je>
+		<tu>composeras</tu>
+		<il>composera</il>
+		<nous>composerons</nous>
+		<vous>composerez</vous>
+		<ils>composeront</ils>
+	</future>
+	<subjunctive>
+		<je>compose</je>
+		<tu>composes</tu>
+		<il>compose</il>
+		<nous>composions</nous>
+		<vous>composiez</vous>
+		<ils>composent</ils>
+	</subjunctive>
+	<conditional>
+		<je>composerais</je>
+		<tu>composerais</tu>
+		<il>composerait</il>
+		<nous>composerions</nous>
+		<vous>composeriez</vous>
+		<ils>composeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

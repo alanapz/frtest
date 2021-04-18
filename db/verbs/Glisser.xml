@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>glisser</infinitive>
+	<translation>to slide</translation>
+	<translation>slip</translation>
+	<presentParticiple>glissant</presentParticiple>
+	<pastParticiple>glissé</pastParticiple>
+	<present>
+		<je>glisse</je>
+		<tu>glisses</tu>
+		<il>glisse</il>
+		<nous>glissons</nous>
+		<vous>glissez</vous>
+		<ils>glissent</ils>
+	</present>
+	<imperative>
+		<tu>glisse</tu>
+		<nous>glissons</nous>
+		<vous>glissez</vous>
+	</imperative>
+	<imperfect>
+		<je>glissais</je>
+		<tu>glissais</tu>
+		<il>glissait</il>
+		<nous>glissions</nous>
+		<vous>glissiez</vous>
+		<ils>glissaient</ils>
+	</imperfect>
+	<future>
+		<je>glisserai</je>
+		<tu>glisseras</tu>
+		<il>glissera</il>
+		<nous>glisserons</nous>
+		<vous>glisserez</vous>
+		<ils>glisseront</ils>
+	</future>
+	<subjunctive>
+		<je>glisse</je>
+		<tu>glisses</tu>
+		<il>glisse</il>
+		<nous>glissions</nous>
+		<vous>glissiez</vous>
+		<ils>glissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>glisserais</je>
+		<tu>glisserais</tu>
+		<il>glisserait</il>
+		<nous>glisserions</nous>
+		<vous>glisseriez</vous>
+		<ils>glisseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>rater</infinitive>
+	<translation>to miss</translation>
+	<translation>to fail</translation>
+	<presentParticiple>ratant</presentParticiple>
+	<pastParticiple>raté</pastParticiple>
+	<present>
+		<je>rate</je>
+		<tu>rates</tu>
+		<il>rate</il>
+		<nous>ratons</nous>
+		<vous>ratez</vous>
+		<ils>ratent</ils>
+	</present>
+	<imperative>
+		<tu>rate</tu>
+		<nous>ratons</nous>
+		<vous>ratez</vous>
+	</imperative>
+	<imperfect>
+		<je>ratais</je>
+		<tu>ratais</tu>
+		<il>ratait</il>
+		<nous>rations</nous>
+		<vous>ratiez</vous>
+		<ils>rataient</ils>
+	</imperfect>
+	<future>
+		<je>raterai</je>
+		<tu>rateras</tu>
+		<il>ratera</il>
+		<nous>raterons</nous>
+		<vous>raterez</vous>
+		<ils>rateront</ils>
+	</future>
+	<subjunctive>
+		<je>rate</je>
+		<tu>rates</tu>
+		<il>rate</il>
+		<nous>rations</nous>
+		<vous>ratiez</vous>
+		<ils>ratent</ils>
+	</subjunctive>
+	<conditional>
+		<je>raterais</je>
+		<tu>raterais</tu>
+		<il>raterait</il>
+		<nous>raterions</nous>
+		<vous>rateriez</vous>
+		<ils>rateraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

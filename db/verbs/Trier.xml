@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>trier</infinitive>
+	<translation>to sort</translation>
+	<translation>sift</translation>
+	<translation>pick over</translation>
+	<presentParticiple>triant</presentParticiple>
+	<pastParticiple>trié</pastParticiple>
+	<present>
+		<je>trie</je>
+		<tu>tries</tu>
+		<il>trie</il>
+		<nous>trions</nous>
+		<vous>triez</vous>
+		<ils>trient</ils>
+	</present>
+	<imperative>
+		<tu>trie</tu>
+		<nous>trions</nous>
+		<vous>triez</vous>
+	</imperative>
+	<imperfect>
+		<je>triais</je>
+		<tu>triais</tu>
+		<il>triait</il>
+		<nous>triions</nous>
+		<vous>triiez</vous>
+		<ils>triaient</ils>
+	</imperfect>
+	<future>
+		<je>trierai</je>
+		<tu>trieras</tu>
+		<il>triera</il>
+		<nous>trierons</nous>
+		<vous>trierez</vous>
+		<ils>trieront</ils>
+	</future>
+	<subjunctive>
+		<je>trie</je>
+		<tu>tries</tu>
+		<il>trie</il>
+		<nous>triions</nous>
+		<vous>triiez</vous>
+		<ils>trient</ils>
+	</subjunctive>
+	<conditional>
+		<je>trierais</je>
+		<tu>trierais</tu>
+		<il>trierait</il>
+		<nous>trierions</nous>
+		<vous>trieriez</vous>
+		<ils>trieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

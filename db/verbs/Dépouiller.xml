@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dépouiller</infinitive>
+	<translation>to persue</translation>
+	<translation>to skin</translation>
+	<translation>strip</translation>
+	<presentParticiple>dépouillant</presentParticiple>
+	<pastParticiple>dépouillé</pastParticiple>
+	<present>
+		<je>dépouille</je>
+		<tu>dépouilles</tu>
+		<il>dépouille</il>
+		<nous>dépouillons</nous>
+		<vous>dépouillez</vous>
+		<ils>dépouillent</ils>
+	</present>
+	<imperative>
+		<tu>dépouille</tu>
+		<nous>dépouillons</nous>
+		<vous>dépouillez</vous>
+	</imperative>
+	<imperfect>
+		<je>dépouillais</je>
+		<tu>dépouillais</tu>
+		<il>dépouillait</il>
+		<nous>dépouillions</nous>
+		<vous>dépouilliez</vous>
+		<ils>dépouillaient</ils>
+	</imperfect>
+	<future>
+		<je>dépouillerai</je>
+		<tu>dépouilleras</tu>
+		<il>dépouillera</il>
+		<nous>dépouillerons</nous>
+		<vous>dépouillerez</vous>
+		<ils>dépouilleront</ils>
+	</future>
+	<subjunctive>
+		<je>dépouille</je>
+		<tu>dépouilles</tu>
+		<il>dépouille</il>
+		<nous>dépouillions</nous>
+		<vous>dépouilliez</vous>
+		<ils>dépouillent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dépouillerais</je>
+		<tu>dépouillerais</tu>
+		<il>dépouillerait</il>
+		<nous>dépouillerions</nous>
+		<vous>dépouilleriez</vous>
+		<ils>dépouilleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

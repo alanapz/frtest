@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>écarter</infinitive>
+	<translation>to move apart</translation>
+	<translation>spread open</translation>
+	<presentParticiple>écartant</presentParticiple>
+	<pastParticiple>écarté</pastParticiple>
+	<present>
+		<je>écarte</je>
+		<tu>écartes</tu>
+		<il>écarte</il>
+		<nous>écartons</nous>
+		<vous>écartez</vous>
+		<ils>écartent</ils>
+	</present>
+	<imperative>
+		<tu>écarte</tu>
+		<nous>écartons</nous>
+		<vous>écartez</vous>
+	</imperative>
+	<imperfect>
+		<je>écartais</je>
+		<tu>écartais</tu>
+		<il>écartait</il>
+		<nous>écartions</nous>
+		<vous>écartiez</vous>
+		<ils>écartaient</ils>
+	</imperfect>
+	<future>
+		<je>écarterai</je>
+		<tu>écarteras</tu>
+		<il>écartera</il>
+		<nous>écarterons</nous>
+		<vous>écarterez</vous>
+		<ils>écarteront</ils>
+	</future>
+	<subjunctive>
+		<je>écarte</je>
+		<tu>écartes</tu>
+		<il>écarte</il>
+		<nous>écartions</nous>
+		<vous>écartiez</vous>
+		<ils>écartent</ils>
+	</subjunctive>
+	<conditional>
+		<je>écarterais</je>
+		<tu>écarterais</tu>
+		<il>écarterait</il>
+		<nous>écarterions</nous>
+		<vous>écarteriez</vous>
+		<ils>écarteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

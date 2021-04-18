@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>projeter</infinitive>
+	<translation>to project</translation>
+	<stemChange />
+	<presentParticiple>projetant</presentParticiple>
+	<pastParticiple>projeté</pastParticiple>
+	<present>
+		<je>projette</je>
+		<tu>projettes</tu>
+		<il>projette</il>
+		<nous>projetons</nous>
+		<vous>projetez</vous>
+		<ils>projettent</ils>
+	</present>
+	<imperative>
+		<tu>projette</tu>
+		<nous>projetons</nous>
+		<vous>projetez</vous>
+	</imperative>
+	<imperfect>
+		<je>projetais</je>
+		<tu>projetais</tu>
+		<il>projetait</il>
+		<nous>projetions</nous>
+		<vous>projetiez</vous>
+		<ils>projetaient</ils>
+	</imperfect>
+	<future>
+		<je>projetterai</je>
+		<tu>projetteras</tu>
+		<il>projettera</il>
+		<nous>projetterons</nous>
+		<vous>projetterez</vous>
+		<ils>projetteront</ils>
+	</future>
+	<subjunctive>
+		<je>projette</je>
+		<tu>projettes</tu>
+		<il>projette</il>
+		<nous>projetions</nous>
+		<vous>projetiez</vous>
+		<ils>projettent</ils>
+	</subjunctive>
+	<conditional>
+		<je>projetterais</je>
+		<tu>projetterais</tu>
+		<il>projetterait</il>
+		<nous>projetterions</nous>
+		<vous>projetteriez</vous>
+		<ils>projetteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

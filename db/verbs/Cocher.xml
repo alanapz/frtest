@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>cocher</infinitive>
+            <translation>to check off</translation>
+            <translation>tick</translation>
+            <translation>to notch</translation>
+            <translation>groove</translation>
+            <presentParticiple>cochant</presentParticiple>
+            <pastParticiple>coché</pastParticiple>
+            <present>
+                <je>coche</je>
+                <tu>coches</tu>
+                <il>coche</il>
+                <nous>cochons</nous>
+                <vous>cochez</vous>
+                <ils>cochent</ils>
+            </present>
+            <imperative>
+                <tu>coche</tu>
+                <nous>cochons</nous>
+                <vous>cochez</vous>
+            </imperative>
+            <imperfect>
+                <je>cochais</je>
+                <tu>cochais</tu>
+                <il>cochait</il>
+                <nous>cochions</nous>
+                <vous>cochiez</vous>
+                <ils>cochaient</ils>
+            </imperfect>
+            <future>
+                <je>cocherai</je>
+                <tu>cocheras</tu>
+                <il>cochera</il>
+                <nous>cocherons</nous>
+                <vous>cocherez</vous>
+                <ils>cocheront</ils>
+            </future>
+            <subjunctive>
+                <je>coche</je>
+                <tu>coches</tu>
+                <il>coche</il>
+                <nous>cochions</nous>
+                <vous>cochiez</vous>
+                <ils>cochent</ils>
+            </subjunctive>
+            <conditional>
+                <je>cocherais</je>
+                <tu>cocherais</tu>
+                <il>cocherait</il>
+                <nous>cocherions</nous>
+                <vous>cocheriez</vous>
+                <ils>cocheraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

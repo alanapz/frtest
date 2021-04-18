@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>friser</infinitive>
+	<translation>to curl</translation>
+	<presentParticiple>frisant</presentParticiple>
+	<pastParticiple>frisé</pastParticiple>
+	<present>
+		<je>frise</je>
+		<tu>frises</tu>
+		<il>frise</il>
+		<nous>frisons</nous>
+		<vous>frisez</vous>
+		<ils>frisent</ils>
+	</present>
+	<imperative>
+		<tu>frise</tu>
+		<nous>frisons</nous>
+		<vous>frisez</vous>
+	</imperative>
+	<imperfect>
+		<je>frisais</je>
+		<tu>frisais</tu>
+		<il>frisait</il>
+		<nous>frisions</nous>
+		<vous>frisiez</vous>
+		<ils>frisaient</ils>
+	</imperfect>
+	<future>
+		<je>friserai</je>
+		<tu>friseras</tu>
+		<il>frisera</il>
+		<nous>friserons</nous>
+		<vous>friserez</vous>
+		<ils>friseront</ils>
+	</future>
+	<subjunctive>
+		<je>frise</je>
+		<tu>frises</tu>
+		<il>frise</il>
+		<nous>frisions</nous>
+		<vous>frisiez</vous>
+		<ils>frisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>friserais</je>
+		<tu>friserais</tu>
+		<il>friserait</il>
+		<nous>friserions</nous>
+		<vous>friseriez</vous>
+		<ils>friseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>souffrir</infinitive>
+	<translation>to suffer</translation>
+	<irregular />
+	<presentParticiple>souffrant</presentParticiple>
+	<pastParticiple>souffert</pastParticiple>
+	<present>
+		<je>souffre</je>
+		<tu>souffres</tu>
+		<il>souffre</il>
+		<nous>souffrons</nous>
+		<vous>souffrez</vous>
+		<ils>souffrent</ils>
+	</present>
+	<imperative>
+		<tu>souffre</tu>
+		<nous>souffrons</nous>
+		<vous>souffrez</vous>
+	</imperative>
+	<imperfect>
+		<je>souffrais</je>
+		<tu>souffrais</tu>
+		<il>souffrait</il>
+		<nous>souffrions</nous>
+		<vous>souffriez</vous>
+		<ils>souffraient</ils>
+	</imperfect>
+	<future>
+		<je>souffrirai</je>
+		<tu>souffriras</tu>
+		<il>souffrira</il>
+		<nous>souffrirons</nous>
+		<vous>souffrirez</vous>
+		<ils>souffriront</ils>
+	</future>
+	<subjunctive>
+		<je>souffre</je>
+		<tu>souffres</tu>
+		<il>souffre</il>
+		<nous>souffrions</nous>
+		<vous>souffriez</vous>
+		<ils>souffrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>souffrirais</je>
+		<tu>souffrirais</tu>
+		<il>souffrirait</il>
+		<nous>souffririons</nous>
+		<vous>souffririez</vous>
+		<ils>souffriraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

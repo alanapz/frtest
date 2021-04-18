@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>opposer</infinitive>
+	<translation>to oppose</translation>
+	<presentParticiple>opposant</presentParticiple>
+	<pastParticiple>opposé</pastParticiple>
+	<present>
+		<je>oppose</je>
+		<tu>opposes</tu>
+		<il>oppose</il>
+		<nous>opposons</nous>
+		<vous>opposez</vous>
+		<ils>opposent</ils>
+	</present>
+	<imperative>
+		<tu>oppose</tu>
+		<nous>opposons</nous>
+		<vous>opposez</vous>
+	</imperative>
+	<imperfect>
+		<je>opposais</je>
+		<tu>opposais</tu>
+		<il>opposait</il>
+		<nous>opposions</nous>
+		<vous>opposiez</vous>
+		<ils>opposaient</ils>
+	</imperfect>
+	<future>
+		<je>opposerai</je>
+		<tu>opposeras</tu>
+		<il>opposera</il>
+		<nous>opposerons</nous>
+		<vous>opposerez</vous>
+		<ils>opposeront</ils>
+	</future>
+	<subjunctive>
+		<je>oppose</je>
+		<tu>opposes</tu>
+		<il>oppose</il>
+		<nous>opposions</nous>
+		<vous>opposiez</vous>
+		<ils>opposent</ils>
+	</subjunctive>
+	<conditional>
+		<je>opposerais</je>
+		<tu>opposerais</tu>
+		<il>opposerait</il>
+		<nous>opposerions</nous>
+		<vous>opposeriez</vous>
+		<ils>opposeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

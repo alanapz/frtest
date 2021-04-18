@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>plier</infinitive>
+	<translation>to fold</translation>
+	<translation>bend</translation>
+	<presentParticiple>pliant</presentParticiple>
+	<pastParticiple>plié</pastParticiple>
+	<present>
+		<je>plie</je>
+		<tu>plies</tu>
+		<il>plie</il>
+		<nous>plions</nous>
+		<vous>pliez</vous>
+		<ils>plient</ils>
+	</present>
+	<imperative>
+		<tu>plie</tu>
+		<nous>plions</nous>
+		<vous>pliez</vous>
+	</imperative>
+	<imperfect>
+		<je>pliais</je>
+		<tu>pliais</tu>
+		<il>pliait</il>
+		<nous>pliions</nous>
+		<vous>pliiez</vous>
+		<ils>pliaient</ils>
+	</imperfect>
+	<future>
+		<je>plierai</je>
+		<tu>plieras</tu>
+		<il>pliera</il>
+		<nous>plierons</nous>
+		<vous>plierez</vous>
+		<ils>plieront</ils>
+	</future>
+	<subjunctive>
+		<je>plie</je>
+		<tu>plies</tu>
+		<il>plie</il>
+		<nous>pliions</nous>
+		<vous>pliiez</vous>
+		<ils>plient</ils>
+	</subjunctive>
+	<conditional>
+		<je>plierais</je>
+		<tu>plierais</tu>
+		<il>plierait</il>
+		<nous>plierions</nous>
+		<vous>plieriez</vous>
+		<ils>plieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

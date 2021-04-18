@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>suivre</infinitive>
+	<translation>to follow</translation>
+	<irregular />
+	<presentParticiple>suivant</presentParticiple>
+	<pastParticiple>suivi</pastParticiple>
+	<present>
+		<je>suis</je>
+		<tu>suis</tu>
+		<il>suit</il>
+		<nous>suivons</nous>
+		<vous>suivez</vous>
+		<ils>suivent</ils>
+	</present>
+	<imperative>
+		<tu>suis</tu>
+		<nous>suivons</nous>
+		<vous>suivez</vous>
+	</imperative>
+	<imperfect>
+		<je>suivais</je>
+		<tu>suivais</tu>
+		<il>suivait</il>
+		<nous>suivions</nous>
+		<vous>suiviez</vous>
+		<ils>suivaient</ils>
+	</imperfect>
+	<future>
+		<je>suivrai</je>
+		<tu>suivras</tu>
+		<il>suivra</il>
+		<nous>suivrons</nous>
+		<vous>suivrez</vous>
+		<ils>suivront</ils>
+	</future>
+	<subjunctive>
+		<je>suive</je>
+		<tu>suives</tu>
+		<il>suive</il>
+		<nous>suivions</nous>
+		<vous>suiviez</vous>
+		<ils>suivent</ils>
+	</subjunctive>
+	<conditional>
+		<je>suivrais</je>
+		<tu>suivrais</tu>
+		<il>suivrait</il>
+		<nous>suivrions</nous>
+		<vous>suivriez</vous>
+		<ils>suivraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

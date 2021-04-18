@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>assembler</infinitive>
+	<translation>to gather</translation>
+	<translation>collect</translation>
+	<translation>assemble</translation>
+	<presentParticiple>assemblant</presentParticiple>
+	<pastParticiple>assemblé</pastParticiple>
+	<present>
+		<je>assemble</je>
+		<tu>assembles</tu>
+		<il>assemble</il>
+		<nous>assemblons</nous>
+		<vous>assemblez</vous>
+		<ils>assemblent</ils>
+	</present>
+	<imperative>
+		<tu>assemble</tu>
+		<nous>assemblons</nous>
+		<vous>assemblez</vous>
+	</imperative>
+	<imperfect>
+		<je>assemblais</je>
+		<tu>assemblais</tu>
+		<il>assemblait</il>
+		<nous>assemblions</nous>
+		<vous>assembliez</vous>
+		<ils>assemblaient</ils>
+	</imperfect>
+	<future>
+		<je>assemblerai</je>
+		<tu>assembleras</tu>
+		<il>assemblera</il>
+		<nous>assemblerons</nous>
+		<vous>assemblerez</vous>
+		<ils>assembleront</ils>
+	</future>
+	<subjunctive>
+		<je>assemble</je>
+		<tu>assembles</tu>
+		<il>assemble</il>
+		<nous>assemblions</nous>
+		<vous>assembliez</vous>
+		<ils>assemblent</ils>
+	</subjunctive>
+	<conditional>
+		<je>assemblerais</je>
+		<tu>assemblerais</tu>
+		<il>assemblerait</il>
+		<nous>assemblerions</nous>
+		<vous>assembleriez</vous>
+		<ils>assembleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

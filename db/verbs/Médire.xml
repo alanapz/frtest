@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>médire</infinitive>
+	<translation>to malign</translation>
+	<irregular />
+	<presentParticiple>médisant</presentParticiple>
+	<pastParticiple>médit</pastParticiple>
+	<present>
+		<je>médis</je>
+		<tu>médis</tu>
+		<il>médit</il>
+		<nous>médisons</nous>
+		<vous>médisez</vous>
+		<ils>médisent</ils>
+	</present>
+	<imperative>
+		<tu>médis</tu>
+		<nous>médisons</nous>
+		<vous>médisez</vous>
+	</imperative>
+	<imperfect>
+		<je>médisais</je>
+		<tu>médisais</tu>
+		<il>médisait</il>
+		<nous>médisions</nous>
+		<vous>médisiez</vous>
+		<ils>médisaient</ils>
+	</imperfect>
+	<future>
+		<je>médirai</je>
+		<tu>médiras</tu>
+		<il>médira</il>
+		<nous>médirons</nous>
+		<vous>médirez</vous>
+		<ils>médiront</ils>
+	</future>
+	<subjunctive>
+		<je>médise</je>
+		<tu>médises</tu>
+		<il>médise</il>
+		<nous>médisions</nous>
+		<vous>médisiez</vous>
+		<ils>médisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>médirais</je>
+		<tu>médirais</tu>
+		<il>médirait</il>
+		<nous>médirions</nous>
+		<vous>médiriez</vous>
+		<ils>médiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

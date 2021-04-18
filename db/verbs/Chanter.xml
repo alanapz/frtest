@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>chanter</infinitive>
+	<translation>to sing</translation>
+	<presentParticiple>chantant</presentParticiple>
+	<pastParticiple>chanté</pastParticiple>
+	<present>
+		<je>chante</je>
+		<tu>chantes</tu>
+		<il>chante</il>
+		<nous>chantons</nous>
+		<vous>chantez</vous>
+		<ils>chantent</ils>
+	</present>
+	<imperative>
+		<tu>chante</tu>
+		<nous>chantons</nous>
+		<vous>chantez</vous>
+	</imperative>
+	<imperfect>
+		<je>chantais</je>
+		<tu>chantais</tu>
+		<il>chantait</il>
+		<nous>chantions</nous>
+		<vous>chantiez</vous>
+		<ils>chantaient</ils>
+	</imperfect>
+	<future>
+		<je>chanterai</je>
+		<tu>chanteras</tu>
+		<il>chantera</il>
+		<nous>chanterons</nous>
+		<vous>chanterez</vous>
+		<ils>chanteront</ils>
+	</future>
+	<subjunctive>
+		<je>chante</je>
+		<tu>chantes</tu>
+		<il>chante</il>
+		<nous>chantions</nous>
+		<vous>chantiez</vous>
+		<ils>chantent</ils>
+	</subjunctive>
+	<conditional>
+		<je>chanterais</je>
+		<tu>chanterais</tu>
+		<il>chanterait</il>
+		<nous>chanterions</nous>
+		<vous>chanteriez</vous>
+		<ils>chanteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

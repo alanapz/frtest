@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>comporter</infinitive>
+	<translation>to consist of</translation>
+	<translation>comprise</translation>
+	<translation>include</translation>
+	<presentParticiple>comportant</presentParticiple>
+	<pastParticiple>comporté</pastParticiple>
+	<present>
+		<je>comporte</je>
+		<tu>comportes</tu>
+		<il>comporte</il>
+		<nous>comportons</nous>
+		<vous>comportez</vous>
+		<ils>comportent</ils>
+	</present>
+	<imperative>
+		<tu>comporte</tu>
+		<nous>comportons</nous>
+		<vous>comportez</vous>
+	</imperative>
+	<imperfect>
+		<je>comportais</je>
+		<tu>comportais</tu>
+		<il>comportait</il>
+		<nous>comportions</nous>
+		<vous>comportiez</vous>
+		<ils>comportaient</ils>
+	</imperfect>
+	<future>
+		<je>comporterai</je>
+		<tu>comporteras</tu>
+		<il>comportera</il>
+		<nous>comporterons</nous>
+		<vous>comporterez</vous>
+		<ils>comporteront</ils>
+	</future>
+	<subjunctive>
+		<je>comporte</je>
+		<tu>comportes</tu>
+		<il>comporte</il>
+		<nous>comportions</nous>
+		<vous>comportiez</vous>
+		<ils>comportent</ils>
+	</subjunctive>
+	<conditional>
+		<je>comporterais</je>
+		<tu>comporterais</tu>
+		<il>comporterait</il>
+		<nous>comporterions</nous>
+		<vous>comporteriez</vous>
+		<ils>comporteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

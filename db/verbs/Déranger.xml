@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>déranger</infinitive>
+	<translation>to disturb</translation>
+	<spellingChange />
+	<presentParticiple>dérangeant</presentParticiple>
+	<pastParticiple>dérangé</pastParticiple>
+	<present>
+		<je>dérange</je>
+		<tu>déranges</tu>
+		<il>dérange</il>
+		<nous>dérangeons</nous>
+		<vous>dérangez</vous>
+		<ils>dérangent</ils>
+	</present>
+	<imperative>
+		<tu>dérange</tu>
+		<nous>dérangeons</nous>
+		<vous>dérangez</vous>
+	</imperative>
+	<imperfect>
+		<je>dérangeais</je>
+		<tu>dérangeais</tu>
+		<il>dérangeait</il>
+		<nous>dérangions</nous>
+		<vous>dérangiez</vous>
+		<ils>dérangeaient</ils>
+	</imperfect>
+	<future>
+		<je>dérangerai</je>
+		<tu>dérangeras</tu>
+		<il>dérangera</il>
+		<nous>dérangerons</nous>
+		<vous>dérangerez</vous>
+		<ils>dérangeront</ils>
+	</future>
+	<subjunctive>
+		<je>dérange</je>
+		<tu>déranges</tu>
+		<il>dérange</il>
+		<nous>dérangions</nous>
+		<vous>dérangiez</vous>
+		<ils>dérangent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dérangerais</je>
+		<tu>dérangerais</tu>
+		<il>dérangerait</il>
+		<nous>dérangerions</nous>
+		<vous>dérangeriez</vous>
+		<ils>dérangeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

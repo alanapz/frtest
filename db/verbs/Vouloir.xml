@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>vouloir</infinitive>
+            <translation>to want</translation>
+            <presentParticiple>voulant</presentParticiple>
+            <pastParticiple>voulu</pastParticiple>
+            <present>
+                <je>veux</je>
+                <tu>veux</tu>
+                <il>veut</il>
+                <nous>voulons</nous>
+                <vous>voulez</vous>
+                <ils>veulent</ils>
+            </present>
+            <imperative>
+                <tu>veuille</tu>
+                <nous>veuillons</nous>
+                <vous>veuillez</vous>
+            </imperative>
+            <imperfect>
+                <je>voulais</je>
+                <tu>voulais</tu>
+                <il>voulait</il>
+                <nous>voulions</nous>
+                <vous>vouliez</vous>
+                <ils>voulaient</ils>
+            </imperfect>
+            <future>
+                <je>voudrai</je>
+                <tu>voudras</tu>
+                <il>voudra</il>
+                <nous>voudrons</nous>
+                <vous>voudrez</vous>
+                <ils>voudront</ils>
+            </future>
+            <subjunctive>
+                <je>veuille</je>
+                <tu>veuilles</tu>
+                <il>veuille</il>
+                <nous>voulions</nous>
+                <vous>vouliez</vous>
+                <ils>veuillent</ils>
+            </subjunctive>
+            <conditional>
+                <je>voudrais</je>
+                <tu>voudrais</tu>
+                <il>voudrait</il>
+                <nous>voudrions</nous>
+                <vous>voudriez</vous>
+                <ils>voudraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

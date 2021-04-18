@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>skier</infinitive>
+	<translation>to ski</translation>
+	<presentParticiple>skiant</presentParticiple>
+	<pastParticiple>skié</pastParticiple>
+	<present>
+		<je>skie</je>
+		<tu>skies</tu>
+		<il>skie</il>
+		<nous>skions</nous>
+		<vous>skiez</vous>
+		<ils>skient</ils>
+	</present>
+	<imperative>
+		<tu>skie</tu>
+		<nous>skions</nous>
+		<vous>skiez</vous>
+	</imperative>
+	<imperfect>
+		<je>skiais</je>
+		<tu>skiais</tu>
+		<il>skiait</il>
+		<nous>skiions</nous>
+		<vous>skiiez</vous>
+		<ils>skiaient</ils>
+	</imperfect>
+	<future>
+		<je>skierai</je>
+		<tu>skieras</tu>
+		<il>skiera</il>
+		<nous>skierons</nous>
+		<vous>skierez</vous>
+		<ils>skieront</ils>
+	</future>
+	<subjunctive>
+		<je>skie</je>
+		<tu>skies</tu>
+		<il>skie</il>
+		<nous>skiions</nous>
+		<vous>skiiez</vous>
+		<ils>skient</ils>
+	</subjunctive>
+	<conditional>
+		<je>skierais</je>
+		<tu>skierais</tu>
+		<il>skierait</il>
+		<nous>skierions</nous>
+		<vous>skieriez</vous>
+		<ils>skieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

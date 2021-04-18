@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>rire</infinitive>
+            <translation>to laugh</translation>
+            <irregular />
+            <presentParticiple>riant</presentParticiple>
+            <pastParticiple>ri</pastParticiple>
+            <present>
+                <je>ris</je>
+                <tu>ris</tu>
+                <il>rit</il>
+                <nous>rions</nous>
+                <vous>riez</vous>
+                <ils>rient</ils>
+            </present>
+            <imperative>
+                <tu>ris</tu>
+                <nous>rions</nous>
+                <vous>riez</vous>
+            </imperative>
+            <imperfect>
+                <je>riais</je>
+                <tu>riais</tu>
+                <il>riait</il>
+                <nous>riions</nous>
+                <vous>riiez</vous>
+                <ils>riaient</ils>
+            </imperfect>
+            <future>
+                <je>rirai</je>
+                <tu>riras</tu>
+                <il>rira</il>
+                <nous>rirons</nous>
+                <vous>rirez</vous>
+                <ils>riront</ils>
+            </future>
+            <subjunctive>
+                <je>rie</je>
+                <tu>ries</tu>
+                <il>rie</il>
+                <nous>riions</nous>
+                <vous>riiez</vous>
+                <ils>rient</ils>
+            </subjunctive>
+            <conditional>
+                <je>rirais</je>
+                <tu>rirais</tu>
+                <il>rirait</il>
+                <nous>ririons</nous>
+                <vous>ririez</vous>
+                <ils>riraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

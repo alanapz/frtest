@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>envier</infinitive>
+	<translation>to envy</translation>
+	<presentParticiple>enviant</presentParticiple>
+	<pastParticiple>envié</pastParticiple>
+	<present>
+		<je>envie</je>
+		<tu>envies</tu>
+		<il>envie</il>
+		<nous>envions</nous>
+		<vous>enviez</vous>
+		<ils>envient</ils>
+	</present>
+	<imperative>
+		<tu>envie</tu>
+		<nous>envions</nous>
+		<vous>enviez</vous>
+	</imperative>
+	<imperfect>
+		<je>enviais</je>
+		<tu>enviais</tu>
+		<il>enviait</il>
+		<nous>enviions</nous>
+		<vous>enviiez</vous>
+		<ils>enviaient</ils>
+	</imperfect>
+	<future>
+		<je>envierai</je>
+		<tu>envieras</tu>
+		<il>enviera</il>
+		<nous>envierons</nous>
+		<vous>envierez</vous>
+		<ils>envieront</ils>
+	</future>
+	<subjunctive>
+		<je>envie</je>
+		<tu>envies</tu>
+		<il>envie</il>
+		<nous>enviions</nous>
+		<vous>enviiez</vous>
+		<ils>envient</ils>
+	</subjunctive>
+	<conditional>
+		<je>envierais</je>
+		<tu>envierais</tu>
+		<il>envierait</il>
+		<nous>envierions</nous>
+		<vous>envieriez</vous>
+		<ils>envieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>aggraver</infinitive>
+	<translation>to aggravate</translation>
+	<presentParticiple>aggravant</presentParticiple>
+	<pastParticiple>aggravé</pastParticiple>
+	<present>
+		<je>aggrave</je>
+		<tu>aggraves</tu>
+		<il>aggrave</il>
+		<nous>aggravons</nous>
+		<vous>aggravez</vous>
+		<ils>aggravent</ils>
+	</present>
+	<imperative>
+		<tu>aggrave</tu>
+		<nous>aggravons</nous>
+		<vous>aggravez</vous>
+	</imperative>
+	<imperfect>
+		<je>aggravais</je>
+		<tu>aggravais</tu>
+		<il>aggravait</il>
+		<nous>aggravions</nous>
+		<vous>aggraviez</vous>
+		<ils>aggravaient</ils>
+	</imperfect>
+	<future>
+		<je>aggraverai</je>
+		<tu>aggraveras</tu>
+		<il>aggravera</il>
+		<nous>aggraverons</nous>
+		<vous>aggraverez</vous>
+		<ils>aggraveront</ils>
+	</future>
+	<subjunctive>
+		<je>aggrave</je>
+		<tu>aggraves</tu>
+		<il>aggrave</il>
+		<nous>aggravions</nous>
+		<vous>aggraviez</vous>
+		<ils>aggravent</ils>
+	</subjunctive>
+	<conditional>
+		<je>aggraverais</je>
+		<tu>aggraverais</tu>
+		<il>aggraverait</il>
+		<nous>aggraverions</nous>
+		<vous>aggraveriez</vous>
+		<ils>aggraveraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

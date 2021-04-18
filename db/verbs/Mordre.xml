@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>mordre</infinitive>
+	<translation>to bite</translation>
+	<presentParticiple>mordant</presentParticiple>
+	<pastParticiple>mordu</pastParticiple>
+	<present>
+		<je>mords</je>
+		<tu>mords</tu>
+		<il>mord</il>
+		<nous>mordons</nous>
+		<vous>mordez</vous>
+		<ils>mordent</ils>
+	</present>
+	<imperative>
+		<tu>mords</tu>
+		<nous>mordons</nous>
+		<vous>mordez</vous>
+	</imperative>
+	<imperfect>
+		<je>mordais</je>
+		<tu>mordais</tu>
+		<il>mordait</il>
+		<nous>mordions</nous>
+		<vous>mordiez</vous>
+		<ils>mordaient</ils>
+	</imperfect>
+	<future>
+		<je>mordrai</je>
+		<tu>mordras</tu>
+		<il>mordra</il>
+		<nous>mordrons</nous>
+		<vous>mordrez</vous>
+		<ils>mordront</ils>
+	</future>
+	<subjunctive>
+		<je>morde</je>
+		<tu>mordes</tu>
+		<il>morde</il>
+		<nous>mordions</nous>
+		<vous>mordiez</vous>
+		<ils>mordent</ils>
+	</subjunctive>
+	<conditional>
+		<je>mordrais</je>
+		<tu>mordrais</tu>
+		<il>mordrait</il>
+		<nous>mordrions</nous>
+		<vous>mordriez</vous>
+		<ils>mordraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

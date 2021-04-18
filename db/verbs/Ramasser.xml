@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>ramasser</infinitive>
+	<translation>to pick up</translation>
+	<translation>gather</translation>
+	<presentParticiple>ramassant</presentParticiple>
+	<pastParticiple>ramassé</pastParticiple>
+	<present>
+		<je>ramasse</je>
+		<tu>ramasses</tu>
+		<il>ramasse</il>
+		<nous>ramassons</nous>
+		<vous>ramassez</vous>
+		<ils>ramassent</ils>
+	</present>
+	<imperative>
+		<tu>ramasse</tu>
+		<nous>ramassons</nous>
+		<vous>ramassez</vous>
+	</imperative>
+	<imperfect>
+		<je>ramassais</je>
+		<tu>ramassais</tu>
+		<il>ramassait</il>
+		<nous>ramassions</nous>
+		<vous>ramassiez</vous>
+		<ils>ramassaient</ils>
+	</imperfect>
+	<future>
+		<je>ramasserai</je>
+		<tu>ramasseras</tu>
+		<il>ramassera</il>
+		<nous>ramasserons</nous>
+		<vous>ramasserez</vous>
+		<ils>ramasseront</ils>
+	</future>
+	<subjunctive>
+		<je>ramasse</je>
+		<tu>ramasses</tu>
+		<il>ramasse</il>
+		<nous>ramassions</nous>
+		<vous>ramassiez</vous>
+		<ils>ramassent</ils>
+	</subjunctive>
+	<conditional>
+		<je>ramasserais</je>
+		<tu>ramasserais</tu>
+		<il>ramasserait</il>
+		<nous>ramasserions</nous>
+		<vous>ramasseriez</vous>
+		<ils>ramasseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>feindre</infinitive>
+            <translation>to feign</translation>
+            <irregular />
+            <presentParticiple>feignant</presentParticiple>
+            <pastParticiple>feint</pastParticiple>
+            <present>
+                <je>feins</je>
+                <tu>feins</tu>
+                <il>feint</il>
+                <nous>feignons</nous>
+                <vous>feignez</vous>
+                <ils>feignent</ils>
+            </present>
+            <imperative>
+                <tu>feins</tu>
+                <nous>feignons</nous>
+                <vous>feignez</vous>
+            </imperative>
+            <imperfect>
+                <je>feignais</je>
+                <tu>feignais</tu>
+                <il>feignait</il>
+                <nous>feignions</nous>
+                <vous>feigniez</vous>
+                <ils>feignaient</ils>
+            </imperfect>
+            <future>
+                <je>feindrai</je>
+                <tu>feindras</tu>
+                <il>feindra</il>
+                <nous>feindrons</nous>
+                <vous>feindrez</vous>
+                <ils>feindront</ils>
+            </future>
+            <subjunctive>
+                <je>feigne</je>
+                <tu>feignes</tu>
+                <il>feigne</il>
+                <nous>feignions</nous>
+                <vous>feigniez</vous>
+                <ils>feignent</ils>
+            </subjunctive>
+            <conditional>
+                <je>feindrais</je>
+                <tu>feindrais</tu>
+                <il>feindrait</il>
+                <nous>feindrions</nous>
+                <vous>feindriez</vous>
+                <ils>feindraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

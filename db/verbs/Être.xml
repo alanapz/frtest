@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>être</infinitive>
+            <translation>to be</translation>
+            <presentParticiple>étant</presentParticiple>
+            <pastParticiple>été</pastParticiple>
+            <present>
+                <je>suis</je>
+                <tu>es</tu>
+                <il>est</il>
+                <nous>sommes</nous>
+                <vous>êtes</vous>
+                <ils>sont</ils>
+            </present>
+            <imperative>
+                <tu>sois</tu>
+                <nous>soyons</nous>
+                <vous>soyez</vous>
+            </imperative>
+            <imperfect>
+                <je>étais</je>
+                <tu>étais</tu>
+                <il>était</il>
+                <nous>étions</nous>
+                <vous>étiez</vous>
+                <ils>étaient</ils>
+            </imperfect>
+            <future>
+                <je>serai</je>
+                <tu>seras</tu>
+                <il>sera</il>
+                <nous>serons</nous>
+                <vous>serez</vous>
+                <ils>seront</ils>
+            </future>
+            <subjunctive>
+                <je>sois</je>
+                <tu>sois</tu>
+                <il>soit</il>
+                <nous>soyons</nous>
+                <vous>soyez</vous>
+                <ils>soient</ils>
+            </subjunctive>
+            <conditional>
+                <je>serais</je>
+                <tu>serais</tu>
+                <il>serait</il>
+                <nous>serions</nous>
+                <vous>seriez</vous>
+                <ils>seraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

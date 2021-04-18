@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>astreindre</infinitive>
+	<translation>to compel</translation>
+	<translation>force</translation>
+	<irregular />
+	<presentParticiple>astreignant</presentParticiple>
+	<pastParticiple>astreint</pastParticiple>
+	<present>
+		<je>astreins</je>
+		<tu>astreins</tu>
+		<il>astreint</il>
+		<nous>astreignons</nous>
+		<vous>astreignez</vous>
+		<ils>astreignent</ils>
+	</present>
+	<imperative>
+		<tu>astreins</tu>
+		<nous>astreignons</nous>
+		<vous>astreignez</vous>
+	</imperative>
+	<imperfect>
+		<je>astreignais</je>
+		<tu>astreignais</tu>
+		<il>astreignait</il>
+		<nous>astreignions</nous>
+		<vous>astreigniez</vous>
+		<ils>astreignaient</ils>
+	</imperfect>
+	<future>
+		<je>astreindrai</je>
+		<tu>astreindras</tu>
+		<il>astreindra</il>
+		<nous>astreindrons</nous>
+		<vous>astreindrez</vous>
+		<ils>astreindront</ils>
+	</future>
+	<subjunctive>
+		<je>astreigne</je>
+		<tu>astreignes</tu>
+		<il>astreigne</il>
+		<nous>astreignions</nous>
+		<vous>astreigniez</vous>
+		<ils>astreignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>astreindrais</je>
+		<tu>astreindrais</tu>
+		<il>astreindrait</il>
+		<nous>astreindrions</nous>
+		<vous>astreindriez</vous>
+		<ils>astreindraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

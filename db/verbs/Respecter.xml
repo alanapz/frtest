@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>respecter</infinitive>
+            <translation>to respect</translation>
+            <presentParticiple>respectant</presentParticiple>
+            <pastParticiple>respecté</pastParticiple>
+            <present>
+                <je>respecte</je>
+                <tu>respectes</tu>
+                <il>respecte</il>
+                <nous>respectons</nous>
+                <vous>respectez</vous>
+                <ils>respectent</ils>
+            </present>
+            <imperative>
+                <tu>respecte</tu>
+                <nous>respectons</nous>
+                <vous>respectez</vous>
+            </imperative>
+            <imperfect>
+                <je>respectais</je>
+                <tu>respectais</tu>
+                <il>respectait</il>
+                <nous>respections</nous>
+                <vous>respectiez</vous>
+                <ils>respectaient</ils>
+            </imperfect>
+            <future>
+                <je>respecterai</je>
+                <tu>respecteras</tu>
+                <il>respectera</il>
+                <nous>respecterons</nous>
+                <vous>respecterez</vous>
+                <ils>respecteront</ils>
+            </future>
+            <subjunctive>
+                <je>respecte</je>
+                <tu>respectes</tu>
+                <il>respecte</il>
+                <nous>respections</nous>
+                <vous>respectiez</vous>
+                <ils>respectent</ils>
+            </subjunctive>
+            <conditional>
+                <je>respecterais</je>
+                <tu>respecterais</tu>
+                <il>respecterait</il>
+                <nous>respecterions</nous>
+                <vous>respecteriez</vous>
+                <ils>respecteraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

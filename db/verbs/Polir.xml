@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>polir</infinitive>
+	<translation>to polish</translation>
+	<presentParticiple>polissant</presentParticiple>
+	<pastParticiple>poli</pastParticiple>
+	<present>
+		<je>polis</je>
+		<tu>polis</tu>
+		<il>polit</il>
+		<nous>polissons</nous>
+		<vous>polissez</vous>
+		<ils>polissent</ils>
+	</present>
+	<imperative>
+		<tu>polis</tu>
+		<nous>polissons</nous>
+		<vous>polissez</vous>
+	</imperative>
+	<imperfect>
+		<je>polissais</je>
+		<tu>polissais</tu>
+		<il>polissait</il>
+		<nous>polissions</nous>
+		<vous>polissiez</vous>
+		<ils>polissaient</ils>
+	</imperfect>
+	<future>
+		<je>polirai</je>
+		<tu>poliras</tu>
+		<il>polira</il>
+		<nous>polirons</nous>
+		<vous>polirez</vous>
+		<ils>poliront</ils>
+	</future>
+	<subjunctive>
+		<je>polisse</je>
+		<tu>polisses</tu>
+		<il>polisse</il>
+		<nous>polissions</nous>
+		<vous>polissiez</vous>
+		<ils>polissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>polirais</je>
+		<tu>polirais</tu>
+		<il>polirait</il>
+		<nous>polirions</nous>
+		<vous>poliriez</vous>
+		<ils>poliraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

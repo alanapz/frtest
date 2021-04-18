@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>concevoir</infinitive>
+	<translation>to conceive</translation>
+	<irregular />
+	<presentParticiple>concevant</presentParticiple>
+	<pastParticiple> conçu</pastParticiple>
+	<present>
+		<je>conçois</je>
+		<tu>conçois</tu>
+		<il>conçoit</il>
+		<nous>concevons</nous>
+		<vous>concevez</vous>
+		<ils>conçoivent</ils>
+	</present>
+	<imperative>
+		<tu>conçois</tu>
+		<nous>concevons</nous>
+		<vous>concevez</vous>
+	</imperative>
+	<imperfect>
+		<je>concevais</je>
+		<tu>concevais</tu>
+		<il>concevait</il>
+		<nous>concevions</nous>
+		<vous>conceviez</vous>
+		<ils>concevaient</ils>
+	</imperfect>
+	<future>
+		<je>concevrai</je>
+		<tu>concevras</tu>
+		<il>concevra</il>
+		<nous>concevrons</nous>
+		<vous>concevrez</vous>
+		<ils>concevront</ils>
+	</future>
+	<subjunctive>
+		<je>conçoive</je>
+		<tu>conçoives</tu>
+		<il>conçoive</il>
+		<nous>concevions</nous>
+		<vous>conceviez</vous>
+		<ils>conçoivent</ils>
+	</subjunctive>
+	<conditional>
+		<je>concevrais</je>
+		<tu>concevrais</tu>
+		<il>concevrait</il>
+		<nous>concevrions</nous>
+		<vous>concevriez</vous>
+		<ils>concevraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

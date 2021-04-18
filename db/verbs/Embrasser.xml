@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>embrasser</infinitive>
+            <translation>to kiss</translation>
+            <translation>to hug</translation>
+            <translation>to embrace</translation>
+            <transitive />
+            <presentParticiple>embrassant</presentParticiple>
+            <pastParticiple>embrassé</pastParticiple>
+            <present>
+                <je>embrasse</je>
+                <tu>embrasses</tu>
+                <il>embrasse</il>
+                <nous>embrassons</nous>
+                <vous>embrassez</vous>
+                <ils>embrassent</ils>
+            </present>
+            <imperative>
+                <tu>embrasse</tu>
+                <nous>embrassons</nous>
+                <vous>embrassez</vous>
+            </imperative>
+            <imperfect>
+                <je>embrassais</je>
+                <tu>embrassais</tu>
+                <il>embrassait</il>
+                <nous>embrassions</nous>
+                <vous>embrassiez</vous>
+                <ils>embrassaient</ils>
+            </imperfect>
+            <future>
+                <je>embrasserai</je>
+                <tu>embrasseras</tu>
+                <il>embrassera</il>
+                <nous>embrasserons</nous>
+                <vous>embrasserez</vous>
+                <ils>embrasseront</ils>
+            </future>
+            <subjunctive>
+                <je>embrasse</je>
+                <tu>embrasses</tu>
+                <il>embrasse</il>
+                <nous>embrassions</nous>
+                <vous>embrassiez</vous>
+                <ils>embrassent</ils>
+            </subjunctive>
+            <conditional>
+                <je>embrasserais</je>
+                <tu>embrasserais</tu>
+                <il>embrasserait</il>
+                <nous>embrasserions</nous>
+                <vous>embrasseriez</vous>
+                <ils>embrasseraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

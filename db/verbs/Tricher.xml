@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>tricher</infinitive>
+	<translation>to trick</translation>
+	<translation>cheat</translation>
+	<presentParticiple>trichant</presentParticiple>
+	<pastParticiple>triché</pastParticiple>
+	<present>
+		<je>triche</je>
+		<tu>triches</tu>
+		<il>triche</il>
+		<nous>trichons</nous>
+		<vous>trichez</vous>
+		<ils>trichent</ils>
+	</present>
+	<imperative>
+		<tu>triche</tu>
+		<nous>trichons</nous>
+		<vous>trichez</vous>
+	</imperative>
+	<imperfect>
+		<je>trichais</je>
+		<tu>trichais</tu>
+		<il>trichait</il>
+		<nous>trichions</nous>
+		<vous>trichiez</vous>
+		<ils>trichaient</ils>
+	</imperfect>
+	<future>
+		<je>tricherai</je>
+		<tu>tricheras</tu>
+		<il>trichera</il>
+		<nous>tricherons</nous>
+		<vous>tricherez</vous>
+		<ils>tricheront</ils>
+	</future>
+	<subjunctive>
+		<je>triche</je>
+		<tu>triches</tu>
+		<il>triche</il>
+		<nous>trichions</nous>
+		<vous>trichiez</vous>
+		<ils>trichent</ils>
+	</subjunctive>
+	<conditional>
+		<je>tricherais</je>
+		<tu>tricherais</tu>
+		<il>tricherait</il>
+		<nous>tricherions</nous>
+		<vous>tricheriez</vous>
+		<ils>tricheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>rougir</infinitive>
+            <translation>to blush</translation>
+            <translation>to turn-red</translation>
+            <presentParticiple>rougissant</presentParticiple>
+            <pastParticiple>rougi</pastParticiple>
+            <present>
+                <je>rougis</je>
+                <tu>rougis</tu>
+                <il>rougit</il>
+                <nous>rougissons</nous>
+                <vous>rougissez</vous>
+                <ils>rougissent</ils>
+            </present>
+            <imperative>
+                <tu>rougis</tu>
+                <nous>rougissons</nous>
+                <vous>rougissez</vous>
+            </imperative>
+            <imperfect>
+                <je>rougissais</je>
+                <tu>rougissais</tu>
+                <il>rougissait</il>
+                <nous>rougissions</nous>
+                <vous>rougissiez</vous>
+                <ils>rougissaient</ils>
+            </imperfect>
+            <future>
+                <je>rougirai</je>
+                <tu>rougiras</tu>
+                <il>rougira</il>
+                <nous>rougirons</nous>
+                <vous>rougirez</vous>
+                <ils>rougiront</ils>
+            </future>
+            <subjunctive>
+                <je>rougisse</je>
+                <tu>rougisses</tu>
+                <il>rougisse</il>
+                <nous>rougissions</nous>
+                <vous>rougissiez</vous>
+                <ils>rougissent</ils>
+            </subjunctive>
+            <conditional>
+                <je>rougirais</je>
+                <tu>rougirais</tu>
+                <il>rougirait</il>
+                <nous>rougirions</nous>
+                <vous>rougiriez</vous>
+                <ils>rougiraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

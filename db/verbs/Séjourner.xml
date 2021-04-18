@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>séjourner</infinitive>
+	<translation>to stay</translation>
+	<translation>sojourn</translation>
+	<presentParticiple>séjournant</presentParticiple>
+	<pastParticiple>séjourné</pastParticiple>
+	<present>
+		<je>séjourne</je>
+		<tu>séjournes</tu>
+		<il>séjourne</il>
+		<nous>séjournons</nous>
+		<vous>séjournez</vous>
+		<ils>séjournent</ils>
+	</present>
+	<imperative>
+		<tu>séjourne</tu>
+		<nous>séjournons</nous>
+		<vous>séjournez</vous>
+	</imperative>
+	<imperfect>
+		<je>séjournais</je>
+		<tu>séjournais</tu>
+		<il>séjournait</il>
+		<nous>séjournions</nous>
+		<vous>séjourniez</vous>
+		<ils>séjournaient</ils>
+	</imperfect>
+	<future>
+		<je>séjournerai</je>
+		<tu>séjourneras</tu>
+		<il>séjournera</il>
+		<nous>séjournerons</nous>
+		<vous>séjournerez</vous>
+		<ils>séjourneront</ils>
+	</future>
+	<subjunctive>
+		<je>séjourne</je>
+		<tu>séjournes</tu>
+		<il>séjourne</il>
+		<nous>séjournions</nous>
+		<vous>séjourniez</vous>
+		<ils>séjournent</ils>
+	</subjunctive>
+	<conditional>
+		<je>séjournerais</je>
+		<tu>séjournerais</tu>
+		<il>séjournerait</il>
+		<nous>séjournerions</nous>
+		<vous>séjourneriez</vous>
+		<ils>séjourneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

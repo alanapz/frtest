@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>satisfaire</infinitive>
+	<translation>to satisfy</translation>
+	<irregular />
+	<presentParticiple>satisfaisant</presentParticiple>
+	<pastParticiple>satisfait</pastParticiple>
+	<present>
+		<je>satisfais</je>
+		<tu>satisfais</tu>
+		<il>satisfait</il>
+		<nous>satisfaisons</nous>
+		<vous>satisfaites</vous>
+		<ils>satisfont</ils>
+	</present>
+	<imperative>
+		<tu>satisfais</tu>
+		<nous>satisfaisons</nous>
+		<vous>satisfaites</vous>
+	</imperative>
+	<imperfect>
+		<je>satisfaisais</je>
+		<tu>satisfaisais</tu>
+		<il>satisfaisait</il>
+		<nous>satisfaisions</nous>
+		<vous>satisfaisiez</vous>
+		<ils>satisfaisaient</ils>
+	</imperfect>
+	<future>
+		<je>satisferai</je>
+		<tu>satisferas</tu>
+		<il>satisfera</il>
+		<nous>satisferons</nous>
+		<vous>satisferez</vous>
+		<ils>satisferont</ils>
+	</future>
+	<subjunctive>
+		<je>satisfasse</je>
+		<tu>satisfasses</tu>
+		<il>satisfasse</il>
+		<nous>satisfassions</nous>
+		<vous>satisfassiez</vous>
+		<ils>satisfassent</ils>
+	</subjunctive>
+	<conditional>
+		<je>satisferais</je>
+		<tu>satisferais</tu>
+		<il>satisferait</il>
+		<nous>satisferions</nous>
+		<vous>satisferiez</vous>
+		<ils>satisferaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

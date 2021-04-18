@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>laver</infinitive>
+            <translation>to wash</translation>
+            <transitive />
+            <presentParticiple>lavant</presentParticiple>
+            <pastParticiple>lavé</pastParticiple>
+            <present>
+                <je>lave</je>
+                <tu>laves</tu>
+                <il>lave</il>
+                <nous>lavons</nous>
+                <vous>lavez</vous>
+                <ils>lavent</ils>
+            </present>
+            <imperative>
+                <tu>lave</tu>
+                <nous>lavons</nous>
+                <vous>lavez</vous>
+            </imperative>
+            <imperfect>
+                <je>lavais</je>
+                <tu>lavais</tu>
+                <il>lavait</il>
+                <nous>lavions</nous>
+                <vous>laviez</vous>
+                <ils>lavaient</ils>
+            </imperfect>
+            <future>
+                <je>laverai</je>
+                <tu>laveras</tu>
+                <il>lavera</il>
+                <nous>laverons</nous>
+                <vous>laverez</vous>
+                <ils>laveront</ils>
+            </future>
+            <subjunctive>
+                <je>lave</je>
+                <tu>laves</tu>
+                <il>lave</il>
+                <nous>lavions</nous>
+                <vous>laviez</vous>
+                <ils>lavent</ils>
+            </subjunctive>
+            <conditional>
+                <je>laverais</je>
+                <tu>laverais</tu>
+                <il>laverait</il>
+                <nous>laverions</nous>
+                <vous>laveriez</vous>
+                <ils>laveraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

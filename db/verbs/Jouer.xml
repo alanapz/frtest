@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>jouer</infinitive>
+	<translation>to play</translation>
+	<presentParticiple>jouant</presentParticiple>
+	<pastParticiple>joué</pastParticiple>
+	<present>
+		<je>joue</je>
+		<tu>joues</tu>
+		<il>joue</il>
+		<nous>jouons</nous>
+		<vous>jouez</vous>
+		<ils>jouent</ils>
+	</present>
+	<imperative>
+		<tu>joue</tu>
+		<nous>jouons</nous>
+		<vous>jouez</vous>
+	</imperative>
+	<imperfect>
+		<je>jouais</je>
+		<tu>jouais</tu>
+		<il>jouait</il>
+		<nous>jouions</nous>
+		<vous>jouiez</vous>
+		<ils>jouaient</ils>
+	</imperfect>
+	<future>
+		<je>jouerai</je>
+		<tu>joueras</tu>
+		<il>jouera</il>
+		<nous>jouerons</nous>
+		<vous>jouerez</vous>
+		<ils>joueront</ils>
+	</future>
+	<subjunctive>
+		<je>joue</je>
+		<tu>joues</tu>
+		<il>joue</il>
+		<nous>jouions</nous>
+		<vous>jouiez</vous>
+		<ils>jouent</ils>
+	</subjunctive>
+	<conditional>
+		<je>jouerais</je>
+		<tu>jouerais</tu>
+		<il>jouerait</il>
+		<nous>jouerions</nous>
+		<vous>joueriez</vous>
+		<ils>joueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>enduire</infinitive>
+	<translation>to coat</translation>
+	<irregular />
+	<presentParticiple>enduisant</presentParticiple>
+	<pastParticiple>enduit</pastParticiple>
+	<present>
+		<je>enduis</je>
+		<tu>enduis</tu>
+		<il>enduit</il>
+		<nous>enduisons</nous>
+		<vous>enduisez</vous>
+		<ils>enduisent</ils>
+	</present>
+	<imperative>
+		<tu>enduis</tu>
+		<nous>enduisons</nous>
+		<vous>enduisez</vous>
+	</imperative>
+	<imperfect>
+		<je>enduisais</je>
+		<tu>enduisais</tu>
+		<il>enduisait</il>
+		<nous>enduisions</nous>
+		<vous>enduisiez</vous>
+		<ils>enduisaient</ils>
+	</imperfect>
+	<future>
+		<je>enduirai</je>
+		<tu>enduiras</tu>
+		<il>enduira</il>
+		<nous>enduirons</nous>
+		<vous>enduirez</vous>
+		<ils>enduiront</ils>
+	</future>
+	<subjunctive>
+		<je>enduise</je>
+		<tu>enduises</tu>
+		<il>enduise</il>
+		<nous>enduisions</nous>
+		<vous>enduisiez</vous>
+		<ils>enduisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>enduirais</je>
+		<tu>enduirais</tu>
+		<il>enduirait</il>
+		<nous>enduirions</nous>
+		<vous>enduiriez</vous>
+		<ils>enduiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

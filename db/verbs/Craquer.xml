@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>craquer</infinitive>
+	<translation>to creak</translation>
+	<translation>crack</translation>
+	<translation>crunch</translation>
+	<translation>to be falling apart</translation>
+	<presentParticiple>craquant</presentParticiple>
+	<pastParticiple>craqué</pastParticiple>
+	<present>
+		<je>craque</je>
+		<tu>craques</tu>
+		<il>craque</il>
+		<nous>craquons</nous>
+		<vous>craquez</vous>
+		<ils>craquent</ils>
+	</present>
+	<imperative>
+		<tu>craque</tu>
+		<nous>craquons</nous>
+		<vous>craquez</vous>
+	</imperative>
+	<imperfect>
+		<je>craquais</je>
+		<tu>craquais</tu>
+		<il>craquait</il>
+		<nous>craquions</nous>
+		<vous>craquiez</vous>
+		<ils>craquaient</ils>
+	</imperfect>
+	<future>
+		<je>craquerai</je>
+		<tu>craqueras</tu>
+		<il>craquera</il>
+		<nous>craquerons</nous>
+		<vous>craquerez</vous>
+		<ils>craqueront</ils>
+	</future>
+	<subjunctive>
+		<je>craque</je>
+		<tu>craques</tu>
+		<il>craque</il>
+		<nous>craquions</nous>
+		<vous>craquiez</vous>
+		<ils>craquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>craquerais</je>
+		<tu>craquerais</tu>
+		<il>craquerait</il>
+		<nous>craquerions</nous>
+		<vous>craqueriez</vous>
+		<ils>craqueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

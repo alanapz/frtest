@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>narrer</infinitive>
+	<translation>to narrate</translation>
+	<presentParticiple>narrant</presentParticiple>
+	<pastParticiple>narré</pastParticiple>
+	<present>
+		<je>narre</je>
+		<tu>narres</tu>
+		<il>narre</il>
+		<nous>narrons</nous>
+		<vous>narrez</vous>
+		<ils>narrent</ils>
+	</present>
+	<imperative>
+		<tu>narre</tu>
+		<nous>narrons</nous>
+		<vous>narrez</vous>
+	</imperative>
+	<imperfect>
+		<je>narrais</je>
+		<tu>narrais</tu>
+		<il>narrait</il>
+		<nous>narrions</nous>
+		<vous>narriez</vous>
+		<ils>narraient</ils>
+	</imperfect>
+	<future>
+		<je>narrerai</je>
+		<tu>narreras</tu>
+		<il>narrera</il>
+		<nous>narrerons</nous>
+		<vous>narrerez</vous>
+		<ils>narreront</ils>
+	</future>
+	<subjunctive>
+		<je>narre</je>
+		<tu>narres</tu>
+		<il>narre</il>
+		<nous>narrions</nous>
+		<vous>narriez</vous>
+		<ils>narrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>narrerais</je>
+		<tu>narrerais</tu>
+		<il>narrerait</il>
+		<nous>narrerions</nous>
+		<vous>narreriez</vous>
+		<ils>narreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

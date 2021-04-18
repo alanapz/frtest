@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>simuler</infinitive>
+	<translation>to simulate</translation>
+	<presentParticiple>simulant</presentParticiple>
+	<pastParticiple>simulé</pastParticiple>
+	<present>
+		<je>simule</je>
+		<tu>simules</tu>
+		<il>simule</il>
+		<nous>simulons</nous>
+		<vous>simulez</vous>
+		<ils>simulent</ils>
+	</present>
+	<imperative>
+		<tu>simule</tu>
+		<nous>simulons</nous>
+		<vous>simulez</vous>
+	</imperative>
+	<imperfect>
+		<je>simulais</je>
+		<tu>simulais</tu>
+		<il>simulait</il>
+		<nous>simulions</nous>
+		<vous>simuliez</vous>
+		<ils>simulaient</ils>
+	</imperfect>
+	<future>
+		<je>simulerai</je>
+		<tu>simuleras</tu>
+		<il>simulera</il>
+		<nous>simulerons</nous>
+		<vous>simulerez</vous>
+		<ils>simuleront</ils>
+	</future>
+	<subjunctive>
+		<je>simule</je>
+		<tu>simules</tu>
+		<il>simule</il>
+		<nous>simulions</nous>
+		<vous>simuliez</vous>
+		<ils>simulent</ils>
+	</subjunctive>
+	<conditional>
+		<je>simulerais</je>
+		<tu>simulerais</tu>
+		<il>simulerait</il>
+		<nous>simulerions</nous>
+		<vous>simuleriez</vous>
+		<ils>simuleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

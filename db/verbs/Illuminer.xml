@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>illuminer</infinitive>
+	<translation>to light up</translation>
+	<translation>illuminate</translation>
+	<presentParticiple>illuminant</presentParticiple>
+	<pastParticiple>illuminé</pastParticiple>
+	<present>
+		<je>illumine</je>
+		<tu>illumines</tu>
+		<il>illumine</il>
+		<nous>illuminons</nous>
+		<vous>illuminez</vous>
+		<ils>illuminent</ils>
+	</present>
+	<imperative>
+		<tu>illumine</tu>
+		<nous>illuminons</nous>
+		<vous>illuminez</vous>
+	</imperative>
+	<imperfect>
+		<je>illuminais</je>
+		<tu>illuminais</tu>
+		<il>illuminait</il>
+		<nous>illuminions</nous>
+		<vous>illuminiez</vous>
+		<ils>illuminaient</ils>
+	</imperfect>
+	<future>
+		<je>illuminerai</je>
+		<tu>illumineras</tu>
+		<il>illuminera</il>
+		<nous>illuminerons</nous>
+		<vous>illuminerez</vous>
+		<ils>illumineront</ils>
+	</future>
+	<subjunctive>
+		<je>illumine</je>
+		<tu>illumines</tu>
+		<il>illumine</il>
+		<nous>illuminions</nous>
+		<vous>illuminiez</vous>
+		<ils>illuminent</ils>
+	</subjunctive>
+	<conditional>
+		<je>illuminerais</je>
+		<tu>illuminerais</tu>
+		<il>illuminerait</il>
+		<nous>illuminerions</nous>
+		<vous>illumineriez</vous>
+		<ils>illumineraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

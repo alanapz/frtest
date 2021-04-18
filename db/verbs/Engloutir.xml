@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>engloutir</infinitive>
+	<translation>to gobble</translation>
+	<translation>wolf down</translation>
+	<translation>to engulf</translation>
+	<presentParticiple>engloutissant</presentParticiple>
+	<pastParticiple>englouti</pastParticiple>
+	<present>
+		<je>engloutis</je>
+		<tu>engloutis</tu>
+		<il>engloutit</il>
+		<nous>engloutissons</nous>
+		<vous>engloutissez</vous>
+		<ils>engloutissent</ils>
+	</present>
+	<imperative>
+		<tu>engloutis</tu>
+		<nous>engloutissons</nous>
+		<vous>engloutissez</vous>
+	</imperative>
+	<imperfect>
+		<je>engloutissais</je>
+		<tu>engloutissais</tu>
+		<il>engloutissait</il>
+		<nous>engloutissions</nous>
+		<vous>engloutissiez</vous>
+		<ils>engloutissaient</ils>
+	</imperfect>
+	<future>
+		<je>engloutirai</je>
+		<tu>engloutiras</tu>
+		<il>engloutira</il>
+		<nous>engloutirons</nous>
+		<vous>engloutirez</vous>
+		<ils>engloutiront</ils>
+	</future>
+	<subjunctive>
+		<je>engloutisse</je>
+		<tu>engloutisses</tu>
+		<il>engloutisse</il>
+		<nous>engloutissions</nous>
+		<vous>engloutissiez</vous>
+		<ils>engloutissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>engloutirais</je>
+		<tu>engloutirais</tu>
+		<il>engloutirait</il>
+		<nous>engloutirions</nous>
+		<vous>engloutiriez</vous>
+		<ils>engloutiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

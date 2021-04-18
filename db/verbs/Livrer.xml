@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>livrer</infinitive>
+	<translation>to deliver</translation>
+	<presentParticiple>livrant</presentParticiple>
+	<pastParticiple>livré</pastParticiple>
+	<present>
+		<je>livre</je>
+		<tu>livres</tu>
+		<il>livre</il>
+		<nous>livrons</nous>
+		<vous>livrez</vous>
+		<ils>livrent</ils>
+	</present>
+	<imperative>
+		<tu>livre</tu>
+		<nous>livrons</nous>
+		<vous>livrez</vous>
+	</imperative>
+	<imperfect>
+		<je>livrais</je>
+		<tu>livrais</tu>
+		<il>livrait</il>
+		<nous>livrions</nous>
+		<vous>livriez</vous>
+		<ils>livraient</ils>
+	</imperfect>
+	<future>
+		<je>livrerai</je>
+		<tu>livreras</tu>
+		<il>livrera</il>
+		<nous>livrerons</nous>
+		<vous>livrerez</vous>
+		<ils>livreront</ils>
+	</future>
+	<subjunctive>
+		<je>livre</je>
+		<tu>livres</tu>
+		<il>livre</il>
+		<nous>livrions</nous>
+		<vous>livriez</vous>
+		<ils>livrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>livrerais</je>
+		<tu>livrerais</tu>
+		<il>livrerait</il>
+		<nous>livrerions</nous>
+		<vous>livreriez</vous>
+		<ils>livreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>pardonner</infinitive>
+	<translation>to forgive</translation>
+	<translation>pardon</translation>
+	<translation>excuse</translation>
+	<presentParticiple>pardonnant</presentParticiple>
+	<pastParticiple>pardonné</pastParticiple>
+	<present>
+		<je>pardonne</je>
+		<tu>pardonnes</tu>
+		<il>pardonne</il>
+		<nous>pardonnons</nous>
+		<vous>pardonnez</vous>
+		<ils>pardonnent</ils>
+	</present>
+	<imperative>
+		<tu>pardonne</tu>
+		<nous>pardonnons</nous>
+		<vous>pardonnez</vous>
+	</imperative>
+	<imperfect>
+		<je>pardonnais</je>
+		<tu>pardonnais</tu>
+		<il>pardonnait</il>
+		<nous>pardonnions</nous>
+		<vous>pardonniez</vous>
+		<ils>pardonnaient</ils>
+	</imperfect>
+	<future>
+		<je>pardonnerai</je>
+		<tu>pardonneras</tu>
+		<il>pardonnera</il>
+		<nous>pardonnerons</nous>
+		<vous>pardonnerez</vous>
+		<ils>pardonneront</ils>
+	</future>
+	<subjunctive>
+		<je>pardonne</je>
+		<tu>pardonnes</tu>
+		<il>pardonne</il>
+		<nous>pardonnions</nous>
+		<vous>pardonniez</vous>
+		<ils>pardonnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>pardonnerais</je>
+		<tu>pardonnerais</tu>
+		<il>pardonnerait</il>
+		<nous>pardonnerions</nous>
+		<vous>pardonneriez</vous>
+		<ils>pardonneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

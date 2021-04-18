@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>orner</infinitive>
+	<translation>to decorate</translation>
+	<translation>adorn</translation>
+	<presentParticiple>ornant</presentParticiple>
+	<pastParticiple>orné</pastParticiple>
+	<present>
+		<je>orne</je>
+		<tu>ornes</tu>
+		<il>orne</il>
+		<nous>ornons</nous>
+		<vous>ornez</vous>
+		<ils>ornent</ils>
+	</present>
+	<imperative>
+		<tu>orne</tu>
+		<nous>ornons</nous>
+		<vous>ornez</vous>
+	</imperative>
+	<imperfect>
+		<je>ornais</je>
+		<tu>ornais</tu>
+		<il>ornait</il>
+		<nous>ornions</nous>
+		<vous>orniez</vous>
+		<ils>ornaient</ils>
+	</imperfect>
+	<future>
+		<je>ornerai</je>
+		<tu>orneras</tu>
+		<il>ornera</il>
+		<nous>ornerons</nous>
+		<vous>ornerez</vous>
+		<ils>orneront</ils>
+	</future>
+	<subjunctive>
+		<je>orne</je>
+		<tu>ornes</tu>
+		<il>orne</il>
+		<nous>ornions</nous>
+		<vous>orniez</vous>
+		<ils>ornent</ils>
+	</subjunctive>
+	<conditional>
+		<je>ornerais</je>
+		<tu>ornerais</tu>
+		<il>ornerait</il>
+		<nous>ornerions</nous>
+		<vous>orneriez</vous>
+		<ils>orneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

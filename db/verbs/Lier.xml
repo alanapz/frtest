@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>lier</infinitive>
+	<translation>to link</translation>
+	<translation>bind</translation>
+	<presentParticiple>liant</presentParticiple>
+	<pastParticiple>lié</pastParticiple>
+	<present>
+		<je>lie</je>
+		<tu>lies</tu>
+		<il>lie</il>
+		<nous>lions</nous>
+		<vous>liez</vous>
+		<ils>lient</ils>
+	</present>
+	<imperative>
+		<tu>lie</tu>
+		<nous>lions</nous>
+		<vous>liez</vous>
+	</imperative>
+	<imperfect>
+		<je>liais</je>
+		<tu>liais</tu>
+		<il>liait</il>
+		<nous>liions</nous>
+		<vous>liiez</vous>
+		<ils>liaient</ils>
+	</imperfect>
+	<future>
+		<je>lierai</je>
+		<tu>lieras</tu>
+		<il>liera</il>
+		<nous>lierons</nous>
+		<vous>lierez</vous>
+		<ils>lieront</ils>
+	</future>
+	<subjunctive>
+		<je>lie</je>
+		<tu>lies</tu>
+		<il>lie</il>
+		<nous>liions</nous>
+		<vous>liiez</vous>
+		<ils>lient</ils>
+	</subjunctive>
+	<conditional>
+		<je>lierais</je>
+		<tu>lierais</tu>
+		<il>lierait</il>
+		<nous>lierions</nous>
+		<vous>lieriez</vous>
+		<ils>lieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

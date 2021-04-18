@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>toucher</infinitive>
+	<translation>to affect</translation>
+	<translation>to touch</translation>
+	<presentParticiple>touchant</presentParticiple>
+	<pastParticiple>touché</pastParticiple>
+	<present>
+		<je>touche</je>
+		<tu>touches</tu>
+		<il>touche</il>
+		<nous>touchons</nous>
+		<vous>touchez</vous>
+		<ils>touchent</ils>
+	</present>
+	<imperative>
+		<tu>touche</tu>
+		<nous>touchons</nous>
+		<vous>touchez</vous>
+	</imperative>
+	<imperfect>
+		<je>touchais</je>
+		<tu>touchais</tu>
+		<il>touchait</il>
+		<nous>touchions</nous>
+		<vous>touchiez</vous>
+		<ils>touchaient</ils>
+	</imperfect>
+	<future>
+		<je>toucherai</je>
+		<tu>toucheras</tu>
+		<il>touchera</il>
+		<nous>toucherons</nous>
+		<vous>toucherez</vous>
+		<ils>toucheront</ils>
+	</future>
+	<subjunctive>
+		<je>touche</je>
+		<tu>touches</tu>
+		<il>touche</il>
+		<nous>touchions</nous>
+		<vous>touchiez</vous>
+		<ils>touchent</ils>
+	</subjunctive>
+	<conditional>
+		<je>toucherais</je>
+		<tu>toucherais</tu>
+		<il>toucherait</il>
+		<nous>toucherions</nous>
+		<vous>toucheriez</vous>
+		<ils>toucheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

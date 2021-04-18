@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>contredire</infinitive>
+	<translation>to contradict</translation>
+	<irregular />
+	<presentParticiple>contredisant</presentParticiple>
+	<pastParticiple>contredit</pastParticiple>
+	<present>
+		<je>contredis</je>
+		<tu>contredis</tu>
+		<il>contredit</il>
+		<nous>contredisons</nous>
+		<vous>contredisez</vous>
+		<ils>contredisent</ils>
+	</present>
+	<imperative>
+		<tu>contredis</tu>
+		<nous>contredisons</nous>
+		<vous>contredisez</vous>
+	</imperative>
+	<imperfect>
+		<je>contredisais</je>
+		<tu>contredisais</tu>
+		<il>contredisait</il>
+		<nous>contredisions</nous>
+		<vous>contredisiez</vous>
+		<ils>contredisaient</ils>
+	</imperfect>
+	<future>
+		<je>contredirai</je>
+		<tu>contrediras</tu>
+		<il>contredira</il>
+		<nous>contredirons</nous>
+		<vous>contredirez</vous>
+		<ils>contrediront</ils>
+	</future>
+	<subjunctive>
+		<je>contredise</je>
+		<tu>contredises</tu>
+		<il>contredise</il>
+		<nous>contredisions</nous>
+		<vous>contredisiez</vous>
+		<ils>contredisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>contredirais</je>
+		<tu>contredirais</tu>
+		<il>contredirait</il>
+		<nous>contredirions</nous>
+		<vous>contrediriez</vous>
+		<ils>contrediraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

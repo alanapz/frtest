@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>baigner</infinitive>
+            <translation>to bathe</translation>
+            <transitive />
+            <presentParticiple>baignant</presentParticiple>
+            <pastParticiple>baigné</pastParticiple>
+            <present>
+                <je>baigne</je>
+                <tu>baignes</tu>
+                <il>baigne</il>
+                <nous>baignons</nous>
+                <vous>baignez</vous>
+                <ils>baignent</ils>
+            </present>
+            <imperative>
+                <tu>baigne</tu>
+                <nous>baignons</nous>
+                <vous>baignez</vous>
+            </imperative>
+            <imperfect>
+                <je>baignais</je>
+                <tu>baignais</tu>
+                <il>baignait</il>
+                <nous>baignions</nous>
+                <vous>baigniez</vous>
+                <ils>baignaient</ils>
+            </imperfect>
+            <future>
+                <je>baignerai</je>
+                <tu>baigneras</tu>
+                <il>baignera</il>
+                <nous>baignerons</nous>
+                <vous>baignerez</vous>
+                <ils>baigneront</ils>
+            </future>
+            <subjunctive>
+                <je>baigne</je>
+                <tu>baignes</tu>
+                <il>baigne</il>
+                <nous>baignions</nous>
+                <vous>baigniez</vous>
+                <ils>baignent</ils>
+            </subjunctive>
+            <conditional>
+                <je>baignerais</je>
+                <tu>baignerais</tu>
+                <il>baignerait</il>
+                <nous>baignerions</nous>
+                <vous>baigneriez</vous>
+                <ils>baigneraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

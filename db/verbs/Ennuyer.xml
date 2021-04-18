@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>ennuyer</infinitive>
+            <translation>to bore</translation>
+            <transitive />
+            <presentParticiple>ennuyant</presentParticiple>
+            <pastParticiple>ennuyé</pastParticiple>
+            <present>
+                <je>ennuie</je>
+                <tu>ennuies</tu>
+                <il>ennuie</il>
+                <nous>ennuyons</nous>
+                <vous>ennuyez</vous>
+                <ils>ennuient</ils>
+            </present>
+            <imperative>
+                <tu>ennuie</tu>
+                <nous>ennuyons</nous>
+                <vous>ennuyez</vous>
+            </imperative>
+            <imperfect>
+                <je>ennuyais</je>
+                <tu>ennuyais</tu>
+                <il>ennuyait</il>
+                <nous>ennuyions</nous>
+                <vous>ennuyiez</vous>
+                <ils>ennuyaient</ils>
+            </imperfect>
+            <future>
+                <je>ennuierai</je>
+                <tu>ennuieras</tu>
+                <il>ennuiera</il>
+                <nous>ennuierons</nous>
+                <vous>ennuierez</vous>
+                <ils>ennuieront</ils>
+            </future>
+            <subjunctive>
+                <je>ennuie</je>
+                <tu>ennuies</tu>
+                <il>ennuie</il>
+                <nous>ennuyions</nous>
+                <vous>ennuyiez</vous>
+                <ils>ennuient</ils>
+            </subjunctive>
+            <conditional>
+                <je>ennuierais</je>
+                <tu>ennuierais</tu>
+                <il>ennuierait</il>
+                <nous>ennuierions</nous>
+                <vous>ennuieriez</vous>
+                <ils>ennuieraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

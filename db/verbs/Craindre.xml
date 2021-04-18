@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>craindre</infinitive>
+	<translation>to fear</translation>
+	<irregular />
+	<presentParticiple>craignant</presentParticiple>
+	<pastParticiple>craint</pastParticiple>
+	<present>
+		<je>crains</je>
+		<tu>crains</tu>
+		<il>craint</il>
+		<nous>craignons</nous>
+		<vous>craignez</vous>
+		<ils>craignent</ils>
+	</present>
+	<imperative>
+		<tu>crains</tu>
+		<nous>craignons</nous>
+		<vous>craignez</vous>
+	</imperative>
+	<imperfect>
+		<je>craignais</je>
+		<tu>craignais</tu>
+		<il>craignait</il>
+		<nous>craignions</nous>
+		<vous>craigniez</vous>
+		<ils>craignaient</ils>
+	</imperfect>
+	<future>
+		<je>craindrai</je>
+		<tu>craindras</tu>
+		<il>craindra</il>
+		<nous>craindrons</nous>
+		<vous>craindrez</vous>
+		<ils>craindront</ils>
+	</future>
+	<subjunctive>
+		<je>craigne</je>
+		<tu>craignes</tu>
+		<il>craigne</il>
+		<nous>craignions</nous>
+		<vous>craigniez</vous>
+		<ils>craignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>craindrais</je>
+		<tu>craindrais</tu>
+		<il>craindrait</il>
+		<nous>craindrions</nous>
+		<vous>craindriez</vous>
+		<ils>craindraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

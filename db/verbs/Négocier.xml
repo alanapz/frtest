@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>négocier</infinitive>
+	<translation>to negotiate</translation>
+	<presentParticiple>négociant</presentParticiple>
+	<pastParticiple>négocié</pastParticiple>
+	<present>
+		<je>négocie</je>
+		<tu>négocies</tu>
+		<il>négocie</il>
+		<nous>négocions</nous>
+		<vous>négociez</vous>
+		<ils>négocient</ils>
+	</present>
+	<imperative>
+		<tu>négocie</tu>
+		<nous>négocions</nous>
+		<vous>négociez</vous>
+	</imperative>
+	<imperfect>
+		<je>négociais</je>
+		<tu>négociais</tu>
+		<il>négociait</il>
+		<nous>négociions</nous>
+		<vous>négociiez</vous>
+		<ils>négociaient</ils>
+	</imperfect>
+	<future>
+		<je>négocierai</je>
+		<tu>négocieras</tu>
+		<il>négociera</il>
+		<nous>négocierons</nous>
+		<vous>négocierez</vous>
+		<ils>négocieront</ils>
+	</future>
+	<subjunctive>
+		<je>négocie</je>
+		<tu>négocies</tu>
+		<il>négocie</il>
+		<nous>négociions</nous>
+		<vous>négociiez</vous>
+		<ils>négocient</ils>
+	</subjunctive>
+	<conditional>
+		<je>négocierais</je>
+		<tu>négocierais</tu>
+		<il>négocierait</il>
+		<nous>négocierions</nous>
+		<vous>négocieriez</vous>
+		<ils>négocieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

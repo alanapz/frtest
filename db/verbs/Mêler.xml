@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>mêler</infinitive>
+	<translation>to mix</translation>
+	<translation>mingle</translation>
+	<translation>muddle</translation>
+	<presentParticiple>mêlant</presentParticiple>
+	<pastParticiple>mêlé</pastParticiple>
+	<present>
+		<je>mêle</je>
+		<tu>mêles</tu>
+		<il>mêle</il>
+		<nous>mêlons</nous>
+		<vous>mêlez</vous>
+		<ils>mêlent</ils>
+	</present>
+	<imperative>
+		<tu>mêle</tu>
+		<nous>mêlons</nous>
+		<vous>mêlez</vous>
+	</imperative>
+	<imperfect>
+		<je>mêlais</je>
+		<tu>mêlais</tu>
+		<il>mêlait</il>
+		<nous>mêlions</nous>
+		<vous>mêliez</vous>
+		<ils>mêlaient</ils>
+	</imperfect>
+	<future>
+		<je>mêlerai</je>
+		<tu>mêleras</tu>
+		<il>mêlera</il>
+		<nous>mêlerons</nous>
+		<vous>mêlerez</vous>
+		<ils>mêleront</ils>
+	</future>
+	<subjunctive>
+		<je>mêle</je>
+		<tu>mêles</tu>
+		<il>mêle</il>
+		<nous>mêlions</nous>
+		<vous>mêliez</vous>
+		<ils>mêlent</ils>
+	</subjunctive>
+	<conditional>
+		<je>mêlerais</je>
+		<tu>mêlerais</tu>
+		<il>mêlerait</il>
+		<nous>mêlerions</nous>
+		<vous>mêleriez</vous>
+		<ils>mêleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

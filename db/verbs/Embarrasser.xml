@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>embarrasser</infinitive>
+            <translation>to clutter</translation>
+            <translation>hinder</translation>
+            <translation>hamper</translation>
+            <translation>bother</translation>
+            <presentParticiple>embarrassant</presentParticiple>
+            <pastParticiple>embarrassé</pastParticiple>
+            <present>
+                <je>embarrasse</je>
+                <tu>embarrasses</tu>
+                <il>embarrasse</il>
+                <nous>embarrassons</nous>
+                <vous>embarrassez</vous>
+                <ils>embarrassent</ils>
+            </present>
+            <imperative>
+                <tu>embarrasse</tu>
+                <nous>embarrassons</nous>
+                <vous>embarrassez</vous>
+            </imperative>
+            <imperfect>
+                <je>embarrassais</je>
+                <tu>embarrassais</tu>
+                <il>embarrassait</il>
+                <nous>embarrassions</nous>
+                <vous>embarrassiez</vous>
+                <ils>embarrassaient</ils>
+            </imperfect>
+            <future>
+                <je>embarrasserai</je>
+                <tu>embarrasseras</tu>
+                <il>embarrassera</il>
+                <nous>embarrasserons</nous>
+                <vous>embarrasserez</vous>
+                <ils>embarrasseront</ils>
+            </future>
+            <subjunctive>
+                <je>embarrasse</je>
+                <tu>embarrasses</tu>
+                <il>embarrasse</il>
+                <nous>embarrassions</nous>
+                <vous>embarrassiez</vous>
+                <ils>embarrassent</ils>
+            </subjunctive>
+            <conditional>
+                <je>embarrasserais</je>
+                <tu>embarrasserais</tu>
+                <il>embarrasserait</il>
+                <nous>embarrasserions</nous>
+                <vous>embarrasseriez</vous>
+                <ils>embarrasseraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

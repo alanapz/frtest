@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>cloîtrer</infinitive>
+	<translation>to shut away</translation>
+	<translation>cloister</translation>
+	<presentParticiple>cloîtrant</presentParticiple>
+	<pastParticiple>cloîtré</pastParticiple>
+	<present>
+		<je>cloître</je>
+		<tu>cloîtres</tu>
+		<il>cloître</il>
+		<nous>cloîtrons</nous>
+		<vous>cloîtrez</vous>
+		<ils>cloîtrent</ils>
+	</present>
+	<imperative>
+		<tu>cloître</tu>
+		<nous>cloîtrons</nous>
+		<vous>cloîtrez</vous>
+	</imperative>
+	<imperfect>
+		<je>cloîtrais</je>
+		<tu>cloîtrais</tu>
+		<il>cloîtrait</il>
+		<nous>cloîtrions</nous>
+		<vous>cloîtriez</vous>
+		<ils>cloîtraient</ils>
+	</imperfect>
+	<future>
+		<je>cloîtrerai</je>
+		<tu>cloîtreras</tu>
+		<il>cloîtrera</il>
+		<nous>cloîtrerons</nous>
+		<vous>cloîtrerez</vous>
+		<ils>cloîtreront</ils>
+	</future>
+	<subjunctive>
+		<je>cloître</je>
+		<tu>cloîtres</tu>
+		<il>cloître</il>
+		<nous>cloîtrions</nous>
+		<vous>cloîtriez</vous>
+		<ils>cloîtrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>cloîtrerais</je>
+		<tu>cloîtrerais</tu>
+		<il>cloîtrerait</il>
+		<nous>cloîtrerions</nous>
+		<vous>cloîtreriez</vous>
+		<ils>cloîtreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

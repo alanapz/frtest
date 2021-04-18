@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>blaguer</infinitive>
+            <translation>to joke</translation>
+            <presentParticiple>blaguant</presentParticiple>
+            <pastParticiple>blagué</pastParticiple>
+            <present>
+                <je>blague</je>
+                <tu>blagues</tu>
+                <il>blague</il>
+                <nous>blaguons</nous>
+                <vous>blaguez</vous>
+                <ils>blaguent</ils>
+            </present>
+            <imperative>
+                <tu>blague</tu>
+                <nous>blaguons</nous>
+                <vous>blaguez</vous>
+            </imperative>
+            <imperfect>
+                <je>blaguais</je>
+                <tu>blaguais</tu>
+                <il>blaguait</il>
+                <nous>blaguions</nous>
+                <vous>blaguiez</vous>
+                <ils>blaguaient</ils>
+            </imperfect>
+            <future>
+                <je>blaguerai</je>
+                <tu>blagueras</tu>
+                <il>blaguera</il>
+                <nous>blaguerons</nous>
+                <vous>blaguerez</vous>
+                <ils>blagueront</ils>
+            </future>
+            <subjunctive>
+                <je>blague</je>
+                <tu>blagues</tu>
+                <il>blague</il>
+                <nous>blaguions</nous>
+                <vous>blaguiez</vous>
+                <ils>blaguent</ils>
+            </subjunctive>
+            <conditional>
+                <je>blaguerais</je>
+                <tu>blaguerais</tu>
+                <il>blaguerait</il>
+                <nous>blaguerions</nous>
+                <vous>blagueriez</vous>
+                <ils>blagueraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

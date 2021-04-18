@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>orienter</infinitive>
+	<translation>to orient</translation>
+	<translation>to position</translation>
+	<presentParticiple>orientant</presentParticiple>
+	<pastParticiple>orienté</pastParticiple>
+	<present>
+		<je>oriente</je>
+		<tu>orientes</tu>
+		<il>oriente</il>
+		<nous>orientons</nous>
+		<vous>orientez</vous>
+		<ils>orientent</ils>
+	</present>
+	<imperative>
+		<tu>oriente</tu>
+		<nous>orientons</nous>
+		<vous>orientez</vous>
+	</imperative>
+	<imperfect>
+		<je>orientais</je>
+		<tu>orientais</tu>
+		<il>orientait</il>
+		<nous>orientions</nous>
+		<vous>orientiez</vous>
+		<ils>orientaient</ils>
+	</imperfect>
+	<future>
+		<je>orienterai</je>
+		<tu>orienteras</tu>
+		<il>orientera</il>
+		<nous>orienterons</nous>
+		<vous>orienterez</vous>
+		<ils>orienteront</ils>
+	</future>
+	<subjunctive>
+		<je>oriente</je>
+		<tu>orientes</tu>
+		<il>oriente</il>
+		<nous>orientions</nous>
+		<vous>orientiez</vous>
+		<ils>orientent</ils>
+	</subjunctive>
+	<conditional>
+		<je>orienterais</je>
+		<tu>orienterais</tu>
+		<il>orienterait</il>
+		<nous>orienterions</nous>
+		<vous>orienteriez</vous>
+		<ils>orienteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

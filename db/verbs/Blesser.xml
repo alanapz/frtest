@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>blesser</infinitive>
+	<translation>to hurt</translation>
+	<translation>offend</translation>
+	<presentParticiple>blessant</presentParticiple>
+	<pastParticiple>blessé</pastParticiple>
+	<present>
+		<je>blesse</je>
+		<tu>blesses</tu>
+		<il>blesse</il>
+		<nous>blessons</nous>
+		<vous>blessez</vous>
+		<ils>blessent</ils>
+	</present>
+	<imperative>
+		<tu>blesse</tu>
+		<nous>blessons</nous>
+		<vous>blessez</vous>
+	</imperative>
+	<imperfect>
+		<je>blessais</je>
+		<tu>blessais</tu>
+		<il>blessait</il>
+		<nous>blessions</nous>
+		<vous>blessiez</vous>
+		<ils>blessaient</ils>
+	</imperfect>
+	<future>
+		<je>blesserai</je>
+		<tu>blesseras</tu>
+		<il>blessera</il>
+		<nous>blesserons</nous>
+		<vous>blesserez</vous>
+		<ils>blesseront</ils>
+	</future>
+	<subjunctive>
+		<je>blesse</je>
+		<tu>blesses</tu>
+		<il>blesse</il>
+		<nous>blessions</nous>
+		<vous>blessiez</vous>
+		<ils>blessent</ils>
+	</subjunctive>
+	<conditional>
+		<je>blesserais</je>
+		<tu>blesserais</tu>
+		<il>blesserait</il>
+		<nous>blesserions</nous>
+		<vous>blesseriez</vous>
+		<ils>blesseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

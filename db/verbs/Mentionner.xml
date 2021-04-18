@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>mentionner</infinitive>
+	<translation>to mention</translation>
+	<presentParticiple>mentionnant</presentParticiple>
+	<pastParticiple>mentionné</pastParticiple>
+	<present>
+		<je>mentionne</je>
+		<tu>mentionnes</tu>
+		<il>mentionne</il>
+		<nous>mentionnons</nous>
+		<vous>mentionnez</vous>
+		<ils>mentionnent</ils>
+	</present>
+	<imperative>
+		<tu>mentionne</tu>
+		<nous>mentionnons</nous>
+		<vous>mentionnez</vous>
+	</imperative>
+	<imperfect>
+		<je>mentionnais</je>
+		<tu>mentionnais</tu>
+		<il>mentionnait</il>
+		<nous>mentionnions</nous>
+		<vous>mentionniez</vous>
+		<ils>mentionnaient</ils>
+	</imperfect>
+	<future>
+		<je>mentionnerai</je>
+		<tu>mentionneras</tu>
+		<il>mentionnera</il>
+		<nous>mentionnerons</nous>
+		<vous>mentionnerez</vous>
+		<ils>mentionneront</ils>
+	</future>
+	<subjunctive>
+		<je>mentionne</je>
+		<tu>mentionnes</tu>
+		<il>mentionne</il>
+		<nous>mentionnions</nous>
+		<vous>mentionniez</vous>
+		<ils>mentionnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>mentionnerais</je>
+		<tu>mentionnerais</tu>
+		<il>mentionnerait</il>
+		<nous>mentionnerions</nous>
+		<vous>mentionneriez</vous>
+		<ils>mentionneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

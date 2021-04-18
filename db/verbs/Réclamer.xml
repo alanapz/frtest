@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>réclamer</infinitive>
+	<translation>to ask for</translation>
+	<translation>to claim</translation>
+	<translation>demand</translation>
+	<translation>to complain</translation>
+	<presentParticiple>réclamant</presentParticiple>
+	<pastParticiple>réclamé</pastParticiple>
+	<present>
+		<je>réclame</je>
+		<tu>réclames</tu>
+		<il>réclame</il>
+		<nous>réclamons</nous>
+		<vous>réclamez</vous>
+		<ils>réclament</ils>
+	</present>
+	<imperative>
+		<tu>réclame</tu>
+		<nous>réclamons</nous>
+		<vous>réclamez</vous>
+	</imperative>
+	<imperfect>
+		<je>réclamais</je>
+		<tu>réclamais</tu>
+		<il>réclamait</il>
+		<nous>réclamions</nous>
+		<vous>réclamiez</vous>
+		<ils>réclamaient</ils>
+	</imperfect>
+	<future>
+		<je>réclamerai</je>
+		<tu>réclameras</tu>
+		<il>réclamera</il>
+		<nous>réclamerons</nous>
+		<vous>réclamerez</vous>
+		<ils>réclameront</ils>
+	</future>
+	<subjunctive>
+		<je>réclame</je>
+		<tu>réclames</tu>
+		<il>réclame</il>
+		<nous>réclamions</nous>
+		<vous>réclamiez</vous>
+		<ils>réclament</ils>
+	</subjunctive>
+	<conditional>
+		<je>réclamerais</je>
+		<tu>réclamerais</tu>
+		<il>réclamerait</il>
+		<nous>réclamerions</nous>
+		<vous>réclameriez</vous>
+		<ils>réclameraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

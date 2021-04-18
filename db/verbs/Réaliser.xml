@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>réaliser</infinitive>
+	<translation>to achieve</translation>
+	<translation>fulfill</translation>
+	<translation>to realize</translation>
+	<presentParticiple>réalisant</presentParticiple>
+	<pastParticiple>réalisé</pastParticiple>
+	<present>
+		<je>réalise</je>
+		<tu>réalises</tu>
+		<il>réalise</il>
+		<nous>réalisons</nous>
+		<vous>réalisez</vous>
+		<ils>réalisent</ils>
+	</present>
+	<imperative>
+		<tu>réalise</tu>
+		<nous>réalisons</nous>
+		<vous>réalisez</vous>
+	</imperative>
+	<imperfect>
+		<je>réalisais</je>
+		<tu>réalisais</tu>
+		<il>réalisait</il>
+		<nous>réalisions</nous>
+		<vous>réalisiez</vous>
+		<ils>réalisaient</ils>
+	</imperfect>
+	<future>
+		<je>réaliserai</je>
+		<tu>réaliseras</tu>
+		<il>réalisera</il>
+		<nous>réaliserons</nous>
+		<vous>réaliserez</vous>
+		<ils>réaliseront</ils>
+	</future>
+	<subjunctive>
+		<je>réalise</je>
+		<tu>réalises</tu>
+		<il>réalise</il>
+		<nous>réalisions</nous>
+		<vous>réalisiez</vous>
+		<ils>réalisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>réaliserais</je>
+		<tu>réaliserais</tu>
+		<il>réaliserait</il>
+		<nous>réaliserions</nous>
+		<vous>réaliseriez</vous>
+		<ils>réaliseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

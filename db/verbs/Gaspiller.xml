@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>gaspiller</infinitive>
+            <translation>to waste</translation>
+            <presentParticiple>gaspillant</presentParticiple>
+            <pastParticiple>gaspillé</pastParticiple>
+            <present>
+                <je>gaspille</je>
+                <tu>gaspilles</tu>
+                <il>gaspille</il>
+                <nous>gaspillons</nous>
+                <vous>gaspillez</vous>
+                <ils>gaspillent</ils>
+            </present>
+            <imperative>
+                <tu>gaspille</tu>
+                <nous>gaspillons</nous>
+                <vous>gaspillez</vous>
+            </imperative>
+            <imperfect>
+                <je>gaspillais</je>
+                <tu>gaspillais</tu>
+                <il>gaspillait</il>
+                <nous>gaspillions</nous>
+                <vous>gaspilliez</vous>
+                <ils>gaspillaient</ils>
+            </imperfect>
+            <future>
+                <je>gaspillerai</je>
+                <tu>gaspilleras</tu>
+                <il>gaspillera</il>
+                <nous>gaspillerons</nous>
+                <vous>gaspillerez</vous>
+                <ils>gaspilleront</ils>
+            </future>
+            <subjunctive>
+                <je>gaspille</je>
+                <tu>gaspilles</tu>
+                <il>gaspille</il>
+                <nous>gaspillions</nous>
+                <vous>gaspilliez</vous>
+                <ils>gaspillent</ils>
+            </subjunctive>
+            <conditional>
+                <je>gaspillerais</je>
+                <tu>gaspillerais</tu>
+                <il>gaspillerait</il>
+                <nous>gaspillerions</nous>
+                <vous>gaspilleriez</vous>
+                <ils>gaspilleraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

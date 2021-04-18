@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>demander</infinitive>
+            <translation>to ask</translation>
+            <presentParticiple>demandant</presentParticiple>
+            <pastParticiple>demandé</pastParticiple>
+            <pronominal>
+                <translation>to wonder</translation>
+            </pronominal>
+            <present>
+                <je>demande</je>
+                <tu>demandes</tu>
+                <il>demande</il>
+                <nous>demandons</nous>
+                <vous>demandez</vous>
+                <ils>demandent</ils>
+            </present>
+            <imperative>
+                <tu>demande</tu>
+                <nous>demandons</nous>
+                <vous>demandez</vous>
+            </imperative>
+            <imperfect>
+                <je>demandais</je>
+                <tu>demandais</tu>
+                <il>demandait</il>
+                <nous>demandions</nous>
+                <vous>demandiez</vous>
+                <ils>demandaient</ils>
+            </imperfect>
+            <future>
+                <je>demanderai</je>
+                <tu>demanderas</tu>
+                <il>demandera</il>
+                <nous>demanderons</nous>
+                <vous>demanderez</vous>
+                <ils>demanderont</ils>
+            </future>
+            <subjunctive>
+                <je>demande</je>
+                <tu>demandes</tu>
+                <il>demande</il>
+                <nous>demandions</nous>
+                <vous>demandiez</vous>
+                <ils>demandent</ils>
+            </subjunctive>
+            <conditional>
+                <je>demanderais</je>
+                <tu>demanderais</tu>
+                <il>demanderait</il>
+                <nous>demanderions</nous>
+                <vous>demanderiez</vous>
+                <ils>demanderaient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

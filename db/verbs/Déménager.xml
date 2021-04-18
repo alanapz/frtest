@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>déménager</infinitive>
+	<translation>to move (house)</translation>
+	<spellingChange />
+	<presentParticiple>déménageant</presentParticiple>
+	<pastParticiple>déménagé</pastParticiple>
+	<present>
+		<je>déménage</je>
+		<tu>déménages</tu>
+		<il>déménage</il>
+		<nous>déménageons</nous>
+		<vous>déménagez</vous>
+		<ils>déménagent</ils>
+	</present>
+	<imperative>
+		<tu>déménage</tu>
+		<nous>déménageons</nous>
+		<vous>déménagez</vous>
+	</imperative>
+	<imperfect>
+		<je>déménageais</je>
+		<tu>déménageais</tu>
+		<il>déménageait</il>
+		<nous>déménagions</nous>
+		<vous>déménagiez</vous>
+		<ils>déménageaient</ils>
+	</imperfect>
+	<future>
+		<je>déménagerai</je>
+		<tu>déménageras</tu>
+		<il>déménagera</il>
+		<nous>déménagerons</nous>
+		<vous>déménagerez</vous>
+		<ils>déménageront</ils>
+	</future>
+	<subjunctive>
+		<je>déménage</je>
+		<tu>déménages</tu>
+		<il>déménage</il>
+		<nous>déménagions</nous>
+		<vous>déménagiez</vous>
+		<ils>déménagent</ils>
+	</subjunctive>
+	<conditional>
+		<je>déménagerais</je>
+		<tu>déménagerais</tu>
+		<il>déménagerait</il>
+		<nous>déménagerions</nous>
+		<vous>déménageriez</vous>
+		<ils>déménageraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

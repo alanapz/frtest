@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>mandater</infinitive>
+	<translation>to appoint</translation>
+	<translation>commision</translation>
+	<presentParticiple>mandatant</presentParticiple>
+	<pastParticiple>mandaté</pastParticiple>
+	<present>
+		<je>mandate</je>
+		<tu>mandates</tu>
+		<il>mandate</il>
+		<nous>mandatons</nous>
+		<vous>mandatez</vous>
+		<ils>mandatent</ils>
+	</present>
+	<imperative>
+		<tu>mandate</tu>
+		<nous>mandatons</nous>
+		<vous>mandatez</vous>
+	</imperative>
+	<imperfect>
+		<je>mandatais</je>
+		<tu>mandatais</tu>
+		<il>mandatait</il>
+		<nous>mandations</nous>
+		<vous>mandatiez</vous>
+		<ils>mandataient</ils>
+	</imperfect>
+	<future>
+		<je>mandaterai</je>
+		<tu>mandateras</tu>
+		<il>mandatera</il>
+		<nous>mandaterons</nous>
+		<vous>mandaterez</vous>
+		<ils>mandateront</ils>
+	</future>
+	<subjunctive>
+		<je>mandate</je>
+		<tu>mandates</tu>
+		<il>mandate</il>
+		<nous>mandations</nous>
+		<vous>mandatiez</vous>
+		<ils>mandatent</ils>
+	</subjunctive>
+	<conditional>
+		<je>mandaterais</je>
+		<tu>mandaterais</tu>
+		<il>mandaterait</il>
+		<nous>mandaterions</nous>
+		<vous>mandateriez</vous>
+		<ils>mandateraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>ôter</infinitive>
+	<translation>to remove</translation>
+	<translation>take away</translation>
+	<presentParticiple>ôtant</presentParticiple>
+	<pastParticiple>ôté</pastParticiple>
+	<present>
+		<je>ôte</je>
+		<tu>ôtes</tu>
+		<il>ôte</il>
+		<nous>ôtons</nous>
+		<vous>ôtez</vous>
+		<ils>ôtent</ils>
+	</present>
+	<imperative>
+		<tu>ôte</tu>
+		<nous>ôtons</nous>
+		<vous>ôtez</vous>
+	</imperative>
+	<imperfect>
+		<je>ôtais</je>
+		<tu>ôtais</tu>
+		<il>ôtait</il>
+		<nous>ôtions</nous>
+		<vous>ôtiez</vous>
+		<ils>ôtaient</ils>
+	</imperfect>
+	<future>
+		<je>ôterai</je>
+		<tu>ôteras</tu>
+		<il>ôtera</il>
+		<nous>ôterons</nous>
+		<vous>ôterez</vous>
+		<ils>ôteront</ils>
+	</future>
+	<subjunctive>
+		<je>ôte</je>
+		<tu>ôtes</tu>
+		<il>ôte</il>
+		<nous>ôtions</nous>
+		<vous>ôtiez</vous>
+		<ils>ôtent</ils>
+	</subjunctive>
+	<conditional>
+		<je>ôterais</je>
+		<tu>ôterais</tu>
+		<il>ôterait</il>
+		<nous>ôterions</nous>
+		<vous>ôteriez</vous>
+		<ils>ôteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

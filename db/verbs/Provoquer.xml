@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>provoquer</infinitive>
+	<translation>to provoke</translation>
+	<presentParticiple>provoquant</presentParticiple>
+	<pastParticiple>provoqué</pastParticiple>
+	<present>
+		<je>provoque</je>
+		<tu>provoques</tu>
+		<il>provoque</il>
+		<nous>provoquons</nous>
+		<vous>provoquez</vous>
+		<ils>provoquent</ils>
+	</present>
+	<imperative>
+		<tu>provoque</tu>
+		<nous>provoquons</nous>
+		<vous>provoquez</vous>
+	</imperative>
+	<imperfect>
+		<je>provoquais</je>
+		<tu>provoquais</tu>
+		<il>provoquait</il>
+		<nous>provoquions</nous>
+		<vous>provoquiez</vous>
+		<ils>provoquaient</ils>
+	</imperfect>
+	<future>
+		<je>provoquerai</je>
+		<tu>provoqueras</tu>
+		<il>provoquera</il>
+		<nous>provoquerons</nous>
+		<vous>provoquerez</vous>
+		<ils>provoqueront</ils>
+	</future>
+	<subjunctive>
+		<je>provoque</je>
+		<tu>provoques</tu>
+		<il>provoque</il>
+		<nous>provoquions</nous>
+		<vous>provoquiez</vous>
+		<ils>provoquent</ils>
+	</subjunctive>
+	<conditional>
+		<je>provoquerais</je>
+		<tu>provoquerais</tu>
+		<il>provoquerait</il>
+		<nous>provoquerions</nous>
+		<vous>provoqueriez</vous>
+		<ils>provoqueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

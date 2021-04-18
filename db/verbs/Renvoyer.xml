@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>renvoyer</infinitive>
+            <translation>to dismiss</translation>
+            <irregular />
+            <presentParticiple>renvoyant</presentParticiple>
+            <pastParticiple>renvoyé</pastParticiple>
+            <present>
+                <je>renvoie</je>
+                <tu>renvoies</tu>
+                <il>renvoie</il>
+                <nous>renvoyons</nous>
+                <vous>renvoyez</vous>
+                <ils>renvoient</ils>
+            </present>
+            <imperative>
+                <tu>renvoie</tu>
+                <nous>renvoyons</nous>
+                <vous>renvoyez</vous>
+            </imperative>
+            <imperfect>
+                <je>renvoyais</je>
+                <tu>renvoyais</tu>
+                <il>renvoyait</il>
+                <nous>renvoyions</nous>
+                <vous>renvoyiez</vous>
+                <ils>renvoyaient</ils>
+            </imperfect>
+            <future>
+                <je>renverrai</je>
+                <tu>renverras</tu>
+                <il>renverra</il>
+                <nous>renverrons</nous>
+                <vous>renverrez</vous>
+                <ils>renverront</ils>
+            </future>
+            <subjunctive>
+                <je>renvoie</je>
+                <tu>renvoies</tu>
+                <il>renvoie</il>
+                <nous>renvoyions</nous>
+                <vous>renvoyiez</vous>
+                <ils>renvoient</ils>
+            </subjunctive>
+            <conditional>
+                <je>renverrais</je>
+                <tu>renverrais</tu>
+                <il>renverrait</il>
+                <nous>renverrions</nous>
+                <vous>renverriez</vous>
+                <ils>renverraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

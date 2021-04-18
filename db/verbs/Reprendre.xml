@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>reprendre</infinitive>
+            <translation>to retake</translation>
+            <translation>to resume</translation>
+            <irregular />
+            <presentParticiple>reprenant</presentParticiple>
+            <pastParticiple>repris</pastParticiple>
+            <present>
+                <je>reprends</je>
+                <tu>reprends</tu>
+                <il>reprend</il>
+                <nous>reprenons</nous>
+                <vous>reprenez</vous>
+                <ils>reprennent</ils>
+            </present>
+            <imperative>
+                <tu>reprends</tu>
+                <nous>reprenons</nous>
+                <vous>reprenez</vous>
+            </imperative>
+            <imperfect>
+                <je>reprenais</je>
+                <tu>reprenais</tu>
+                <il>reprenait</il>
+                <nous>reprenions</nous>
+                <vous>repreniez</vous>
+                <ils>reprenaient</ils>
+            </imperfect>
+            <future>
+                <je>reprendrai</je>
+                <tu>reprendras</tu>
+                <il>reprendra</il>
+                <nous>reprendrons</nous>
+                <vous>reprendrez</vous>
+                <ils>reprendront</ils>
+            </future>
+            <subjunctive>
+                <je>reprenne</je>
+                <tu>reprennes</tu>
+                <il>reprenne</il>
+                <nous>reprenions</nous>
+                <vous>repreniez</vous>
+                <ils>reprennent</ils>
+            </subjunctive>
+            <conditional>
+                <je>reprendrais</je>
+                <tu>reprendrais</tu>
+                <il>reprendrait</il>
+                <nous>reprendrions</nous>
+                <vous>reprendriez</vous>
+                <ils>reprendraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>stationner</infinitive>
+	<translation>to park</translation>
+	<presentParticiple>stationnant</presentParticiple>
+	<pastParticiple>stationné</pastParticiple>
+	<present>
+		<je>stationne</je>
+		<tu>stationnes</tu>
+		<il>stationne</il>
+		<nous>stationnons</nous>
+		<vous>stationnez</vous>
+		<ils>stationnent</ils>
+	</present>
+	<imperative>
+		<tu>stationne</tu>
+		<nous>stationnons</nous>
+		<vous>stationnez</vous>
+	</imperative>
+	<imperfect>
+		<je>stationnais</je>
+		<tu>stationnais</tu>
+		<il>stationnait</il>
+		<nous>stationnions</nous>
+		<vous>stationniez</vous>
+		<ils>stationnaient</ils>
+	</imperfect>
+	<future>
+		<je>stationnerai</je>
+		<tu>stationneras</tu>
+		<il>stationnera</il>
+		<nous>stationnerons</nous>
+		<vous>stationnerez</vous>
+		<ils>stationneront</ils>
+	</future>
+	<subjunctive>
+		<je>stationne</je>
+		<tu>stationnes</tu>
+		<il>stationne</il>
+		<nous>stationnions</nous>
+		<vous>stationniez</vous>
+		<ils>stationnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>stationnerais</je>
+		<tu>stationnerais</tu>
+		<il>stationnerait</il>
+		<nous>stationnerions</nous>
+		<vous>stationneriez</vous>
+		<ils>stationneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

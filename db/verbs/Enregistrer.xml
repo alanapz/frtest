@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>enregistrer</infinitive>
+	<translation>to record</translation>
+	<translation>register</translation>
+	<presentParticiple>enregistrant</presentParticiple>
+	<pastParticiple>enregistré</pastParticiple>
+	<present>
+		<je>enregistre</je>
+		<tu>enregistres</tu>
+		<il>enregistre</il>
+		<nous>enregistrons</nous>
+		<vous>enregistrez</vous>
+		<ils>enregistrent</ils>
+	</present>
+	<imperative>
+		<tu>enregistre</tu>
+		<nous>enregistrons</nous>
+		<vous>enregistrez</vous>
+	</imperative>
+	<imperfect>
+		<je>enregistrais</je>
+		<tu>enregistrais</tu>
+		<il>enregistrait</il>
+		<nous>enregistrions</nous>
+		<vous>enregistriez</vous>
+		<ils>enregistraient</ils>
+	</imperfect>
+	<future>
+		<je>enregistrerai</je>
+		<tu>enregistreras</tu>
+		<il>enregistrera</il>
+		<nous>enregistrerons</nous>
+		<vous>enregistrerez</vous>
+		<ils>enregistreront</ils>
+	</future>
+	<subjunctive>
+		<je>enregistre</je>
+		<tu>enregistres</tu>
+		<il>enregistre</il>
+		<nous>enregistrions</nous>
+		<vous>enregistriez</vous>
+		<ils>enregistrent</ils>
+	</subjunctive>
+	<conditional>
+		<je>enregistrerais</je>
+		<tu>enregistrerais</tu>
+		<il>enregistrerait</il>
+		<nous>enregistrerions</nous>
+		<vous>enregistreriez</vous>
+		<ils>enregistreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

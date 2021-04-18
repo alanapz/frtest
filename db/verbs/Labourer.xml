@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>labourer</infinitive>
+	<translation>to plow</translation>
+	<translation>dig</translation>
+	<presentParticiple>labourant</presentParticiple>
+	<pastParticiple>labouré</pastParticiple>
+	<present>
+		<je>laboure</je>
+		<tu>laboures</tu>
+		<il>laboure</il>
+		<nous>labourons</nous>
+		<vous>labourez</vous>
+		<ils>labourent</ils>
+	</present>
+	<imperative>
+		<tu>laboure</tu>
+		<nous>labourons</nous>
+		<vous>labourez</vous>
+	</imperative>
+	<imperfect>
+		<je>labourais</je>
+		<tu>labourais</tu>
+		<il>labourait</il>
+		<nous>labourions</nous>
+		<vous>labouriez</vous>
+		<ils>labouraient</ils>
+	</imperfect>
+	<future>
+		<je>labourerai</je>
+		<tu>laboureras</tu>
+		<il>labourera</il>
+		<nous>labourerons</nous>
+		<vous>labourerez</vous>
+		<ils>laboureront</ils>
+	</future>
+	<subjunctive>
+		<je>laboure</je>
+		<tu>laboures</tu>
+		<il>laboure</il>
+		<nous>labourions</nous>
+		<vous>labouriez</vous>
+		<ils>labourent</ils>
+	</subjunctive>
+	<conditional>
+		<je>labourerais</je>
+		<tu>labourerais</tu>
+		<il>labourerait</il>
+		<nous>labourerions</nous>
+		<vous>laboureriez</vous>
+		<ils>laboureraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

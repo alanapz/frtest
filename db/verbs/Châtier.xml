@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>châtier</infinitive>
+	<translation>to refine</translation>
+	<translation>perfect</translation>
+	<translation>(religion) to chasten</translation>
+	<translation>mortify</translation>
+	<presentParticiple>châtiant</presentParticiple>
+	<pastParticiple>châtié</pastParticiple>
+	<present>
+		<je>châtie</je>
+		<tu>châties</tu>
+		<il>châtie</il>
+		<nous>châtions</nous>
+		<vous>châtiez</vous>
+		<ils>châtient</ils>
+	</present>
+	<imperative>
+		<tu>châtie</tu>
+		<nous>châtions</nous>
+		<vous>châtiez</vous>
+	</imperative>
+	<imperfect>
+		<je>châtiais</je>
+		<tu>châtiais</tu>
+		<il>châtiait</il>
+		<nous>châtiions</nous>
+		<vous>châtiiez</vous>
+		<ils>châtiaient</ils>
+	</imperfect>
+	<future>
+		<je>châtierai</je>
+		<tu>châtieras</tu>
+		<il>châtiera</il>
+		<nous>châtierons</nous>
+		<vous>châtierez</vous>
+		<ils>châtieront</ils>
+	</future>
+	<subjunctive>
+		<je>châtie</je>
+		<tu>châties</tu>
+		<il>châtie</il>
+		<nous>châtiions</nous>
+		<vous>châtiiez</vous>
+		<ils>châtient</ils>
+	</subjunctive>
+	<conditional>
+		<je>châtierais</je>
+		<tu>châtierais</tu>
+		<il>châtierait</il>
+		<nous>châtierions</nous>
+		<vous>châtieriez</vous>
+		<ils>châtieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

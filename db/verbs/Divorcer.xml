@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>divorcer</infinitive>
+	<translation>to divorce</translation>
+	<spellingChange />
+	<presentParticiple>divorçant</presentParticiple>
+	<pastParticiple>divorcé</pastParticiple>
+	<present>
+		<je>divorce</je>
+		<tu>divorces</tu>
+		<il>divorce</il>
+		<nous>divorçons</nous>
+		<vous>divorcez</vous>
+		<ils>divorcent</ils>
+	</present>
+	<imperative>
+		<tu>divorce</tu>
+		<nous>divorçons</nous>
+		<vous>divorcez</vous>
+	</imperative>
+	<imperfect>
+		<je>divorçais</je>
+		<tu>divorçais</tu>
+		<il>divorçait</il>
+		<nous>divorcions</nous>
+		<vous>divorciez</vous>
+		<ils>divorçaient</ils>
+	</imperfect>
+	<future>
+		<je>divorcerai</je>
+		<tu>divorceras</tu>
+		<il>divorcera</il>
+		<nous>divorcerons</nous>
+		<vous>divorcerez</vous>
+		<ils>divorceront</ils>
+	</future>
+	<subjunctive>
+		<je>divorce</je>
+		<tu>divorces</tu>
+		<il>divorce</il>
+		<nous>divorcions</nous>
+		<vous>divorciez</vous>
+		<ils>divorcent</ils>
+	</subjunctive>
+	<conditional>
+		<je>divorcerais</je>
+		<tu>divorcerais</tu>
+		<il>divorcerait</il>
+		<nous>divorcerions</nous>
+		<vous>divorceriez</vous>
+		<ils>divorceraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>copier</infinitive>
+            <translation>to copy</translation>
+            <presentParticiple>copiant</presentParticiple>
+            <pastParticiple>copié</pastParticiple>
+            <present>
+                <je>copie</je>
+                <tu>copies</tu>
+                <il>copie</il>
+                <nous>copions</nous>
+                <vous>copiez</vous>
+                <ils>copient</ils>
+            </present>
+            <imperative>
+                <tu>copie</tu>
+                <nous>copions</nous>
+                <vous>copiez</vous>
+            </imperative>
+            <imperfect>
+                <je>copiais</je>
+                <tu>copiais</tu>
+                <il>copiait</il>
+                <nous>copiions</nous>
+                <vous>copiiez</vous>
+                <ils>copiaient</ils>
+            </imperfect>
+            <future>
+                <je>copierai</je>
+                <tu>copieras</tu>
+                <il>copiera</il>
+                <nous>copierons</nous>
+                <vous>copierez</vous>
+                <ils>copieront</ils>
+            </future>
+            <subjunctive>
+                <je>copie</je>
+                <tu>copies</tu>
+                <il>copie</il>
+                <nous>copiions</nous>
+                <vous>copiiez</vous>
+                <ils>copient</ils>
+            </subjunctive>
+            <conditional>
+                <je>copierais</je>
+                <tu>copierais</tu>
+                <il>copierait</il>
+                <nous>copierions</nous>
+                <vous>copieriez</vous>
+                <ils>copieraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

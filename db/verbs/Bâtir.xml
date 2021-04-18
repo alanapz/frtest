@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>bâtir</infinitive>
+	<translation>to build</translation>
+	<presentParticiple>bâtissant</presentParticiple>
+	<pastParticiple>bâti</pastParticiple>
+	<present>
+		<je>bâtis</je>
+		<tu>bâtis</tu>
+		<il>bâtit</il>
+		<nous>bâtissons</nous>
+		<vous>bâtissez</vous>
+		<ils>bâtissent</ils>
+	</present>
+	<imperative>
+		<tu>bâtis</tu>
+		<nous>bâtissons</nous>
+		<vous>bâtissez</vous>
+	</imperative>
+	<imperfect>
+		<je>bâtissais</je>
+		<tu>bâtissais</tu>
+		<il>bâtissait</il>
+		<nous>bâtissions</nous>
+		<vous>bâtissiez</vous>
+		<ils>bâtissaient</ils>
+	</imperfect>
+	<future>
+		<je>bâtirai</je>
+		<tu>bâtiras</tu>
+		<il>bâtira</il>
+		<nous>bâtirons</nous>
+		<vous>bâtirez</vous>
+		<ils>bâtiront</ils>
+	</future>
+	<subjunctive>
+		<je>bâtisse</je>
+		<tu>bâtisses</tu>
+		<il>bâtisse</il>
+		<nous>bâtissions</nous>
+		<vous>bâtissiez</vous>
+		<ils>bâtissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>bâtirais</je>
+		<tu>bâtirais</tu>
+		<il>bâtirait</il>
+		<nous>bâtirions</nous>
+		<vous>bâtiriez</vous>
+		<ils>bâtiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

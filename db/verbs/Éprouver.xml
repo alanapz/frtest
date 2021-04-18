@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>éprouver</infinitive>
+	<translation>to test</translation>
+	<translation>to feel</translation>
+	<translation>experience</translation>
+	<presentParticiple>éprouvant</presentParticiple>
+	<pastParticiple>éprouvé</pastParticiple>
+	<present>
+		<je>éprouve</je>
+		<tu>éprouves</tu>
+		<il>éprouve</il>
+		<nous>éprouvons</nous>
+		<vous>éprouvez</vous>
+		<ils>éprouvent</ils>
+	</present>
+	<imperative>
+		<tu>éprouve</tu>
+		<nous>éprouvons</nous>
+		<vous>éprouvez</vous>
+	</imperative>
+	<imperfect>
+		<je>éprouvais</je>
+		<tu>éprouvais</tu>
+		<il>éprouvait</il>
+		<nous>éprouvions</nous>
+		<vous>éprouviez</vous>
+		<ils>éprouvaient</ils>
+	</imperfect>
+	<future>
+		<je>éprouverai</je>
+		<tu>éprouveras</tu>
+		<il>éprouvera</il>
+		<nous>éprouverons</nous>
+		<vous>éprouverez</vous>
+		<ils>éprouveront</ils>
+	</future>
+	<subjunctive>
+		<je>éprouve</je>
+		<tu>éprouves</tu>
+		<il>éprouve</il>
+		<nous>éprouvions</nous>
+		<vous>éprouviez</vous>
+		<ils>éprouvent</ils>
+	</subjunctive>
+	<conditional>
+		<je>éprouverais</je>
+		<tu>éprouverais</tu>
+		<il>éprouverait</il>
+		<nous>éprouverions</nous>
+		<vous>éprouveriez</vous>
+		<ils>éprouveraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

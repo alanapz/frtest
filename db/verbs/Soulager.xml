@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>soulager</infinitive>
+	<translation>to relieve</translation>
+	<translation>soothe</translation>
+	<spellingChange />
+	<presentParticiple>soulageant</presentParticiple>
+	<pastParticiple>soulagé</pastParticiple>
+	<present>
+		<je>soulage</je>
+		<tu>soulages</tu>
+		<il>soulage</il>
+		<nous>soulageons</nous>
+		<vous>soulagez</vous>
+		<ils>soulagent</ils>
+	</present>
+	<imperative>
+		<tu>soulage</tu>
+		<nous>soulageons</nous>
+		<vous>soulagez</vous>
+	</imperative>
+	<imperfect>
+		<je>soulageais</je>
+		<tu>soulageais</tu>
+		<il>soulageait</il>
+		<nous>soulagions</nous>
+		<vous>soulagiez</vous>
+		<ils>soulageaient</ils>
+	</imperfect>
+	<future>
+		<je>soulagerai</je>
+		<tu>soulageras</tu>
+		<il>soulagera</il>
+		<nous>soulagerons</nous>
+		<vous>soulagerez</vous>
+		<ils>soulageront</ils>
+	</future>
+	<subjunctive>
+		<je>soulage</je>
+		<tu>soulages</tu>
+		<il>soulage</il>
+		<nous>soulagions</nous>
+		<vous>soulagiez</vous>
+		<ils>soulagent</ils>
+	</subjunctive>
+	<conditional>
+		<je>soulagerais</je>
+		<tu>soulagerais</tu>
+		<il>soulagerait</il>
+		<nous>soulagerions</nous>
+		<vous>soulageriez</vous>
+		<ils>soulageraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

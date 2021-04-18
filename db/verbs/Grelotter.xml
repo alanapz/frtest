@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>grelotter</infinitive>
+	<translation>to shiver</translation>
+	<presentParticiple>grelottant</presentParticiple>
+	<pastParticiple>grelotté</pastParticiple>
+	<present>
+		<je>grelotte</je>
+		<tu>grelottes</tu>
+		<il>grelotte</il>
+		<nous>grelottons</nous>
+		<vous>grelottez</vous>
+		<ils>grelottent</ils>
+	</present>
+	<imperative>
+		<tu>grelotte</tu>
+		<nous>grelottons</nous>
+		<vous>grelottez</vous>
+	</imperative>
+	<imperfect>
+		<je>grelottais</je>
+		<tu>grelottais</tu>
+		<il>grelottait</il>
+		<nous>grelottions</nous>
+		<vous>grelottiez</vous>
+		<ils>grelottaient</ils>
+	</imperfect>
+	<future>
+		<je>grelotterai</je>
+		<tu>grelotteras</tu>
+		<il>grelottera</il>
+		<nous>grelotterons</nous>
+		<vous>grelotterez</vous>
+		<ils>grelotteront</ils>
+	</future>
+	<subjunctive>
+		<je>grelotte</je>
+		<tu>grelottes</tu>
+		<il>grelotte</il>
+		<nous>grelottions</nous>
+		<vous>grelottiez</vous>
+		<ils>grelottent</ils>
+	</subjunctive>
+	<conditional>
+		<je>grelotterais</je>
+		<tu>grelotterais</tu>
+		<il>grelotterait</il>
+		<nous>grelotterions</nous>
+		<vous>grelotteriez</vous>
+		<ils>grelotteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>réfléchir</infinitive>
+            <translation>to ponder</translation>
+            <translation>to reflect</translation>
+            <presentParticiple>réfléchissant</presentParticiple>
+            <pastParticiple>réfléchi</pastParticiple>
+            <present>
+                <je>réfléchis</je>
+                <tu>réfléchis</tu>
+                <il>réfléchit</il>
+                <nous>réfléchissons</nous>
+                <vous>réfléchissez</vous>
+                <ils>réfléchissent</ils>
+            </present>
+            <imperative>
+                <tu>réfléchis</tu>
+                <nous>réfléchissons</nous>
+                <vous>réfléchissez</vous>
+            </imperative>
+            <imperfect>
+                <je>réfléchissais</je>
+                <tu>réfléchissais</tu>
+                <il>réfléchissait</il>
+                <nous>réfléchissions</nous>
+                <vous>réfléchissiez</vous>
+                <ils>réfléchissaient</ils>
+            </imperfect>
+            <future>
+                <je>réfléchirai</je>
+                <tu>réfléchiras</tu>
+                <il>réfléchira</il>
+                <nous>réfléchirons</nous>
+                <vous>réfléchirez</vous>
+                <ils>réfléchiront</ils>
+            </future>
+            <subjunctive>
+                <je>réfléchisse</je>
+                <tu>réfléchisses</tu>
+                <il>réfléchisse</il>
+                <nous>réfléchissions</nous>
+                <vous>réfléchissiez</vous>
+                <ils>réfléchissent</ils>
+            </subjunctive>
+            <conditional>
+                <je>réfléchirais</je>
+                <tu>réfléchirais</tu>
+                <il>réfléchirait</il>
+                <nous>réfléchirions</nous>
+                <vous>réfléchiriez</vous>
+                <ils>réfléchiraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>déprimer</infinitive>
+	<translation>to depress</translation>
+	<presentParticiple>déprimant</presentParticiple>
+	<pastParticiple>déprimé</pastParticiple>
+	<present>
+		<je>déprime</je>
+		<tu>déprimes</tu>
+		<il>déprime</il>
+		<nous>déprimons</nous>
+		<vous>déprimez</vous>
+		<ils>dépriment</ils>
+	</present>
+	<imperative>
+		<tu>déprime</tu>
+		<nous>déprimons</nous>
+		<vous>déprimez</vous>
+	</imperative>
+	<imperfect>
+		<je>déprimais</je>
+		<tu>déprimais</tu>
+		<il>déprimait</il>
+		<nous>déprimions</nous>
+		<vous>déprimiez</vous>
+		<ils>déprimaient</ils>
+	</imperfect>
+	<future>
+		<je>déprimerai</je>
+		<tu>déprimeras</tu>
+		<il>déprimera</il>
+		<nous>déprimerons</nous>
+		<vous>déprimerez</vous>
+		<ils>déprimeront</ils>
+	</future>
+	<subjunctive>
+		<je>déprime</je>
+		<tu>déprimes</tu>
+		<il>déprime</il>
+		<nous>déprimions</nous>
+		<vous>déprimiez</vous>
+		<ils>dépriment</ils>
+	</subjunctive>
+	<conditional>
+		<je>déprimerais</je>
+		<tu>déprimerais</tu>
+		<il>déprimerait</il>
+		<nous>déprimerions</nous>
+		<vous>déprimeriez</vous>
+		<ils>déprimeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

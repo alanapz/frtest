@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>affermer</infinitive>
+	<translation>to rent</translation>
+	<translation>lease</translation>
+	<presentParticiple>affermant</presentParticiple>
+	<pastParticiple>affermé</pastParticiple>
+	<present>
+		<je>afferme</je>
+		<tu>affermes</tu>
+		<il>afferme</il>
+		<nous>affermons</nous>
+		<vous>affermez</vous>
+		<ils>afferment</ils>
+	</present>
+	<imperative>
+		<tu>afferme</tu>
+		<nous>affermons</nous>
+		<vous>affermez</vous>
+	</imperative>
+	<imperfect>
+		<je>affermais</je>
+		<tu>affermais</tu>
+		<il>affermait</il>
+		<nous>affermions</nous>
+		<vous>affermiez</vous>
+		<ils>affermaient</ils>
+	</imperfect>
+	<future>
+		<je>affermerai</je>
+		<tu>affermeras</tu>
+		<il>affermera</il>
+		<nous>affermerons</nous>
+		<vous>affermerez</vous>
+		<ils>affermeront</ils>
+	</future>
+	<subjunctive>
+		<je>afferme</je>
+		<tu>affermes</tu>
+		<il>afferme</il>
+		<nous>affermions</nous>
+		<vous>affermiez</vous>
+		<ils>afferment</ils>
+	</subjunctive>
+	<conditional>
+		<je>affermerais</je>
+		<tu>affermerais</tu>
+		<il>affermerait</il>
+		<nous>affermerions</nous>
+		<vous>affermeriez</vous>
+		<ils>affermeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

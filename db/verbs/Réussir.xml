@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>réussir</infinitive>
+            <translation>to succeed</translation>
+            <presentParticiple>réussissant</presentParticiple>
+            <pastParticiple>réussi</pastParticiple>
+            <present>
+                <je>réussis</je>
+                <tu>réussis</tu>
+                <il>réussit</il>
+                <nous>réussissons</nous>
+                <vous>réussissez</vous>
+                <ils>réussissent</ils>
+            </present>
+            <imperative>
+                <tu>réussis</tu>
+                <nous>réussissons</nous>
+                <vous>réussissez</vous>
+            </imperative>
+            <imperfect>
+                <je>réussissais</je>
+                <tu>réussissais</tu>
+                <il>réussissait</il>
+                <nous>réussissions</nous>
+                <vous>réussissiez</vous>
+                <ils>réussissaient</ils>
+            </imperfect>
+            <future>
+                <je>réussirai</je>
+                <tu>réussiras</tu>
+                <il>réussira</il>
+                <nous>réussirons</nous>
+                <vous>réussirez</vous>
+                <ils>réussiront</ils>
+            </future>
+            <subjunctive>
+                <je>réussisse</je>
+                <tu>réussisses</tu>
+                <il>réussisse</il>
+                <nous>réussissions</nous>
+                <vous>réussissiez</vous>
+                <ils>réussissent</ils>
+            </subjunctive>
+            <conditional>
+                <je>réussirais</je>
+                <tu>réussirais</tu>
+                <il>réussirait</il>
+                <nous>réussirions</nous>
+                <vous>réussiriez</vous>
+                <ils>réussiraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

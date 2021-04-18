@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>disposer</infinitive>
+	<translation>to arrange</translation>
+	<translation>to dispose s.o. to</translation>
+	<translation>to have</translation>
+	<presentParticiple>disposant</presentParticiple>
+	<pastParticiple>disposé</pastParticiple>
+	<present>
+		<je>dispose</je>
+		<tu>disposes</tu>
+		<il>dispose</il>
+		<nous>disposons</nous>
+		<vous>disposez</vous>
+		<ils>disposent</ils>
+	</present>
+	<imperative>
+		<tu>dispose</tu>
+		<nous>disposons</nous>
+		<vous>disposez</vous>
+	</imperative>
+	<imperfect>
+		<je>disposais</je>
+		<tu>disposais</tu>
+		<il>disposait</il>
+		<nous>disposions</nous>
+		<vous>disposiez</vous>
+		<ils>disposaient</ils>
+	</imperfect>
+	<future>
+		<je>disposerai</je>
+		<tu>disposeras</tu>
+		<il>disposera</il>
+		<nous>disposerons</nous>
+		<vous>disposerez</vous>
+		<ils>disposeront</ils>
+	</future>
+	<subjunctive>
+		<je>dispose</je>
+		<tu>disposes</tu>
+		<il>dispose</il>
+		<nous>disposions</nous>
+		<vous>disposiez</vous>
+		<ils>disposent</ils>
+	</subjunctive>
+	<conditional>
+		<je>disposerais</je>
+		<tu>disposerais</tu>
+		<il>disposerait</il>
+		<nous>disposerions</nous>
+		<vous>disposeriez</vous>
+		<ils>disposeraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

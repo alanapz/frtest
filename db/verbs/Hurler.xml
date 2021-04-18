@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>hurler</infinitive>
+	<translation>to scream</translation>
+	<translation>shriek</translation>
+	<presentParticiple>hurlant</presentParticiple>
+	<pastParticiple>hurlé</pastParticiple>
+	<present>
+		<je>hurle</je>
+		<tu>hurles</tu>
+		<il>hurle</il>
+		<nous>hurlons</nous>
+		<vous>hurlez</vous>
+		<ils>hurlent</ils>
+	</present>
+	<imperative>
+		<tu>hurle</tu>
+		<nous>hurlons</nous>
+		<vous>hurlez</vous>
+	</imperative>
+	<imperfect>
+		<je>hurlais</je>
+		<tu>hurlais</tu>
+		<il>hurlait</il>
+		<nous>hurlions</nous>
+		<vous>hurliez</vous>
+		<ils>hurlaient</ils>
+	</imperfect>
+	<future>
+		<je>hurlerai</je>
+		<tu>hurleras</tu>
+		<il>hurlera</il>
+		<nous>hurlerons</nous>
+		<vous>hurlerez</vous>
+		<ils>hurleront</ils>
+	</future>
+	<subjunctive>
+		<je>hurle</je>
+		<tu>hurles</tu>
+		<il>hurle</il>
+		<nous>hurlions</nous>
+		<vous>hurliez</vous>
+		<ils>hurlent</ils>
+	</subjunctive>
+	<conditional>
+		<je>hurlerais</je>
+		<tu>hurlerais</tu>
+		<il>hurlerait</il>
+		<nous>hurlerions</nous>
+		<vous>hurleriez</vous>
+		<ils>hurleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

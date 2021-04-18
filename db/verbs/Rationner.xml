@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>rationner</infinitive>
+	<translation>to ration</translation>
+	<presentParticiple>rationnant</presentParticiple>
+	<pastParticiple>rationné</pastParticiple>
+	<present>
+		<je>rationne</je>
+		<tu>rationnes</tu>
+		<il>rationne</il>
+		<nous>rationnons</nous>
+		<vous>rationnez</vous>
+		<ils>rationnent</ils>
+	</present>
+	<imperative>
+		<tu>rationne</tu>
+		<nous>rationnons</nous>
+		<vous>rationnez</vous>
+	</imperative>
+	<imperfect>
+		<je>rationnais</je>
+		<tu>rationnais</tu>
+		<il>rationnait</il>
+		<nous>rationnions</nous>
+		<vous>rationniez</vous>
+		<ils>rationnaient</ils>
+	</imperfect>
+	<future>
+		<je>rationnerai</je>
+		<tu>rationneras</tu>
+		<il>rationnera</il>
+		<nous>rationnerons</nous>
+		<vous>rationnerez</vous>
+		<ils>rationneront</ils>
+	</future>
+	<subjunctive>
+		<je>rationne</je>
+		<tu>rationnes</tu>
+		<il>rationne</il>
+		<nous>rationnions</nous>
+		<vous>rationniez</vous>
+		<ils>rationnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>rationnerais</je>
+		<tu>rationnerais</tu>
+		<il>rationnerait</il>
+		<nous>rationnerions</nous>
+		<vous>rationneriez</vous>
+		<ils>rationneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

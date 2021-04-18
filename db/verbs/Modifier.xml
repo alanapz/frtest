@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>modifier</infinitive>
+	<translation>to modify</translation>
+	<presentParticiple>modifiant</presentParticiple>
+	<pastParticiple>modifié</pastParticiple>
+	<present>
+		<je>modifie</je>
+		<tu>modifies</tu>
+		<il>modifie</il>
+		<nous>modifions</nous>
+		<vous>modifiez</vous>
+		<ils>modifient</ils>
+	</present>
+	<imperative>
+		<tu>modifie</tu>
+		<nous>modifions</nous>
+		<vous>modifiez</vous>
+	</imperative>
+	<imperfect>
+		<je>modifiais</je>
+		<tu>modifiais</tu>
+		<il>modifiait</il>
+		<nous>modifiions</nous>
+		<vous>modifiiez</vous>
+		<ils>modifiaient</ils>
+	</imperfect>
+	<future>
+		<je>modifierai</je>
+		<tu>modifieras</tu>
+		<il>modifiera</il>
+		<nous>modifierons</nous>
+		<vous>modifierez</vous>
+		<ils>modifieront</ils>
+	</future>
+	<subjunctive>
+		<je>modifie</je>
+		<tu>modifies</tu>
+		<il>modifie</il>
+		<nous>modifiions</nous>
+		<vous>modifiiez</vous>
+		<ils>modifient</ils>
+	</subjunctive>
+	<conditional>
+		<je>modifierais</je>
+		<tu>modifierais</tu>
+		<il>modifierait</il>
+		<nous>modifierions</nous>
+		<vous>modifieriez</vous>
+		<ils>modifieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

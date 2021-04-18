@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>censurer</infinitive>
+	<translation>to censure</translation>
+	<presentParticiple>censurant</presentParticiple>
+	<pastParticiple>censuré</pastParticiple>
+	<present>
+		<je>censure</je>
+		<tu>censures</tu>
+		<il>censure</il>
+		<nous>censurons</nous>
+		<vous>censurez</vous>
+		<ils>censurent</ils>
+	</present>
+	<imperative>
+		<tu>censure</tu>
+		<nous>censurons</nous>
+		<vous>censurez</vous>
+	</imperative>
+	<imperfect>
+		<je>censurais</je>
+		<tu>censurais</tu>
+		<il>censurait</il>
+		<nous>censurions</nous>
+		<vous>censuriez</vous>
+		<ils>censuraient</ils>
+	</imperfect>
+	<future>
+		<je>censurerai</je>
+		<tu>censureras</tu>
+		<il>censurera</il>
+		<nous>censurerons</nous>
+		<vous>censurerez</vous>
+		<ils>censureront</ils>
+	</future>
+	<subjunctive>
+		<je>censure</je>
+		<tu>censures</tu>
+		<il>censure</il>
+		<nous>censurions</nous>
+		<vous>censuriez</vous>
+		<ils>censurent</ils>
+	</subjunctive>
+	<conditional>
+		<je>censurerais</je>
+		<tu>censurerais</tu>
+		<il>censurerait</il>
+		<nous>censurerions</nous>
+		<vous>censureriez</vous>
+		<ils>censureraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

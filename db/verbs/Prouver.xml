@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>prouver</infinitive>
+	<translation>to prove</translation>
+	<presentParticiple>prouvant</presentParticiple>
+	<pastParticiple>prouvé</pastParticiple>
+	<present>
+		<je>prouve</je>
+		<tu>prouves</tu>
+		<il>prouve</il>
+		<nous>prouvons</nous>
+		<vous>prouvez</vous>
+		<ils>prouvent</ils>
+	</present>
+	<imperative>
+		<tu>prouve</tu>
+		<nous>prouvons</nous>
+		<vous>prouvez</vous>
+	</imperative>
+	<imperfect>
+		<je>prouvais</je>
+		<tu>prouvais</tu>
+		<il>prouvait</il>
+		<nous>prouvions</nous>
+		<vous>prouviez</vous>
+		<ils>prouvaient</ils>
+	</imperfect>
+	<future>
+		<je>prouverai</je>
+		<tu>prouveras</tu>
+		<il>prouvera</il>
+		<nous>prouverons</nous>
+		<vous>prouverez</vous>
+		<ils>prouveront</ils>
+	</future>
+	<subjunctive>
+		<je>prouve</je>
+		<tu>prouves</tu>
+		<il>prouve</il>
+		<nous>prouvions</nous>
+		<vous>prouviez</vous>
+		<ils>prouvent</ils>
+	</subjunctive>
+	<conditional>
+		<je>prouverais</je>
+		<tu>prouverais</tu>
+		<il>prouverait</il>
+		<nous>prouverions</nous>
+		<vous>prouveriez</vous>
+		<ils>prouveraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

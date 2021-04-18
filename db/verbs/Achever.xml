@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>achever</infinitive>
+	<translation>to achieve</translation>
+	<stemChange />
+	<presentParticiple>achevant</presentParticiple>
+	<pastParticiple>achevé</pastParticiple>
+	<present>
+		<je>achève</je>
+		<tu>achèves</tu>
+		<il>achève</il>
+		<nous>achevons</nous>
+		<vous>achevez</vous>
+		<ils>achèvent</ils>
+	</present>
+	<imperative>
+		<tu>achève</tu>
+		<nous>achevons</nous>
+		<vous>achevez</vous>
+	</imperative>
+	<imperfect>
+		<je>achevais</je>
+		<tu>achevais</tu>
+		<il>achevait</il>
+		<nous>achevions</nous>
+		<vous>acheviez</vous>
+		<ils>achevaient</ils>
+	</imperfect>
+	<future>
+		<je>achèverai</je>
+		<tu>achèveras</tu>
+		<il>achèvera</il>
+		<nous>achèverons</nous>
+		<vous>achèverez</vous>
+		<ils>achèveront</ils>
+	</future>
+	<subjunctive>
+		<je>achève</je>
+		<tu>achèves</tu>
+		<il>achève</il>
+		<nous>achevions</nous>
+		<vous>acheviez</vous>
+		<ils>achèvent</ils>
+	</subjunctive>
+	<conditional>
+		<je>achèverais</je>
+		<tu>achèverais</tu>
+		<il>achèverait</il>
+		<nous>achèverions</nous>
+		<vous>achèveriez</vous>
+		<ils>achèveraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

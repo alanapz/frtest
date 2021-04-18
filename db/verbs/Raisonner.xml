@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>raisonner</infinitive>
+	<translation>to reason</translation>
+	<translation>argue</translation>
+	<presentParticiple>raisonnant</presentParticiple>
+	<pastParticiple>raisonné</pastParticiple>
+	<present>
+		<je>raisonne</je>
+		<tu>raisonnes</tu>
+		<il>raisonne</il>
+		<nous>raisonnons</nous>
+		<vous>raisonnez</vous>
+		<ils>raisonnent</ils>
+	</present>
+	<imperative>
+		<tu>raisonne</tu>
+		<nous>raisonnons</nous>
+		<vous>raisonnez</vous>
+	</imperative>
+	<imperfect>
+		<je>raisonnais</je>
+		<tu>raisonnais</tu>
+		<il>raisonnait</il>
+		<nous>raisonnions</nous>
+		<vous>raisonniez</vous>
+		<ils>raisonnaient</ils>
+	</imperfect>
+	<future>
+		<je>raisonnerai</je>
+		<tu>raisonneras</tu>
+		<il>raisonnera</il>
+		<nous>raisonnerons</nous>
+		<vous>raisonnerez</vous>
+		<ils>raisonneront</ils>
+	</future>
+	<subjunctive>
+		<je>raisonne</je>
+		<tu>raisonnes</tu>
+		<il>raisonne</il>
+		<nous>raisonnions</nous>
+		<vous>raisonniez</vous>
+		<ils>raisonnent</ils>
+	</subjunctive>
+	<conditional>
+		<je>raisonnerais</je>
+		<tu>raisonnerais</tu>
+		<il>raisonnerait</il>
+		<nous>raisonnerions</nous>
+		<vous>raisonneriez</vous>
+		<ils>raisonneraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

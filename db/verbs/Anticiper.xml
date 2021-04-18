@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>anticiper</infinitive>
+	<translation>to anticipate</translation>
+	<presentParticiple>anticipant</presentParticiple>
+	<pastParticiple>anticipé</pastParticiple>
+	<present>
+		<je>anticipe</je>
+		<tu>anticipes</tu>
+		<il>anticipe</il>
+		<nous>anticipons</nous>
+		<vous>anticipez</vous>
+		<ils>anticipent</ils>
+	</present>
+	<imperative>
+		<tu>anticipe</tu>
+		<nous>anticipons</nous>
+		<vous>anticipez</vous>
+	</imperative>
+	<imperfect>
+		<je>anticipais</je>
+		<tu>anticipais</tu>
+		<il>anticipait</il>
+		<nous>anticipions</nous>
+		<vous>anticipiez</vous>
+		<ils>anticipaient</ils>
+	</imperfect>
+	<future>
+		<je>anticiperai</je>
+		<tu>anticiperas</tu>
+		<il>anticipera</il>
+		<nous>anticiperons</nous>
+		<vous>anticiperez</vous>
+		<ils>anticiperont</ils>
+	</future>
+	<subjunctive>
+		<je>anticipe</je>
+		<tu>anticipes</tu>
+		<il>anticipe</il>
+		<nous>anticipions</nous>
+		<vous>anticipiez</vous>
+		<ils>anticipent</ils>
+	</subjunctive>
+	<conditional>
+		<je>anticiperais</je>
+		<tu>anticiperais</tu>
+		<il>anticiperait</il>
+		<nous>anticiperions</nous>
+		<vous>anticiperiez</vous>
+		<ils>anticiperaient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

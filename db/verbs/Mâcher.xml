@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>mâcher</infinitive>
+	<translation>to chew</translation>
+	<presentParticiple>mâchant</presentParticiple>
+	<pastParticiple>mâché</pastParticiple>
+	<present>
+		<je>mâche</je>
+		<tu>mâches</tu>
+		<il>mâche</il>
+		<nous>mâchons</nous>
+		<vous>mâchez</vous>
+		<ils>mâchent</ils>
+	</present>
+	<imperative>
+		<tu>mâche</tu>
+		<nous>mâchons</nous>
+		<vous>mâchez</vous>
+	</imperative>
+	<imperfect>
+		<je>mâchais</je>
+		<tu>mâchais</tu>
+		<il>mâchait</il>
+		<nous>mâchions</nous>
+		<vous>mâchiez</vous>
+		<ils>mâchaient</ils>
+	</imperfect>
+	<future>
+		<je>mâcherai</je>
+		<tu>mâcheras</tu>
+		<il>mâchera</il>
+		<nous>mâcherons</nous>
+		<vous>mâcherez</vous>
+		<ils>mâcheront</ils>
+	</future>
+	<subjunctive>
+		<je>mâche</je>
+		<tu>mâches</tu>
+		<il>mâche</il>
+		<nous>mâchions</nous>
+		<vous>mâchiez</vous>
+		<ils>mâchent</ils>
+	</subjunctive>
+	<conditional>
+		<je>mâcherais</je>
+		<tu>mâcherais</tu>
+		<il>mâcherait</il>
+		<nous>mâcherions</nous>
+		<vous>mâcheriez</vous>
+		<ils>mâcheraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

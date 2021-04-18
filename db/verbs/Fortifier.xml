@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>fortifier</infinitive>
+	<translation>to fortify</translation>
+	<translation>strengthen</translation>
+	<presentParticiple>fortifiant</presentParticiple>
+	<pastParticiple>fortifié</pastParticiple>
+	<present>
+		<je>fortifie</je>
+		<tu>fortifies</tu>
+		<il>fortifie</il>
+		<nous>fortifions</nous>
+		<vous>fortifiez</vous>
+		<ils>fortifient</ils>
+	</present>
+	<imperative>
+		<tu>fortifie</tu>
+		<nous>fortifions</nous>
+		<vous>fortifiez</vous>
+	</imperative>
+	<imperfect>
+		<je>fortifiais</je>
+		<tu>fortifiais</tu>
+		<il>fortifiait</il>
+		<nous>fortifiions</nous>
+		<vous>fortifiiez</vous>
+		<ils>fortifiaient</ils>
+	</imperfect>
+	<future>
+		<je>fortifierai</je>
+		<tu>fortifieras</tu>
+		<il>fortifiera</il>
+		<nous>fortifierons</nous>
+		<vous>fortifierez</vous>
+		<ils>fortifieront</ils>
+	</future>
+	<subjunctive>
+		<je>fortifie</je>
+		<tu>fortifies</tu>
+		<il>fortifie</il>
+		<nous>fortifiions</nous>
+		<vous>fortifiiez</vous>
+		<ils>fortifient</ils>
+	</subjunctive>
+	<conditional>
+		<je>fortifierais</je>
+		<tu>fortifierais</tu>
+		<il>fortifierait</il>
+		<nous>fortifierions</nous>
+		<vous>fortifieriez</vous>
+		<ils>fortifieraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>travailler</infinitive>
+	<translation>to work</translation>
+	<presentParticiple>travaillant</presentParticiple>
+	<pastParticiple>travaillé</pastParticiple>
+	<present>
+		<je>travaille</je>
+		<tu>travailles</tu>
+		<il>travaille</il>
+		<nous>travaillons</nous>
+		<vous>travaillez</vous>
+		<ils>travaillent</ils>
+	</present>
+	<imperative>
+		<tu>travaille</tu>
+		<nous>travaillons</nous>
+		<vous>travaillez</vous>
+	</imperative>
+	<imperfect>
+		<je>travaillais</je>
+		<tu>travaillais</tu>
+		<il>travaillait</il>
+		<nous>travaillions</nous>
+		<vous>travailliez</vous>
+		<ils>travaillaient</ils>
+	</imperfect>
+	<future>
+		<je>travaillerai</je>
+		<tu>travailleras</tu>
+		<il>travaillera</il>
+		<nous>travaillerons</nous>
+		<vous>travaillerez</vous>
+		<ils>travailleront</ils>
+	</future>
+	<subjunctive>
+		<je>travaille</je>
+		<tu>travailles</tu>
+		<il>travaille</il>
+		<nous>travaillions</nous>
+		<vous>travailliez</vous>
+		<ils>travaillent</ils>
+	</subjunctive>
+	<conditional>
+		<je>travaillerais</je>
+		<tu>travaillerais</tu>
+		<il>travaillerait</il>
+		<nous>travaillerions</nous>
+		<vous>travailleriez</vous>
+		<ils>travailleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

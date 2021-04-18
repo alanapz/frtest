@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>voir</infinitive>
+            <translation>to see</translation>
+            <presentParticiple>voyant</presentParticiple>
+            <pastParticiple>vu</pastParticiple>
+            <present>
+                <je>vois</je>
+                <tu>vois</tu>
+                <il>voit</il>
+                <nous>voyons</nous>
+                <vous>voyez</vous>
+                <ils>voient</ils>
+            </present>
+            <imperative>
+                <tu>vois</tu>
+                <nous>voyons</nous>
+                <vous>voyez</vous>
+            </imperative>
+            <imperfect>
+                <je>voyais</je>
+                <tu>voyais</tu>
+                <il>voyait</il>
+                <nous>voyions</nous>
+                <vous>voyiez</vous>
+                <ils>voyaient</ils>
+            </imperfect>
+            <future>
+                <je>verrai</je>
+                <tu>verras</tu>
+                <il>verra</il>
+                <nous>verrons</nous>
+                <vous>verrez</vous>
+                <ils>verront</ils>
+            </future>
+            <subjunctive>
+                <je>voie</je>
+                <tu>voies</tu>
+                <il>voie</il>
+                <nous>voyions</nous>
+                <vous>voyiez</vous>
+                <ils>voient</ils>
+            </subjunctive>
+            <conditional>
+                <je>verrais</je>
+                <tu>verrais</tu>
+                <il>verrait</il>
+                <nous>verrions</nous>
+                <vous>verriez</vous>
+                <ils>verraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

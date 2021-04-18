@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>lutter</infinitive>
+	<translation>to struggle</translation>
+	<translation>wrestle</translation>
+	<presentParticiple>luttant</presentParticiple>
+	<pastParticiple>lutté</pastParticiple>
+	<present>
+		<je>lutte</je>
+		<tu>luttes</tu>
+		<il>lutte</il>
+		<nous>luttons</nous>
+		<vous>luttez</vous>
+		<ils>luttent</ils>
+	</present>
+	<imperative>
+		<tu>lutte</tu>
+		<nous>luttons</nous>
+		<vous>luttez</vous>
+	</imperative>
+	<imperfect>
+		<je>luttais</je>
+		<tu>luttais</tu>
+		<il>luttait</il>
+		<nous>luttions</nous>
+		<vous>luttiez</vous>
+		<ils>luttaient</ils>
+	</imperfect>
+	<future>
+		<je>lutterai</je>
+		<tu>lutteras</tu>
+		<il>luttera</il>
+		<nous>lutterons</nous>
+		<vous>lutterez</vous>
+		<ils>lutteront</ils>
+	</future>
+	<subjunctive>
+		<je>lutte</je>
+		<tu>luttes</tu>
+		<il>lutte</il>
+		<nous>luttions</nous>
+		<vous>luttiez</vous>
+		<ils>luttent</ils>
+	</subjunctive>
+	<conditional>
+		<je>lutterais</je>
+		<tu>lutterais</tu>
+		<il>lutterait</il>
+		<nous>lutterions</nous>
+		<vous>lutteriez</vous>
+		<ils>lutteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

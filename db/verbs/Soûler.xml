@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>soûler</infinitive>
+	<translation>(informal) To make drunk</translation>
+	<translation>to tire</translation>
+	<presentParticiple>soûlant</presentParticiple>
+	<pastParticiple>soûlé</pastParticiple>
+	<present>
+		<je>soûle</je>
+		<tu>soûles</tu>
+		<il>soûle</il>
+		<nous>soûlons</nous>
+		<vous>soûlez</vous>
+		<ils>soûlent</ils>
+	</present>
+	<imperative>
+		<tu>soûle</tu>
+		<nous>soûlons</nous>
+		<vous>soûlez</vous>
+	</imperative>
+	<imperfect>
+		<je>soûlais</je>
+		<tu>soûlais</tu>
+		<il>soûlait</il>
+		<nous>soûlions</nous>
+		<vous>soûliez</vous>
+		<ils>soûlaient</ils>
+	</imperfect>
+	<future>
+		<je>soûlerai</je>
+		<tu>soûleras</tu>
+		<il>soûlera</il>
+		<nous>soûlerons</nous>
+		<vous>soûlerez</vous>
+		<ils>soûleront</ils>
+	</future>
+	<subjunctive>
+		<je>soûle</je>
+		<tu>soûles</tu>
+		<il>soûle</il>
+		<nous>soûlions</nous>
+		<vous>soûliez</vous>
+		<ils>soûlent</ils>
+	</subjunctive>
+	<conditional>
+		<je>soûlerais</je>
+		<tu>soûlerais</tu>
+		<il>soûlerait</il>
+		<nous>soûlerions</nous>
+		<vous>soûleriez</vous>
+		<ils>soûleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

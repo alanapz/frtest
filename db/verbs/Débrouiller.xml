@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>débrouiller</infinitive>
+            <presentParticiple>débrouillant</presentParticiple>
+            <pastParticiple>débrouillé</pastParticiple>
+            <pronominal>
+                <translation>to get by</translation>
+            </pronominal>
+            <present>
+                <je>débrouille</je>
+                <tu>débrouilles</tu>
+                <il>débrouille</il>
+                <nous>débrouillons</nous>
+                <vous>débrouillez</vous>
+                <ils>débrouillent</ils>
+            </present>
+            <imperative>
+                <tu>débrouille</tu>
+                <nous>débrouillons</nous>
+                <vous>débrouillez</vous>
+            </imperative>
+            <imperfect>
+                <je>débrouillais</je>
+                <tu>débrouillais</tu>
+                <il>débrouillait</il>
+                <nous>débrouillions</nous>
+                <vous>débrouilliez</vous>
+                <ils>débrouillaient</ils>
+            </imperfect>
+            <future>
+                <je>débrouillerai</je>
+                <tu>débrouilleras</tu>
+                <il>débrouillera</il>
+                <nous>débrouillerons</nous>
+                <vous>débrouillerez</vous>
+                <ils>débrouilleront</ils>
+            </future>
+            <subjunctive>
+                <je>débrouille</je>
+                <tu>débrouilles</tu>
+                <il>débrouille</il>
+                <nous>débrouillions</nous>
+                <vous>débrouilliez</vous>
+                <ils>débrouillent</ils>
+            </subjunctive>
+            <conditional>
+                <je>débrouillerais</je>
+                <tu>débrouillerais</tu>
+                <il>débrouillerait</il>
+                <nous>débrouillerions</nous>
+                <vous>débrouilleriez</vous>
+                <ils>débrouilleraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

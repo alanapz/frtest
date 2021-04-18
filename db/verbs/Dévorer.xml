@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dévorer</infinitive>
+	<translation>to devour</translation>
+	<presentParticiple>dévorant</presentParticiple>
+	<pastParticiple>dévoré</pastParticiple>
+	<present>
+		<je>dévore</je>
+		<tu>dévores</tu>
+		<il>dévore</il>
+		<nous>dévorons</nous>
+		<vous>dévorez</vous>
+		<ils>dévorent</ils>
+	</present>
+	<imperative>
+		<tu>dévore</tu>
+		<nous>dévorons</nous>
+		<vous>dévorez</vous>
+	</imperative>
+	<imperfect>
+		<je>dévorais</je>
+		<tu>dévorais</tu>
+		<il>dévorait</il>
+		<nous>dévorions</nous>
+		<vous>dévoriez</vous>
+		<ils>dévoraient</ils>
+	</imperfect>
+	<future>
+		<je>dévorerai</je>
+		<tu>dévoreras</tu>
+		<il>dévorera</il>
+		<nous>dévorerons</nous>
+		<vous>dévorerez</vous>
+		<ils>dévoreront</ils>
+	</future>
+	<subjunctive>
+		<je>dévore</je>
+		<tu>dévores</tu>
+		<il>dévore</il>
+		<nous>dévorions</nous>
+		<vous>dévoriez</vous>
+		<ils>dévorent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dévorerais</je>
+		<tu>dévorerais</tu>
+		<il>dévorerait</il>
+		<nous>dévorerions</nous>
+		<vous>dévoreriez</vous>
+		<ils>dévoreraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

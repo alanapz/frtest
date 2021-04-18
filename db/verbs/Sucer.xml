@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>sucer</infinitive>
+	<translation>to suck</translation>
+	<spellingChange />
+	<presentParticiple>suçant</presentParticiple>
+	<pastParticiple>sucé</pastParticiple>
+	<present>
+		<je>suce</je>
+		<tu>suces</tu>
+		<il>suce</il>
+		<nous>suçons</nous>
+		<vous>sucez</vous>
+		<ils>sucent</ils>
+	</present>
+	<imperative>
+		<tu>suce</tu>
+		<nous>suçons</nous>
+		<vous>sucez</vous>
+	</imperative>
+	<imperfect>
+		<je>suçais</je>
+		<tu>suçais</tu>
+		<il>suçait</il>
+		<nous>sucions</nous>
+		<vous>suciez</vous>
+		<ils>suçaient</ils>
+	</imperfect>
+	<future>
+		<je>sucerai</je>
+		<tu>suceras</tu>
+		<il>sucera</il>
+		<nous>sucerons</nous>
+		<vous>sucerez</vous>
+		<ils>suceront</ils>
+	</future>
+	<subjunctive>
+		<je>suce</je>
+		<tu>suces</tu>
+		<il>suce</il>
+		<nous>sucions</nous>
+		<vous>suciez</vous>
+		<ils>sucent</ils>
+	</subjunctive>
+	<conditional>
+		<je>sucerais</je>
+		<tu>sucerais</tu>
+		<il>sucerait</il>
+		<nous>sucerions</nous>
+		<vous>suceriez</vous>
+		<ils>suceraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>peindre</infinitive>
+	<translation>to paint</translation>
+	<irregular />
+	<presentParticiple>peignant</presentParticiple>
+	<pastParticiple>peint</pastParticiple>
+	<present>
+		<je>peins</je>
+		<tu>peins</tu>
+		<il>peint</il>
+		<nous>peignons</nous>
+		<vous>peignez</vous>
+		<ils>peignent</ils>
+	</present>
+	<imperative>
+		<tu>peins</tu>
+		<nous>peignons</nous>
+		<vous>peignez</vous>
+	</imperative>
+	<imperfect>
+		<je>peignais</je>
+		<tu>peignais</tu>
+		<il>peignait</il>
+		<nous>peignions</nous>
+		<vous>peigniez</vous>
+		<ils>peignaient</ils>
+	</imperfect>
+	<future>
+		<je>peindrai</je>
+		<tu>peindras</tu>
+		<il>peindra</il>
+		<nous>peindrons</nous>
+		<vous>peindrez</vous>
+		<ils>peindront</ils>
+	</future>
+	<subjunctive>
+		<je>peigne</je>
+		<tu>peignes</tu>
+		<il>peigne</il>
+		<nous>peignions</nous>
+		<vous>peigniez</vous>
+		<ils>peignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>peindrais</je>
+		<tu>peindrais</tu>
+		<il>peindrait</il>
+		<nous>peindrions</nous>
+		<vous>peindriez</vous>
+		<ils>peindraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

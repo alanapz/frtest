@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>éconduire</infinitive>
+	<translation>to dismiss</translation>
+	<irregular />
+	<presentParticiple>éconduisant</presentParticiple>
+	<pastParticiple>éconduit</pastParticiple>
+	<present>
+		<je>éconduis</je>
+		<tu>éconduis</tu>
+		<il>éconduit</il>
+		<nous>éconduisons</nous>
+		<vous>éconduisez</vous>
+		<ils>éconduisent</ils>
+	</present>
+	<imperative>
+		<tu>éconduis</tu>
+		<nous>éconduisons</nous>
+		<vous>éconduisez</vous>
+	</imperative>
+	<imperfect>
+		<je>éconduisais</je>
+		<tu>éconduisais</tu>
+		<il>éconduisait</il>
+		<nous>éconduisions</nous>
+		<vous>éconduisiez</vous>
+		<ils>éconduisaient</ils>
+	</imperfect>
+	<future>
+		<je>éconduirai</je>
+		<tu>éconduiras</tu>
+		<il>éconduira</il>
+		<nous>éconduirons</nous>
+		<vous>éconduirez</vous>
+		<ils>éconduiront</ils>
+	</future>
+	<subjunctive>
+		<je>éconduise</je>
+		<tu>éconduises</tu>
+		<il>éconduise</il>
+		<nous>éconduisions</nous>
+		<vous>éconduisiez</vous>
+		<ils>éconduisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>éconduirais</je>
+		<tu>éconduirais</tu>
+		<il>éconduirait</il>
+		<nous>éconduirions</nous>
+		<vous>éconduiriez</vous>
+		<ils>éconduiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

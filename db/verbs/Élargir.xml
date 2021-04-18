@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>élargir</infinitive>
+	<translation>to widen</translation>
+	<translation>strech</translation>
+	<presentParticiple>élargissant</presentParticiple>
+	<pastParticiple>élargi</pastParticiple>
+	<present>
+		<je>élargis</je>
+		<tu>élargis</tu>
+		<il>élargit</il>
+		<nous>élargissons</nous>
+		<vous>élargissez</vous>
+		<ils>élargissent</ils>
+	</present>
+	<imperative>
+		<tu>élargis</tu>
+		<nous>élargissons</nous>
+		<vous>élargissez</vous>
+	</imperative>
+	<imperfect>
+		<je>élargissais</je>
+		<tu>élargissais</tu>
+		<il>élargissait</il>
+		<nous>élargissions</nous>
+		<vous>élargissiez</vous>
+		<ils>élargissaient</ils>
+	</imperfect>
+	<future>
+		<je>élargirai</je>
+		<tu>élargiras</tu>
+		<il>élargira</il>
+		<nous>élargirons</nous>
+		<vous>élargirez</vous>
+		<ils>élargiront</ils>
+	</future>
+	<subjunctive>
+		<je>élargisse</je>
+		<tu>élargisses</tu>
+		<il>élargisse</il>
+		<nous>élargissions</nous>
+		<vous>élargissiez</vous>
+		<ils>élargissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>élargirais</je>
+		<tu>élargirais</tu>
+		<il>élargirait</il>
+		<nous>élargirions</nous>
+		<vous>élargiriez</vous>
+		<ils>élargiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

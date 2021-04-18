@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>ronfler</infinitive>
+            <translation>to snore</translation>
+            <translation>to roar</translation>
+            <presentParticiple>ronflant</presentParticiple>
+            <pastParticiple>ronflé</pastParticiple>
+            <present>
+                <je>ronfle</je>
+                <tu>ronfles</tu>
+                <il>ronfle</il>
+                <nous>ronflons</nous>
+                <vous>ronflez</vous>
+                <ils>ronflent</ils>
+            </present>
+            <imperative>
+                <tu>ronfle</tu>
+                <nous>ronflons</nous>
+                <vous>ronflez</vous>
+            </imperative>
+            <imperfect>
+                <je>ronflais</je>
+                <tu>ronflais</tu>
+                <il>ronflait</il>
+                <nous>ronflions</nous>
+                <vous>ronfliez</vous>
+                <ils>ronflaient</ils>
+            </imperfect>
+            <future>
+                <je>ronflerai</je>
+                <tu>ronfleras</tu>
+                <il>ronflera</il>
+                <nous>ronflerons</nous>
+                <vous>ronflerez</vous>
+                <ils>ronfleront</ils>
+            </future>
+            <subjunctive>
+                <je>ronfle</je>
+                <tu>ronfles</tu>
+                <il>ronfle</il>
+                <nous>ronflions</nous>
+                <vous>ronfliez</vous>
+                <ils>ronflent</ils>
+            </subjunctive>
+            <conditional>
+                <je>ronflerais</je>
+                <tu>ronflerais</tu>
+                <il>ronflerait</il>
+                <nous>ronflerions</nous>
+                <vous>ronfleriez</vous>
+                <ils>ronfleraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

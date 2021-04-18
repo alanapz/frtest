@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>applaudir</infinitive>
+	<translation>to applaud</translation>
+	<translation>clap</translation>
+	<presentParticiple>applaudissant</presentParticiple>
+	<pastParticiple>applaudi</pastParticiple>
+	<present>
+		<je>applaudis</je>
+		<tu>applaudis</tu>
+		<il>applaudit</il>
+		<nous>applaudissons</nous>
+		<vous>applaudissez</vous>
+		<ils>applaudissent</ils>
+	</present>
+	<imperative>
+		<tu>applaudis</tu>
+		<nous>applaudissons</nous>
+		<vous>applaudissez</vous>
+	</imperative>
+	<imperfect>
+		<je>applaudissais</je>
+		<tu>applaudissais</tu>
+		<il>applaudissait</il>
+		<nous>applaudissions</nous>
+		<vous>applaudissiez</vous>
+		<ils>applaudissaient</ils>
+	</imperfect>
+	<future>
+		<je>applaudirai</je>
+		<tu>applaudiras</tu>
+		<il>applaudira</il>
+		<nous>applaudirons</nous>
+		<vous>applaudirez</vous>
+		<ils>applaudiront</ils>
+	</future>
+	<subjunctive>
+		<je>applaudisse</je>
+		<tu>applaudisses</tu>
+		<il>applaudisse</il>
+		<nous>applaudissions</nous>
+		<vous>applaudissiez</vous>
+		<ils>applaudissent</ils>
+	</subjunctive>
+	<conditional>
+		<je>applaudirais</je>
+		<tu>applaudirais</tu>
+		<il>applaudirait</il>
+		<nous>applaudirions</nous>
+		<vous>applaudiriez</vous>
+		<ils>applaudiraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

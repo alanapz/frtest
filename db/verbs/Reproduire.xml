@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>reproduire</infinitive>
+            <translation>to reproduce</translation>
+            <irregular />
+            <presentParticiple>reproduisant</presentParticiple>
+            <pastParticiple>reproduit</pastParticiple>
+            <present>
+                <je>reproduis</je>
+                <tu>reproduis</tu>
+                <il>reproduit</il>
+                <nous>reproduisons</nous>
+                <vous>reproduisez</vous>
+                <ils>reproduisent</ils>
+            </present>
+            <imperative>
+                <tu>reproduis</tu>
+                <nous>reproduisons</nous>
+                <vous>reproduisez</vous>
+            </imperative>
+            <imperfect>
+                <je>reproduisais</je>
+                <tu>reproduisais</tu>
+                <il>reproduisait</il>
+                <nous>reproduisions</nous>
+                <vous>reproduisiez</vous>
+                <ils>reproduisaient</ils>
+            </imperfect>
+            <future>
+                <je>reproduirai</je>
+                <tu>reproduiras</tu>
+                <il>reproduira</il>
+                <nous>reproduirons</nous>
+                <vous>reproduirez</vous>
+                <ils>reproduiront</ils>
+            </future>
+            <subjunctive>
+                <je>reproduise</je>
+                <tu>reproduises</tu>
+                <il>reproduise</il>
+                <nous>reproduisions</nous>
+                <vous>reproduisiez</vous>
+                <ils>reproduisent</ils>
+            </subjunctive>
+            <conditional>
+                <je>reproduirais</je>
+                <tu>reproduirais</tu>
+                <il>reproduirait</il>
+                <nous>reproduirions</nous>
+                <vous>reproduiriez</vous>
+                <ils>reproduiraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

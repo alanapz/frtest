@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>dépeindre</infinitive>
+	<translation>to depict</translation>
+	<irregular />
+	<presentParticiple>dépeignant</presentParticiple>
+	<pastParticiple>dépeint</pastParticiple>
+	<present>
+		<je>dépeins</je>
+		<tu>dépeins</tu>
+		<il>dépeint</il>
+		<nous>dépeignons</nous>
+		<vous>dépeignez</vous>
+		<ils>dépeignent</ils>
+	</present>
+	<imperative>
+		<tu>dépeins</tu>
+		<nous>dépeignons</nous>
+		<vous>dépeignez</vous>
+	</imperative>
+	<imperfect>
+		<je>dépeignais</je>
+		<tu>dépeignais</tu>
+		<il>dépeignait</il>
+		<nous>dépeignions</nous>
+		<vous>dépeigniez</vous>
+		<ils>dépeignaient</ils>
+	</imperfect>
+	<future>
+		<je>dépeindrai</je>
+		<tu>dépeindras</tu>
+		<il>dépeindra</il>
+		<nous>dépeindrons</nous>
+		<vous>dépeindrez</vous>
+		<ils>dépeindront</ils>
+	</future>
+	<subjunctive>
+		<je>dépeigne</je>
+		<tu>dépeignes</tu>
+		<il>dépeigne</il>
+		<nous>dépeignions</nous>
+		<vous>dépeigniez</vous>
+		<ils>dépeignent</ils>
+	</subjunctive>
+	<conditional>
+		<je>dépeindrais</je>
+		<tu>dépeindrais</tu>
+		<il>dépeindrait</il>
+		<nous>dépeindrions</nous>
+		<vous>dépeindriez</vous>
+		<ils>dépeindraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>prêter</infinitive>
+	<translation>to loan</translation>
+	<presentParticiple>prêtant</presentParticiple>
+	<pastParticiple>prêté</pastParticiple>
+	<present>
+		<je>prête</je>
+		<tu>prêtes</tu>
+		<il>prête</il>
+		<nous>prêtons</nous>
+		<vous>prêtez</vous>
+		<ils>prêtent</ils>
+	</present>
+	<imperative>
+		<tu>prête</tu>
+		<nous>prêtons</nous>
+		<vous>prêtez</vous>
+	</imperative>
+	<imperfect>
+		<je>prêtais</je>
+		<tu>prêtais</tu>
+		<il>prêtait</il>
+		<nous>prêtions</nous>
+		<vous>prêtiez</vous>
+		<ils>prêtaient</ils>
+	</imperfect>
+	<future>
+		<je>prêterai</je>
+		<tu>prêteras</tu>
+		<il>prêtera</il>
+		<nous>prêterons</nous>
+		<vous>prêterez</vous>
+		<ils>prêteront</ils>
+	</future>
+	<subjunctive>
+		<je>prête</je>
+		<tu>prêtes</tu>
+		<il>prête</il>
+		<nous>prêtions</nous>
+		<vous>prêtiez</vous>
+		<ils>prêtent</ils>
+	</subjunctive>
+	<conditional>
+		<je>prêterais</je>
+		<tu>prêterais</tu>
+		<il>prêterait</il>
+		<nous>prêterions</nous>
+		<vous>prêteriez</vous>
+		<ils>prêteraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>mépriser</infinitive>
+	<translation>to scorn</translation>
+	<translation>despise</translation>
+	<presentParticiple>méprisant</presentParticiple>
+	<pastParticiple>méprisé</pastParticiple>
+	<present>
+		<je>méprise</je>
+		<tu>méprises</tu>
+		<il>méprise</il>
+		<nous>méprisons</nous>
+		<vous>méprisez</vous>
+		<ils>méprisent</ils>
+	</present>
+	<imperative>
+		<tu>méprise</tu>
+		<nous>méprisons</nous>
+		<vous>méprisez</vous>
+	</imperative>
+	<imperfect>
+		<je>méprisais</je>
+		<tu>méprisais</tu>
+		<il>méprisait</il>
+		<nous>méprisions</nous>
+		<vous>méprisiez</vous>
+		<ils>méprisaient</ils>
+	</imperfect>
+	<future>
+		<je>mépriserai</je>
+		<tu>mépriseras</tu>
+		<il>méprisera</il>
+		<nous>mépriserons</nous>
+		<vous>mépriserez</vous>
+		<ils>mépriseront</ils>
+	</future>
+	<subjunctive>
+		<je>méprise</je>
+		<tu>méprises</tu>
+		<il>méprise</il>
+		<nous>méprisions</nous>
+		<vous>méprisiez</vous>
+		<ils>méprisent</ils>
+	</subjunctive>
+	<conditional>
+		<je>mépriserais</je>
+		<tu>mépriserais</tu>
+		<il>mépriserait</il>
+		<nous>mépriserions</nous>
+		<vous>mépriseriez</vous>
+		<ils>mépriseraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

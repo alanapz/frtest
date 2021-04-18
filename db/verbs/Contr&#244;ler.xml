@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>contr&#244;ler</infinitive>
+	<translation>to control</translation>
+	<presentParticiple>contr&#244;lant</presentParticiple>
+	<pastParticiple>contr&#244;lé</pastParticiple>
+	<present>
+		<je>contr&#244;le</je>
+		<tu>contr&#244;les</tu>
+		<il>contr&#244;le</il>
+		<nous>contr&#244;lons</nous>
+		<vous>contr&#244;lez</vous>
+		<ils>contr&#244;lent</ils>
+	</present>
+	<imperative>
+		<tu>contr&#244;le</tu>
+		<nous>contr&#244;lons</nous>
+		<vous>contr&#244;lez</vous>
+	</imperative>
+	<imperfect>
+		<je>contr&#244;lais</je>
+		<tu>contr&#244;lais</tu>
+		<il>contr&#244;lait</il>
+		<nous>contr&#244;lions</nous>
+		<vous>contr&#244;liez</vous>
+		<ils>contr&#244;laient</ils>
+	</imperfect>
+	<future>
+		<je>contr&#244;lerai</je>
+		<tu>contr&#244;leras</tu>
+		<il>contr&#244;lera</il>
+		<nous>contr&#244;lerons</nous>
+		<vous>contr&#244;lerez</vous>
+		<ils>contr&#244;leront</ils>
+	</future>
+	<subjunctive>
+		<je>contr&#244;le</je>
+		<tu>contr&#244;les</tu>
+		<il>contr&#244;le</il>
+		<nous>contr&#244;lions</nous>
+		<vous>contr&#244;liez</vous>
+		<ils>contr&#244;lent</ils>
+	</subjunctive>
+	<conditional>
+		<je>contr&#244;lerais</je>
+		<tu>contr&#244;lerais</tu>
+		<il>contr&#244;lerait</il>
+		<nous>contr&#244;lerions</nous>
+		<vous>contr&#244;leriez</vous>
+		<ils>contr&#244;leraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

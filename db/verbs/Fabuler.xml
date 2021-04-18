@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>fabuler</infinitive>
+	<translation>to make up stories</translation>
+	<presentParticiple>fabulant</presentParticiple>
+	<pastParticiple>fabulé</pastParticiple>
+	<present>
+		<je>fabule</je>
+		<tu>fabules</tu>
+		<il>fabule</il>
+		<nous>fabulons</nous>
+		<vous>fabulez</vous>
+		<ils>fabulent</ils>
+	</present>
+	<imperative>
+		<tu>fabule</tu>
+		<nous>fabulons</nous>
+		<vous>fabulez</vous>
+	</imperative>
+	<imperfect>
+		<je>fabulais</je>
+		<tu>fabulais</tu>
+		<il>fabulait</il>
+		<nous>fabulions</nous>
+		<vous>fabuliez</vous>
+		<ils>fabulaient</ils>
+	</imperfect>
+	<future>
+		<je>fabulerai</je>
+		<tu>fabuleras</tu>
+		<il>fabulera</il>
+		<nous>fabulerons</nous>
+		<vous>fabulerez</vous>
+		<ils>fabuleront</ils>
+	</future>
+	<subjunctive>
+		<je>fabule</je>
+		<tu>fabules</tu>
+		<il>fabule</il>
+		<nous>fabulions</nous>
+		<vous>fabuliez</vous>
+		<ils>fabulent</ils>
+	</subjunctive>
+	<conditional>
+		<je>fabulerais</je>
+		<tu>fabulerais</tu>
+		<il>fabulerait</il>
+		<nous>fabulerions</nous>
+		<vous>fabuleriez</vous>
+		<ils>fabuleraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>

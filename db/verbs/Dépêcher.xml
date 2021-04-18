@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>dépêcher</infinitive>
+            <presentParticiple>dépêchant</presentParticiple>
+            <pastParticiple>dépêché</pastParticiple>
+            <pronominal>
+                <translation>to hurry</translation>
+            </pronominal>
+            <present>
+                <je>dépêche</je>
+                <tu>dépêches</tu>
+                <il>dépêche</il>
+                <nous>dépêchons</nous>
+                <vous>dépêchez</vous>
+                <ils>dépêchent</ils>
+            </present>
+            <imperative>
+                <tu>dépêche</tu>
+                <nous>dépêchons</nous>
+                <vous>dépêchez</vous>
+            </imperative>
+            <imperfect>
+                <je>dépêchais</je>
+                <tu>dépêchais</tu>
+                <il>dépêchait</il>
+                <nous>dépêchions</nous>
+                <vous>dépêchiez</vous>
+                <ils>dépêchaient</ils>
+            </imperfect>
+            <future>
+                <je>dépêcherai</je>
+                <tu>dépêcheras</tu>
+                <il>dépêchera</il>
+                <nous>dépêcherons</nous>
+                <vous>dépêcherez</vous>
+                <ils>dépêcheront</ils>
+            </future>
+            <subjunctive>
+                <je>dépêche</je>
+                <tu>dépêches</tu>
+                <il>dépêche</il>
+                <nous>dépêchions</nous>
+                <vous>dépêchiez</vous>
+                <ils>dépêchent</ils>
+            </subjunctive>
+            <conditional>
+                <je>dépêcherais</je>
+                <tu>dépêcherais</tu>
+                <il>dépêcherait</il>
+                <nous>dépêcherions</nous>
+                <vous>dépêcheriez</vous>
+                <ils>dépêcheraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

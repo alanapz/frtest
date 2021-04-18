@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+    <verbs>
+        <verb>
+            <infinitive>enlever</infinitive>
+            <translation>to remove</translation>
+            <stemChange />
+            <presentParticiple>enlevant</presentParticiple>
+            <pastParticiple>enlevé</pastParticiple>
+            <present>
+                <je>enlève</je>
+                <tu>enlèves</tu>
+                <il>enlève</il>
+                <nous>enlevons</nous>
+                <vous>enlevez</vous>
+                <ils>enlèvent</ils>
+            </present>
+            <imperative>
+                <tu>enlève</tu>
+                <nous>enlevons</nous>
+                <vous>enlevez</vous>
+            </imperative>
+            <imperfect>
+                <je>enlevais</je>
+                <tu>enlevais</tu>
+                <il>enlevait</il>
+                <nous>enlevions</nous>
+                <vous>enleviez</vous>
+                <ils>enlevaient</ils>
+            </imperfect>
+            <future>
+                <je>enlèverai</je>
+                <tu>enlèveras</tu>
+                <il>enlèvera</il>
+                <nous>enlèverons</nous>
+                <vous>enlèverez</vous>
+                <ils>enlèveront</ils>
+            </future>
+            <subjunctive>
+                <je>enlève</je>
+                <tu>enlèves</tu>
+                <il>enlève</il>
+                <nous>enlevions</nous>
+                <vous>enleviez</vous>
+                <ils>enlèvent</ils>
+            </subjunctive>
+            <conditional>
+                <je>enlèverais</je>
+                <tu>enlèverais</tu>
+                <il>enlèverait</il>
+                <nous>enlèverions</nous>
+                <vous>enlèveriez</vous>
+                <ils>enlèveraient</ils>
+            </conditional>
+        </verb>
+    </verbs>
+</dictionary>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "verbs.dtd">
+<dictionary>
+<verbs>
+<verb>
+	<infinitive>distinguer</infinitive>
+	<translation>to distinguish</translation>
+	<presentParticiple>distinguant</presentParticiple>
+	<pastParticiple>distingué</pastParticiple>
+	<present>
+		<je>distingue</je>
+		<tu>distingues</tu>
+		<il>distingue</il>
+		<nous>distinguons</nous>
+		<vous>distinguez</vous>
+		<ils>distinguent</ils>
+	</present>
+	<imperative>
+		<tu>distingue</tu>
+		<nous>distinguons</nous>
+		<vous>distinguez</vous>
+	</imperative>
+	<imperfect>
+		<je>distinguais</je>
+		<tu>distinguais</tu>
+		<il>distinguait</il>
+		<nous>distinguions</nous>
+		<vous>distinguiez</vous>
+		<ils>distinguaient</ils>
+	</imperfect>
+	<future>
+		<je>distinguerai</je>
+		<tu>distingueras</tu>
+		<il>distinguera</il>
+		<nous>distinguerons</nous>
+		<vous>distinguerez</vous>
+		<ils>distingueront</ils>
+	</future>
+	<subjunctive>
+		<je>distingue</je>
+		<tu>distingues</tu>
+		<il>distingue</il>
+		<nous>distinguions</nous>
+		<vous>distinguiez</vous>
+		<ils>distinguent</ils>
+	</subjunctive>
+	<conditional>
+		<je>distinguerais</je>
+		<tu>distinguerais</tu>
+		<il>distinguerait</il>
+		<nous>distinguerions</nous>
+		<vous>distingueriez</vous>
+		<ils>distingueraient</ils>
+	</conditional>
+</verb>
+</verbs>
+</dictionary>
